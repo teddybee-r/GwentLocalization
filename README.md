@@ -1,5 +1,5 @@
 # Gwent Localization
-Translation files for **Gwent: The Witcher Card Game** projects.  
+Translation files for [Gwent: The Witcher Card Game](https://www.playgwent.com/ "playgwent.com") projects.  
 Helpful resource to localize your community project.
 
 ## Master
