@@ -1,8 +1,13 @@
 # Gwent Localization
 
-As long as I remember I will keep uploading the localization files used by Gwent The Witcher Card Game
+## Master
+The master branch will offer basic translations as json format.  
+I use these in my own project (gwent.one)
 
-The main goal is to offer translation lookups for your Gwent projects.
+## Branch
+The raw extracted game files are available in sub branches.
 
+## Get them yourself
 This data is located in the Gwent installation folder  
-`\Gwent\Gwent_Data\StreamingAssets\localization`
+`\Gwent\Gwent_Data\StreamingAssets\localization`  
+You can extract these using the common tools for Unity assets
