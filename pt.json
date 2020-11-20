@@ -1,0 +1,58 @@
+{
+    "card": {
+        "name": "Nome",
+        "power": "Poder",
+        "armor": "Armadura",
+        "provision": "Provisão",
+        "category": "Categoria",
+        "ability": "Habilidade",
+        "token": "Ficha",
+        "color": "Cor",
+        "colors": {
+            "bronze": "Bronze",
+            "gold": "Ouro"
+        },
+        "faction": "Facção",
+        "factions": {
+            "neutral": "Neutras",
+            "monster": "Monstros",
+            "nilfgaard": "Nilfgaard",
+            "northern realms": "Reinos do Norte",
+            "skellige": "Skellige",
+            "scoiatael": "Scoia'tael",
+            "syndicate": "Sindicato"
+        },
+        "type": "Tipo de carta",
+        "types": {
+            "leader": "Líder",
+            "unit": "Unidade",
+            "special": "Especial",
+            "artifact": "Artefato",
+            "stratagem": "Estratégia"
+        },
+        "rarity": "Raridade",
+        "rarities": {
+            "common": "Comum",
+            "rare": "Raro",
+            "epic": "Épico",
+            "legendary": "Lendário"
+        },
+        "set": "Conjunto de cartas",
+        "sets": {
+            "non ownable": "Ficha",
+            "starter": "Conjunto inicial",
+            "base": "Conjunto básico",
+            "thronebreaker": "Thronebreaker",
+            "crimson curse": "Crimson Curse",
+            "novigrad": "Novigrad",
+            "iron judgment": "Iron Judgment",
+            "merchants of ofir": "Merchants of Ofir",
+            "master mirror": "Master Mirror",
+            "way of the witcher": "Way of the Witcher"
+        },
+        "reach": "Alcance:",
+        "premium": "Premium",
+        "game version": "Versão do jogo",
+        "illustration by": "Ilustração por:"
+    }
+}

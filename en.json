@@ -1,0 +1,58 @@
+{
+    "card": {
+        "name": "Name",
+        "power": "Power",
+        "armor": "Armor",
+        "provision": "Provision",
+        "category": "Category",
+        "ability": "Ability",
+        "token": "Token",
+        "color": "Color",
+        "colors": {
+            "bronze": "Bronze",
+            "gold": "Gold"
+        },
+        "faction": "Faction",
+        "factions": {
+            "neutral": "Neutral",
+            "monster": "Monsters",
+            "nilfgaard": "Nilfgaard",
+            "northern realms": "Northern Realms",
+            "skellige": "Skellige",
+            "scoiatael": "Scoia'tael",
+            "syndicate": "Syndicate"
+        },
+        "type": "Card Type",
+        "types": {
+            "leader": "Leader",
+            "unit": "Unit",
+            "special": "Special",
+            "artifact": "Artifact",
+            "stratagem": "Stratagem"
+        },
+        "rarity": "Rarity",
+        "rarities": {
+            "common": "Common",
+            "rare": "Rare",
+            "epic": "Epic",
+            "legendary": "Legendary"
+        },
+        "set": "Card Set",
+        "sets": {
+            "non ownable": "Token",
+            "starter": "Starter Set",
+            "base": "Base Set",
+            "thronebreaker": "Thronebreaker",
+            "crimson curse": "Crimson Curse",
+            "novigrad": "Novigrad",
+            "iron judgment": "Iron Judgment",
+            "merchants of ofir": "Merchants of Ofir",
+            "master mirror": "Master Mirror",
+            "way of the witcher": "Way of the Witcher"
+        },
+        "reach": "Reach:",
+        "premium": "Premium",
+        "game version": "Game version",
+        "illustration by": "Illustration by:"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "card": {
+        "name": "Nome",
+        "power": "Forza",
+        "armor": "Armatura",
+        "provision": "Reclutamento",
+        "category": "Categoria",
+        "ability": "Capacità",
+        "token": "Pedina",
+        "color": "Colore",
+        "colors": {
+            "bronze": "Bronzo",
+            "gold": "Oro"
+        },
+        "faction": "Fazione",
+        "factions": {
+            "neutral": "Neutrale",
+            "monster": "Mostri",
+            "nilfgaard": "Nilfgaard",
+            "northern realms": "Regni Settentrionali",
+            "skellige": "Skellige",
+            "scoiatael": "Scoia'tael",
+            "syndicate": "Sindacato"
+        },
+        "type": "Tipo di carta",
+        "types": {
+            "leader": "Comandante",
+            "unit": "Unità",
+            "special": "Speciale",
+            "artifact": "Manufatto",
+            "stratagem": "Stratagemma"
+        },
+        "rarity": "Rarità",
+        "rarities": {
+            "common": "Comune",
+            "rare": "Rara",
+            "epic": "Epica",
+            "legendary": "Leggendaria"
+        },
+        "set": "Set di carte",
+        "sets": {
+            "non ownable": "Pedina",
+            "starter": "Set iniziale",
+            "base": "Set di base",
+            "thronebreaker": "Thronebreaker",
+            "crimson curse": "Crimson Curse",
+            "novigrad": "Novigrad",
+            "iron judgment": "Iron Judgment",
+            "merchants of ofir": "Merchants of Ofir",
+            "master mirror": "Master Mirror",
+            "way of the witcher": "Way of the Witcher"
+        },
+        "reach": "Portata:",
+        "premium": "Premium",
+        "game version": "Versione del gioco",
+        "illustration by": "Illustrazione di:"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "card": {
+        "name": "名称",
+        "power": "战力",
+        "armor": "护甲",
+        "provision": "Provision",
+        "category": "类别",
+        "ability": "能力",
+        "token": "衍生物",
+        "color": "颜色",
+        "colors": {
+            "bronze": "铜色牌",
+            "gold": "金色牌"
+        },
+        "faction": "阵营",
+        "factions": {
+            "neutral": "中立",
+            "monster": "怪兽",
+            "nilfgaard": "尼弗迦德",
+            "northern realms": "北方领域",
+            "skellige": "史凯利格",
+            "scoiatael": "松鼠党",
+            "syndicate": "辛迪加"
+        },
+        "type": "卡牌类别",
+        "types": {
+            "leader": "领袖牌",
+            "unit": "单位牌",
+            "special": "特殊牌",
+            "artifact": "神器牌",
+            "stratagem": "Stratagem"
+        },
+        "rarity": "稀有度",
+        "rarities": {
+            "common": "普通",
+            "rare": "稀有",
+            "epic": "史诗",
+            "legendary": "传奇"
+        },
+        "set": "卡牌套组",
+        "sets": {
+            "non ownable": "衍生物",
+            "starter": "起始牌组",
+            "base": "核心牌组",
+            "thronebreaker": "王权的陨落",
+            "crimson curse": "猩红诅咒",
+            "novigrad": "Novigrad",
+            "iron judgment": "Iron Judgment",
+            "merchants of ofir": "Merchants of Ofir",
+            "master mirror": "镜子大师",
+            "way of the witcher": "猎魔人之道"
+        },
+        "reach": "射程：",
+        "premium": "闪卡",
+        "game version": "游戏版本",
+        "illustration by": "插画作者："
+    }
+}

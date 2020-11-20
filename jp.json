@@ -1,0 +1,58 @@
+{
+    "card": {
+        "name": "名前",
+        "power": "戦力",
+        "armor": "アーマー",
+        "provision": "構築コスト",
+        "category": "カテゴリー",
+        "ability": "能力",
+        "token": "トークン",
+        "color": "枠色",
+        "colors": {
+            "bronze": "ブロンズ",
+            "gold": "ゴールド"
+        },
+        "faction": "勢力",
+        "factions": {
+            "neutral": "ニュートラル",
+            "monster": "モンスター",
+            "nilfgaard": "ニルフガード",
+            "northern realms": "北方諸国",
+            "skellige": "スケリッジ",
+            "scoiatael": "スコイア＝テル",
+            "syndicate": "シンジケート"
+        },
+        "type": "カードタイプ",
+        "types": {
+            "leader": "リーダー",
+            "unit": "ユニット",
+            "special": "スペシャル",
+            "artifact": "アーティファクト",
+            "stratagem": "ストラタジェム"
+        },
+        "rarity": "レア度",
+        "rarities": {
+            "common": "コモン",
+            "rare": "レア",
+            "epic": "エピック",
+            "legendary": "レジェンダリー"
+        },
+        "set": "カードセット",
+        "sets": {
+            "non ownable": "トークン",
+            "starter": "スターターセット",
+            "base": "基本セット",
+            "thronebreaker": "奪われし玉座",
+            "crimson curse": "紅き血の呪縛",
+            "novigrad": "ノヴィグラド",
+            "iron judgment": "鉄の裁定",
+            "merchants of ofir": "オフィルの商人",
+            "master mirror": "鏡の達人",
+            "way of the witcher": "ウィッチャーの流儀"
+        },
+        "reach": "射程：",
+        "premium": "プレミアム",
+        "game version": "ゲームバージョン",
+        "illustration by": "イラスト："
+    }
+}

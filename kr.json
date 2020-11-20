@@ -1,0 +1,58 @@
+{
+    "card": {
+        "name": "이름",
+        "power": "전력",
+        "armor": "방어구",
+        "provision": "유지비",
+        "category": "유형",
+        "ability": "능력",
+        "token": "토큰",
+        "color": "색상",
+        "colors": {
+            "bronze": "브론즈",
+            "gold": "골드"
+        },
+        "faction": "세력",
+        "factions": {
+            "neutral": "중립",
+            "monster": "괴물",
+            "nilfgaard": "닐프가드",
+            "northern realms": "북부 왕국",
+            "skellige": "스켈리게",
+            "scoiatael": "스코이아텔",
+            "syndicate": "신디케이트"
+        },
+        "type": "카드 종류",
+        "types": {
+            "leader": "리더",
+            "unit": "유닛",
+            "special": "특수",
+            "artifact": "인공물",
+            "stratagem": "책략"
+        },
+        "rarity": "희귀도순",
+        "rarities": {
+            "common": "일반",
+            "rare": "희귀",
+            "epic": "영웅",
+            "legendary": "전설"
+        },
+        "set": "카드 세트",
+        "sets": {
+            "non ownable": "토큰",
+            "starter": "스타터 세트",
+            "base": "기본 세트",
+            "thronebreaker": "쓰론브레이커",
+            "crimson curse": "핏빛 저주",
+            "novigrad": "노비그라드",
+            "iron judgment": "철의 심판",
+            "merchants of ofir": "오피에르의 상인들",
+            "master mirror": "마스터 미러",
+            "way of the witcher": "위쳐의 길"
+        },
+        "reach": "사정거리:",
+        "premium": "프리미엄",
+        "game version": "게임 버전",
+        "illustration by": "삽화:"
+    }
+}

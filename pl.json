@@ -1,0 +1,58 @@
+{
+    "card": {
+        "name": "Imię",
+        "power": "Siła",
+        "armor": "Pancerz",
+        "provision": "Koszt werbunku",
+        "category": "Kategoria",
+        "ability": "Umiejętność",
+        "token": "Sługa",
+        "color": "Filtr jakości kart",
+        "colors": {
+            "bronze": "Brązowa Karta",
+            "gold": "Złota Karta"
+        },
+        "faction": "Frakcja",
+        "factions": {
+            "neutral": "Karty Neutralne",
+            "monster": "Potwory",
+            "nilfgaard": "Nilfgaard",
+            "northern realms": "Królestwa Północy",
+            "skellige": "Skellige",
+            "scoiatael": "Scoia'tael",
+            "syndicate": "Syndykat"
+        },
+        "type": "Rodzaj karty",
+        "types": {
+            "leader": "Karta Dowódcy",
+            "unit": "Jednostka",
+            "special": "Specjalna",
+            "artifact": "Artefakt",
+            "stratagem": "Manewr Bojowy"
+        },
+        "rarity": "Rzadkość",
+        "rarities": {
+            "common": "Zwykła",
+            "rare": "Rzadka",
+            "epic": "Epicka",
+            "legendary": "Legendarna"
+        },
+        "set": "Zestaw kart",
+        "sets": {
+            "non ownable": "Sługa",
+            "starter": "Zestaw startowy",
+            "base": "Zestaw podstawowy",
+            "thronebreaker": "Wojna Krwi",
+            "crimson curse": "Krwawa Klątwa",
+            "novigrad": "Novigrad",
+            "iron judgment": "Żelazna Wola",
+            "merchants of ofir": "Kupcy z Ofiru",
+            "master mirror": "Pan Lusterko",
+            "way of the witcher": "Wiedźmini"
+        },
+        "reach": "Zasięg:",
+        "premium": "Premium",
+        "game version": "Wersja gry",
+        "illustration by": "Ilustracja:"
+    }
+}

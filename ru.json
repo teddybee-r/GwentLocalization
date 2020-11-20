@@ -1,0 +1,58 @@
+{
+    "card": {
+        "name": "Имя",
+        "power": "Сила",
+        "armor": "Броня",
+        "provision": "Стоимость найма",
+        "category": "Категория",
+        "ability": "Способность",
+        "token": "Символ",
+        "color": "По цвету",
+        "colors": {
+            "bronze": "Бронзовая карта",
+            "gold": "Золотая карта"
+        },
+        "faction": "Фракция",
+        "factions": {
+            "neutral": "Нейтральные карты",
+            "monster": "Чудовища",
+            "nilfgaard": "Нильфгаард",
+            "northern realms": "Королевства Севера",
+            "skellige": "Скеллиге",
+            "scoiatael": "Скоя'таэли",
+            "syndicate": "Синдикат"
+        },
+        "type": "Тип карты",
+        "types": {
+            "leader": "Лидер",
+            "unit": "Отряд",
+            "special": "Особая",
+            "artifact": "Артефакт",
+            "stratagem": "Стратегический прием"
+        },
+        "rarity": "По редкости",
+        "rarities": {
+            "common": "Обычная",
+            "rare": "Редкая",
+            "epic": "Эпическая",
+            "legendary": "Легендарная"
+        },
+        "set": "Набор карт",
+        "sets": {
+            "non ownable": "Символ",
+            "starter": "Стартовый набор",
+            "base": "Базовый набор",
+            "thronebreaker": "Кровная вражда",
+            "crimson curse": "Алое проклятие",
+            "novigrad": "Новиград",
+            "iron judgment": "Железная воля",
+            "merchants of ofir": "Купцы из Офира",
+            "master mirror": "Господин Зеркало",
+            "way of the witcher": "Путь ведьмака"
+        },
+        "reach": "Дальнобойность:",
+        "premium": "Премиальные",
+        "game version": "Версия игры",
+        "illustration by": "Иллюстратор:"
+    }
+}
