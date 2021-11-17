@@ -3,7 +3,7 @@
         "name": "名称",
         "power": "战力",
         "armor": "护甲",
-        "provision": "Provision",
+        "provision": "费用",
         "category": "类别",
         "ability": "能力",
         "token": "衍生物",
@@ -28,7 +28,7 @@
             "unit": "单位牌",
             "special": "特殊牌",
             "artifact": "神器牌",
-            "stratagem": "Stratagem"
+            "stratagem": "战术牌"
         },
         "rarity": "稀有度",
         "rarities": {
