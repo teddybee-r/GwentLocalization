@@ -379,6 +379,7 @@ achievement_10688_desc;인내 키워드를 500회 발동하십시오
 achievement_10688_title;인내심을 잃으면 전투에 패하는 법
 achievement_10689_desc;인내 키워드를 1000회 발동하십시오
 achievement_10689_title;절망의 보다 작은 형태
+achievement_11000_new_desc;진행 중인 도전 기간 동안 괴물로 경기에서 {0}회 승리하십시오
 achievement_11001_desc;도전 이벤트에서 괴물을 지원하며 3개의 퀘스트를 완료하십시오.
 achievement_11001_title;새끼 괴물
 achievement_11002_desc;도전 이벤트에서 괴물을 지원하며 5개의 퀘스트를 완료하십시오.
@@ -389,6 +390,7 @@ achievement_11004_desc;도전 이벤트에서 괴물을 지원하며 15개의 �
 achievement_11004_title;고참 괴물
 achievement_11005_desc;도전 이벤트에서 괴물을 지원하며 25개의 퀘스트를 완료하십시오.
 achievement_11005_title;거대 괴물
+achievement_11010_new_desc;진행 중인 도전 기간 동안 스켈리게로 경기에서 {0}회 승리하십시오
 achievement_11011_desc;도전 이벤트에서 스켈리게를 지원하며 3개의 퀘스트를 완료하십시오.
 achievement_11011_title;침략자
 achievement_11012_desc;도전 이벤트에서 스켈리게를 지원하며 5개의 퀘스트를 완료하십시오.
@@ -399,6 +401,7 @@ achievement_11014_desc;도전 이벤트에서 스켈리게를 지원하며 15개
 achievement_11014_title;일등 항해사
 achievement_11015_desc;도전 이벤트에서 스켈리게를 지원하며 25개의 퀘스트를 완료하십시오.
 achievement_11015_title;해적왕
+achievement_11020_new_desc;진행 중인 도전 기간 동안 북부 왕국으로 경기에서 {0}회 승리하십시오
 achievement_11021_desc;도전 이벤트에서 북부 왕국을 지원하며 3개의 퀘스트를 완료하십시오.
 achievement_11021_title;신참
 achievement_11022_desc;도전 이벤트에서 북부 왕국을 지원하며 5개의 퀘스트를 완료하십시오.
@@ -409,6 +412,7 @@ achievement_11024_desc;도전 이벤트에서 북부 왕국을 지원하며 15�
 achievement_11024_title;애국자
 achievement_11025_desc;도전 이벤트에서 북부 왕국을 지원하며 25개의 퀘스트를 완료하십시오.
 achievement_11025_title;왕과 조국을 위하여
+achievement_11030_new_desc;진행 중인 도전 기간 동안 닐프가드로 경기에서 {0}회 승리하십시오
 achievement_11031_desc;도전 이벤트에서 닐프가드를 지원하며 3개의 퀘스트를 완료하십시오.
 achievement_11031_title;첩보원
 achievement_11032_desc;도전 이벤트에서 닐프가드를 지원하며 5개의 퀘스트를 완료하십시오.
@@ -419,6 +423,7 @@ achievement_11034_desc;도전 이벤트에서 닐프가드를 지원하며 15개
 achievement_11034_title;첩자마스터
 achievement_11035_desc;도전 이벤트에서 닐프가드를 지원하며 25개의 퀘스트를 완료하십시오.
 achievement_11035_title;제국의 의지
+achievement_11040_new_desc;진행 중인 도전 기간 동안 스코이아텔로 경기에서 {0}회 승리하십시오
 achievement_11041_desc;도전 이벤트에서 스코이아텔을 지원하며 3개의 퀘스트를 완료하십시오.
 achievement_11041_title;반항아
 achievement_11042_desc;도전 이벤트에서 스코이아텔을 지원하며 5개의 퀘스트를 완료하십시오.
@@ -429,11 +434,13 @@ achievement_11044_desc;도전 이벤트에서 스코이아텔을 지원하며 15
 achievement_11044_title;광신도
 achievement_11045_desc;도전 이벤트에서 스코이아텔을 지원하며 25개의 퀘스트를 완료하십시오.
 achievement_11045_title;특공대 지휘관
+achievement_11050_new_desc;진행 중인 도전 기간 동안 신디케이트로 경기에서 {0}회 승리하십시오
 achievement_11051_title;심부름꾼
 achievement_11052_title;잡범
 achievement_11053_title;중위
 achievement_11054_title;오른팔
 achievement_11055_title;우두머리
+achievement_11060_new_desc;도전 퀘스트를 {0}회 완료하십시오
 achievement_11061_title;뽑아만 주세요!
 achievement_11062_title;중재자
 achievement_11063_title;프리랜서
@@ -1033,7 +1040,7 @@ achievement_60107_title;연인
 achievement_60108_desc;사랑 시즌을 프로 등급 상위 500위 플레이어로 마무리하십시오.
 achievement_60108_title;카사노바
 achievement_60109_desc;사랑 시즌을 프로 등급 상위 200위 플레이어로 마무리하십시오.
-achievement_60109_title;모두의 연인
+achievement_60109_title;진홍의 복수자
 achievement_60201_desc;곰 시즌 동안 표준 경기에서 10회 승리하십시오.
 achievement_60201_title;새끼 곰
 achievement_60202_desc;곰 시즌 동안 표준 경기에서 25회 승리하십시오.
@@ -1844,6 +1851,67 @@ achievement_90253_title;같은 실수를 반복
 achievement_90254_title;크론은 셋을 사랑한다
 achievement_90256_title;불길한 시선
 achievement_90257_title;가보
+achievement_90259_desc;단델라이온의 여정 퀘스트를 5회 완료하십시오
+achievement_90259_title;거울 앞에서 공연
+achievement_90260_desc;단델라이온의 여정 퀘스트를 10회 완료하십시오
+achievement_90260_title;친구와 가족을 위한 공연
+achievement_90261_desc;단델라이온의 여정 퀘스트를 20회 완료하십시오
+achievement_90261_title;마을의 이야기꾼
+achievement_90262_desc;단델라이온의 여정 퀘스트를 모두 완료하십시오
+achievement_90262_title;술집의 명물
+achievement_90263_desc;단델라이온의 일반 여정 퀘스트를 모두 완료하십시오
+achievement_90263_title;축제의 주인공
+achievement_90264_desc;단델라이온의 확장 여정 퀘스트를 모두 완료하십시오
+achievement_90264_title;왕실 음악가
+achievement_90265_desc;단델라이온의 일반 여정과 확장 여정에서 100레벨에 도달하십시오
+achievement_90265_title;자랑스러운 이 몸
+achievement_90266_desc;단델라이온의 일반 여정에서 100레벨에 도달하십시오
+achievement_90266_title;줄리안 알프레드 판크라츠의 자랑스러운 친구
+achievement_90267_desc;단델라이온의 확장 여정에서 100레벨에 도달하십시오
+achievement_90267_title;시기스문드 딕스트라의 자랑스러운 동료
+achievement_90269_desc;단델라이온의 멋진 숄이나 우아한 의상을 착용하고 게임을 1회 플레이하십시오
+achievement_90269_title;많은 이에게 사랑받는 자
+achievement_90270_desc;단델라이온의 멋진 숄이나 우아한 의상을 착용하고 게임을 5회 플레이하십시오
+achievement_90270_title;진정한 예술가 겸 선지자
+achievement_90271_desc;단델라이온의 멋진 숄이나 우아한 의상을 착용하고 게임을 10회 플레이하십시오
+achievement_90271_title;구제 불능 낙천주의자
+achievement_90272_desc;단델라이온의 멋진 숄이나 우아한 의상을 착용하고 게임을 20회 플레이하십시오
+achievement_90272_title;자유로운 영혼
+achievement_90273_desc;단델라이온의 멋진 숄이나 우아한 의상을 착용하고 게임을 30회 플레이하십시오
+achievement_90273_title;우아한 스타일의 소유자
+achievement_90275_desc;단델라이온의 버튼 달린 셔츠나 여행 중인 바드의 코트를 착용하고 게임을 1회 플레이하십시오
+achievement_90275_title;최고의 시인
+achievement_90276_desc;단델라이온의 버튼 달린 셔츠나 여행 중인 바드의 코트를 착용하고 게임을 5회 플레이하십시오
+achievement_90276_title;최고의 바드
+achievement_90277_desc;단델라이온의 버튼 달린 셔츠나 여행 중인 바드의 코트를 착용하고 게임을 10회 플레이하십시오
+achievement_90277_title;최고의 작곡가
+achievement_90278_desc;단델라이온의 버튼 달린 셔츠나 여행 중인 바드의 코트를 착용하고 게임을 20회 플레이하십시오
+achievement_90278_title;최고의 음유 시인
+achievement_90279_desc;단델라이온의 버튼 달린 셔츠나 여행 중인 바드의 코트를 착용하고 게임을 30회 플레이하십시오
+achievement_90279_title;최고 중의 최고
+achievement_90281_desc;단델라이온의 붉은 장미 꽃다발이나 음악회 오라를 착용하고 게임을 1회 플레이하십시오
+achievement_90281_title;장미는 가시 속에서 자란다
+achievement_90282_desc;단델라이온의 붉은 장미 꽃다발이나 음악회 오라를 착용하고 게임을 5회 플레이하십시오
+achievement_90282_title;예술은 연약한 꽃과 같다
+achievement_90283_desc;단델라이온의 붉은 장미 꽃다발이나 음악회 오라를 착용하고 게임을 10회 플레이하십시오
+achievement_90283_title;꽃의 계곡에서의 만남
+achievement_90284_desc;단델라이온의 붉은 장미 꽃다발이나 음악회 오라를 착용하고 게임을 20회 플레이하십시오
+achievement_90284_title;사랑은 보살핌이 필요한 꽃이다
+achievement_90285_desc;단델라이온의 붉은 장미 꽃다발이나 음악회 오라를 착용하고 게임을 30회 플레이하십시오
+achievement_90285_title;사랑은 가시 없는 장미
+achievement_90287_desc;단델라이온의 여정 음악 트랙을 착용하고 게임을 1회 플레이하십시오
+achievement_90287_title;연주자
+achievement_90288_desc;단델라이온의 여정 음악 트랙을 착용하고 게임을 5회 플레이하십시오
+achievement_90288_title;음악가
+achievement_90289_desc;단델라이온의 여정 음악 트랙을 착용하고 게임을 10회 플레이하십시오
+achievement_90289_title;독주자
+achievement_90290_desc;단델라이온의 여정 음악 트랙을 착용하고 게임을 20회 플레이하십시오
+achievement_90290_title;거장
+achievement_90295_title;여왕의 귀환
+achievement_90296_title;에이스트 튀샤흐 왕 돕기
+achievement_90297_title;칼란테 여왕 돕기
+achievement_90298_title;시기스문드 딕스트라 돕기
+achievement_90299_title;필리파 에일하트 돕기
 achievement_category_arena;아레나
 achievement_category_collection;컬렉션
 achievement_category_expansions;확장팩
@@ -1854,6 +1922,7 @@ achievement_category_mastery;마스터
 achievement_category_ranked;경쟁전
 achievement_category_seasonal;시즌 전용
 achievement_category_singleplayer;더 위쳐 테일즈
+achievement_complete_love_event;사랑 이벤트의 모든 캐릭터 돕기
 achievement_complete_x_aretuza_quests;아레투자 여정 퀘스트를 {0}회 완료하십시오
 achievement_complete_x_regis_quests;레지스의 여정 퀘스트를 {0}회 완료하십시오
 achievement_geralt_winter_event;게롤트 스킨을 착용하고 경기에서 {0}회 승리하십시오
@@ -2147,6 +2216,8 @@ arenav2_newdraft_disabled_tooltip;새로운 드래프트 잠금 해제까지 남
 arenav2_optin_update_notification_description;새 버전의 드래프트가 가능합니다! 현재 드래프트를 계속할 수 있지만, 새 버전의 밸런스 업데이트 및/또는 기간 한정 메커니즘이 적용되지 않습니다. 현재 버전의 드래프트는 곧 종료됩니다.
 arenav2_play_menu_description;드래프트에 오신 걸 환영합니다. 이 변화무쌍한 덱 빌딩 게임 모드에서 상대와 경쟁해 보세요.
 arenav2_play_menu_title;드래프트
+arenav2_rewards_timeout_description;보상 표시에 실패했습니다
+arenav2_rewards_timeout_title;보상 표시 오류
 arenav2_show_deck_tooltip;덱 보기
 arenav2_summary_newdraft;다시 드래프트
 arenav2_summary_rewards;받은 보상:
@@ -3734,12 +3805,12 @@ interface_card_choice_8;공개할 카드 한 장 선택
 interface_card_choice_opponent;상대가 결정하는 중
 interface_challenge_6100_abilities_subtitle;새로운 쥐인간의 해 능력으로 여러분의 실력을 뽐내 보세요
 interface_challenge_6100_abilities_title;쥐인간의 해 능력 챌린지
-interface_challenge_acknowledge_button;다음 크론을 도와주세요
+interface_challenge_acknowledge_button;다음 커플 돕기
 interface_challenge_arena_event;아레나 이벤트
 interface_challenge_arena_event_desc;총력전 승리자는 세력별 특수 아레나 모드를 잠금 해제할 수 있게 됩니다.
 interface_challenge_arena_event_title;아레나 이벤트
 interface_challenge_arena_results;아레나에서 특별한 신규 아레나 모드를 플레이할 수 있게 됩니다.
-interface_challenge_available_description;크론들의 사오바인 준비를 도와주세요
+interface_challenge_available_description;연인이 재회하도록 돕기
 interface_challenge_bards_side;바드
 interface_challenge_belleteyn_ornaments_desc;총력전 승자의 벨레타인 장식품은 상점에서 할인된 가격에 판매될 것입니다.
 interface_challenge_c_rewards_title;도전 이벤트: 승자
@@ -3779,6 +3850,15 @@ interface_challenge_leader_arena_results;총력전 승리자는 리더별 특수
 interface_challenge_leader_exp_results;게임 모드에 상관없이, 플레이한 리더가 승리하면 추가 경험치를 얻게 됩니다.
 interface_challenge_leader_experience_boost_desc;게임 모드에 상관없이, 플레이한 리더가 승리하면 추가 경험치를 얻게 됩니다.
 interface_challenge_look_at_rewards;내 보물 확인
+interface_challenge_love_2022_acknowledge_button;돕기 완료
+interface_challenge_love_2022_reward_title_0;모두를 도우면 받을 수 있습니다:
+interface_challenge_love_2022_reward_title_0_0;에이스트 왕을 도우면 받을 수 있습니다:
+interface_challenge_love_2022_reward_title_0_1;칼란테 여왕을 도우면 받을 수 있습니다:
+interface_challenge_love_2022_reward_title_0_2;딕스트라를 도우면 받을 수 있습니다:
+interface_challenge_love_2022_reward_title_0_3;필리파를 도우면 받을 수 있습니다:
+interface_challenge_love_2022_rules;유명한 캐릭터들이 서로를 찾을 수 있게 도와주세요!
+interface_challenge_love_2022_rules_completed;잘하셨습니다. 여러분 덕분에 연인들이 재회하여 서로의 품에서 쉴 수 있게 되었습니다.
+interface_challenge_love_2022_title;사랑 이벤트
 interface_challenge_min_shortcut;{0}분
 interface_challenge_neu_arena_event;이 도전의 승리자는 특수 아레나 모드를 잠금 해제할 수 있게 됩니다.
 interface_challenge_neu_arena_results;이 도전의 승리자는 특수 아레나 모드를 잠금 해제할 수 있게 됩니다.
@@ -4920,6 +5000,7 @@ rb_ftux_hint_firstquestclaimed;퀘스트 패널에서 보상 북의 퀘스트를
 rb_ftux_hint_rewardbookopened;보상 북에 오신 걸 환영합니다! 시작하려면 세력 트리를 선택하세요.
 rb_ftux_hint_treeentered;게임을 플레이하며 얻는 열쇠로 각 트리에서 순차적으로 보상을 잠금 해제할 수 있습니다. 지금 바로 획득해 보세요.
 rb_ftux_notification_button;보기
+rb_ftux_notification_locked_tabs;하나 이상의 트리를 완료하면 다른 보상 북 탭이 잠금 해제됩니다.
 rb_ftux_notification_open_book;보상 북에 새로운 무언가가 있습니다
 rb_ftux_notification_open_quest;신규 퀘스트를 받았습니다
 read_eula_button;사용자 약관 보기
@@ -5667,6 +5748,7 @@ reward_tree_svalblod_story_pt2;스발블로드는 인간과 곰의 화신으로,
 reward_tree_svalblod_story_pt3;스발블로드의 시종들은 아드 스켈리그의 중심부에 있는 동굴 깊숙이 들어가기 전에 환각성이 있는 약을 복용해야 했고, 동굴 안으로 들어가면 곰들이 그들을 산 채로 잡아먹었습니다. 그러고 나면 사교도들이 기생충처럼 야수의 몸을 지배했습니다.
 reward_tree_svalblod_story_pt4;스켈리게 제도의 족장들은 마침내 그 관행을 끝내기로 했습니다. 그들은 스발블로드의 추종자들을 잡아 배에 묶고 방향을 잡을 돛도 없이 험난한 바다로 쫓아냈습니다. 이것을 끝으로 스발블로드교는 완전히 뿌리 뽑혔습니다. 아아... 신을 죽이는 것은 쉽지 않은 일이었습니다.
 reward_tree_svalblod_title;스발블로드
+reward_tree_syndicate_ftux_title;신디케이트
 reward_tree_tb_story_pt1;메브는 하게에서 열리는 군주 회담에 참석하기 위해 자리를 비우며, 집사에게 곧 돌아올 테니 준비하라고 지시했습니다. 메브 여왕이 자신의 침대에서 다시 잠을 청한 지 일 년이 지난 시점이었습니다.
 reward_tree_tb_story_pt2;그러던 중 리리아와 리비아가 닐프가드에 정복당했습니다. 황제를 찾아간 제국의 사절들은 뻔한 말만 반복했습니다. 사실 원대한 야망을 실현하려는 에미르 바 엠레이스의 계획에서 이런 변두리 땅은 큰 의미가 없었습니다.
 reward_tree_tb_story_pt3;여왕이 고국을 되찾을 거라 믿는 사람은 거의 없었지만, 메브는 무기를 내려놓지 않았습니다. 역사가 늘 그렇듯이 대륙의 사람들은 곧 놀라게 됩니다... 물론 가장 놀란 건 닐프가드인들이었습니다.
@@ -5895,7 +5977,7 @@ shop_blood_and_many_legs_pack_title;피와 절지류 팩
 shop_button_vanities;장식
 shop_cara_bundle_desc;<sprite="PopupIcons" name="Avatar"> 카란티어 아바타\n\n<sprite="PopupIcons" name="Border"> 와일드 헌트의 왕 테두리 장식\n\n<sprite="PopupIcons" name="Title"> '전쟁의 징조' 칭호\n\n이 번들에는 야생 멧돼지의 해의 와일드 헌트 시즌 동안 최초로 잠금 해제할 수 있었던 장식 아이템이 들어 있습니다!
 shop_cara_bundle_title;카란티어 번들
-shop_casanova_bundle_desc;<sprite="PopupIcons" name="Avatar"> 단델라이온 아바타\n\n<sprite="PopupIcons" name="Border"> 카사노바 테두리 장식\n\n<sprite="PopupIcons" name="Title"> '진정한 낭만주의자' 칭호\n\n이 번들에는 야생 멧돼지의 해의 사랑 시즌 동안 최초로 잠금 해제할 수 있었던 장식 아이템과, 특별한 신규 보너스 아이템이 들어 있습니다!
+shop_casanova_bundle_desc;<sprite="PopupIcons" name="Avatar"> 단델라이온 아바타\n\n<sprite="PopupIcons" name="Border"> 카사노바 테두리 장식\n\n<sprite="PopupIcons" name="Title"> '진정한 낭만주의자' 칭호\n\n이 번들에는 야생 멧돼지의 해의 사랑 시즌 동안 최초로 잠금 해제할 수 있었던 장식품이 들어 있습니다!
 shop_casanova_bundle_title;카사노바 번들
 shop_category_dungeon_keys;지하 동굴 열쇠
 shop_category_esport;e스포츠
@@ -6072,7 +6154,7 @@ shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> 언�
 shop_data_ep2_alt_cardback_title;언다잉 파이어 애니메이션 카드 뒷면
 shop_data_ep3_alt_leader_skin_bundle_desc;<sprite="PopupIcons" name="Skin">제리카니아 라도비드 프리미엄 스킨\n\n라도비드 5세의 새로운 외형입니다. 놓치지 마세요!
 shop_data_ep3_alt_leader_skin_bundle_title;제리카니아 라도비드 프리미엄 스킨
-shop_data_ep4_caravan_pack_desc;용감한 자가 재물을 얻는 법입니다! 12가지 프리미엄 책략 카드로 구성된 오피에르의 귀중한 보물을 손에 넣으세요! 책략 카드는 선공인 플레이어에게 특별한 보너스를 제공합니다. 구성품은 다음과 같습니다.\n\n<sprite="PopupIcons" name="Card">마법 등불 프리미엄 카드\n<sprite="PopupIcons" name="Card">수정 두개골 프리미엄 카드\n<sprite="PopupIcons" name="Card">마법에 걸린 갑옷 프리미엄 카드\n<sprite="PopupIcons" name="Card">저주받은 스크롤 프리미엄 카드\n<sprite="PopupIcons" name="Card">바실리스크 독 프리미엄 카드 \n<sprite="PopupIcons" name="Card">의식용 단검 프리미엄 카드\n<sprite="PopupIcons" name="Card">목줄 프리미엄 카드\n<sprite="PopupIcons" name="Card">기술적 해결책 프리미엄 카드\n<sprite="PopupIcons" name="Card">우로보로스의 가면 프리미엄 카드\n<sprite="PopupIcons" name="Card">어둠의 항아리 프리미엄 카드\n<sprite="PopupIcons" name="Card">아엔 쉐이드 사브르 프리미엄 카드\n<sprite="PopupIcons" name="Card">호랑이의 눈 프리미엄 카드
+shop_data_ep4_caravan_pack_desc;<sprite="PopupIcons" name="Card"> 마법 등불 프리미엄 카드\n<sprite="PopupIcons" name="Card"> 수정 두개골 프리미엄 카드\n<sprite="PopupIcons" name="Card"> 마법에 걸린 갑옷 프리미엄 카드\n<sprite="PopupIcons" name="Card"> 저주받은 스크롤 프리미엄 카드\n<sprite="PopupIcons" name="Card"> 바실리스크 독 프리미엄 카드\n<sprite="PopupIcons" name="Card"> 의식용 단검 프리미엄 카드\n<sprite="PopupIcons" name="Card"> 목줄 프리미엄 카드\n<sprite="PopupIcons" name="Card"> 기술적 해결책 프리미엄 카드\n<sprite="PopupIcons" name="Card"> 우로보로스의 가면 프리미엄 카드\n<sprite="PopupIcons" name="Card"> 어둠의 항아리 프리미엄 카드\n<sprite="PopupIcons" name="Card"> 아엔 쉐이드 사브르 프리미엄 카드\n<sprite="PopupIcons" name="Card"> 호랑이의 눈 프리미엄 카드\n\n용감한 자가 재물을 얻는 법입니다! 12가지 프리미엄 책략 카드로 구성된 오피에르의 가장 귀중한 보물을 손에 넣으세요! 책략 카드는 선공인 플레이어에게 특별한 보너스를 제공합니다.
 shop_data_ep4_caravan_pack_title;수송대 습격 팩
 shop_data_ep4_premium_keg_desc;기간 한정으로 판매되는 오피에르의 상인들 프리미엄 카드통에는 더욱 강력한 궨트 카드 컬렉션을 완성하기 위한 오피에르의 상인들 확장팩의 애니메이션 카드가 포함되어 있습니다.\n\n오피에르의 상인들 카드통에는 총 5장의 프리미엄 카드가 들어 있습니다. 그중 4장의 카드는 일반 등급 이상의 카드이며, 5번째 카드는 희귀 등급 이상의 카드 3장 중에서 원하는 1장을 선택하여 획득하게 됩니다.
 shop_data_ep4_premium_keg_title;오피에르의 상인들 프리미엄 카드통
@@ -6187,7 +6269,7 @@ shop_data_kitty_bundle_desc;<sprite="PopupIcons" name="Avatar"> 새끼 고양이
 shop_data_kitty_bundle_title;새끼 고양이 번들
 shop_data_kolgrim_bundle_desc;<sprite="PopupIcons" name="Avatar">콜그림 아바타\n\n<sprite="PopupIcons" name="Border">콜그림 테두리 장식\n\n<sprite="PopupIcons" name="Title">'독기 어린' 칭호\n\n이 번들에는 쥐인간의 해의 독사 시즌 동안 최초로 잠금 해제할 수 있었던 장식 아이템이 들어 있습니다!
 shop_data_kolgrim_bundle_title;콜그림 번들
-shop_data_love_season_bundle_desc;<sprite="PopupIcons" name="CardBack"> 사랑 카드 뒷면\n\n<sprite="PopupIcons" name="Avatar"> 시즌 전용 아바타 3개: 프리실라 아바타, 단델라이온 아바타, 서큐버스 아바타\n\n<sprite="PopupIcons" name="Border"> 시즌 전용 아바타 4개: 추앙자 테두리 장식, 애교만점 테두리 장식, 카사노바 테두리 장식, 모두의 연인 테두리 장식\n\n<sprite="PopupIcons" name="Title"> 보너스 칭호: 진정한 낭만주의자\n\n이 특별한 번들에는 사랑 시즌 동안 궨트에서 얻을 수 있었던 장식 아이템과 특별한 보너스 아이템이 들어 있습니다!
+shop_data_love_season_bundle_desc;<sprite="PopupIcons" name="CardBack"> 사랑 카드 뒷면\n\n<sprite="PopupIcons" name="Avatar"> 시즌 전용 아바타 3개: 프리실라 아바타, 단델라이온 아바타, 서큐버스 아바타\n\n<sprite="PopupIcons" name="Border"> 시즌 전용 아바타 4개: 추앙자 테두리 장식, 애교만점 테두리 장식, 카사노바 테두리 장식, 진홍의 복수자 테두리 장식\n\n<sprite="PopupIcons" name="Title"> 보너스 칭호: 진정한 낭만주의자\n\n이 특별한 번들에는 사랑 시즌 동안 궨트에서 얻을 수 있었던 장식 아이템과 특별한 보너스 아이템이 들어 있습니다!
 shop_data_love_season_bundle_title;사랑 시즌 번들
 shop_data_lunar_board_desc_sale;<sprite="PopupIcons" name="Board"> 설날 보드\n\n설날을 맞이하여 추가된 새로운 전장입니다! 이 전장에서 상대와 함께 잊지 못할 경기를 펼쳐 보세요.\n이 번들은 설날맞이 할인 기간 동안 30% 할인된 가격으로 판매됩니다.
 shop_data_lunar_board_title;설날 보드
@@ -6269,7 +6351,7 @@ shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="
 shop_data_now_available_ promo_desc;지금 사용 가능!
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin"> 초록색 크리켓 스킨\n\n<sprite="PopupIcons" name="Board"> 잊혀진 보드\n\n자연이 세상을 점령했습니다! 아름답지 않나요?\n\n이 번들은 쥐인간의 해, 궨트 오픈 2 기간에 출시되었던 번들입니다.
 shop_data_overgrown_bundle_title;과성장 번들(궨트 오픈 2)
-shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> 파시플로라 테두리 장식 \n\n<sprite="PopupIcons" name="Avatar"> 아므린, 나르시사, 비올라 아바타\n\n<sprite="PopupIcons" name="Title"> "파시플로라 챔피언" 칭호\n\n\n사랑스러운 여인과 고상한 취향, 자유도시 최고의 궨트 플레이어들이 있는 곳... 파시플로라 번들로 노비그라드만의 멋을 뽐내 보세요!
+shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> 파시플로라 챔피언 테두리 장식\n\n<sprite="PopupIcons" name="Avatar"> 아므린 아바타\n\n<sprite="PopupIcons" name="Avatar"> 나르시사 아바타\n\n<sprite="PopupIcons" name="Avatar"> 비올라 아바타\n\n<sprite="PopupIcons" name="Title"> '파시플로라 챔피언' 칭호\n\n파시플로라 번들과 함께 노비그라드의 파시플로라가 선사하는 최고의 상품을 만나 보세요.
 shop_data_passiflora_bundle_title;파시플로라 번들
 shop_data_premium_cc_keg_desc;프리미엄 핏빛 저주 카드통에는 총 5장의 <b>프리미엄</b> 핏빛 저주 확장판 카드가 들어있습니다. 그중 4장의 카드는 일반 등급 이상의 카드이며, 5번째 카드는 희귀 등급 이상의 카드 3장 중에서 원하는 1장을 선택하여 획득하게 됩니다.
 shop_data_premium_cc_keg_title;프리미엄 핏빛 저주 카드통
@@ -6325,6 +6407,8 @@ shop_data_skellige_keg_7_title;스켈리게 카드통 7개
 shop_data_skellige_keg_7_title_gaea;Ignore.
 shop_data_skellige_keg_desc;스켈리게 카드통에는 총 5장의 스켈리게 카드가 들어있습니다. 그중 4장의 카드는 일반 등급 이상의 카드이며, 5번째 카드는 희귀 등급 이상의 카드 3장 중에서 원하는 1장을 선택하여 획득하게 됩니다.
 shop_data_skellige_keg_title;스켈리게 카드통
+shop_data_skin_dana_love_desc;<sprite="PopupIcons" name="Skin"> 사랑의 여신 스킨\n\n다나 메드브의 새로운 리더 스킨과 함께 신성한 사랑의 힘으로 부대를 지휘해 보세요!
+shop_data_skin_dana_love_title;사랑의 여신 스킨
 shop_data_special_premium_keg_desc;조각으로만 구매할 수 있습니다. 스페셜 카드통에는 총 5장의 <b>프리미엄</b> 카드가 들어있습니다. 그중 4장의 카드는 일반 등급 이상의 카드이며, 5번째 카드는 희귀 등급 이상의 카드 3장 중에서 원하는 1장을 선택하여 획득하게 됩니다.
 shop_data_special_premium_keg_title;스페셜 프리미엄 카드통
 shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board"> 봄 보드\n\n<sprite="PopupIcons" name="CardBack"> 봄 카드 뒷면\n\n이 상품을 구매하여 e스포츠를 후원해 보세요! 구매 비용 중 30%는 2021년 12월에 열리는 궨트 마스터즈의 상금으로 사용됩니다!
@@ -6450,6 +6534,8 @@ shop_great_oak_year_bundle_desc;<sprite="PopupIcons" name="Avatar">영악한 재
 shop_great_oak_year_bundle_title;위대한 오크 나무 번들
 shop_ida_emean_bundle_desc;<sprite="PopupIcons" name="Avatar">이다 에민 아바타\n\n<sprite="PopupIcons" name="Border">엘프 포탈 테두리 장식\n\n<sprite="PopupIcons" name="Title">'아엔 새비르네' 칭호\n\n이 번들에는 쥐인간의 해의 엘프 시즌 동안 최초로 잠금 해제할 수 있었던 장식 아이템이 들어 있습니다!
 shop_ida_emean_bundle_title;이다 에민의 번들
+shop_iris&olgierd_desc;<sprite="PopupIcons" name="CardBack"> 비극적인 사랑 카드 뒷면\n\n<sprite="PopupIcons" name="Avatar"> 이리스 폰 에버렉 아바타\n\n<sprite="PopupIcons" name="Avatar"> 올지어드 아바타\n\n<sprite="PopupIcons" name="Border"> 이젤 테두리 장식\n\n<sprite="PopupIcons" name="Title"> '실연당한' 칭호\n\n사랑은 참을성 있고 친절하지만, 때때로 비극적이고 마음을 아프게 만들기도 합니다.\n이 번들에는 위대한 오크 나무 해의 사랑 이벤트 동안 최초로 잠금 해제할 수 있었던 장식품이 들어 있습니다!
+shop_iris&olgierd_title;이리스와 올지어드의 번들
 shop_ivo_bundle_desc;<sprite="PopupIcons" name="Avatar"> 벨헤이븐의 이보 아바타\n\n<sprite="PopupIcons" name="Border"> 곰 수호자 테두리 장식\n\n<sprite="PopupIcons" name="Title"> '벨헤이븐의' 칭호\n\n곰 교단을 향한 애정을 보여 주세요! 이 번들에는 쥐인간의 해의 곰 시즌 동안 최초로 잠금 해제할 수 있었던 장식 아이템이 들어 있습니다.
 shop_ivo_bundle_title;이보의 번들
 shop_keg_category_all;모든 카드
@@ -6472,6 +6558,8 @@ shop_leaders_syndicate_desc;잘못 건드렸다간 피를 보게 될 겁니다!\
 shop_leaders_syndicate_title;건달 팩
 shop_love_cardback_desc;사랑에 빠져 보세요!\n\n이 카드 뒷면은 야생 멧돼지의 해의 사랑 시즌 동안 최초로 잠금 해제할 수 있었던 아이템입니다.
 shop_love_cardback_title;사랑 카드 뒷면
+shop_love_festival_gameboard_desc;<sprite="PopupIcons" name="Board"> 사랑의 축제 게임보드\n\n노비그라드의 갱단조차 기념하는 사랑의 축제를 즐기세요!
+shop_love_festival_gameboard_title;사랑의 축제 게임보드
 shop_lubberkin_bundle_desc;<sprite="PopupIcons" name="Avatar"> 러버킨 아바타\n\n<sprite="PopupIcons" name="Border"> 러버킨 테두리 장식\n\n<sprite="PopupIcons" name="Title"> '러버킨' 칭호\n\n사랑 시즌의 시작을 기념하며, 이 귀여운 수호 정령을 힘껏 안아 주세요.
 shop_lubberkin_bundle_title;러버킨 번들
 shop_lucky_bundle_desc;<sprite="PopupIcons" name="Coin"> 행운의 동전\n\n<sprite="PopupIcons" name="Title"> '운수대통' 칭호\n\n이 동전은 행운을 불러온답니다.
@@ -6492,6 +6580,9 @@ shop_packs_category_2;스타터 팩
 shop_popular;인기 아이템
 shop_powder_section_description;운석 가루를 사용해 컬렉션에 있는 표준 카드를 프리미엄 카드로 변환할 수 있습니다. 프리미엄 카드로 변환하면 애니메이션 및 기타 효과가 추가됩니다.
 shop_powder_section_title;운석 가루
+shop_priscilla&dandelion_desc;<sprite="PopupIcons" name="CardBack"> 여행 중인 파트너 카드 뒷면\n\n<sprite="PopupIcons" name="Avatar"> 여행 중인 단델라이온 아바타\n\n<sprite="PopupIcons" name="Avatar"> 여행 중인 프리실라 아바타\n\n<sprite="PopupIcons" name="Border"> 원정 공연 테두리 장식\n\n<sprite="PopupIcons" name="Title"> '여행 중인 시인' 칭호\n\n사랑은 여러 모습으로 나타난답니다. 여행 중인 파트너도 그중 하나죠.\n이 번들에는 위대한 오크 나무 해의 사랑 이벤트 동안 최초로 잠금 해제할 수 있었던 장식품이 들어 있습니다!
+shop_priscilla&dandelion_title;프리실라와 단델라이온의 번들
+shop_product_timer_label;구매 가능:
 shop_questionable_morality_pack_desc;미끼를 던져 적을 유인하고, 무질서를 가장해 적을 쳐부수세요.\n\n신규 신디케이트 전설 카드 2장(거지 왕초, 사이러스 엥겔킨드 헴멜파트)과 신디케이트 아키타입을 지원하는 프리미엄 카드 6장을 획득하세요.\n\n구성품은 다음과 같습니다:\n<sprite="PopupIcons" name="Card">거지 왕초 프리미엄 카드 1장\n<sprite="PopupIcons" name="Card">사이러스 엥겔킨드 헴멜파트 프리미엄 카드 1장\n<sprite="PopupIcons" name="Card">아드리아노 더 밍크 프리미엄 카드(영웅) 1장\n<sprite="PopupIcons" name="Card">폰 헤르스트 중위 프리미엄 카드(영웅) 1장\n<sprite="PopupIcons" name="Card">살라만드라 마법사 프리미엄 카드(희귀) 2장\n<sprite="PopupIcons" name="Card">플레이밍 로즈 성직자 프리미엄 카드(희귀) 2장
 shop_questionable_morality_pack_title;미심쩍은 도덕성 팩
 shop_sale;할인
@@ -6517,6 +6608,8 @@ shop_shupe_leafhat_bundle_desc;<sprite="PopupIcons" name="Skin">슙 기본 스�
 shop_shupe_leafhat_bundle_title;슙의 네 잎 번들
 shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> 네 잎 모자 \n\n이 상품으로 행운의 주인공이 되어 보세요.\n\n궨트는 운보다는 기술이 중요한 게임입니다. 하지만 운이 좋다고 해서 나쁠 건 없죠!\n알림: 이 아이템은 네 잎 번들 상품을 구매해도 이용 가능합니다.
 shop_shupe_leafhat_trinket_title;슙의 네 잎 장신구
+shop_shupe_love_armour_desc;<sprite="PopupIcons" name="Trinket"> 슙의 사랑의 갑옷\n\n이 사랑의 갑옷을 입고 여러분에게 맞설 자가 없다는 걸 보여 주세요!
+shop_shupe_love_armour_title;슙의 사랑의 갑옷
 shop_shupe_love_avatar_desc;제일 좋아하는 상점 주인의 사랑을 받아들이고 무료 인형 슙 아바타를 획득하세요!\n\n사랑 이벤트 기간에만 이용할 수 있습니다.
 shop_shupe_love_avatar_title;무료 슙 아바타!
 shop_shupe_love_bundle_desc;<sprite="PopupIcons" name="Skin"> 슙 기본 스킨(모든 세력)\n\n<sprite="PopupIcons" name="Trinket"> 작은 날개\n\n<sprite="PopupIcons" name="Title"> '사랑에 빠진' 칭호\n\n슙이 사랑 많이 준다. 슙이 좋은 거 찾게 해 준다.\n사실 슙은 날 수 없다.
@@ -6637,6 +6730,7 @@ switch_app_popup_desc;궨트를 종료하고 쓰론브레이커를 시작합니�
 switch_app_popup_title;쓰론브레이커로 전환
 syn_fluff_description;명예를 위해 싸우는 사람도 있고, 제국을 위해 싸우는 사람도 있습니다. 왕이나 자유를 위해 싸우는 사람도 있지요. 하지만 신디케이트는 오로지 돈을 위해 싸웁니다. 신디케이트에게 충분한 대가를 지불할 수만 있다면, 이들은 무엇이든지 처리해 줄 것입니다. 아무리 악랄한 일이라도 말이지요. 범죄가 만연한 지하 세계에서 부와 명성을 쌓기 위해서는 손을 더럽힐 수밖에 없습니다. 노비그라드의 경제는 노비그라드 크라운과 함께 번창했지만, 이곳의 지하 세계는 다른 코인을 중심으로 돌아가고 있습니다. 코인을 주고받는다는 건 깰 수 없는 약속을 하는 것이나 마찬가지입니다. 약속을 어기는 어리석은 자는 평생을 쫓기며 살다가 훨씬 큰 대가를 치르게 됩니다.
 syn_fluff_title;신디케이트
+syndicate_preset_deck_name;신디케이트 스타터 덱
 tap_to_begin;시작하려면 탭하십시오
 taunt_comment;옛 생각이 나는군.
 taunt_curses;젠장!
@@ -6729,7 +6823,7 @@ tracked_action_play_x_cards_with_skellige;스켈리게 덱을 사용하여 카�
 tracked_action_play_x_cards_with_specter_keyword;망령 유형의 카드를 {0}장 내십시오
 tracked_action_play_x_cards_with_summon_keyword;소환 키워드가 있는 카드를 {0}회 내십시오
 tracked_action_play_x_cards_with_supported_factions;지지하는 세력의 덱으로 카드를 {0}장 내십시오.
-tracked_action_play_x_cards_with_syndicate;신디케이트 덱을 사용하여 카드를 {0}장 내십시오.
+tracked_action_play_x_cards_with_syndicate;신디케이트 세력 카드를 {0}장 내십시오.
 tracked_action_play_x_cards_with_tidecloaks_tag;파도잠행단 카드를 {0}장 내십시오.
 tracked_action_play_x_classic_matches;표준 모드 경기 {0}회 플레이하기
 tracked_action_play_x_defender_cards;수호자 키워드가 있는 카드를 {0}장 내십시오
@@ -7153,6 +7247,7 @@ ui_cardback_group_25_title;트리스의 여정
 ui_cardback_group_27_title;타네드 섬 습격
 ui_cardback_group_28_title;아레투자 여정
 ui_cardback_group_3_title;쥐인간 시즌
+ui_cardback_group_30_title;단델라이온의 여정
 ui_cardback_group_4_title;핏빛 저주 확장팩
 ui_cardback_group_5_title;노비그라드 확장팩
 ui_cardback_group_6_title;철의 심판 확장팩
@@ -7164,6 +7259,7 @@ ui_coin_group_11_title;트리스의 여정
 ui_coin_group_12_title;확장팩
 ui_coin_group_13_title;특별한 날
 ui_coin_group_14_title;아레투자 여정
+ui_coin_group_17_title;단델라이온의 여정
 ui_coin_group_2_title;게롤트의 여정
 ui_coin_group_3_title;시리의 여정
 ui_coin_group_4_title;사이버펑크 2077
@@ -7212,13 +7308,14 @@ ui_journey_main_panel_standard_path;일반
 ui_journey_main_panel_story;여정 이야기
 ui_journey_new_quests;다음 퀘스트는 다음 주에 계속됩니다…
 ui_journey_popup_congratulation;축하합니다!
-ui_journey_popup_finish_journey;레지스의 여정을 완료했습니다! 외형을 변경하고, 획득한 힘으로 적을 찢어버리세요!
+ui_journey_popup_finish_journey;단델라이온의 여정을 완료했습니다! 여정의 길에서 얻은 기념품과 장신구를 활용하여, 새 의상을 입고 멋진 모습을 보여 주세요!
 ui_journey_popup_journey_end;여정이 끝났습니다. 크라운 조각을 얻으면 보상 포인트를 받을 수 있습니다
 ui_journey_popup_premium_alzur_desc;남들보다 빠르게 즉시 25레벨까지 올려 보세요.\n전설 알주르 스킨과 추가 장식품을 잠금 해제하세요!
 ui_journey_popup_premium_aretuza_desc;남들보다 빠르게 즉시 25레벨까지 올려 보세요.\n아레투자 중앙 홀 게임보드와 추가 장식품을 잠금 해제할 수 있습니다!
 ui_journey_popup_premium_button;1회 한정 상품
 ui_journey_popup_premium_ciri_desc;남들보다 빠르게 즉시 25레벨까지 올려 보세요.\n전설 시리 스킨과 추가 장식품을 잠금 해제할 수 있습니다!
 ui_journey_popup_premium_ciri_title;프리미엄 패스 +25레벨
+ui_journey_popup_premium_dandelion_desc;남들보다 빠르게 즉시 25레벨까지 올려 보세요.\n전설 단델라이온 스킨과 추가 장식품을 잠금 해제할 수 있습니다!
 ui_journey_popup_premium_desc;남들보다 빠르게 즉시 25레벨까지 올려 보세요.\n 전설 게롤트 스킨과 추가 장식품을 잠금 해제할 수 있습니다!
 ui_journey_popup_premium_regis_desc;남들보다 빠르게 즉시 25레벨까지 올려 보세요.\n에미엘 레지스와 추가 장식품을 잠금 해제할 수 있습니다!
 ui_journey_popup_premium_title;빠른 여행 번들
@@ -7227,16 +7324,17 @@ ui_journey_popup_premium_yen_desc;남들보다 빠르게 즉시 25레벨까지 �
 ui_journey_popup_standard_alzur_desc;전설 알주르 스킨을 즉시 잠금 해제하세요!
 ui_journey_popup_standard_aretuza_desc;아레투자 중앙 홀 게임보드를 즉시 잠금 해제하세요!
 ui_journey_popup_standard_ciri_desc;전설 시리 스킨을 즉시 잠금 해제하세요!
+ui_journey_popup_standard_dandelion_desc;전설 단델라이온 스킨을 즉시 잠금 해제하세요!
 ui_journey_popup_standard_desc;전설 게롤트 스킨을 즉시 잠금 해제하세요
 ui_journey_popup_standard_regis_desc;지금 에미엘 레지스를 잠금 해제하세요!
 ui_journey_popup_standard_title;프리미엄 패스
 ui_journey_popup_standard_triss_desc;전설 트리스 스킨을 즉시 잠금 해제하세요!
 ui_journey_popup_standard_yen_desc;전설 예니퍼 스킨을 즉시 잠금 해제하세요!
-ui_journey_popup_start_journey;레지스의 여정이 시작됐습니다! 경기를 플레이하고 주간 퀘스트를 완료하여 레지스의 이야기를 따라가 보세요. 레지스의 여러 형태로 변신하며 부대를 이끄세요!
+ui_journey_popup_start_journey;단델라이온의 여정이 시작됐습니다! 경기를 플레이하고 주간 퀘스트를 완료하여 단델라이온의 이야기를 따라가 보세요.
 ui_journey_popup_start_title;환영합니다!
 ui_journey_social_panel_week;{0}/{1}주차
 ui_journey_story_extended_next_week;게롤트의 여정은 다음 주에 계속됩니다...
-ui_journey_story_heading;죽은 자는 물지 않는다
+ui_journey_story_heading;급진적 진보주의 예술
 ui_journey_story_standard_next_week;다음 이야기는 다음 주에 계속됩니다...
 ui_journey_story_standard_title;단델라이온
 ui_journey_timer_days;{0}일
@@ -7294,10 +7392,11 @@ ui_leader_name_10044;슙
 ui_leader_name_10045;알주르
 ui_leader_name_10046;예니퍼
 ui_leader_name_10047;트리스 메리골드
+ui_leader_name_10048;에미엘 레지스 인간 형태
 ui_leader_name_10049;옥타비아 헤일
-ui_leader_name_10050;에미엘 레지스 인간 형태
-ui_leader_name_10051;에미엘 레지스 혼종
-ui_leader_name_10052;흡혈귀 레지스
+ui_leader_name_10050;에미엘 레지스 혼종
+ui_leader_name_10051;흡혈귀 레지스
+ui_leader_name_10052;단델라이온
 ui_leader_trinket_group_1_title;갑옷
 ui_leader_trinket_group_2_title;투구
 ui_leader_trinket_group_3_title;트로피
@@ -7337,6 +7436,7 @@ ui_social_panel_journey_quests;여정 퀘스트
 ui_soundtrack_group_1_title;기본
 ui_soundtrack_group_2_title;특별
 ui_soundtrack_group_3_title;아레투자 여정
+ui_soundtrack_group_5_title;단델라이온의 여정
 ui_tooltip_coins;신디케이트 세력의 추가 화폐입니다. 코인은 최대 9개까지 보유할 수 있습니다. 코인을 보유한 채 다음 라운드로 넘어가면 코인 수가 반감합니다.
 ui_vanity_inventory_change_category;카테고리 변경
 ui_vanity_inventory_equip_preview;장착
@@ -7751,6 +7851,20 @@ vanity_avatar_48355_title;고급 전술 아바타
 vanity_avatar_48356_title;뜨개질 슙 아바타
 vanity_avatar_48357_title;크리스마스 하피 아바타
 vanity_avatar_48358_title;황금 호랑이 아바타
+vanity_avatar_48359_title;황혼의 깃털 아바타
+vanity_avatar_48360_title;보랏빛 깃털 아바타
+vanity_avatar_48361_title;진홍의 깃털 아바타
+vanity_avatar_48362_title;황금빛 깃털 아바타
+vanity_avatar_48363_title;비취빛 깃털 아바타
+vanity_avatar_48364_title;포옹의 여왕 아바타
+vanity_avatar_48365_title;안긴 사람 아바타
+vanity_avatar_48366_title;단델라이온 아바타
+vanity_avatar_48367_title;딕스트라 아바타
+vanity_avatar_48368_title;진홍의 복수자 아바타
+vanity_avatar_48369_title;젊은 바드 아바타
+vanity_avatar_48370_title;매력적인 아바타
+vanity_avatar_48371_title;넘치는 사랑 아바타
+vanity_avatar_48372_title;악동 아바타
 vanity_body_80284_title;인간 검은색 코트
 vanity_body_80285_title;인간 하얀색 코트
 vanity_body_80286_title;인간 검은색 무도회 복장
@@ -7833,12 +7947,12 @@ vanity_border_30213;연인 테두리 장식
 vanity_border_30213_description;사랑의 시즌(2월) 경쟁전을 1~10000위로 완료하면 받는 보상입니다.
 vanity_border_30214;카사노바 테두리 장식
 vanity_border_30214_description;사랑의 시즌(2월) 경쟁전을 1~1000위로 완료하면 받는 보상입니다.
-vanity_border_30215;모두의 연인 테두리 장식
+vanity_border_30215;진홍의 복수자 테두리 장식
 vanity_border_30215_description;사랑의 시즌(2월) 경쟁전을 1~100위로 완료하면 받는 보상입니다.
 vanity_border_30216_title;추앙자 테두리 장식
 vanity_border_30217_title;애교만점 테두리 장식
 vanity_border_30218_title;카사노바 테두리 장식
-vanity_border_30219_title;모두의 연인 테두리 장식
+vanity_border_30219_title;진홍의 복수자 테두리 장식
 vanity_border_30226_title;어린 그리핀 테두리 장식
 vanity_border_30227_title;로얄 그리핀 테두리 장식
 vanity_border_30228_title;아크그리핀 테두리 장식
@@ -8042,6 +8156,18 @@ vanity_border_38187_title;보랏빛 꿈 테두리 장식
 vanity_border_38188_title;숲의 여인들 테두리 장식
 vanity_border_38189_title;고급 전술 테두리 장식
 vanity_border_38190_title;뜨개질 슙 테두리 장식
+vanity_border_38191_title;황혼의 복수자 테두리 장식
+vanity_border_38192_title;황금빛 복수자 테두리 장식
+vanity_border_38193_title;진홍의 복수자 테두리 장식
+vanity_border_38194_title;비취빛 복수자 테두리 장식
+vanity_border_38195_title;보랏빛 복수자 테두리 장식
+vanity_border_38196_title;포옹의 제왕 테두리 장식
+vanity_border_38197_title;안은 사람 테두리 장식
+vanity_border_38198_title;허영심 테두리 장식
+vanity_border_38199_title;음악가 테두리 장식
+vanity_border_38200_title;하프 테두리 장식
+vanity_border_38201_title;술집 테두리 장식
+vanity_border_38202_title;향수 테두리 장식
 vanity_border_38512_title;월드 마스터즈 시즌 2
 vanity_border_description_apprentice;경쟁전에서 6등급을 달성하면 받는 보상입니다.
 vanity_border_description_default;누구나 사용 가능합니다.
@@ -8143,7 +8269,7 @@ vanity_cardback_60096_title;미화 카드 뒷면
 vanity_cardback_60097_title;얼음 조각 카드 뒷면
 vanity_cardback_60098_title;비극적인 사랑 카드 뒷면
 vanity_cardback_60099_title;여행 중인 파트너 카드 뒷면
-vanity_cardback_60100_title;설날
+vanity_cardback_60100_title;황소 카드 뒷면
 vanity_cardback_60101_title;위대한 오크 나무 카드 뒷면
 vanity_cardback_60102_title;겨울 카드 뒷면
 vanity_cardback_60103_title;봄 카드 뒷면
@@ -8167,8 +8293,8 @@ vanity_cardback_60119_title;예니퍼 카드 뒷면
 vanity_cardback_60120_title;트리스 카드 뒷면
 vanity_cardback_60121_title;들개 공작 카드 뒷면
 vanity_cardback_60123_title;달임 마녀 카드 뒷면
-vanity_cardback_60124_title;속삭 마녀 카드 뒷면
-vanity_cardback_60125_title;뜨개 마녀 카드 뒷면
+vanity_cardback_60124_title;뜨개 마녀 카드 뒷면
+vanity_cardback_60125_title;속삭 마녀 카드 뒷면
 vanity_cardback_60126_title;대학살 카드 뒷면
 vanity_cardback_60127_title;무덤을 걷는 자 카드 뒷면
 vanity_cardback_60128_title;레지스와 게롤트 카드 뒷면
@@ -8177,6 +8303,10 @@ vanity_cardback_60130_title;흡혈귀 레지스 카드 뒷면
 vanity_cardback_60132_title;뜨개질 슙 카드 뒷면
 vanity_cardback_60133_title;뜨개질 슙 카드 뒷면
 vanity_cardback_60137_title;호랑이 카드 뒷면
+vanity_cardback_60138_title;단델라이온과 딕스트라 카드 뒷면
+vanity_cardback_60139_title;단델라이온과 게롤트 카드 뒷면
+vanity_cardback_60140_title;서큐버스의 연회 카드 뒷면
+vanity_cardback_60141_title;창의적인 영감 카드 뒷면
 vanity_cardback_61001_title;괴물 카드 뒷면
 vanity_cardback_61002_title;닐프가드 카드 뒷면
 vanity_cardback_61003_title;북부 왕국 카드 뒷면
@@ -8238,6 +8368,10 @@ vanity_coin_70050_title;연금술사의 동전
 vanity_coin_70051_title;무덤 동전
 vanity_coin_70052_title;피의 마법 동전
 vanity_coin_70053_title;우로보로스 동전
+vanity_coin_70054_title;류트 동전
+vanity_coin_70055_title;시 동전
+vanity_coin_70056_title;바드의 모자 동전
+vanity_coin_70057_title;향수병 동전
 vanity_deck_mon;괴물 덱
 vanity_deck_nil;닐프가드 덱
 vanity_deck_nor;북부 왕국 덱
@@ -8289,6 +8423,7 @@ vanity_gameboard_50051_title;완벽한 강령술 교실 보드
 vanity_gameboard_50052_title;위대한 오크 나무 보드
 vanity_gameboard_50053_title;사오바인 보드
 vanity_gameboard_50054_title;크리스마스 보드
+vanity_gameboard_50057_title;사랑의 축제 게임보드
 vanity_gameboard_default_title;기본 세력 보드
 vanity_h01_border_description;전문가 모드에서 마하캄 에일 축제 도전을 완료하면 받는 보상입니다.
 vanity_h01_border_title;자타공인 주당 테두리 장식
@@ -8652,6 +8787,41 @@ vanity_leader_trinket_80318_title;노란 등불 오라(인간)
 vanity_leader_trinket_80319_title;인간 붉은색 코트
 vanity_leader_trinket_80320_title;슙의 박쥐 날개
 vanity_leader_trinket_80321_title;선물 주머니
+vanity_leader_trinket_80322_title;세련된 의복
+vanity_leader_trinket_80323_title;매듭이 있는 셔츠
+vanity_leader_trinket_80324_title;버튼 달린 셔츠
+vanity_leader_trinket_80325_title;멋진 숄
+vanity_leader_trinket_80326_title;여행 중인 바드의 코트
+vanity_leader_trinket_80327_title;우아한 의상
+vanity_leader_trinket_80328_title;나팔바지
+vanity_leader_trinket_80329_title;장화
+vanity_leader_trinket_80330_title;가죽 부츠
+vanity_leader_trinket_80331_title;속옷
+vanity_leader_trinket_80332_title;여행용 바지
+vanity_leader_trinket_80333_title;우아한 바지
+vanity_leader_trinket_80334_title;바드 모자
+vanity_leader_trinket_80335_title;빨간 모자
+vanity_leader_trinket_80336_title;헤어 밴드
+vanity_leader_trinket_80337_title;바람에 휘날리는 머리
+vanity_leader_trinket_80338_title;넘치는 사랑
+vanity_leader_trinket_80339_title;진홍의 복수자
+vanity_leader_trinket_80340_title;장식된 류트
+vanity_leader_trinket_80341_title;부주키
+vanity_leader_trinket_80342_title;바글라마
+vanity_leader_trinket_80343_title;삽 기타
+vanity_leader_trinket_80344_title;발랄라이카
+vanity_leader_trinket_80345_title;류트
+vanity_leader_trinket_80346_title;기본 벨트
+vanity_leader_trinket_80347_title;붉은 장미 꽃다발
+vanity_leader_trinket_80348_title;노란 장미 꽃다발
+vanity_leader_trinket_80349_title;장미와 플루트
+vanity_leader_trinket_80350_title;축음기
+vanity_leader_trinket_80351_title;향수
+vanity_leader_trinket_80352_title;시집
+vanity_leader_trinket_80353_title;오라 없음
+vanity_leader_trinket_80354_title;음악회 오라
+vanity_leader_trinket_80355_title;술집 오라
+vanity_leader_trinket_80356_title;스포트라이트 오라
 vanity_leader_trinket_80357_title;사생아 주니어의 못난이 스웨터
 vanity_leader_trinket_80358_title;게롤트의 검
 vanity_leader_trinket_80359_title;사탕 검
@@ -8689,6 +8859,10 @@ vanity_leader_trinket_80390_title;죽음의 까마귀 오라(흡혈귀)
 vanity_leader_trinket_80391_title;붉은 등불 오라(흡혈귀)
 vanity_leader_trinket_80392_title;노란 등불 오라(흡혈귀)
 vanity_leader_trinket_80393_title;기본 벨트(혼종)
+vanity_leader_trinket_80394_title;주머니
+vanity_leader_trinket_80395_title;스크롤
+vanity_leader_trinket_80400_title;슙의 사랑의 갑옷
+vanity_leader_trinket_80401_title;왕실 여사냥꾼
 vanity_monsters_challenge_title;폭군
 vanity_nilfgaard_challenge_title;사단 지휘관
 vanity_northern_challenge_title;특등사냥꾼
@@ -9019,6 +9193,11 @@ vanity_soundtrack_90014_title;영광
 vanity_soundtrack_90015_title;몰락
 vanity_soundtrack_90016_title;새벽
 vanity_soundtrack_90017_title;핏빛 달
+vanity_soundtrack_90018_title;장엄한 모험
+vanity_soundtrack_90019_title;발라드
+vanity_soundtrack_90020_title;명작
+vanity_soundtrack_90021_title;온 세상에 사랑을
+vanity_soundtrack_90022_title;노비그라드의 선율
 vanity_title_20150_title;자원병
 vanity_title_20151_title;감독
 vanity_title_20152_title;척후병
@@ -9048,7 +9227,7 @@ vanity_title_20213_title;연인
 vanity_title_20214_description;사랑의 시즌(2월) 경쟁전을 1~1000위로 완료하면 받는 보상입니다.
 vanity_title_20214_title;카사노바
 vanity_title_20215_description;사랑의 시즌(2월) 경쟁전을 1~100위로 완료하면 받는 보상입니다.
-vanity_title_20215_title;모두의 연인
+vanity_title_20215_title;진홍의 복수자
 vanity_title_20220_title;새끼 그리핀
 vanity_title_20221_title;굶주린 부리
 vanity_title_20222_title;날카로운 발톱
@@ -9287,6 +9466,25 @@ vanity_title_28226_title;슙의 작은 도우미
 vanity_title_28227_title;고급 전술가
 vanity_title_28228_title;크리스마스 정신
 vanity_title_28229_title;황금 호랑이
+vanity_title_28230_title;포옹의 제왕
+vanity_title_28231_title;포옹의 여왕
+vanity_title_28232_title;안은 사람
+vanity_title_28233_title;안긴 사람
+vanity_title_28234_title;간호사 왕자
+vanity_title_28235_title;진홍의 복수자
+vanity_title_28236_title;억압받는 자들의 수호자
+vanity_title_28237_title;스포트라이트를 받는
+vanity_title_28238_title;유일무이
+vanity_title_28239_title;시인
+vanity_title_28240_title;연인
+vanity_title_28241_title;파티 마니아
+vanity_title_28242_title;전설
+vanity_title_28243_title;여행 중인 바드
+vanity_title_28244_title;진정한 예술가
+vanity_title_28245_title;최고의 바드
+vanity_title_28246_title;연약한 꽃
+vanity_title_28247_title;음악가
+vanity_title_28251_title;나쁜 사람
 vanity_title_30180;살무사
 vanity_title_30180_description;독사 시즌(5월) 경쟁전에서 10등급을 달성하면 받는 보상입니다.
 vanity_title_30181;방울뱀

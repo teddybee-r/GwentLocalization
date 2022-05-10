@@ -379,6 +379,7 @@ achievement_10688_desc;Trigger Patience keyword 500 times
 achievement_10688_title;To Lose Patience Is To Lose The Battle
 achievement_10689_desc;Trigger Patience keyword 1000 times
 achievement_10689_title;A Minor Form of Despair
+achievement_11000_new_desc;Win {0} matches with Monsters during the active challenge
 achievement_11001_desc;Complete 3 quests while supporting Monsters during a challenge event.
 achievement_11001_title;Minion
 achievement_11002_desc;Complete 5 quests while supporting Monsters during a challenge event.
@@ -389,6 +390,7 @@ achievement_11004_desc;Complete 15 quests while supporting Monsters during a cha
 achievement_11004_title;Sycophant
 achievement_11005_desc;Complete 25 quests while supporting Monsters during a challenge event.
 achievement_11005_title;Colossus
+achievement_11010_new_desc;Win {0} matches with Skellige during the active challenge
 achievement_11011_desc;Complete 3 quests while supporting Skellige during a challenge event.
 achievement_11011_title;Raider
 achievement_11012_desc;Complete 5 quests while supporting Skellige during a challenge event.
@@ -399,6 +401,7 @@ achievement_11014_desc;Complete 15 quests while supporting Skellige during a cha
 achievement_11014_title;First Mate
 achievement_11015_desc;Complete 25 quests while supporting Skellige during a challenge event.
 achievement_11015_title;Pirate Captain
+achievement_11020_new_desc;Win {0} matches with Northern Realms during the active challenge
 achievement_11021_desc;Complete 3 quests while supporting Northern Realms during a challenge event.
 achievement_11021_title;Rookie
 achievement_11022_desc;Complete 5 quests while supporting Northern Realms during a challenge event.
@@ -409,6 +412,7 @@ achievement_11024_desc;Complete 15 quests while supporting Northern Realms durin
 achievement_11024_title;Patriot
 achievement_11025_desc;Complete 25 quests while supporting Northern Realms during a challenge event.
 achievement_11025_title;For King and Country
+achievement_11030_new_desc;Win {0} matches with Nilfgaard during the active challenge
 achievement_11031_desc;Complete 3 quests while supporting Nilfgaard during a challenge event.
 achievement_11031_title;Spy
 achievement_11032_desc;Complete 5 quests while supporting Nilfgaard during a challenge event.
@@ -419,6 +423,7 @@ achievement_11034_desc;Complete 15 quests while supporting Nilfgaard during a ch
 achievement_11034_title;Spymaster
 achievement_11035_desc;Complete 25 quests while supporting Nilfgaard during a challenge event.
 achievement_11035_title;Emperor's Will
+achievement_11040_new_desc;Win {0} matches with Scoia'tael during the active challenge
 achievement_11041_desc;Complete 3 quests while supporting Scoia'tael during a challenge event.
 achievement_11041_title;Insurgent
 achievement_11042_desc;Complete 5 quests while supporting Scoia'tael during a challenge event.
@@ -429,11 +434,13 @@ achievement_11044_desc;Complete 15 quests while supporting Scoia'tael during a c
 achievement_11044_title;Zealot
 achievement_11045_desc;Complete 25 quests while supporting Scoia'tael during a challenge event.
 achievement_11045_title;Commando Leader
+achievement_11050_new_desc;Win {0} matches with Syndicate during the active challenge
 achievement_11051_title;Errand Boy
 achievement_11052_title;Petty Criminal
 achievement_11053_title;Lieutenant
 achievement_11054_title;Right Hand Man
 achievement_11055_title;Head Honcho
+achievement_11060_new_desc;Complete {0} challenge quests
 achievement_11061_title;Help for hire!
 achievement_11062_title;Mediator
 achievement_11063_title;Freelancer
@@ -1652,7 +1659,7 @@ achievement_90097_desc;Reach level 100 in Yennefer's Extended Journey
 achievement_90097_title;Early Bird
 achievement_90098_desc;Play 200 games with any of Yennefer's outfit
 achievement_90098_title;In for the long run
-achievement_90100_desc;Play 1 games with Yennefer's Battle Mage outfit 
+achievement_90100_desc;Play 1 game with Yennefer's Battle Mage outfit 
 achievement_90100_title;Warming up
 achievement_90101_desc;Play 5 games with Yennefer's Battle Mage outfit 
 achievement_90101_title;Primed for battle
@@ -1844,6 +1851,67 @@ achievement_90253_title;Making The Same Mistake Twice
 achievement_90254_title;Crones Love The Trinity
 achievement_90256_title;Ominous Stare
 achievement_90257_title;Family Heirloom
+achievement_90259_desc;Complete 5 Dandelion's Journey quests
+achievement_90259_title;Perform in Front of a Mirror
+achievement_90260_desc;Complete 10 Dandelion's Journey quests
+achievement_90260_title;A Show for Friends and Family
+achievement_90261_desc;Complete 20 Dandelion's Journey quests
+achievement_90261_title;Village Entertainment
+achievement_90262_desc;Complete all Dandelion's Journey quests
+achievement_90262_title;Entertain in the Tavern
+achievement_90263_desc;Complete all Standard Dandelion's Journey Quests
+achievement_90263_title;Main Star of the Festival
+achievement_90264_desc;Complete all Extended Dandelion's Journey Quests
+achievement_90264_title;Royal Court Musician
+achievement_90265_desc;Reach level 100 in Dandelion's Standard and Extended Journey
+achievement_90265_title;Proud of Myself
+achievement_90266_desc;Reach level 100 in Dandelion's Standard Journey
+achievement_90266_title;Proud Friend of Julian Alfred Pankratz
+achievement_90267_desc;Reach level 100 in Dandelion's Extended Journey
+achievement_90267_title;Proud Associate of Sigismund Dijkstra
+achievement_90269_desc;Play 1 game with Dandelion's Stylish Shawl or Elegant Outfit
+achievement_90269_title;Loved by Many
+achievement_90270_desc;Play 5 games with Dandelion's Stylish Shawl or Elegant Outfit
+achievement_90270_title;True Artist & Visionary
+achievement_90271_desc;Play 10 games with Dandelion's Stylish Shawl or Elegant Outfit
+achievement_90271_title;Incorrigible Optimist
+achievement_90272_desc;Play 20 games with Dandelion's Stylish Shawl or Elegant Outfit
+achievement_90272_title;Free Spirit
+achievement_90273_desc;Play 30 games with Dandelion's Stylish Shawl or Elegant Outfit
+achievement_90273_title;With Glamorous Style
+achievement_90275_desc;Play 1 game with Dandelion's Buttoned Shirt or Travelling Bard Coat
+achievement_90275_title;The Best Poet
+achievement_90276_desc;Play 5 games with Dandelion's Buttoned Shirt or Travelling Bard Coat
+achievement_90276_title;The Best Bard
+achievement_90277_desc;Play 10 games with Dandelion's Buttoned Shirt or Travelling Bard Coat
+achievement_90277_title;The Best Lyrist
+achievement_90278_desc;Play 20 games with Dandelion's Buttoned Shirt or Travelling Bard Coat
+achievement_90278_title;The Best Troubadour
+achievement_90279_desc;Play 30 games with Dandelion's Buttoned Shirt or Travelling Bard Coat
+achievement_90279_title;Just the Best
+achievement_90281_desc;Play 1 game with Dandelion's Red Roses Bouquet or Concert Aura equipped
+achievement_90281_title;Among Thorns Grow Roses
+achievement_90282_desc;Play 5 games with Dandelion's Red Roses Bouquet or Concert Aura equipped
+achievement_90282_title;Art is Like a Delicate Flower
+achievement_90283_desc;Play 10 games with Dandelion's Red Roses Bouquet or Concert Aura equipped
+achievement_90283_title;Meeting in the Valley of Flowers
+achievement_90284_desc;Play 20 games with Dandelion's Red Roses Bouquet or Concert Aura equipped
+achievement_90284_title;Love is the Flower You've Got to Let Grow
+achievement_90285_desc;Play 30 games with Dandelion's Red Roses Bouquet or Concert Aura equipped
+achievement_90285_title;Love Sees Roses Without Thorns
+achievement_90287_desc;Play 1 game with any Dandelion's Journey music tracks equipped
+achievement_90287_title;Performer
+achievement_90288_desc;Play 5 games with any Dandelion's Journey music tracks equipped
+achievement_90288_title;Musician
+achievement_90289_desc;Play 10 games with any Dandelion's Journey music tracks equipped
+achievement_90289_title;Soloist
+achievement_90290_desc;Play 20 games with any Dandelion's Journey music tracks equipped
+achievement_90290_title;Virtuoso
+achievement_90295_title;The Return of the Queen
+achievement_90296_title;Help King Eist Tuirseach
+achievement_90297_title;Help Queen Calanthe
+achievement_90298_title;Help Sigismund Dijkstra
+achievement_90299_title;Help Philippa Eilhart
 achievement_category_arena;Arena
 achievement_category_collection;Collection
 achievement_category_expansions;expansions
@@ -1854,6 +1922,7 @@ achievement_category_mastery;Mastery
 achievement_category_ranked;Ranked
 achievement_category_seasonal;Seasonal
 achievement_category_singleplayer;The Witcher Tales
+achievement_complete_love_event;Help all characters of the Love Event
 achievement_complete_x_aretuza_quests;Complete {0} Aretuza Journey quests
 achievement_complete_x_regis_quests;Complete {0} Regis' Journey quests
 achievement_geralt_winter_event;Win {0} matches with Geralt skin equipped
@@ -2147,6 +2216,8 @@ arenav2_newdraft_disabled_tooltip;Matches until new draft is unlocked: {0}
 arenav2_optin_update_notification_description;New Draft version available! You can continue your current Draft, though the new version may contain balance updates and/or special time-limited mechanics. Current Draft version will soon be scheduled for closing.
 arenav2_play_menu_description;Welcome to Draft. Compete with others in this ever-changing deckbuilding game mode.
 arenav2_play_menu_title;Draft
+arenav2_rewards_timeout_description;Failed to display the rewards
+arenav2_rewards_timeout_title;Rewards Display Error
 arenav2_show_deck_tooltip;Show deck
 arenav2_summary_newdraft;Draft again
 arenav2_summary_rewards;Your rewards:
@@ -3734,12 +3805,12 @@ interface_card_choice_8;Pick a card to reveal
 interface_card_choice_opponent;Opponent is making a choice
 interface_challenge_6100_abilities_subtitle;Test your might with brand new Year of the Wererat abilities
 interface_challenge_6100_abilities_title;Year of the Wererat Abilities Challenge
-interface_challenge_acknowledge_button;Help the next Crone
+interface_challenge_acknowledge_button;Help next side
 interface_challenge_arena_event;Arena Event
 interface_challenge_arena_event_desc;The winner of the challenge will unlock a faction-specific Special Arena Mode.
 interface_challenge_arena_event_title;Arena Event
 interface_challenge_arena_results;A new Special Arena Mode will become available in the Arena.
-interface_challenge_available_description;Help Crones to prepare for Saovine
+interface_challenge_available_description;Help lovers reunite
 interface_challenge_bards_side;Bards
 interface_challenge_belleteyn_ornaments_desc;Belleteyn ornaments based on the challenge's winner will be cheaper in the shop.
 interface_challenge_c_rewards_title;Challenge Victor
@@ -3779,6 +3850,15 @@ interface_challenge_leader_arena_results;The winner of the challenge will unlock
 interface_challenge_leader_exp_results;Bonus experience gained when playing as the victorious leader in any game mode.
 interface_challenge_leader_experience_boost_desc;Bonus experience gained when playing as the victorious leader in any game mode.
 interface_challenge_look_at_rewards;Check my treasures
+interface_challenge_love_2022_acknowledge_button;My Job Here Is Done
+interface_challenge_love_2022_reward_title_0;For helping everyone you'll receive:
+interface_challenge_love_2022_reward_title_0_0;For helping King Eist you'll receive:
+interface_challenge_love_2022_reward_title_0_1;For helping Queen Calanthe you'll receive:
+interface_challenge_love_2022_reward_title_0_2;For helping Dijkstra you'll receive:
+interface_challenge_love_2022_reward_title_0_3;For helping Philippa you'll receive:
+interface_challenge_love_2022_rules;Help famous characters to find each other!
+interface_challenge_love_2022_rules_completed;Well done, you've reunited lovers who can finally rest in each other's arms.
+interface_challenge_love_2022_title;Love Event
 interface_challenge_min_shortcut;{0} m
 interface_challenge_neu_arena_event;The winner of the challenge will unlock a specific Special Arena Mode.
 interface_challenge_neu_arena_results;The winner of the challenge will unlock a specific Special Arena Mode.
@@ -4920,6 +5000,7 @@ rb_ftux_hint_firstquestclaimed;All quests, including ones from the Reward Book, 
 rb_ftux_hint_rewardbookopened;Welcome to the Reward Book! Choose a faction tree to get started.
 rb_ftux_hint_treeentered;Each tree has a sequence of rewards, unlocked with keys that can be earned from playing the game. Claim one now.
 rb_ftux_notification_button;View
+rb_ftux_notification_locked_tabs;The other Reward Book tabs will unlock after the completion of at least one tree
 rb_ftux_notification_open_book;There's something new in the Reward Book
 rb_ftux_notification_open_quest;You've accepted a New Quest
 read_eula_button;View User Agreement
@@ -5667,6 +5748,7 @@ reward_tree_svalblod_story_pt2;Svalblod is an incarnation of both man and bear i
 reward_tree_svalblod_story_pt3;His acolytes would take a hallucinogenic decoction before heading deep within a cave at the heart of Ard Skellig. Once there, the cavern's bears would feast upon them alive. Then, like parasites, the cultists would seize control of the beasts' bodies.
 reward_tree_svalblod_story_pt4;The jarls of the Skellige Isles at last decided to put an end to the practice. They seized Svalblod's followers, bound them to longships, and cast them out to the high sea without a sail to guide them. This was to be the final blow to eradicate the cult once and for all. Alas... It is not so easy to kill a god.
 reward_tree_svalblod_title;Svalblod
+reward_tree_syndicate_ftux_title;Syndicate
 reward_tree_tb_story_pt1;When Meve left for the summit of sovereigns in Hagge, she instructed her chamber steward to prepare for her imminent return. A year passed before the queen would again sleep in her own bed.
 reward_tree_tb_story_pt2;In the interim, Lyria and Rivia were conquered by Nilfgaard. Their seizure elicited only a few trite sentences from the mouths of imperial emissaries who brought word to the emperor. After all, what were these backwater lands in the greater scheme of Emhyr var Emreis' far-reaching ambitions?
 reward_tree_tb_story_pt3;Queen Meve refused to lay down her arms, though few believed she stood a chance to reclaim her homeland. Though as history tells us, the people of the Continent would soon be surprised... None more so than the Nilfgaardians.
@@ -5737,7 +5819,7 @@ reward_tree_warrior_border_story_pt4;Alas, kings and queens refuse to take heed.
 reward_tree_warrior_border_title;Season of the Warrior
 reward_tree_wererat_title;Year of Wererat
 reward_tree_whoreson_junior_title;Whoreson Junior
-reward_tree_wild_boar_chest_1;The combative, warrior-like nature of boars makes them them a popular choice in heraldry. They appear most infamously on the von Everec coat of arms from which Olgierd, the leader of the Redanian Free Company, is descended. And contrary to what some landlocked folk on the Continent would have you believe, the Wild Boar of the Sea is the moniker given to Skelligan jarl Crach an Craite and his longship. There are no known varieties of boar indigenous to the waters of the Great Sea.
+reward_tree_wild_boar_chest_1;The combative, warrior-like nature of boars makes them a popular choice in heraldry. They appear most infamously on the von Everec coat of arms from which Olgierd, the leader of the Redanian Free Company, is descended. And contrary to what some landlocked folk on the Continent would have you believe, the Wild Boar of the Sea is the moniker given to Skelligan jarl Crach an Craite and his longship. There are no known varieties of boar indigenous to the waters of the Great Sea.
 reward_tree_wild_boar_story_pt1;The boar is a woodland creature, and an ornery, aggressive one at that. On the outskirts of Kaedwen, a rumor circulates that the beasts have a taste for virgin blood... Of course, the truth is much simpler: boars are perfectly content with vegetables – even just a few earthy carrots.
 reward_tree_wild_boar_story_pt2;Mother nature endowed the boar with two pairs of sharp, protruding tusks – the upper and lower canines. Truly, a formidable beast. Woe betide any who encounters a wild boar in the forest and has difficulty climbing trees...
 reward_tree_wild_boar_story_pt3;Boars have a firm, elongated snout that somewhat resembles a flute, though of course, sadly, cannot be used as such. Folk often claim it's as if boars hold a grudge against nature's cruel irony – that's what drives them to overturn fences and ransack their potato patches.
@@ -5895,7 +5977,7 @@ shop_blood_and_many_legs_pack_title;Blood and Many Legs Pack
 shop_button_vanities;Ornaments
 shop_cara_bundle_desc;<sprite="PopupIcons" name="Avatar"> Caranthir Avatar\n\n<sprite="PopupIcons" name="Border"> Wild Hunt King Border\n\n<sprite="PopupIcons" name="Title"> "Omen of war" Title\n\nThis bundle contains ornaments first introduced as unlockable items during the Season of the Wild Hunt in the Year of the Wild Boar.
 shop_cara_bundle_title;Caranthir Bundle
-shop_casanova_bundle_desc;<sprite="PopupIcons" name="Avatar"> Dandelion Avatar\n\n<sprite="PopupIcons" name="Border"> Casanova Border\n\n<sprite="PopupIcons" name="Title"> "True Romantic" Title\n\nThis bundle contains ornaments first introduced as unlockable items during the Season of Love in the Year of the Wild Boar - along with a new special bonus item!
+shop_casanova_bundle_desc;<sprite="PopupIcons" name="Avatar"> Dandelion Avatar\n\n<sprite="PopupIcons" name="Border"> Casanova Border\n\n<sprite="PopupIcons" name="Title"> "True Romantic" Title\n\nThis bundle contains ornaments first introduced as unlockable items during the Season of Love in the Year of the Wild Boar.
 shop_casanova_bundle_title;Casanova Bundle
 shop_category_dungeon_keys;Dungeon keys
 shop_category_esport;E-Sport
@@ -6072,7 +6154,7 @@ shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> Undyi
 shop_data_ep2_alt_cardback_title;Undying Fire Animated Cardback
 shop_data_ep3_alt_leader_skin_bundle_desc;<sprite="PopupIcons" name="Skin">Zerrikanian Radovid Premium Skin\n\nAlternative appearance for King Radovid V. Don’t miss out!
 shop_data_ep3_alt_leader_skin_bundle_title;Zerrikanian Radovid Premium Skin
-shop_data_ep4_caravan_pack_desc;Fortune favours the bold! Get your hands on the most precious Ofiri treasures - 12 premium Stratagems cards! Each Stratagem provides a unique bonus to the player who goes first in the match.This pack contains:\n\n<sprite="PopupIcons" name="Card">Magic Lamp Premium Card\n<sprite="PopupIcons" name="Card">Crystal Skull Premium Card\n<sprite="PopupIcons" name="Card">Enchanted Armor Premium Card\n<sprite="PopupIcons" name="Card">Cursed Scroll Premium Card\n<sprite="PopupIcons" name="Card">Basilisk Venom Premium Card\n<sprite="PopupIcons" name="Card">Ceremonial Dagger Premium Card\n<sprite="PopupIcons" name="Card">Collar Premium Card\n<sprite="PopupIcons" name="Card">Engineering solution Premium Card\n<sprite="PopupIcons" name="Card">Mask of Uroboros Premium Card\n<sprite="PopupIcons" name="Card">Urn of Shadows Premium Card\n<sprite="PopupIcons" name="Card">Aen Seidhe Sabre Premium Card\n<sprite="PopupIcons" name="Card">Tiger's Eye Premium Card
+shop_data_ep4_caravan_pack_desc;<sprite="PopupIcons" name="Card">Magic Lamp Premium Card\n<sprite="PopupIcons" name="Card">Crystal Skull Premium Card\n<sprite="PopupIcons" name="Card">Enchanted Armor Premium Card\n<sprite="PopupIcons" name="Card">Cursed Scroll Premium Card\n<sprite="PopupIcons" name="Card">Basilisk Venom Premium Card\n<sprite="PopupIcons" name="Card">Ceremonial Dagger Premium Card\n<sprite="PopupIcons" name="Card">Collar Premium Card\n<sprite="PopupIcons" name="Card">Engineering Solution Premium Card\n<sprite="PopupIcons" name="Card">Mask of Uroboros Premium Card\n<sprite="PopupIcons" name="Card">Urn of Shadows Premium Card\n<sprite="PopupIcons" name="Card">Aen Seidhe Sabre Premium Card\n<sprite="PopupIcons" name="Card">Tiger's Eye Premium Card\n\nFortune favours the bold! Get your hands on the most precious Ofiri treasures - 12 premium Stratagems cards! Each Stratagem provides a unique bonus to the player who goes first in the match.
 shop_data_ep4_caravan_pack_title;Caravan Raid Pack
 shop_data_ep4_premium_keg_desc;Available for a limited time only, Merchants of Ofir Premium Kegs are a means of bolstering your GWENT card collection with additional animated cards from the Merchants of Ofir expansion.\n\nOnce opened, this keg will grant you 5 Premium cards from the Merchants of Ofir expansion, 4 of which are of at least common rarity, and a 5th (chosen from 3 cards) that is guaranteed at least rare rarity.
 shop_data_ep4_premium_keg_title;Merchants of Ofir Premium Keg
@@ -6269,7 +6351,7 @@ shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="
 shop_data_now_available_ promo_desc;Now Available!
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin"> Green Cricket skin (Monsters)\n\n<sprite="PopupIcons" name="Board"> Forgotten board\n\nNature has taken over! Ain't it pretty?\n\nThis Bundle was introduced to support GWENT Open 2 during the Year of the Wererat.
 shop_data_overgrown_bundle_title;Overgrown Bundle (GWENT Open 2)
-shop_data_passiflora_bundle_desc;Lovely companionship, sublime taste and the top GWENT players in the Free City... Celebrate the best of Novigrad with the Passiflora Bundle! It includes:\n\n <sprite="PopupIcons" name="Border"> Passiflora Border\n\n <sprite="PopupIcons" name="Avatar"> Amrynn, Narcissa and Viola Avatars\n\n <sprite="PopupIcons" name="Title"> “Passiflora Champion” Title
+shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> Passiflora Champion Border\n\n<sprite="PopupIcons" name="Avatar"> Amrynn Avatar\n\n<sprite="PopupIcons" name="Avatar"> Narcissa Avatar\n\n<sprite="PopupIcons" name="Avatar"> Viola Avatar\n\n<sprite="PopupIcons" name="Title"> “Passiflora Champion” title\n\nCelebrate the best Novigrad’s Passiflora has to offer with the Passiflora Bundle!
 shop_data_passiflora_bundle_title;Passiflora Bundle
 shop_data_premium_cc_keg_desc;Once opened, this keg will grant you 5 <b>Premium</b> cards from the Crimson Curse expansion, 4 of which will be at least common rarity, and a 5th (chosen from 3 cards) that is guaranteed at least rare rarity.
 shop_data_premium_cc_keg_title;Premium Crimson Curse Keg
@@ -6325,6 +6407,8 @@ shop_data_skellige_keg_7_title;Skellige Keg x7
 shop_data_skellige_keg_7_title_gaea;Scraps x18, Skellige Keg x7
 shop_data_skellige_keg_desc;Once opened, this keg will grant you 5 Skellige cards from any set, 4 of which are of at least common rarity, and a 5th (chosen from 3 cards) that is guaranteed at least rare rarity.
 shop_data_skellige_keg_title;Skellige Keg(s)
+shop_data_skin_dana_love_desc;<sprite="PopupIcons" name="Skin"> Love Goddess Skin\n\nTake command with an aura of love and divinity with this new leader skin for Dana Meadbh.
+shop_data_skin_dana_love_title;Love Goddess Skin
 shop_data_special_premium_keg_desc;Only available for purchase with scraps. Once opened, this special keg will grant you 5 <b>Premium</b> cards from any set, 4 of which are of at least common rarity, and a 5th (chosen from 3 cards) that is guaranteed at least rare rarity.
 shop_data_special_premium_keg_title;Special Premium Keg
 shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board"> Spring Board\n\n<sprite="PopupIcons" name="CardBack"> Spring Cardback\n\nPurchasing this product helps to support GWENT esports; 30% of proceeds from the pack will directly boost the prize pool for the GWENT Masters, which takes place in December 2021!
@@ -6450,6 +6534,8 @@ shop_great_oak_year_bundle_desc;<sprite="PopupIcons" name="Avatar">Evil Familiar
 shop_great_oak_year_bundle_title;The Great Oak Bundle
 shop_ida_emean_bundle_desc;<sprite="PopupIcons" name="Avatar">Ida Emean Avatar\n\n<sprite="PopupIcons" name="Border">Elven Portal Border\n\n<sprite="PopupIcons" name="Title">"Aen Saevherne" Title\n\nThis bundle allows you to obtain ornaments first introduced as unlockable items during the Season of the Elves in the Year of the Wererat.
 shop_ida_emean_bundle_title;Ida Emean's Bundle
+shop_iris&olgierd_desc;<sprite="PopupIcons" name="CardBack"> Tragic Love Cardback\n\n<sprite="PopupIcons" name="Avatar"> Iris von Everec Avatar\n\n<sprite="PopupIcons" name="Avatar"> Olgierd Avatar\n\n<sprite="PopupIcons" name="Border"> Easel Border\n\n<sprite="PopupIcons" name="Title"> "Heartbroken" Title\n\nLove is patient, love is kind, but sometimes it's also tragic and causing broken hearts.\nThis bundle contains ornaments first introduced as unlockable items during the Love Event in the Year of the Great Oak.
+shop_iris&olgierd_title;Iris' & Olgierd's Bundle
 shop_ivo_bundle_desc;<sprite="PopupIcons" name="Avatar"> Ivo of Belhaven Avatar\n\n<sprite="PopupIcons" name="Border"> Bear Guardian Border\n\n<sprite="PopupIcons" name="Title"> "of Belhaven" Title\n\nShow your affinity for the School of the Bear! This bundle contains ornaments first introduced as unlockable items during the Season of Bear in the Year of the Wererat.
 shop_ivo_bundle_title;Ivo's Bundle
 shop_keg_category_all;All Cards
@@ -6472,6 +6558,8 @@ shop_leaders_syndicate_desc;Time to have a bloody good fun!\n\nGet 2 new Syndica
 shop_leaders_syndicate_title;Thugs Pack
 shop_love_cardback_desc;Fall in love!\n\nThis cardback was first introduced as an unlockable item during the Season of Love in the Year of the Wild Boar.
 shop_love_cardback_title;Love Cardback
+shop_love_festival_gameboard_desc;<sprite="PopupIcons" name="Board"> Festival of Love Gameboard\n\nCelebrate Festival of Love, even Novigrad's cutthroats do!
+shop_love_festival_gameboard_title;Festival of Love Gameboard
 shop_lubberkin_bundle_desc;<sprite="PopupIcons" name="Avatar"> Lubberkin Avatar\n\n<sprite="PopupIcons" name="Border"> Lubberkin Border\n\n<sprite="PopupIcons" name="Title"> "Lubberkin" Title\n\nCelebrate the arrival of the Season of Love and give a hug to this charming guardian spirit.
 shop_lubberkin_bundle_title;Lubberkin Bundle
 shop_lucky_bundle_desc;<sprite="PopupIcons" name="Coin"> Lucky Coin\n\n<sprite="PopupIcons" name="Title"> "The Lucky One" Title\n\nBoost your luck with this coin.
@@ -6492,6 +6580,9 @@ shop_packs_category_2;Starter Packs
 shop_popular;Popular Items
 shop_powder_section_description;Meteorite Powder lets you transmute cards you own into premium versions, which include animations and other enhanced effects.
 shop_powder_section_title;Meteorite Powder
+shop_priscilla&dandelion_desc;<sprite="PopupIcons" name="CardBack"> Touring Partners Cardback\n\n<sprite="PopupIcons" name="Avatar"> Touring Dandelion Avatar\n\n<sprite="PopupIcons" name="Avatar"> Touring Priscilla Avatar\n\n<sprite="PopupIcons" name="Border"> Touring Stage Border\n\n<sprite="PopupIcons" name="Title"> "Touring Poet" Title\n\nLove can come in many forms, including touring partners.\nThis bundle contains ornaments first introduced as unlockable items during the Love Event in the Year of the Great Oak.
+shop_priscilla&dandelion_title;Priscilla's & Dandelion's Bundle
+shop_product_timer_label;Available for:
 shop_questionable_morality_pack_desc;Hold out baits to entice the enemy. Feign disorder, and crush them.\n\nGet 2 new Syndicate Legendary cards, King of Beggars and Cyrus Engelkind Hemmelfart, as well as 6 other cards supporting Syndicate archetype.\n\nThis pack contains:\n<sprite="PopupIcons" name="Card">1 King of Beggars Premium Card\n<sprite="PopupIcons" name="Card">1 Cyrus Engelkind Hemmelfart Premium Card\n<sprite="PopupIcons" name="Card">1 Adriano the Mink Premium Card (Epic)\n<sprite="PopupIcons" name="Card">1 Lieutenant von Herst Premium Card (Epic)\n<sprite="PopupIcons" name="Card">2 Salamandra Mage Premium Cards (Rare)\n<sprite="PopupIcons" name="Card">2 Cleric of the Flaming Rose Premium Cards (Rare)
 shop_questionable_morality_pack_title;Questionable Morality Pack
 shop_sale;On Sale
@@ -6517,6 +6608,8 @@ shop_shupe_leafhat_bundle_desc;<sprite="PopupIcons" name="Skin">Shupe Base Skin 
 shop_shupe_leafhat_bundle_title;Shupe's Four-leaf Bundle
 shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> Four-Leaf Hat \n\nGet lucky with this offer.\n\nThis is a game of skill, not luck. But a little luck won't hurt!\nNote: This item is also available as part of the Four-leaf's Bundle offer.
 shop_shupe_leafhat_trinket_title;Shupe's Four-leaf Trinket
+shop_shupe_love_armour_desc;<sprite="PopupIcons" name="Trinket"> Shupe's Armour of Love\n\nDon this Armour of Love and see that no foe withstands your presence!
+shop_shupe_love_armour_title;Shupe's Armour of Love
 shop_shupe_love_avatar_desc;Accept some love from your favourite shupkeeper and claim this free plushie Shupe avatar!\n\nAvailable only during the Love Event.
 shop_shupe_love_avatar_title;Free Shupe Avatar!
 shop_shupe_love_bundle_desc;<sprite="PopupIcons" name="Skin">Shupe Base Skin (All factions)\n\n<sprite="PopupIcons" name="Trinket">Small Wings \n\n<sprite="PopupIcons" name="Title"> "In Love" title \n\nA lot of love from SHUPE to you. SHUPE help you find the right creature.\nSHUPE cannot really fly.
@@ -6637,6 +6730,7 @@ switch_app_popup_desc;This will close Gwent and launch Thronebreaker.
 switch_app_popup_title;Switch to Thronebreaker
 syn_fluff_description;Some fight for honor, others for empire. Some fight for king, others for freedom. The members of the Syndicate fight for but one purpose – wealth. If you've the means to afford their services, they will perform whatever deed you require... No matter how heinous. In the criminal underworld, it is through crime you build your reputation and fill your purse. While the city's economy thrives on the Novigradian Crown, its underbelly revolves around coin of a different sort. When exchanged as payment, an inviolable pact has been sealed. And those foolish enough to break it shall be hunted down and forced to pay a far greater price.
 syn_fluff_title;Syndicate
+syndicate_preset_deck_name;Syndicate Starter Deck
 tap_to_begin;Tap to Begin
 taunt_comment;Brings Back Memories
 taunt_curses;Dammit!
@@ -6729,7 +6823,7 @@ tracked_action_play_x_cards_with_skellige;Play {0} cards using a Skellige deck.
 tracked_action_play_x_cards_with_specter_keyword;Play {0} cards with Specter category
 tracked_action_play_x_cards_with_summon_keyword;Play {0} cards with Summon keyword
 tracked_action_play_x_cards_with_supported_factions;Play {0} cards with decks from your supported factions.
-tracked_action_play_x_cards_with_syndicate;Play {0} cards using a Syndicate deck.
+tracked_action_play_x_cards_with_syndicate;Play {0} cards with the Syndicate faction.
 tracked_action_play_x_cards_with_tidecloaks_tag;Play {0} cards with the Tidecloaks category.
 tracked_action_play_x_classic_matches;Play {0} matches in Standard mode
 tracked_action_play_x_defender_cards;Play {0} cards with the Defender keyword
@@ -7153,6 +7247,7 @@ ui_cardback_group_25_title;Triss' Journey
 ui_cardback_group_27_title;Thanedd Coup
 ui_cardback_group_28_title;Aretuza Journey
 ui_cardback_group_3_title;Wererat Seasons
+ui_cardback_group_30_title;Dandelion's Journey
 ui_cardback_group_4_title;Crimson Curse Expansion
 ui_cardback_group_5_title;Novigrad Expansion
 ui_cardback_group_6_title;Iron Judgment Expansion
@@ -7164,6 +7259,7 @@ ui_coin_group_11_title;Triss' Journey
 ui_coin_group_12_title;Expansion
 ui_coin_group_13_title;Special occasions
 ui_coin_group_14_title;Aretuza Journey
+ui_coin_group_17_title;Dandelion's Journey
 ui_coin_group_2_title;Geralt's Journey
 ui_coin_group_3_title;Ciri's Journey
 ui_coin_group_4_title;Cyberpunk 2077
@@ -7212,13 +7308,14 @@ ui_journey_main_panel_standard_path;Standard
 ui_journey_main_panel_story;Journey Story
 ui_journey_new_quests;The next set of quests will come next week...
 ui_journey_popup_congratulation;Congratulations!
-ui_journey_popup_finish_journey;You've followed Regis' Journey! Transform yourself and rip your enemies apart with all the power you've obtained!
+ui_journey_popup_finish_journey;You've finished Dandelion's Journey! Cherish souvenirs and trinkets you've gathered on the way, wear proudly your new outfits!
 ui_journey_popup_journey_end;The Journey has ended - gaining crown pieces will grant you Reward Points
 ui_journey_popup_premium_alzur_desc;Get a head start and unlock 25 levels instantly.\nUnlock the legendary Alzur skin and additional ornaments!
 ui_journey_popup_premium_aretuza_desc;Get a head start and unlock 25 levels instantly.\n Unlock Aretuza Main Hall gameboard and additional ornaments!
 ui_journey_popup_premium_button;One-time deal
 ui_journey_popup_premium_ciri_desc;Get a head start and unlock 25 levels instantly.\n Unlock Legendary Ciri skin and additional ornaments!
 ui_journey_popup_premium_ciri_title;Premium Pass +25 levels
+ui_journey_popup_premium_dandelion_desc;Get a head start and unlock 25 levels instantly.\n Unlock legendary Dandelion skin and additional ornaments!
 ui_journey_popup_premium_desc;Get a head start and unlock 25 levels instantly.\n Unlock the legendary Geralt skin and additonal ornaments!
 ui_journey_popup_premium_regis_desc;Get a head start and unlock 25 levels instantly.\n Unlock Emiel Regis and additional ornaments!
 ui_journey_popup_premium_title;Fast Travel Bundle
@@ -7227,16 +7324,17 @@ ui_journey_popup_premium_yen_desc;Get a head start and unlock 25 levels instantl
 ui_journey_popup_standard_alzur_desc;Unlock the legendary Alzur skin immediately!
 ui_journey_popup_standard_aretuza_desc;Unlock Aretuza Main Hall gameboard immediately!
 ui_journey_popup_standard_ciri_desc;Unlock Legendary Ciri skin immediately!
+ui_journey_popup_standard_dandelion_desc;Unlock legendary Dandelion skin immediately!
 ui_journey_popup_standard_desc;Unlock the legendary Geralt skin immediately
 ui_journey_popup_standard_regis_desc;Unlock Emiel Regis now!
 ui_journey_popup_standard_title;Premium Pass
 ui_journey_popup_standard_triss_desc;Unlock legendary Triss skin immediately!
 ui_journey_popup_standard_yen_desc;Unlock legendary Yennefer skin immediately!
-ui_journey_popup_start_journey;Regis' Journey begins! Follow his story by playing matches and completing weekly quests. Lead your armies as Regis' multiple forms!
+ui_journey_popup_start_journey;Dandelion's Journey begins! Follow his story by playing matches and completing weekly quests!
 ui_journey_popup_start_title;Welcome!
 ui_journey_social_panel_week;WEEK {0} / {1}
 ui_journey_story_extended_next_week;The next part of Geralt's Journey will come next week...
-ui_journey_story_heading;The dead don't bite
+ui_journey_story_heading;Radically Liberal Arts
 ui_journey_story_standard_next_week;The next part of the Story will come next week...
 ui_journey_story_standard_title;Dandelion
 ui_journey_timer_days;{0} DAYS
@@ -7294,10 +7392,11 @@ ui_leader_name_10044;Shupe
 ui_leader_name_10045;Alzur
 ui_leader_name_10046;Yennefer
 ui_leader_name_10047;Triss Merigold
+ui_leader_name_10048;Emiel Regis Human Forms
 ui_leader_name_10049;Octavia Hale
-ui_leader_name_10050;Emiel Regis Human Forms
-ui_leader_name_10051;Emiel Regis Half-Breed
-ui_leader_name_10052;Regis the Vampire
+ui_leader_name_10050;Emiel Regis Half-Breed
+ui_leader_name_10051;Regis the Vampire
+ui_leader_name_10052;Dandelion
 ui_leader_trinket_group_1_title;Armor
 ui_leader_trinket_group_2_title;Headgear
 ui_leader_trinket_group_3_title;Trophies
@@ -7337,6 +7436,7 @@ ui_social_panel_journey_quests;Journey Quests
 ui_soundtrack_group_1_title;Basic
 ui_soundtrack_group_2_title;Special
 ui_soundtrack_group_3_title;Aretuza Journey
+ui_soundtrack_group_5_title;Dandelion's Journey
 ui_tooltip_coins;The Syndicate's bonus currency. You may possess a maximum of 9 coins. Your coin count is reduced by half when carried over into the next round.
 ui_vanity_inventory_change_category;Change category
 ui_vanity_inventory_equip_preview;Equip
@@ -7751,6 +7851,20 @@ vanity_avatar_48355_title;Advanced Tactics Avatar
 vanity_avatar_48356_title;Knitting Shupe Avatar
 vanity_avatar_48357_title;Yule Harpy Avatar
 vanity_avatar_48358_title;Golden Tiger Avatar
+vanity_avatar_48359_title;Dusky Quill Avatar
+vanity_avatar_48360_title;Violet Quill Avatar
+vanity_avatar_48361_title;Crimson Quill Avatar
+vanity_avatar_48362_title;Golden Quill Avatar
+vanity_avatar_48363_title;Jade Quill Avatar
+vanity_avatar_48364_title;Queen of Cuddles Avatar
+vanity_avatar_48365_title;Little Spoon Avatar
+vanity_avatar_48366_title;Dandelion Avatar
+vanity_avatar_48367_title;Dijkstra Avatar
+vanity_avatar_48368_title;The Crimson Avenger Avatar
+vanity_avatar_48369_title;Young Bard Avatar
+vanity_avatar_48370_title;Glamorous Avatar
+vanity_avatar_48371_title;Full of Love Avatar
+vanity_avatar_48372_title;Rascal Avatar
 vanity_body_80284_title;Human Black Coat
 vanity_body_80285_title;Human White Coat
 vanity_body_80286_title;Human Black Ball Attire
@@ -8042,6 +8156,18 @@ vanity_border_38187_title;Midnight Purple Border
 vanity_border_38188_title;Ladies of the Wood Border
 vanity_border_38189_title;Advanced Tactics Border
 vanity_border_38190_title;Knitting Shupe Border
+vanity_border_38191_title;Dusky Avenger Border
+vanity_border_38192_title;Golden Avenger Border
+vanity_border_38193_title;Crimson Avenger Border
+vanity_border_38194_title;Jade Avenger Border
+vanity_border_38195_title;Violet Avenger Border
+vanity_border_38196_title;King of Cuddles Border
+vanity_border_38197_title;Big Spoon Border
+vanity_border_38198_title;Vainglory Border
+vanity_border_38199_title;Musician Border
+vanity_border_38200_title;Harp Border
+vanity_border_38201_title;Tavern Border
+vanity_border_38202_title;Perfume Border
 vanity_border_38512_title;World Master S2
 vanity_border_description_apprentice;Reward for attaining Rank 6 in Ranked Play.
 vanity_border_description_default;Available to everyone.
@@ -8086,7 +8212,7 @@ vanity_cardback_60024_title;Medium Cardback
 vanity_cardback_60025_title;Winter Cardback
 vanity_cardback_60026_title;Blizzard Cardback
 vanity_cardback_60027_title;Rat Cardback
-vanity_cardback_60028_title;Premium Rat Cardback
+vanity_cardback_60028_title;Rat Premium Cardback
 vanity_cardback_60029_title;Shani Cardback
 vanity_cardback_60030_title;Triss Cardback
 vanity_cardback_60031_title;Yennefer Cardback
@@ -8143,7 +8269,7 @@ vanity_cardback_60096_title;Beautification Cardback
 vanity_cardback_60097_title;Shard of Ice Cardback
 vanity_cardback_60098_title;Tragic Love Cardback
 vanity_cardback_60099_title;Touring Partners Cardback
-vanity_cardback_60100_title;Lunar New Year
+vanity_cardback_60100_title;Ox Cardback
 vanity_cardback_60101_title;The Great Oak Cardback
 vanity_cardback_60102_title;Winter Cardback
 vanity_cardback_60103_title;Spring Cardback
@@ -8167,8 +8293,8 @@ vanity_cardback_60119_title;Yennefer Cardback
 vanity_cardback_60120_title;Triss Cardback
 vanity_cardback_60121_title;Duke of Dogs Cardback
 vanity_cardback_60123_title;Brewess Cardback
-vanity_cardback_60124_title;Whispess Cardback
-vanity_cardback_60125_title;Weavess Cardback
+vanity_cardback_60124_title;Weavess Cardback
+vanity_cardback_60125_title;Whispess Cardback
 vanity_cardback_60126_title;Carnage Cardback
 vanity_cardback_60127_title;Gravewalker Cardback
 vanity_cardback_60128_title;Regis and Geralt Cardback
@@ -8177,6 +8303,10 @@ vanity_cardback_60130_title;Regis the Vampire Cardback
 vanity_cardback_60132_title;Knitting Shupe Cardback
 vanity_cardback_60133_title;Knitting Shupe Cardback
 vanity_cardback_60137_title;Tiger Cardback
+vanity_cardback_60138_title;Dandelion & Dijkstra Cardback
+vanity_cardback_60139_title;Dandelion & Geralt Cardback
+vanity_cardback_60140_title;Succubus Party Cardback
+vanity_cardback_60141_title;Creative inspiration Cardback
 vanity_cardback_61001_title;Monsters Cardback
 vanity_cardback_61002_title;Nilfgaard Cardback
 vanity_cardback_61003_title;Northern Realms Cardback
@@ -8238,6 +8368,10 @@ vanity_coin_70050_title;Alchemist's Coin
 vanity_coin_70051_title;Graveyard Coin
 vanity_coin_70052_title;Blood Magic Coin
 vanity_coin_70053_title;Ouroboros Coin
+vanity_coin_70054_title;Lute Coin
+vanity_coin_70055_title;Poetry Coin
+vanity_coin_70056_title;Bard's Hat Coin
+vanity_coin_70057_title;Perfume Flask Coin
 vanity_deck_mon;Monsters Deck
 vanity_deck_nil;Nilfgaard Deck
 vanity_deck_nor;Northern Realms Deck
@@ -8289,6 +8423,7 @@ vanity_gameboard_50051_title;Perfect Necromancy Classroom Board
 vanity_gameboard_50052_title;Great Oak Board
 vanity_gameboard_50053_title;Saovine Board
 vanity_gameboard_50054_title;Yule Board
+vanity_gameboard_50057_title;Festival of Love Gameboard
 vanity_gameboard_default_title;Default Faction Board
 vanity_h01_border_description;Reward for completing Mahakam Ale Festival Challenges in Expert Mode.
 vanity_h01_border_title;Accomplished Drinker Border
@@ -8652,6 +8787,41 @@ vanity_leader_trinket_80318_title;Yellow Lanterns Aura (Human)
 vanity_leader_trinket_80319_title;Human Red Coat
 vanity_leader_trinket_80320_title;Shupe's Bat Wings
 vanity_leader_trinket_80321_title;Bag with Presents
+vanity_leader_trinket_80322_title;Chic Garment
+vanity_leader_trinket_80323_title;Knotted Shirt
+vanity_leader_trinket_80324_title;Buttoned Shirt
+vanity_leader_trinket_80325_title;Stylish Shawl
+vanity_leader_trinket_80326_title;Travelling Bard Coat
+vanity_leader_trinket_80327_title;Elegant Outfit
+vanity_leader_trinket_80328_title;Pantaloons
+vanity_leader_trinket_80329_title;High Boots
+vanity_leader_trinket_80330_title;Leather Boots
+vanity_leader_trinket_80331_title;Underwear
+vanity_leader_trinket_80332_title;Travelling Pants
+vanity_leader_trinket_80333_title;Glamorous Pants
+vanity_leader_trinket_80334_title;Bard Hat
+vanity_leader_trinket_80335_title;Red Hat
+vanity_leader_trinket_80336_title;Hair Band
+vanity_leader_trinket_80337_title;Hair in the wind
+vanity_leader_trinket_80338_title;Full of Love
+vanity_leader_trinket_80339_title;The Crimson Avenger
+vanity_leader_trinket_80340_title;Ornamented Lute
+vanity_leader_trinket_80341_title;Bouzouki
+vanity_leader_trinket_80342_title;Saz
+vanity_leader_trinket_80343_title;Shovel Guitar
+vanity_leader_trinket_80344_title;Balalaika
+vanity_leader_trinket_80345_title;Lute
+vanity_leader_trinket_80346_title;Basic Belt
+vanity_leader_trinket_80347_title;Red Roses Bouquet
+vanity_leader_trinket_80348_title;Yellow Roses Bouquet
+vanity_leader_trinket_80349_title;Flute With Rose
+vanity_leader_trinket_80350_title;Phonograph
+vanity_leader_trinket_80351_title;Perfume
+vanity_leader_trinket_80352_title;Poetry Book
+vanity_leader_trinket_80353_title;No Aura
+vanity_leader_trinket_80354_title;Concert Aura
+vanity_leader_trinket_80355_title;Tavern Aura
+vanity_leader_trinket_80356_title;Spotlight Aura
 vanity_leader_trinket_80357_title;Whoreson Junior's Ugly Sweater
 vanity_leader_trinket_80358_title;Geralt's Sword
 vanity_leader_trinket_80359_title;Candy Sword
@@ -8689,6 +8859,10 @@ vanity_leader_trinket_80390_title;Murder of Crows Aura (Vampire)
 vanity_leader_trinket_80391_title;Red Lanterns Aura (Vampire)
 vanity_leader_trinket_80392_title;Yellow Lanterns Aura (Vampire)
 vanity_leader_trinket_80393_title;Basic Belt (Half-Breed)
+vanity_leader_trinket_80394_title;Pouch
+vanity_leader_trinket_80395_title;Scrolls
+vanity_leader_trinket_80400_title;Shupe's Armour of Love
+vanity_leader_trinket_80401_title;Her Royal Huntress
 vanity_monsters_challenge_title;Tyrant
 vanity_nilfgaard_challenge_title;Division Commander
 vanity_northern_challenge_title;Master Huntsman
@@ -9019,6 +9193,11 @@ vanity_soundtrack_90014_title;Glory
 vanity_soundtrack_90015_title;Fall
 vanity_soundtrack_90016_title;Dawn
 vanity_soundtrack_90017_title;Blood Moon
+vanity_soundtrack_90018_title;Epic Adventure
+vanity_soundtrack_90019_title;Ballad
+vanity_soundtrack_90020_title;Masterpiece
+vanity_soundtrack_90021_title;Love is in the air
+vanity_soundtrack_90022_title;Novigrad's Tunes
 vanity_title_20150_title;Volunteer
 vanity_title_20151_title;Foreman
 vanity_title_20152_title;Skirmisher
@@ -9287,6 +9466,25 @@ vanity_title_28226_title;Shupe's Little Helper
 vanity_title_28227_title;Advanced Tactician
 vanity_title_28228_title;Yule Spirit
 vanity_title_28229_title;Golden Tiger
+vanity_title_28230_title;King of Cuddles
+vanity_title_28231_title;Queen of Cuddles
+vanity_title_28232_title;Big Spoon
+vanity_title_28233_title;Little Spoon
+vanity_title_28234_title;Nightingale Prince
+vanity_title_28235_title;The Crimson Avenger
+vanity_title_28236_title;Defender of the Oppressed
+vanity_title_28237_title;In the Spotlight
+vanity_title_28238_title;One and Only
+vanity_title_28239_title;The Poet
+vanity_title_28240_title;Lover
+vanity_title_28241_title;Party Boy
+vanity_title_28242_title;The Legend
+vanity_title_28243_title;Traveling Bard
+vanity_title_28244_title;True Artist
+vanity_title_28245_title;The Best Bard
+vanity_title_28246_title;Delicate Flower
+vanity_title_28247_title;Musician
+vanity_title_28251_title;Goon
 vanity_title_30180;Copperhead
 vanity_title_30180_description;Reward for attaining Rank 10 in Ranked Play, Season of the Viper (May).
 vanity_title_30181;Sidewinder

@@ -379,6 +379,7 @@ achievement_10688_desc;触发“耐性”关键字 500 次
 achievement_10688_title;失去耐心就等于输掉战斗
 achievement_10689_desc;触发“耐性”关键字 1000 次
 achievement_10689_title;轻度的绝望
+achievement_11000_new_desc;在阵营挑战期间，使用“怪兽”阵营赢得 {0} 场对局
 achievement_11001_desc;在一场挑战活动中，代表怪兽阵营完成 3 个任务。
 achievement_11001_title;仆从
 achievement_11002_desc;在一场挑战活动中，代表怪兽阵营完成 5 个任务。
@@ -389,6 +390,7 @@ achievement_11004_desc;在一场挑战活动中，代表怪兽阵营完成 15 �
 achievement_11004_title;弄臣
 achievement_11005_desc;在一场挑战活动中，代表怪兽阵营完成 25 个任务。
 achievement_11005_title;巨像
+achievement_11010_new_desc;在阵营挑战期间，使用“史凯利格”阵营赢得 {0} 场对局
 achievement_11011_desc;在一场挑战活动中，代表史凯利格阵营完成 3 个任务。
 achievement_11011_title;袭击者
 achievement_11012_desc;在一场挑战活动中，代表史凯利格阵营完成 5 个任务。
@@ -399,6 +401,7 @@ achievement_11014_desc;在一场挑战活动中，代表史凯利格阵营完成
 achievement_11014_title;大副
 achievement_11015_desc;在一场挑战活动中，代表史凯利格阵营完成 25 个任务。
 achievement_11015_title;无畏船长
+achievement_11020_new_desc;在阵营挑战期间，使用“北方领域”阵营赢得 {0} 场对局
 achievement_11021_desc;在一场挑战活动中，代表北方领域阵营完成 3 个任务。
 achievement_11021_title;新军
 achievement_11022_desc;在一场挑战活动中，代表北方领域阵营完成 5 个任务。
@@ -409,6 +412,7 @@ achievement_11024_desc;在一场挑战活动中，代表北方领域阵营完成
 achievement_11024_title;爱国者
 achievement_11025_desc;在一场挑战活动中，代表北方领域阵营完成 25 个任务。
 achievement_11025_title;为了吾王吾土
+achievement_11030_new_desc;在阵营挑战期间，使用“尼弗迦德”阵营赢得 {0} 场对局
 achievement_11031_desc;在一场挑战活动中，代表尼弗迦德阵营完成 3 个任务。
 achievement_11031_title;潜伏
 achievement_11032_desc;在一场挑战活动中，代表尼弗迦德阵营完成 5 个任务。
@@ -419,6 +423,7 @@ achievement_11034_desc;在一场挑战活动中，代表尼弗迦德阵营完成
 achievement_11034_title;密探大师
 achievement_11035_desc;在一场挑战活动中，代表尼弗迦德阵营完成 25 个任务。
 achievement_11035_title;皇帝之手
+achievement_11040_new_desc;在阵营挑战期间，使用“松鼠党”阵营赢得 {0} 场对局
 achievement_11041_desc;在一场挑战活动中，代表松鼠党阵营完成 3 个任务。
 achievement_11041_title;起义者
 achievement_11042_desc;在一场挑战活动中，代表松鼠党阵营完成 5 个任务。
@@ -429,11 +434,13 @@ achievement_11044_desc;在一场挑战活动中，代表松鼠党阵营完成 15
 achievement_11044_title;狂热者
 achievement_11045_desc;在一场挑战活动中，代表松鼠党阵营完成 25 个任务。
 achievement_11045_title;突击队领袖
+achievement_11050_new_desc;在阵营挑战期间，使用“辛迪加”阵营赢得 {0} 场对局
 achievement_11051_title;跑腿
 achievement_11052_title;轻犯
 achievement_11053_title;副官
 achievement_11054_title;左右手
 achievement_11055_title;一把手
+achievement_11060_new_desc;完成 {0} 个挑战任务
 achievement_11061_title;请帮忙招募！
 achievement_11062_title;调停者
 achievement_11063_title;自由职业者
@@ -1844,6 +1851,67 @@ achievement_90253_title;重蹈覆辙
 achievement_90254_title;三美女
 achievement_90256_title;不祥凝视
 achievement_90257_title;传家宝
+achievement_90259_desc;完成 5 个丹德里恩的旅程任务
+achievement_90259_title;镜前的独自表演
+achievement_90260_desc;完成 10 个丹德里恩的旅程任务
+achievement_90260_title;家庭娱乐
+achievement_90261_desc;完成 20 个丹德里恩的旅程任务
+achievement_90261_title;村民乐
+achievement_90262_desc;完成所有丹德里恩的旅程任务
+achievement_90262_title;酒馆娱宾
+achievement_90263_desc;完成所有丹德里恩的标准旅程任务
+achievement_90263_title;节日主咖
+achievement_90264_desc;完成所有丹德里恩的高阶旅程任务
+achievement_90264_title;宫廷音乐家
+achievement_90265_desc;在丹德里恩的标准旅程和高阶旅程中升到 100 级
+achievement_90265_title;为我自豪
+achievement_90266_desc;在丹德里恩的标准旅程中升到 100 级
+achievement_90266_title;朱利安·阿尔弗雷德·潘克拉茨的骄傲朋友
+achievement_90267_desc;在丹德里恩的高阶旅程中升到 100 级
+achievement_90267_title;西吉斯蒙德·迪杰斯特拉的骄傲小跟班
+achievement_90269_desc;装备丹德里恩的“时尚围巾”或“优雅服饰”，完成 1 场对局
+achievement_90269_title;众爱一身
+achievement_90270_desc;装备丹德里恩的“时尚围巾”或“优雅服饰”，完成 5 场对局
+achievement_90270_title;真正的艺术家和梦想家
+achievement_90271_desc;装备丹德里恩的“时尚围巾”或“优雅服饰”，完成 10 场对局
+achievement_90271_title;无可救药的乐观主义者
+achievement_90272_desc;装备丹德里恩的“时尚围巾”或“优雅服饰”，完成 20 场对局
+achievement_90272_title;自由的灵魂
+achievement_90273_desc;装备丹德里恩的“时尚围巾”或“优雅服饰”，完成 30 场对局
+achievement_90273_title;盛装出席
+achievement_90275_desc;装备丹德里恩的“纽扣衬衫”或“旅行诗人大衣”，完成 1 场对局
+achievement_90275_title;最佳诗人
+achievement_90276_desc;装备丹德里恩的“纽扣衬衫”或“旅行诗人大衣”，完成 5 场对局
+achievement_90276_title;最佳吟游诗人
+achievement_90277_desc;装备丹德里恩的“纽扣衬衫”或“旅行诗人大衣”，完成 10 场对局
+achievement_90277_title;最佳作词人
+achievement_90278_desc;装备丹德里恩的“纽扣衬衫”或“旅行诗人大衣”，完成 20 场对局
+achievement_90278_title;最佳民谣歌手
+achievement_90279_desc;装备丹德里恩的“纽扣衬衫”或“旅行诗人大衣”，完成 30 场对局
+achievement_90279_title;只做最好
+achievement_90281_desc;装备丹德里恩的“一束红玫瑰”或“光环：演唱会”，完成 1 场对局
+achievement_90281_title;荆棘中生玫瑰
+achievement_90282_desc;装备丹德里恩的“一束红玫瑰”或“光环：演唱会”，完成 5 场对局
+achievement_90282_title;艺术有如娇花
+achievement_90283_desc;装备丹德里恩的“一束红玫瑰”或“光环：演唱会”，完成 10 场对局
+achievement_90283_title;百花谷的相遇
+achievement_90284_desc;装备丹德里恩的“一束红玫瑰”或“光环：演唱会”，完成 20 场对局
+achievement_90284_title;爱是一朵精心呵护的花
+achievement_90285_desc;装备丹德里恩的“一束红玫瑰”或“光环：演唱会”，完成 30 场对局
+achievement_90285_title;情人眼里皆是爱
+achievement_90287_desc;装备任何丹德里恩旅程的音乐，完成 1 场对局
+achievement_90287_title;演员
+achievement_90288_desc;装备任何丹德里恩旅程的音乐，完成 5 场对局
+achievement_90288_title;音乐家
+achievement_90289_desc;装备任何丹德里恩旅程的音乐，完成 10 场对局
+achievement_90289_title;独奏者
+achievement_90290_desc;装备任何丹德里恩旅程的音乐，完成 20 场对局
+achievement_90290_title;乐神
+achievement_90295_title;女王归来
+achievement_90296_title;帮助埃斯特·图尔赛克王
+achievement_90297_title;帮助卡兰瑟女王
+achievement_90298_title;帮助西吉斯蒙德·迪杰斯特拉
+achievement_90299_title;帮助菲丽芭·艾哈特
 achievement_category_arena;角斗场
 achievement_category_collection;卡牌收藏
 achievement_category_expansions;扩展包
@@ -1854,6 +1922,7 @@ achievement_category_mastery;精通
 achievement_category_ranked;排位赛
 achievement_category_seasonal;赛季
 achievement_category_singleplayer;单人模式
+achievement_complete_love_event;帮助情人节活动中的所有角色
 achievement_complete_x_aretuza_quests;完成 {0} 个“艾瑞图萨旅程”任务
 achievement_complete_x_regis_quests;完成 {0} 个“雷吉斯旅程”任务
 achievement_geralt_winter_event;装备杰洛特的皮肤，赢得 {0} 场对局
@@ -2147,6 +2216,8 @@ arenav2_newdraft_disabled_tooltip;解锁新轮抽所需对局：{0}
 arenav2_optin_update_notification_description;新的轮抽版本已开启！您可以继续当前轮抽，但新版本可能会有平衡性调整和/或特别的限时机制。当前的轮抽版本不日就会关闭。
 arenav2_play_menu_description;欢迎来到轮抽模式。在瞬息万变的构筑中一显身手吧。
 arenav2_play_menu_title;轮抽
+arenav2_rewards_timeout_description;奖励显示失败
+arenav2_rewards_timeout_title;奖励显示错误
 arenav2_show_deck_tooltip;显示牌组
 arenav2_summary_newdraft;再次轮抽
 arenav2_summary_rewards;您的奖励：
@@ -3734,12 +3805,12 @@ interface_card_choice_8;选择揭示一张牌
 interface_card_choice_opponent;对手正在决策中
 interface_challenge_6100_abilities_subtitle;使用全新的鼠年能力来考验你的实力
 interface_challenge_6100_abilities_title;鼠年能力挑战
-interface_challenge_acknowledge_button;帮助下一个老巫妪
+interface_challenge_acknowledge_button;帮助另一方
 interface_challenge_arena_event;角斗场活动
 interface_challenge_arena_event_desc;本次挑战的获胜方将解锁其阵营的特殊角斗场模式。
 interface_challenge_arena_event_title;角斗场活动
 interface_challenge_arena_results;角斗场中即将推出全新的“特别模式”。
-interface_challenge_available_description;帮助老巫妪准备往生节
+interface_challenge_available_description;帮助爱侣重聚
 interface_challenge_bards_side;吟游诗人
 interface_challenge_belleteyn_ornaments_desc;本次挑战中胜出者的五月节饰品将会在商店中进行打折。
 interface_challenge_c_rewards_title;挑战优胜方
@@ -3779,6 +3850,15 @@ interface_challenge_leader_arena_results;挑战的获胜方将会解锁一个限
 interface_challenge_leader_exp_results;在任意模式中，使用获胜方领袖可获得额外经验值。
 interface_challenge_leader_experience_boost_desc;在任意模式模式中，使用获胜方领袖可获得额外经验值。
 interface_challenge_look_at_rewards;查看我的宝贝
+interface_challenge_love_2022_acknowledge_button;这儿的活儿干完了
+interface_challenge_love_2022_reward_title_0;帮助所有人，你会获得：
+interface_challenge_love_2022_reward_title_0_0;帮助埃斯特王，你会获得：
+interface_challenge_love_2022_reward_title_0_1;帮助卡兰瑟女王，你会获得：
+interface_challenge_love_2022_reward_title_0_2;帮助迪杰斯特拉，你会获得：
+interface_challenge_love_2022_reward_title_0_3;帮助菲丽芭，你会获得：
+interface_challenge_love_2022_rules;帮助知名人物寻找爱侣！
+interface_challenge_love_2022_rules_completed;干得好，您现在成功让爱侣们重回怀抱。
+interface_challenge_love_2022_title;情人节活动
 interface_challenge_min_shortcut;{0} 分
 interface_challenge_neu_arena_event;本次挑战的胜利者将会解锁一个特殊的角斗场模式。
 interface_challenge_neu_arena_results;本次挑战的胜利者将会解锁一个特殊的角斗场模式。
@@ -4920,6 +5000,7 @@ rb_ftux_hint_firstquestclaimed;所有任务，包括奖励册中的任务，都�
 rb_ftux_hint_rewardbookopened;欢迎进入奖励册！请选择一个阵营树，开启您的旅程。
 rb_ftux_hint_treeentered;每个阵营树都有一连串奖励，可以通过在对局中获得的钥匙来将其解锁。现在就领取一个吧。
 rb_ftux_notification_button;查看
+rb_ftux_notification_locked_tabs;完成至少一个奖励册后，即可解锁其他奖励册页签
 rb_ftux_notification_open_book;奖励册有更新
 rb_ftux_notification_open_quest;您已经接受了一个新任务
 read_eula_button;查看用户协议
@@ -5667,6 +5748,7 @@ reward_tree_svalblod_story_pt2;斯瓦勃洛是熊和人的双重化身，即使�
 reward_tree_svalblod_story_pt3;他的信徒会事先喝下迷幻药汁，然后深入地底，到达位于大史凯利格岛中心的洞穴。一旦抵达，那座洞穴里的熊就会将他们生吞下肚。接着，这些教徒就像寄生虫一样占据并控制野兽的身躯。
 reward_tree_svalblod_story_pt4;史凯利格群岛的领主们最终决定将该教派彻底铲除。他们逮捕了斯瓦勃洛的追随者，将他们绑上长船，拿掉船帆，送进深海。人们以为这样就可以将这个教派彻底摧毁。可是，摧毁一名神祗却何尝容易……
 reward_tree_svalblod_title;斯瓦勃洛
+reward_tree_syndicate_ftux_title;辛迪加
 reward_tree_tb_story_pt1;米薇动身前去哈吉要塞参加诸王峰会时，交待管家自己不日即可回宫。然而一年之后，她才再次睡上自己原来的卧榻。
 reward_tree_tb_story_pt2;在此期间，尼弗迦德征服了莱里亚和利维亚。在向皇帝禀报的时候，帝国特使只用区区几句陈词滥调，便将这次占领一笔带过。毕竟，在恩希尔·恩瑞斯的宏图伟业中，这片蛮夷之地又算得了什么呢？
 reward_tree_tb_story_pt3;米薇女王拒绝放下武器，然而很少有人相信她能够收复故土。当然，我们已经从史书上知道，要不了多久，大陆上的人们就会和尼弗迦德人一样大吃一惊。
@@ -5895,7 +5977,7 @@ shop_blood_and_many_legs_pack_title;猩红千足礼包
 shop_button_vanities;饰品
 shop_cara_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：卡兰希尔\n\n<sprite="PopupIcons" name="Border">边框：狂猎之王\n\n<sprite="PopupIcons" name="Title">称号：“战争预兆”\n\n该捆绑包内含曾在野猪年 - “狂猎”赛季首度推出的可解锁装饰品。
 shop_cara_bundle_title;卡兰希尔捆绑包
-shop_casanova_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：丹德里恩\n\n<sprite="PopupIcons" name="Border">边框：情圣\n\n<sprite="PopupIcons" name="Title">称号：“真心爱恋”\n\n该捆绑包内含曾在野猪年 - “爱慕之月”赛季首度推出的可解锁装饰品，另附上一份全新特殊奖励！
+shop_casanova_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：丹德里恩\n\n<sprite="PopupIcons" name="Border">边框：情圣\n\n<sprite="PopupIcons" name="Title">称号：“真心爱恋”\n\n该捆绑包内含曾在野猪年 - “爱慕之月”赛季首度推出的可解锁装饰品。
 shop_casanova_bundle_title;情圣捆绑包
 shop_category_dungeon_keys;地下城钥匙
 shop_category_esport;电竞
@@ -6072,7 +6154,7 @@ shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack">卡背
 shop_data_ep2_alt_cardback_title;“生生之火”动画卡背
 shop_data_ep3_alt_leader_skin_bundle_desc;<sprite="PopupIcons" name="Skin">精选皮肤：瑟瑞卡尼亚人拉多维德\n\n拉多维德五世的另类外观，千万别错过！
 shop_data_ep3_alt_leader_skin_bundle_title;精选皮肤：瑟瑞卡尼亚的拉多维德
-shop_data_ep4_caravan_pack_desc;好运眷顾猛士！最珍贵的欧菲尔宝藏唾手可得：12 张战术闪卡！每张战术牌都可以为先手玩家提供特殊的加成。内含：\n\n<sprite="PopupIcons" name="Card">闪卡：神灯\n<sprite="PopupIcons" name="Card">闪卡：水晶头骨\n<sprite="PopupIcons" name="Card">闪卡：注魔盔甲\n<sprite="PopupIcons" name="Card">闪卡：被诅咒的卷轴\n<sprite="PopupIcons" name="Card">闪卡：石化蜥蜴毒液\n<sprite="PopupIcons" name="Card">闪卡：仪式匕首\n<sprite="PopupIcons" name="Card">闪卡：奴隶\n<sprite="PopupIcons" name="Card">闪卡：工程解决方案\n<sprite="PopupIcons" name="Card">闪卡：衔尾蛇面具\n<sprite="PopupIcons" name="Card">闪卡：暗影之瓮\n<sprite="PopupIcons" name="Card">闪卡：艾恩·希德战刀\n<sprite="PopupIcons" name="Card">闪卡：虎眼石
+shop_data_ep4_caravan_pack_desc;<sprite="PopupIcons" name="Card">闪卡：神灯\n<sprite="PopupIcons" name="Card">闪卡：水晶头骨\n<sprite="PopupIcons" name="Card">闪卡：注魔盔甲\n<sprite="PopupIcons" name="Card">闪卡：被诅咒的卷轴\n<sprite="PopupIcons" name="Card">闪卡：石化蜥蜴毒液\n<sprite="PopupIcons" name="Card">闪卡：仪式匕首\n<sprite="PopupIcons" name="Card">闪卡：奴隶\n<sprite="PopupIcons" name="Card">闪卡：工程解决方案\n<sprite="PopupIcons" name="Card">闪卡：衔尾蛇面具\n<sprite="PopupIcons" name="Card">闪卡：暗影之瓮\n<sprite="PopupIcons" name="Card">闪卡：艾恩·希德战刀\n<sprite="PopupIcons" name="Card">闪卡：虎眼石\n\n好运眷顾猛士！最珍贵的欧菲尔宝藏唾手可得：12 张战术牌闪卡！每张战术牌都可以为先手玩家提供特殊的加成。
 shop_data_ep4_caravan_pack_title;“商路之财”礼包
 shop_data_ep4_premium_keg_desc;购买碎片获取“异域游商”闪卡牌桶，可以帮您获得来自“异域游商”扩展包的闪卡，进一步扩充您的卡牌收藏。本牌桶仅限时供应哦。\n\n开启牌桶，您将获得 5 张来自“异域游商”扩展包的闪卡，其中 4 张至少为普通品质，而第 5 张（三选一）则必定为稀有或更高品质。
 shop_data_ep4_premium_keg_title;购买碎片“异域游商”闪卡牌桶
@@ -6149,7 +6231,7 @@ shop_data_ep7_premium_60_keg_gaea_title;碎片 x260，“权力的代价”闪�
 shop_data_ep7_premium_60_keg_title;“权力的代价”闪卡牌桶 x40
 shop_data_ep7_premium_7_keg_gaea_title;碎片 x25，“权力的代价”闪卡牌桶 x7
 shop_data_ep7_premium_7_keg_title;“权力的代价”闪卡牌桶 x7
-shop_data_expansion_pass_ep7_desc;真正的权力近在指尖……\n\n本扩展包通行证提供如下物品，获得顺序将随“权力的代价”扩展包的阶段性上线而陆续开放：\n\n- x117 张“权力的代价”扩展包闪卡，包括 78 张专属卡牌\n\n- 21 个主题装饰品：18 个头像、1 个战场、1 张卡背和 1 个领袖皮肤\n\n- 奖励道具：即刻赠送 - “动态金币：柴堆”\n\n本优惠内含“权力的代价”系列扩展包所有卡牌的闪卡版本，它们将随三批扩展包的逐步上线而释放。该规则也同样适用于所有装饰品，但赠送的“动态金币：柴堆”则可立即装备！
+shop_data_expansion_pass_ep7_desc;真正的权力近在指尖……\n\n本扩展包通行证提供如下物品，获得顺序将随“权力的代价”扩展包的阶段性上线而陆续开放：\n\n- x117 张“权力的代价”扩展包闪卡，包括 78 张专属卡牌\n\n- 21 个主题装饰品：18 个头像、1 个战场、1 张卡背和 1 个领袖皮肤\n\n- 奖励道具：即刻赠送 - “动态硬币：柴堆”\n\n本优惠内含“权力的代价”系列扩展包所有卡牌的闪卡版本，它们将随三批扩展包的逐步上线而释放。该规则也同样适用于所有装饰品，但赠送的“动态硬币：柴堆”则可立即装备！
 shop_data_expansion_pass_ep7_title;“权力的代价” - 扩展包通行证！
 shop_data_festival_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：舞者\n\n<sprite="PopupIcons" name="Border">边框：节庆\n\n<sprite="PopupIcons" name="Title">称号“节庆舞者”\n\n起舞吧！加入这场夏日狂欢！
 shop_data_festival_bundle_title;节庆捆绑包
@@ -6269,7 +6351,7 @@ shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="
 shop_data_now_available_ promo_desc;现已上架！
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin">皮肤：蝈蝈\n\n<sprite="PopupIcons" name="Board">战场：遗忘之地\n\n自然掌控一切！难道这不美吗？\n\n此捆绑包曾为“鼠人”年支持公开赛#2所推出。
 shop_data_overgrown_bundle_title;夏日炎炎礼包（巫师之昆特牌第二届公开赛礼包）
-shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border">边框：“帕西佛罗拉冠军”\n\n<sprite="PopupIcons" name="Avatar">头像：“安姆琳”、“娜西萨”和“薇瓦拉”\n\n<sprite="PopupIcons" name="Title">称号： “帕西佛罗拉冠军”\n\n\n温香玉软、奢华品味，还有自由之城中最顶级的昆特牌牌手……开启帕西佛罗拉捆绑包，与诺维格瑞的妙人儿们一同庆祝吧！
+shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border">边框：帕西佛罗拉\n\n<sprite="PopupIcons" name="Avatar">头像：安姆琳\n\n<sprite="PopupIcons" name="Avatar">头像：娜西萨\n\n<sprite="PopupIcons" name="Avatar">头像：薇瓦拉\n\n<sprite="PopupIcons" name="Title">称号：“帕西佛罗拉冠军”\n\n用帕西佛罗拉捆绑包来庆祝诺维格瑞最好的欢场吧！
 shop_data_passiflora_bundle_title;帕西佛罗拉捆绑包
 shop_data_premium_cc_keg_desc;开启牌桶，您将获得 5 张“猩红诅咒”扩展包的<b>闪卡</b>，其中 4 张至少为普通品质，而第 5 张（三选一）则必定为稀有或更高品质。
 shop_data_premium_cc_keg_title;“猩红诅咒”闪卡牌桶
@@ -6325,11 +6407,13 @@ shop_data_skellige_keg_7_title;x7 “史凯利格”牌桶
 shop_data_skellige_keg_7_title_gaea;碎片 x18，“史凯利格”牌桶 x7
 shop_data_skellige_keg_desc;开启牌桶，您将获得 5 张“史凯利格”阵营的卡牌（任意卡池），其中 4 张至少为普通品质，而第 5 张（三选一）则必定为稀有或更高品质。
 shop_data_skellige_keg_title;史凯利格牌桶
+shop_data_skin_dana_love_desc;<sprite="PopupIcons" name="Skin">皮肤：爱之女神\n\n达娜梅碧全新皮肤，用爱与神性的光环来指挥你的军队吧。
+shop_data_skin_dana_love_title;皮肤：爱神
 shop_data_special_premium_keg_desc;仅限使用碎片购买。开启牌桶，您将获得 5 张<b>闪卡</b>（任意卡池），其中 4 张至少为普通品质，而第 5 张（三选一）则必定为稀有或更高品质。
 shop_data_special_premium_keg_title;特供闪卡牌桶
 shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board">战场：春光\n\n<sprite="PopupIcons" name="CardBack">卡背：春光\n\n获取此捆绑包来支持《巫师之昆特牌》电竞；此礼包收入的 30% 将直接纳入《巫师之昆特牌》世界大师赛的奖池中，2021 年 12 月开赛，敬请期待！
 shop_data_spring_bundle_open2_title;春光捆绑包
-shop_data_spring_pack_open2_desc;<sprite="PopupIcons" name="Coin">金币：春光\n\n<sprite="PopupIcons" name="Powder">x400 星尘\n\n获取此捆绑包来支持《巫师之昆特牌》电竞；此礼包收入的 30% 将直接纳入公开赛#2的额外奖池中，比赛将在2021 年 7 月进行，敬请期待！
+shop_data_spring_pack_open2_desc;<sprite="PopupIcons" name="Coin">硬币：春光\n\n<sprite="PopupIcons" name="Powder">x400 星尘\n\n获取此捆绑包来支持《巫师之昆特牌》电竞；此礼包收入的 30% 将直接纳入公开赛#2的额外奖池中，比赛将在2021 年 7 月进行，敬请期待！
 shop_data_spring_pack_open2_title;春光礼包（巫师之昆特牌第二届公开赛）
 shop_data_starter_pack_desc;<sprite="PopupIcons" name="Card"> x1 传奇闪卡\n\n <sprite="PopupIcons" name="Powder"> x400 星尘\n\n <sprite="PopupIcons" name="Keg"> x10 终极牌桶\n\n《巫师之昆特牌》新手包可以让您的卡牌收藏平地而起，限购一次。
 shop_data_starter_pack_promo_desc;限购一次，超值之选
@@ -6370,7 +6454,7 @@ shop_data_winter_board_desc;<sprite="PopupIcons" name="Board">战场：寒冬\n\
 shop_data_winter_board_desc_sale;<sprite="PopupIcons" name="Board">战场：寒冬\n\n你想买…带头环的猪吗？！圣诞已经来了？\n本战场曾在野猪年的 2019 圣诞活动中作为可解锁装饰品首度推出，并将于冬日活动特卖时享受 7 折优惠。
 shop_data_winter_bundle_open1_desc;<sprite="PopupIcons" name="Board">战场：寒冬\n\n<sprite="PopupIcons" name="CardBack">卡背：寒冬\n\n获取此捆绑包来支持《巫师之昆特牌》电竞；此礼包收入的 30% 将直接纳入《巫师之昆特牌》大师赛的奖池中，2021 年 12 月开赛，敬请期待！
 shop_data_winter_bundle_open1_title;寒冬捆绑包
-shop_data_winter_pack_open1_desc;<sprite="PopupIcons" name="Coin">金币：寒冬\n\n<sprite="PopupIcons" name="Powder">x400 星尘\n\n别人也叫它“酷到不行”。\n\n获取此捆绑包来支持《巫师之昆特牌》电竞；此礼包收入的 30% 将直接纳入《巫师之昆特牌》第一届公开赛的奖池中，2021 年 4 月开赛，敬请期待！
+shop_data_winter_pack_open1_desc;<sprite="PopupIcons" name="Coin">硬币：寒冬\n\n<sprite="PopupIcons" name="Powder">x400 星尘\n\n别人也叫它“酷到不行”。\n\n获取此捆绑包来支持《巫师之昆特牌》电竞；此礼包收入的 30% 将直接纳入《巫师之昆特牌》第一届公开赛的奖池中，2021 年 4 月开赛，敬请期待！
 shop_data_winter_pack_open1_title;寒冬礼包（《巫师之昆特牌》第一届公开赛礼包）
 shop_data_wolf_season_bundle_desc;<sprite="PopupIcons" name="CardBack">卡背：巨狼\n\n\n<sprite="PopupIcons" name="Avatar">x3 赛季头像：维瑟米尔、杰洛特：猎魔专家、萝卜\n\n\n<sprite="PopupIcons" name="Border">x4 赛季边框：狼崽、战狼、狼王、白狼\n\n\n<sprite="PopupIcons" name="Avatar">额外头像：兰伯特\n\n\n\n\n该特殊捆绑包内含“巨狼”赛季的外观道具，还有一件额外的礼品哦！
 shop_data_wolf_season_bundle_title;“巨狼”赛季捆绑包
@@ -6450,6 +6534,8 @@ shop_great_oak_year_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：邪�
 shop_great_oak_year_bundle_title;巨橡捆绑包
 shop_ida_emean_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：艾达·艾敏\n\n<sprite="PopupIcons" name="Border">边框：精灵传送门\n\n<sprite="PopupIcons" name="Title">称号：“全知者”\n\n该捆绑包内含曾在鼠年 -“林中精灵”赛季首度推出的可解锁装饰品。
 shop_ida_emean_bundle_title;艾达·艾敏捆绑包
+shop_iris&olgierd_desc;<sprite="PopupIcons" name="CardBack">卡背：悲剧的爱\n\n<sprite="PopupIcons" name="Avatar">头像：爱丽丝‧伊佛瑞克\n\n<sprite="PopupIcons" name="Avatar">头像：欧吉尔德\n\n<sprite="PopupIcons" name="Border">边框：画架\n\n<sprite="PopupIcons" name="Title">称号：“心碎者”\n\n爱是忍耐，爱是宽仁，但有时也是悲剧，令人心碎。\n该捆绑包内含曾在巨橡年“情人节活动”首度推出的可解锁物品。
+shop_iris&olgierd_title;爱丽丝与欧吉尔德捆绑包
 shop_ivo_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：贝哈文的伊沃\n\n<sprite="PopupIcons" name="Border">边框：巨熊守卫\n\n<sprite="PopupIcons" name="Title">称号：“贝哈文的”\n\n快来表达你对熊学派的喜爱吧！该捆绑包内含曾在“鼠人”年 - “咆哮之熊”赛季首度推出的可解锁装饰品。
 shop_ivo_bundle_title;伊沃捆绑包
 shop_keg_category_all;全部卡牌
@@ -6472,6 +6558,8 @@ shop_leaders_syndicate_desc;好好乐上一乐吧！\n\n获取 2 张全新的辛
 shop_leaders_syndicate_title;恶徒礼包
 shop_love_cardback_desc;沉浸于爱吧！\n\n该卡背曾在野猪年 - “爱慕之月”赛季作为可解锁装饰品首度推出。
 shop_love_cardback_title;卡背：“爱慕之月”赛季
+shop_love_festival_gameboard_desc;<sprite="PopupIcons" name="Board">战场：爱的时节\n\n何人能不庆祝爱的时节，就连诺维格瑞的暴徒也不例外！
+shop_love_festival_gameboard_title;战场：爱的时节
 shop_lubberkin_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：家事妖精\n\n<sprite="PopupIcons" name="Border">边框：家事妖精\n\n<sprite="PopupIcons" name="Title">称号：“家事妖精”\n\n庆祝“爱慕之月”赛季的到来，给这位守护之灵一个大大的拥抱吧。
 shop_lubberkin_bundle_title;家事妖精捆绑包
 shop_lucky_bundle_desc;<sprite="PopupIcons" name="Coin">幸运币\n\n<sprite="PopupIcons" name="Title">称号：“幸运儿”\n\n希望它带给你好运。
@@ -6492,6 +6580,9 @@ shop_packs_category_2;新手包
 shop_popular;人气之选
 shop_powder_section_description;星尘可将普通卡牌幻化为带有额外动画和特效的闪卡。
 shop_powder_section_title;星尘
+shop_priscilla&dandelion_desc;<sprite="PopupIcons" name="CardBack">卡背：巡演伙伴\n\n<sprite="PopupIcons" name="Avatar">头像：巡演的丹德里恩\n\n<sprite="PopupIcons" name="Avatar">头像：巡演的普希拉\n\n<sprite="PopupIcons" name="Border">边框：巡演舞台\n\n<sprite="PopupIcons" name="Title">称号：“巡演诗人”\n\n爱有千般模样，巡演伙伴也是其中之一\n该捆绑包内含曾在巨橡年“情人节活动”首度推出的可解锁装饰品。
+shop_priscilla&dandelion_title;普西拉与丹德里恩捆绑包
+shop_product_timer_label;限时上架：
 shop_questionable_morality_pack_desc;钩直饵咸，吸引敌人，假借混乱，取敌首级。\n\n获取 2 张全新辛迪加阵营传说级卡牌：乞丐王和赛勒斯·恩格尔凯德·赫梅尔法特，外加 6 张配合辛迪加阵营的其他闪卡。\n\n本礼包内含：\n<sprite="PopupIcons" name="Card">1x 乞丐王闪卡\n<sprite="PopupIcons" name="Card">1x 赛勒斯·赫梅尔法特闪卡\n<sprite="PopupIcons" name="Card">1x 白裘阿德里亚诺闪卡（史诗）\n<sprite="PopupIcons" name="Card">1x 赫斯特中尉闪卡（史诗）\n<sprite="PopupIcons" name="Card">2x 火蜥蜴帮法师闪卡（稀有）\n<sprite="PopupIcons" name="Card">2x 烈焰蔷薇骑士团牧师闪卡（稀有）
 shop_questionable_morality_pack_title;败德辱行礼包
 shop_sale;特价
@@ -6517,6 +6608,8 @@ shop_shupe_leafhat_bundle_desc;<sprite="PopupIcons" name="Skin">基础皮肤：�
 shop_shupe_leafhat_bundle_title;店店的四叶草捆绑包
 shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket">四叶帽\n\n让它给你好运。\n\n这是一款强调技术而非牌运的游戏。但来点好运总没错！\n提示：该物品也包含在店店的四叶草捆绑包中。
 shop_shupe_leafhat_trinket_title;店店的四叶草幸运符
+shop_shupe_love_armour_desc;<sprite="PopupIcons" name="Trinket">店店的爱之护甲\n\n穿上它，定能让敌人胆寒！
+shop_shupe_love_armour_title;店店的爱之护甲
 shop_shupe_love_avatar_desc;接受来自你最爱的店主的爱，免费领取这个毛茸茸的“店店”头像！\n\n只限情人节活动期间领取。
 shop_shupe_love_avatar_title;领取免费头像：店店！
 shop_shupe_love_bundle_desc;<sprite="PopupIcons" name="Skin">基础皮肤：店店（全阵营）\n\n<sprite="PopupIcons" name="Trinket">小翅膀\n\n<sprite="PopupIcons" name="Title">称号：“热恋中”\n\n这里有店店给你的爱。店店帮你找伴伴\n店店飞飞不太能
@@ -6637,6 +6730,7 @@ switch_app_popup_desc;即将启动《王权的陨落》单人战役模式
 switch_app_popup_title;切换到《王权的陨落》
 syn_fluff_description;有人为荣誉而战，便有人为帝国而战；有人为国王而战，便有人为自由而战。但辛迪加的成员，却只有一个目的——财富。只要你出得起钱雇佣他们，他们便会不择手段，达成你的任何愿望。在这个背弃光明的地下世界，阴谋和诡计是你积累声望和财富最好的方式。“诺维格瑞克朗”虽然是这座城市的官方通货，但在街头之下，却流通着迥然不同的货币。如果你选择用它来购买地下组织的服务，那就相当于许下了一个违约必诛的誓言。胆敢毁约的蠢货们都会被追捕通缉，然后付出最惨痛的代价。
 syn_fluff_title;辛迪加
+syndicate_preset_deck_name;辛迪加新手牌组
 tap_to_begin;点击开始
 taunt_comment;熟悉的一幕
 taunt_curses;该死！
@@ -6729,7 +6823,7 @@ tracked_action_play_x_cards_with_skellige;使用史凯利格牌组打出 {0} 张
 tracked_action_play_x_cards_with_specter_keyword;打出 {0} 张类别为“鬼灵”的牌
 tracked_action_play_x_cards_with_summon_keyword;打出 {0} 张具有“召唤”关键字的牌
 tracked_action_play_x_cards_with_supported_factions;使用您所支持的阵营牌组打出 {0} 张牌。
-tracked_action_play_x_cards_with_syndicate;使用辛迪加牌组打出 {0} 张牌。
+tracked_action_play_x_cards_with_syndicate;使用辛迪加阵营打出 {0} 张牌。
 tracked_action_play_x_cards_with_tidecloaks_tag;打出 {0} 张类别为“踏浪帮”的牌。
 tracked_action_play_x_classic_matches;在标准模式中完成 {0} 场对局
 tracked_action_play_x_defender_cards;打出 {0} 张具有“卫士”关键字的牌
@@ -7153,6 +7247,7 @@ ui_cardback_group_25_title;特莉丝的旅程
 ui_cardback_group_27_title;仙尼德之变
 ui_cardback_group_28_title;艾瑞图萨旅程
 ui_cardback_group_3_title;“鼠人”赛季
+ui_cardback_group_30_title;丹德里恩的旅程
 ui_cardback_group_4_title;“猩红诅咒”扩展包
 ui_cardback_group_5_title;“诺城之火”扩展包
 ui_cardback_group_6_title;“钢铁审判”扩展包
@@ -7164,6 +7259,7 @@ ui_coin_group_11_title;特莉丝的旅程
 ui_coin_group_12_title;扩展包
 ui_coin_group_13_title;特别活动
 ui_coin_group_14_title;艾瑞图萨旅程
+ui_coin_group_17_title;丹德里恩的旅程
 ui_coin_group_2_title;杰洛特的旅程
 ui_coin_group_3_title;希里的旅程
 ui_coin_group_4_title;赛博朋克 2077
@@ -7212,13 +7308,14 @@ ui_journey_main_panel_standard_path;标准
 ui_journey_main_panel_story;旅程故事
 ui_journey_new_quests;新的系列任务下周继续……
 ui_journey_popup_congratulation;恭喜！
-ui_journey_popup_finish_journey;您已进入雷吉斯的旅程！变身吧，使用沿途获得的力量撕碎敌人！
+ui_journey_popup_finish_journey;您已完成丹德里恩的旅程！快擦亮沿途获得的纪念品和饰品吧，再帅气地戴在身上！
 ui_journey_popup_journey_end;本次旅程已经抵达终点 - 获取皇冠碎片可以获得奖励点数
 ui_journey_popup_premium_alzur_desc;先人一步，立刻解锁 25 级。\n 更可解锁阿祖尔传奇皮肤和额外饰品！
 ui_journey_popup_premium_aretuza_desc;先人一步，立刻解锁前 25 级。\n 更可解锁战场：艾瑞图萨主厅和额外的饰品！
 ui_journey_popup_premium_button;一次性买断
 ui_journey_popup_premium_ciri_desc;先人一步，立刻解锁前 25 级。\n 更可解锁希里传奇皮肤和额外的饰品！
 ui_journey_popup_premium_ciri_title;高阶旅程通行证：立升 25 级
+ui_journey_popup_premium_dandelion_desc;先人一步，立刻获取额外 25 级。\n 更可解锁丹德里恩传奇皮肤和额外的饰品！
 ui_journey_popup_premium_desc;先人一步，立刻解锁前 25 级。\n 更可解锁杰洛特传奇皮肤和额外的饰品！
 ui_journey_popup_premium_regis_desc;先人一步，立刻解锁额外 25 级。\n 更可解锁爱米尔·雷吉斯和更多饰品！
 ui_journey_popup_premium_title;快速移动捆绑包
@@ -7227,16 +7324,17 @@ ui_journey_popup_premium_yen_desc;先人一步，立刻解锁前 25 级。\n 更
 ui_journey_popup_standard_alzur_desc;立刻解锁阿祖尔传奇皮肤！
 ui_journey_popup_standard_aretuza_desc;即刻解锁战场：艾瑞图萨主厅！
 ui_journey_popup_standard_ciri_desc;立即解锁希里传奇皮肤！
+ui_journey_popup_standard_dandelion_desc;立即解锁丹德里恩传奇皮肤！
 ui_journey_popup_standard_desc;立刻解锁杰洛特传奇皮肤
 ui_journey_popup_standard_regis_desc;即刻解锁爱米尔·雷吉斯！
 ui_journey_popup_standard_title;高阶旅程通行证
 ui_journey_popup_standard_triss_desc;立即解锁特莉丝传奇皮肤！
 ui_journey_popup_standard_yen_desc;立即解锁叶奈法传奇皮肤！
-ui_journey_popup_start_journey;雷吉斯的旅程开始啦！进行对局、完成每周任务来了解他的故事。用雷吉斯的多种形态统领你的军队！
+ui_journey_popup_start_journey;丹德里恩的旅程开始啦！进行对局，完成每周任务，探索他的故事！
 ui_journey_popup_start_title;欢迎！
 ui_journey_social_panel_week;{0} / {1} 周
 ui_journey_story_extended_next_week;杰洛特的旅程下周继续…
-ui_journey_story_heading;亡者不会咬人
+ui_journey_story_heading;彻底的人文科学
 ui_journey_story_standard_next_week;预知后事如何，请听下周分解……
 ui_journey_story_standard_title;丹德里恩
 ui_journey_timer_days;{0} 天
@@ -7294,10 +7392,11 @@ ui_leader_name_10044;店店
 ui_leader_name_10045;阿尔祖
 ui_leader_name_10046;叶奈法
 ui_leader_name_10047;特莉丝·梅莉葛德
+ui_leader_name_10048;爱米尔·雷吉斯 - 人类形态
 ui_leader_name_10049;奥克塔维亚·黑尔
-ui_leader_name_10050;爱米尔·雷吉斯 - 人类形态
-ui_leader_name_10051;爱米尔·雷吉斯（半化）
-ui_leader_name_10052;雷吉斯（吸血鬼）
+ui_leader_name_10050;爱米尔·雷吉斯（半化）
+ui_leader_name_10051;雷吉斯（吸血鬼）
+ui_leader_name_10052;丹德里恩
 ui_leader_trinket_group_1_title;护甲
 ui_leader_trinket_group_2_title;头甲
 ui_leader_trinket_group_3_title;战利品
@@ -7337,6 +7436,7 @@ ui_social_panel_journey_quests;旅程任务
 ui_soundtrack_group_1_title;默认
 ui_soundtrack_group_2_title;特殊
 ui_soundtrack_group_3_title;艾瑞图萨旅程
+ui_soundtrack_group_5_title;丹德里恩的旅程
 ui_tooltip_coins;辛迪加阵营的赏金。您最多可以拥有 9 枚金币。进入下一小局后，金币数减半。
 ui_vanity_inventory_change_category;更改类别
 ui_vanity_inventory_equip_preview;装备
@@ -7751,6 +7851,20 @@ vanity_avatar_48355_title;头像：进阶战术
 vanity_avatar_48356_title;头像：针织店店
 vanity_avatar_48357_title;头像：冬雪鹰身女妖
 vanity_avatar_48358_title;头像：金虎
+vanity_avatar_48359_title;头像：暮色羽毛
+vanity_avatar_48360_title;头像：紫罗兰羽毛
+vanity_avatar_48361_title;头像：绯红羽毛
+vanity_avatar_48362_title;头像：金色羽毛
+vanity_avatar_48363_title;头像：翠玉羽毛
+vanity_avatar_48364_title;头像：抱抱女王
+vanity_avatar_48365_title;头像：小勺子
+vanity_avatar_48366_title;头像：丹德里恩
+vanity_avatar_48367_title;头像：迪杰斯特拉
+vanity_avatar_48368_title;头像：绯红复仇者
+vanity_avatar_48369_title;头像：年轻的吟游诗人
+vanity_avatar_48370_title;头像：魅力四射
+vanity_avatar_48371_title;头像：满满是爱
+vanity_avatar_48372_title;头像：无赖
 vanity_body_80284_title;黑袍（人类）
 vanity_body_80285_title;白袍 - 人类
 vanity_body_80286_title;黑色舞装 - 人类
@@ -8042,6 +8156,18 @@ vanity_border_38187_title;边框：夜紫
 vanity_border_38188_title;边框：林中女士
 vanity_border_38189_title;边框：进阶战术
 vanity_border_38190_title;边框：针织店店
+vanity_border_38191_title;边框：暮色复仇者
+vanity_border_38192_title;边框：金色复仇者
+vanity_border_38193_title;边框：绯红复仇者
+vanity_border_38194_title;边框：翠玉复仇者
+vanity_border_38195_title;边框：紫罗兰复仇者
+vanity_border_38196_title;边框：抱抱国王
+vanity_border_38197_title;边框：大勺子
+vanity_border_38198_title;边框：虚荣
+vanity_border_38199_title;边框：音乐家
+vanity_border_38200_title;边框：竖琴
+vanity_border_38201_title;边框：酒馆
+vanity_border_38202_title;边框：香氛
 vanity_border_38512_title;“世界大师赛”第二赛季
 vanity_border_description_apprentice;在排位赛中达到 6 级的奖励。
 vanity_border_description_default;所有人可用。
@@ -8143,7 +8269,7 @@ vanity_cardback_60096_title;卡背：具美
 vanity_cardback_60097_title;卡背：寒冰碎片
 vanity_cardback_60098_title;卡背：悲剧的爱
 vanity_cardback_60099_title;卡背：巡演伙伴
-vanity_cardback_60100_title;春节
+vanity_cardback_60100_title;卡背：公牛
 vanity_cardback_60101_title;卡背：巨橡
 vanity_cardback_60102_title;卡背：寒冬
 vanity_cardback_60103_title;卡背：春光
@@ -8167,8 +8293,8 @@ vanity_cardback_60119_title;卡背：叶奈法
 vanity_cardback_60120_title;卡背：特莉丝
 vanity_cardback_60121_title;卡背：野狗公爵
 vanity_cardback_60123_title;卡背：煮婆
-vanity_cardback_60124_title;卡背：呢喃婆
-vanity_cardback_60125_title;卡背：织婆
+vanity_cardback_60124_title;卡背：织婆
+vanity_cardback_60125_title;卡背：呢喃婆
 vanity_cardback_60126_title;卡背：灭绝
 vanity_cardback_60127_title;卡背：墓园行者
 vanity_cardback_60128_title;卡背：雷吉斯与杰洛特
@@ -8177,6 +8303,10 @@ vanity_cardback_60130_title;卡背：雷吉斯（吸血鬼）
 vanity_cardback_60132_title;卡背：针织店店
 vanity_cardback_60133_title;卡背：针织店店
 vanity_cardback_60137_title;卡背：虎年
+vanity_cardback_60138_title;卡背：丹德里恩与迪杰斯特拉
+vanity_cardback_60139_title;卡背：丹德里恩与杰洛特
+vanity_cardback_60140_title;卡背：女夜魔盛会
+vanity_cardback_60141_title;卡背：创意激扬
 vanity_cardback_61001_title;卡背：怪兽
 vanity_cardback_61002_title;卡背：尼弗迦德
 vanity_cardback_61003_title;卡背：北方领域
@@ -8184,46 +8314,46 @@ vanity_cardback_61004_title;卡背：松鼠党
 vanity_cardback_61005_title;卡背：史凯利格
 vanity_cardback_61006_title;卡背：辛迪加
 vanity_cardback_halloween_2020_cardback_tip_desc;赢得对局来发掘被遗忘的矮人财宝。快去商店看看，也许你能在其中找到这张卡背，谁知道呢？
-vanity_coin_70000_title;金币：基础
-vanity_coin_70001_title;金币：萝卜
-vanity_coin_70002_title;金币：猎魔人法印
-vanity_coin_70003_title;金币：狼学派
-vanity_coin_70004_title;金币：炼金
-vanity_coin_70005_title;金币：凯尔莫罕
-vanity_coin_70006_title;金币：交叉双剑
+vanity_coin_70000_title;硬币：基础
+vanity_coin_70001_title;硬币：萝卜
+vanity_coin_70002_title;硬币：猎魔人法印
+vanity_coin_70003_title;硬币：狼学派
+vanity_coin_70004_title;硬币：炼金
+vanity_coin_70005_title;硬币：凯尔莫罕
+vanity_coin_70006_title;硬币：交叉双剑
 vanity_coin_70007_title;硬币：燕子
 vanity_coin_70008_title;硬币：冰鞋
 vanity_coin_70009_title;硬币：猫学派徽章
 vanity_coin_70010_title;硬币：长剑
 vanity_coin_70011_title;硬币：狼嚎
 vanity_coin_70012_title;硬币：独角兽
-vanity_coin_70013_title;金币：武侍乐队
+vanity_coin_70013_title;硬币：武侍乐队
 vanity_coin_70014_title;甲虫硬币
 vanity_coin_70015_title;神眼硬币
 vanity_coin_70016_title;月之硬币
 vanity_coin_70017_title;月相硬币
 vanity_coin_70018_title;召唤法阵硬币
 vanity_coin_70019_title;日之硬币
-vanity_coin_70020_title;金币：冰封火鸟
-vanity_coin_70021_title;金币：衔尾蛇面具
-vanity_coin_70022_title;金币：药水
-vanity_coin_70023_title;金币：封印
-vanity_coin_70024_title;金币：面甲
-vanity_coin_70025_title;金币：星星
-vanity_coin_70026_title;金币：独角兽
+vanity_coin_70020_title;硬币：冰封火鸟
+vanity_coin_70021_title;硬币：衔尾蛇面具
+vanity_coin_70022_title;硬币：药水
+vanity_coin_70023_title;硬币：封印
+vanity_coin_70024_title;硬币：面甲
+vanity_coin_70025_title;硬币：星星
+vanity_coin_70026_title;硬币：独角兽
 vanity_coin_70027_title;幸运币
-vanity_coin_70028_title;金币：寒冬
-vanity_coin_70029_title;金币：春光
+vanity_coin_70028_title;硬币：寒冬
+vanity_coin_70029_title;硬币：春光
 vanity_coin_70030_title;硬币：夏日
 vanity_coin_70031_title;硬币：秋日
 vanity_coin_70031_tittle;硬币：秋日
-vanity_coin_70033_title;金币：烈焰之书
-vanity_coin_70034_title;金币：回忆玫瑰
-vanity_coin_70035_title;金币：特莉丝的垂饰
-vanity_coin_70036_title;金币：弗尔泰斯特的顾问
-vanity_coin_70037_title;金币：火球
-vanity_coin_70038_title;金币：蝴蝶
-vanity_coin_70039_title;金币：柴堆
+vanity_coin_70033_title;硬币：烈焰之书
+vanity_coin_70034_title;硬币：回忆玫瑰
+vanity_coin_70035_title;硬币：特莉丝的垂饰
+vanity_coin_70036_title;硬币：弗尔泰斯特的顾问
+vanity_coin_70037_title;硬币：火球
+vanity_coin_70038_title;硬币：蝴蝶
+vanity_coin_70039_title;硬币：柴堆
 vanity_coin_70040_title;硬币：杰洛特
 vanity_coin_70041_title;硬币：希里
 vanity_coin_70042_title;硬币：叶奈法
@@ -8238,6 +8368,10 @@ vanity_coin_70050_title;硬币：炼金术士
 vanity_coin_70051_title;硬币：墓园
 vanity_coin_70052_title;硬币：红魔法
 vanity_coin_70053_title;硬币：衔尾蛇面具
+vanity_coin_70054_title;硬币：鲁特琴
+vanity_coin_70055_title;硬币：诗人
+vanity_coin_70056_title;硬币：诗人帽
+vanity_coin_70057_title;硬币：香水瓶
 vanity_deck_mon;怪兽牌组
 vanity_deck_nil;尼弗迦德牌组
 vanity_deck_nor;北方领域牌组
@@ -8289,6 +8423,7 @@ vanity_gameboard_50051_title;战场：完美邪灵术教室
 vanity_gameboard_50052_title;战场：巨橡
 vanity_gameboard_50053_title;战场：往生节
 vanity_gameboard_50054_title;战场：约尔节
+vanity_gameboard_50057_title;战场：爱的时节
 vanity_gameboard_default_title;阵营默认战场
 vanity_h01_border_description;在专家模式下完成“玛哈坎麦酒节”的奖励。
 vanity_h01_border_title;边框：雪山酒客
@@ -8652,6 +8787,41 @@ vanity_leader_trinket_80318_title;光环：黄灯笼（人类）
 vanity_leader_trinket_80319_title;红袍（人类）
 vanity_leader_trinket_80320_title;店店的蝙蝠翅膀
 vanity_leader_trinket_80321_title;礼物袋
+vanity_leader_trinket_80322_title;潮流服饰
+vanity_leader_trinket_80323_title;针织衬衫
+vanity_leader_trinket_80324_title;纽扣衬衫
+vanity_leader_trinket_80325_title;时尚围巾
+vanity_leader_trinket_80326_title;旅行诗人大衣
+vanity_leader_trinket_80327_title;优雅服饰
+vanity_leader_trinket_80328_title;灯笼裤
+vanity_leader_trinket_80329_title;高筒靴
+vanity_leader_trinket_80330_title;皮靴
+vanity_leader_trinket_80331_title;内衣
+vanity_leader_trinket_80332_title;旅行短裤
+vanity_leader_trinket_80333_title;魅力短裤
+vanity_leader_trinket_80334_title;诗人帽
+vanity_leader_trinket_80335_title;红帽
+vanity_leader_trinket_80336_title;头带
+vanity_leader_trinket_80337_title;秀发飞扬
+vanity_leader_trinket_80338_title;满满是爱
+vanity_leader_trinket_80339_title;绯红复仇者
+vanity_leader_trinket_80340_title;精饰鲁特琴
+vanity_leader_trinket_80341_title;曼陀林
+vanity_leader_trinket_80342_title;巴拉玛琴
+vanity_leader_trinket_80343_title;铁铲吉他
+vanity_leader_trinket_80344_title;三弦琴
+vanity_leader_trinket_80345_title;鲁特琴
+vanity_leader_trinket_80346_title;日常腰带
+vanity_leader_trinket_80347_title;一束红玫瑰
+vanity_leader_trinket_80348_title;一束黄玫瑰
+vanity_leader_trinket_80349_title;鲁特琴配玫瑰
+vanity_leader_trinket_80350_title;留声机
+vanity_leader_trinket_80351_title;香氛
+vanity_leader_trinket_80352_title;诗集
+vanity_leader_trinket_80353_title;没有光环
+vanity_leader_trinket_80354_title;光环：演唱会
+vanity_leader_trinket_80355_title;光环：酒馆
+vanity_leader_trinket_80356_title;光环：聚光灯
 vanity_leader_trinket_80357_title;霍桑二世的丑外套
 vanity_leader_trinket_80358_title;杰洛特的剑
 vanity_leader_trinket_80359_title;甘蔗剑
@@ -8689,6 +8859,10 @@ vanity_leader_trinket_80390_title;光环：灭鸦者（吸血鬼）
 vanity_leader_trinket_80391_title;光环：红灯笼（吸血鬼）
 vanity_leader_trinket_80392_title;光环：黄灯笼（吸血鬼）
 vanity_leader_trinket_80393_title;基础腰带（半化）
+vanity_leader_trinket_80394_title;小包
+vanity_leader_trinket_80395_title;卷轴
+vanity_leader_trinket_80400_title;店店的爱之护甲
+vanity_leader_trinket_80401_title;女王的女猎手
 vanity_monsters_challenge_title;暴君
 vanity_nilfgaard_challenge_title;师团长
 vanity_northern_challenge_title;猎手大师
@@ -9019,6 +9193,11 @@ vanity_soundtrack_90014_title;荣光
 vanity_soundtrack_90015_title;倾颓
 vanity_soundtrack_90016_title;黎明
 vanity_soundtrack_90017_title;血月
+vanity_soundtrack_90018_title;史诗旅程
+vanity_soundtrack_90019_title;歌谣
+vanity_soundtrack_90020_title;大师之作
+vanity_soundtrack_90021_title;感受爱的味道！
+vanity_soundtrack_90022_title;诺维格瑞之曲
 vanity_title_20150_title;志愿军
 vanity_title_20151_title;监工
 vanity_title_20152_title;散兵
@@ -9287,6 +9466,25 @@ vanity_title_28226_title;店店的小帮手
 vanity_title_28227_title;进阶战术大师
 vanity_title_28228_title;约尔精神
 vanity_title_28229_title;金虎
+vanity_title_28230_title;抱抱国王
+vanity_title_28231_title;抱抱女王
+vanity_title_28232_title;大勺子
+vanity_title_28233_title;小勺子
+vanity_title_28234_title;夜莺王子
+vanity_title_28235_title;绯红复仇者
+vanity_title_28236_title;被压迫者的救星
+vanity_title_28237_title;聚光灯下
+vanity_title_28238_title;独一无二
+vanity_title_28239_title;辣个诗人
+vanity_title_28240_title;爱侣
+vanity_title_28241_title;花花公子
+vanity_title_28242_title;传奇
+vanity_title_28243_title;旅行诗人
+vanity_title_28244_title;真正的艺术家
+vanity_title_28245_title;最佳吟游诗人
+vanity_title_28246_title;娇花
+vanity_title_28247_title;音乐家
+vanity_title_28251_title;暴徒
 vanity_title_30180;铜头蛇
 vanity_title_30180_description;在排位赛“毒蛇”赛季（五月）获得天梯 10 级（R10）的奖励。
 vanity_title_30181;响尾蛇

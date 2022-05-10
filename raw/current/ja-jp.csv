@@ -379,6 +379,7 @@ achievement_10688_desc;キーワード「忍耐」を500回実行する。
 achievement_10688_title;忍耐を失えば敗北を知る
 achievement_10689_desc;キーワード「忍耐」を1000回実行する。
 achievement_10689_title;絶望の一種
+achievement_11000_new_desc;チャレンジ期間中にモンスターで{0}試合勝利する。
 achievement_11001_desc;チャレンジイベント中に「モンスター」勢力を支持している状態で、クエスト3個をクリアする。
 achievement_11001_title;雑魚
 achievement_11002_desc;チャレンジイベント中に「モンスター」勢力を支持している状態で、クエスト5個をクリアする。
@@ -389,6 +390,7 @@ achievement_11004_desc;チャレンジイベント中に「モンスター」勢
 achievement_11004_title;ゴマすり
 achievement_11005_desc;チャレンジイベント中に「モンスター」勢力を支持している状態で、クエスト25個クリアする。
 achievement_11005_title;巨人
+achievement_11010_new_desc;チャレンジ期間中にスケリッジで{0}試合勝利する。
 achievement_11011_desc;チャレンジイベント中に「スケリッジ」勢力を支持している状態で、クエスト3個をクリアする。
 achievement_11011_title;侵略者
 achievement_11012_desc;チャレンジイベント中に「スケリッジ」勢力を支持している状態で、クエスト5個をクリアする。
@@ -399,6 +401,7 @@ achievement_11014_desc;チャレンジイベント中に「スケリッジ」勢
 achievement_11014_title;一等航海士
 achievement_11015_desc;チャレンジイベント中に「スケリッジ」勢力を支持している状態で、クエスト25個クリアする。
 achievement_11015_title;海賊船長
+achievement_11020_new_desc;チャレンジ期間中に北方諸国で{0}試合勝利する。
 achievement_11021_desc;チャレンジイベント中に「北方諸国」勢力を支持している状態で、クエスト3個をクリアする。
 achievement_11021_title;新兵
 achievement_11022_desc;チャレンジイベント中に「北方諸国」勢力を支持している状態で、クエスト5個をクリアする。
@@ -409,6 +412,7 @@ achievement_11024_desc;チャレンジイベント中に「北方諸国」勢力
 achievement_11024_title;愛国者
 achievement_11025_desc;チャレンジイベント中に「北方諸国」勢力を支持している状態で、クエスト25個クリアする。
 achievement_11025_title;憂国の士
+achievement_11030_new_desc;チャレンジ期間中にニルフガードで{0}試合勝利する。
 achievement_11031_desc;チャレンジイベント中に「ニルフガード」勢力を支持している状態で、クエスト3個をクリアする。
 achievement_11031_title;密偵
 achievement_11032_desc;チャレンジイベント中に「ニルフガード」勢力を支持している状態で、クエスト5個をクリアする。
@@ -419,6 +423,7 @@ achievement_11034_desc;チャレンジイベント中に「ニルフガード」
 achievement_11034_title;密偵長
 achievement_11035_desc;チャレンジイベント中に「ニルフガード」勢力を支持している状態で、クエスト25個クリアする。
 achievement_11035_title;親衛隊
+achievement_11040_new_desc;チャレンジ期間中にスコイア＝テルで{0}試合勝利する。
 achievement_11041_desc;チャレンジイベント中に「スコイア＝テル」勢力を支持している状態で、クエスト3個をクリアする。
 achievement_11041_title;反乱者
 achievement_11042_desc;チャレンジイベント中に「スコイア＝テル」勢力を支持している状態で、クエスト5個をクリアする。
@@ -429,11 +434,13 @@ achievement_11044_desc;チャレンジイベント中に「スコイア＝テル
 achievement_11044_title;狂信者
 achievement_11045_desc;チャレンジイベント中に「スコイア＝テル」勢力を支持している状態で、クエスト25個クリアする。
 achievement_11045_title;ゲリラの頭
+achievement_11050_new_desc;チャレンジ期間中にシンジケートで{0}試合勝利する。
 achievement_11051_title;使い走り
 achievement_11052_title;小悪党
 achievement_11053_title;幹部
 achievement_11054_title;懐刀
 achievement_11055_title;総裁
+achievement_11060_new_desc;チャレンジクエストを{0}回完了する。
 achievement_11061_title;雇われ
 achievement_11062_title;仲介人
 achievement_11063_title;契約者
@@ -1844,6 +1851,67 @@ achievement_90253_title;繰り返された過ち
 achievement_90254_title;妖婆は3人一緒が好き
 achievement_90256_title;不吉な眼差し
 achievement_90257_title;先祖伝来
+achievement_90259_desc;ダンディリオンのジャーニークエストを5回完了する。
+achievement_90259_title;鏡の前のパフォーマンス
+achievement_90260_desc;ダンディリオンのジャーニークエストを10回完了する。
+achievement_90260_title;身内に披露
+achievement_90261_desc;ダンディリオンのジャーニークエストを20回完了する。
+achievement_90261_title;村の出し物
+achievement_90262_desc;ダンディリオンのジャーニークエストを全て完了する。
+achievement_90262_title;酒場の催し
+achievement_90263_desc;ダンディリオンの通常ルートのジャーニークエストを全て完了する。
+achievement_90263_title;祭の主役
+achievement_90264_desc;ダンディリオンの延長ルートのジャーニークエストを全て完了する。
+achievement_90264_title;宮廷音楽家
+achievement_90265_desc;ダンディリオンの通常および延長ルートのジャーニーでレベル100に到達する。
+achievement_90265_title;会心の出来
+achievement_90266_desc;ダンディリオンの通常および延長ルートのジャーニーでレベル100に到達する。
+achievement_90266_title;ジュリアン・アルフレッド・パンクラッツの誇れる友人
+achievement_90267_desc;ダンディリオンの延長ルートのジャーニーでレベル100に到達する。
+achievement_90267_title;シギスムンド・ディクストラの誇れる仲間
+achievement_90269_desc;ダンディリオンの「おしゃれなショール」か「エレガントな衣服」を装備して1試合プレイする。
+achievement_90269_title;皆の人気者
+achievement_90270_desc;ダンディリオンの「おしゃれなショール」か「エレガントな衣服」を装備して5試合プレイする。
+achievement_90270_title;真の芸術家にして空想家
+achievement_90271_desc;ダンディリオンの「おしゃれなショール」か「エレガントな衣服」を装備して10試合プレイする。
+achievement_90271_title;どうしようもない楽天家
+achievement_90272_desc;ダンディリオンの「おしゃれなショール」か「エレガントな衣服」を装備して20試合プレイする。
+achievement_90272_title;自由なる精神
+achievement_90273_desc;ダンディリオンの「おしゃれなショール」か「エレガントな衣服」を装備して30試合プレイする。
+achievement_90273_title;魅惑的なスタイル
+achievement_90275_desc;ダンディリオンの「ボタン付きのシャツ」か「旅する吟遊詩人のコート」を装備して1試合プレイする。
+achievement_90275_title;至高の詩人
+achievement_90276_desc;ダンディリオンの「ボタン付きのシャツ」か「旅する吟遊詩人のコート」を装備して5試合プレイする。
+achievement_90276_title;至高の吟遊詩人
+achievement_90277_desc;ダンディリオンの「ボタン付きのシャツ」か「旅する吟遊詩人のコート」を装備して10試合プレイする。
+achievement_90277_title;至高の竪琴奏者
+achievement_90278_desc;ダンディリオンの「ボタン付きのシャツ」か「旅する吟遊詩人のコート」を装備して20試合プレイする。
+achievement_90278_title;至高のトルバドゥール
+achievement_90279_desc;ダンディリオンの「ボタン付きのシャツ」か「旅する吟遊詩人のコート」を装備して30試合プレイする。
+achievement_90279_title;至高の存在
+achievement_90281_desc;ダンディリオンの「赤いバラのブーケ」か「コンサートのオーラ」を装備して1試合プレイする。
+achievement_90281_title;棘の中のバラ
+achievement_90282_desc;ダンディリオンの「赤いバラのブーケ」か「コンサートのオーラ」を装備して5試合プレイする。
+achievement_90282_title;芸術は繊細な花のように
+achievement_90283_desc;ダンディリオンの「赤いバラのブーケ」か「コンサートのオーラ」を装備して10試合プレイする。
+achievement_90283_title;花の谷での出会い
+achievement_90284_desc;ダンディリオンの「赤いバラのブーケ」か「コンサートのオーラ」を装備して20試合プレイする。
+achievement_90284_title;花のごとく愛情に水をやれ
+achievement_90285_desc;ダンディリオンの「赤いバラのブーケ」か「コンサートのオーラ」を装備して30試合プレイする。
+achievement_90285_title;愛にバラの棘は見えず
+achievement_90287_desc;「ダンディリオンの旅」の音楽を装備して1試合プレイする。
+achievement_90287_title;パフォーマー
+achievement_90288_desc;「ダンディリオンの旅」の音楽を装備して5試合プレイする。
+achievement_90288_title;音楽家
+achievement_90289_desc;「ダンディリオンの旅」の音楽を装備して10試合プレイする。
+achievement_90289_title;独奏者
+achievement_90290_desc;「ダンディリオンの旅」の音楽を装備して20試合プレイする。
+achievement_90290_title;巨匠
+achievement_90295_title;女王の帰還
+achievement_90296_title;アイスト・テルショック王を手伝う
+achievement_90297_title;キャランセ女王を手伝う
+achievement_90298_title;シギスムンド・ディクストラを手伝う
+achievement_90299_title;フィリパ・エイルハートを手伝う
 achievement_category_arena;アリーナ
 achievement_category_collection;コレクション
 achievement_category_expansions;拡張セット
@@ -1854,6 +1922,7 @@ achievement_category_mastery;マスター
 achievement_category_ranked;ランク
 achievement_category_seasonal;シーズン
 achievement_category_singleplayer;ウィッチャーテイルズ
+achievement_complete_love_event;愛のイベントの全キャラクターを手伝う
 achievement_complete_x_aretuza_quests;アレトゥーザのジャーニークエストを{0}回完了する。
 achievement_complete_x_regis_quests;レジスのジャーニークエストを{0}回完了する。
 achievement_geralt_winter_event;スキン「ゲラルト」を装備して{0}試合勝利する
@@ -2147,6 +2216,8 @@ arenav2_newdraft_disabled_tooltip;新しいドラフト解除までのマッチ�
 arenav2_optin_update_notification_description;新しいバージョンのドラフトが利用可能です！ 進行中のドラフトを継続することも可能ですが、新しいバージョンにはバランス調整や期間限定の仕様が含まれている場合があります。現在のバージョンのドラフトは近日中に終了予定となります。
 arenav2_play_menu_description;ドラフトへようこそ。絶えずデッキが変化するこのゲームモードで腕比べをしましょう。
 arenav2_play_menu_title;ドラフト
+arenav2_rewards_timeout_description;報酬の表示に失敗しました
+arenav2_rewards_timeout_title;報酬表示エラー
 arenav2_show_deck_tooltip;デッキを表示
 arenav2_summary_newdraft;再度ドラフトをプレイする
 arenav2_summary_rewards;獲得報酬：
@@ -3734,12 +3805,12 @@ interface_card_choice_8;公開するカードを選択
 interface_card_choice_opponent;対戦相手が選択中
 interface_challenge_6100_abilities_subtitle;ワーラット年の新たなアビリティを使いこなせ
 interface_challenge_6100_abilities_title;ワーラット年アビリティチャレンジ
-interface_challenge_acknowledge_button;次の妖婆を手伝う
+interface_challenge_acknowledge_button;次の片割れを手伝う
 interface_challenge_arena_event;アリーナイベント
 interface_challenge_arena_event_desc;チャレンジ勝者の勢力に特化したスペシャルモードがアリーナに追加されます。
 interface_challenge_arena_event_title;アリーナイベント
 interface_challenge_arena_results;アリーナにスペシャルモードが追加されます。
-interface_challenge_available_description;妖婆がサオヴィンの準備をするのを手伝う
+interface_challenge_available_description;恋人たちの再会を手伝う
 interface_challenge_bards_side;詩人
 interface_challenge_belleteyn_ornaments_desc;チャレンジの勝者に基づくベルテインの装飾アイテムがショップで安くなる。
 interface_challenge_c_rewards_title;チャレンジ勝者
@@ -3779,6 +3850,15 @@ interface_challenge_leader_arena_results;チャレンジ勝者のリーダーに
 interface_challenge_leader_exp_results;勝利したリーダーを使用すると、全てのゲームモードで経験値ボーナスを得ます。
 interface_challenge_leader_experience_boost_desc;勝利したリーダーを使用すると、全てのゲームモードで経験値ボーナスを得ます。
 interface_challenge_look_at_rewards;宝を確認する
+interface_challenge_love_2022_acknowledge_button;仕事は済んだ
+interface_challenge_love_2022_reward_title_0;全員を手伝うと獲得可能：
+interface_challenge_love_2022_reward_title_0_0;アイスト王を手伝うと獲得可能：
+interface_challenge_love_2022_reward_title_0_1;キャランセ女王を手伝うと獲得可能：
+interface_challenge_love_2022_reward_title_0_2;ディクストラを手伝うと獲得可能：
+interface_challenge_love_2022_reward_title_0_3;フィリパを手伝うと獲得可能：
+interface_challenge_love_2022_rules;有名キャラクターたちをお互いに引き合わせよう！
+interface_challenge_love_2022_rules_completed;再会の手伝いをして、恋人たちはお互いに抱きしめ合うことができた。
+interface_challenge_love_2022_title;愛のイベント
 interface_challenge_min_shortcut;{0}分
 interface_challenge_neu_arena_event;チャレンジの勝者は特定のスペシャルアリーナモードを解除できる。
 interface_challenge_neu_arena_results;チャレンジの勝者は特定のスペシャルアリーナモードを解除できる。
@@ -4920,6 +5000,7 @@ rb_ftux_hint_firstquestclaimed;報酬手帳のものを含む全てのクエス�
 rb_ftux_hint_rewardbookopened;報酬手帳へようこそ！ 勢力ツリーを選んで始めよう。
 rb_ftux_hint_treeentered;各ツリーには一連の報酬が用意されており、ゲームをプレイすると手に入る鍵で解除できる。さっそく1つ獲得しよう。
 rb_ftux_notification_button;表示
+rb_ftux_notification_locked_tabs;1つのツリーを完成させると、別の「報酬手帳」タブが解除されます
 rb_ftux_notification_open_book;報酬手帳に新たに追加されたものを確認しよう
 rb_ftux_notification_open_quest;新しいクエストを請け負った
 read_eula_button;ユーザー同意書を見る
@@ -5667,6 +5748,7 @@ reward_tree_svalblod_story_pt2;人間と熊の化身であるスヴァルブロ�
 reward_tree_svalblod_story_pt3;スヴァルブロドの侍者は幻覚作用のある煎じ薬を飲み、アード・スケリッグ中心部の洞窟へと入っていく。侍者はそこで、生きたまま熊の餌食となる。そして寄生虫のように、熊の体を我が物として奪うのだ。
 reward_tree_svalblod_story_pt4;スケリッジ諸島の族長たちは、この慣習に終止符を打とうと決断する。彼らはスヴァルブロドの崇拝者たちを捕らえて船に縛り付けると、帆もつけずに海へと放ったのだ。こうして狂信者は根絶されたかに思われた… が、そう簡単に神を葬り去ることなどできはしない。
 reward_tree_svalblod_title;スヴァルブロド
+reward_tree_syndicate_ftux_title;シンジケート
 reward_tree_tb_story_pt1;ハッゲで開かれる統治者たちの会談へと出発した際、メーヴは執事に対し、すぐに戻るから準備をしておくようにと言い残した。彼女が再び自分の寝室で寝たのは、それから一年後のことである。
 reward_tree_tb_story_pt2;ライリアおよびリヴィアは、一時的にニルフガードの征服を受けたことがある。この占領が果たされた際、帝国の使者たちはその報せを皇帝に伝えたが、それは特に騒ぎ立てるほどの出来事でもなかった。結局のところ、エムヒル・ヴァル・エムレイスの壮大な野望の前には、僻地の小国など取るに足らない存在だったのだ。
 reward_tree_tb_story_pt3;メーヴ女王は降伏を拒んだが、多くの者は彼女に故郷を奪還することはできないと考えていた。しかし歴史の語るところによれば、大陸の人々はすぐに驚かされることになる… ニルフガードにしてみれば、その驚きは尚更のことだっただろう。
@@ -5895,7 +5977,7 @@ shop_blood_and_many_legs_pack_title;「血とたくさんの足」パック
 shop_button_vanities;装飾アイテム
 shop_cara_bundle_desc;<sprite="PopupIcons" name="Avatar"> アバター：カランシール\n\n<sprite="PopupIcons" name="Border"> フレーム：ワイルドハント王\n\n<sprite="PopupIcons" name="Title"> 称号：戦争の兆し\n\nこのバンドルには、元々イノシシ年のシーズン・ワイルドハント中に解除可能だった装飾アイテムが含まれています！
 shop_cara_bundle_title;カランシールバンドル
-shop_casanova_bundle_desc;<sprite="PopupIcons" name="Avatar"> アバター：ダンディリオン\n\n<sprite="PopupIcons" name="Border"> フレーム：恋煩い\n\n<sprite="PopupIcons" name="Title"> 称号：真実の愛\n\nこのバンドルには、元々イノシシ年のシーズン・ラブ中に解除可能だったアイテムと、新登場のボーナスアイテム1つが含まれています！
+shop_casanova_bundle_desc;<sprite="PopupIcons" name="Avatar"> アバター：ダンディリオン\n\n<sprite="PopupIcons" name="Border"> フレーム：恋煩い\n\n<sprite="PopupIcons" name="Title"> 称号：真実の愛\n\nこのバンドルには、元々イノシシ年のシーズン・ラブ中に解除可能だったアイテムが含まれています。
 shop_casanova_bundle_title;恋煩いバンドル
 shop_category_dungeon_keys;ダンジョンの鍵
 shop_category_esport;eスポーツ
@@ -6072,7 +6154,7 @@ shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> カ�
 shop_data_ep2_alt_cardback_title;アニメーションカードバック：不滅の炎
 shop_data_ep3_alt_leader_skin_bundle_desc;<sprite="PopupIcons" name="Skin"> プレミアムスキン：ラドヴィッド（ゼリカニア）\n\nラドヴィッド五世専用スキン。お見逃しなく！
 shop_data_ep3_alt_leader_skin_bundle_title;プレミアムスキン・ラドヴィッド（ゼリカニア）
-shop_data_ep4_caravan_pack_desc;富は大胆な者にこそ引き寄せられる！ オフィルの秘宝、12枚のストラタジェムカードを手に入れましょう！ それぞれのストラタジェムは固有のボーナスを先行するプレイヤーに授けます。本パックには以下が含まれます：\n\n<sprite="PopupIcons" name="Card">プレミアムカード《魔法のランプ》\n<sprite="PopupIcons" name="Card">プレミアムカード《水晶の頭蓋骨》\n<sprite="PopupIcons" name="Card">プレミアムカード《魔法の鎧》\n<sprite="PopupIcons" name="Card">プレミアムカード《呪われた巻物》\n<sprite="PopupIcons" name="Card">プレミアムカード《バシリスクの毒》\n<sprite="PopupIcons" name="Card">プレミアムカード《儀式の短剣》\n<sprite="PopupIcons" name="Card">プレミアムカード《首輪》\n<sprite="PopupIcons" name="Card">プレミアムカード《技術者のやり方》\n<sprite="PopupIcons" name="Card">プレミアムカード《ウロボロスの仮面》\n<sprite="PopupIcons" name="Card">プレミアムカード《影の壺》\n<sprite="PopupIcons" name="Card">プレミアムカード《アイン・シーデのサーベル》\n<sprite="PopupIcons" name="Card">プレミアムカード《虎目石》
+shop_data_ep4_caravan_pack_desc;<sprite="PopupIcons" name="Card"> プレミアムカード《魔法のランプ》\n<sprite="PopupIcons" name="Card"> プレミアムカード《水晶の頭蓋骨》\n<sprite="PopupIcons" name="Card"> プレミアムカード《魔法の鎧》\n<sprite="PopupIcons" name="Card"> プレミアムカード《呪われた巻物》\n<sprite="PopupIcons" name="Card"> プレミアムカード《バシリスクの毒》\n<sprite="PopupIcons" name="Card"> プレミアムカード《儀式の短剣》\n<sprite="PopupIcons" name="Card"> プレミアムカード《首輪》\n<sprite="PopupIcons" name="Card"> プレミアムカード《技術者のやり方》\n<sprite="PopupIcons" name="Card"> プレミアムカード《ウロボロスの仮面》\n<sprite="PopupIcons" name="Card"> プレミアムカード《影の壺》\n<sprite="PopupIcons" name="Card"> プレミアムカード《アイン・シーデのサーベル》\n<sprite="PopupIcons" name="Card"> プレミアムカード《虎目石》\n\n富は大胆な者にこそ引き寄せられる！ オフィルの秘宝、12枚のストラタジェムカードを手に入れましょう！ それぞれのストラタジェムは固有のボーナスを先行するプレイヤーに授けます。
 shop_data_ep4_caravan_pack_title;キャラバンレイドパック
 shop_data_ep4_premium_keg_desc;期間限定の「プレミアムタル・オフィルの商人」で、お手元のカードコレクションに新拡張セット「オフィルの商人」のアニメーションカードを加えて強化しましょう。\n\nタルを開封すると、拡張セット「オフィルの商人」のプレミアムカードが5枚手に入ります。そのうち4枚はコモン以上、1枚（3枚の中から選択）は確定でレア以上となります。
 shop_data_ep4_premium_keg_title;プレミアムタル・オフィルの商人
@@ -6269,7 +6351,7 @@ shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="
 shop_data_now_available_ promo_desc;販売中！
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin"> スキン：バッタ\n\n<sprite="PopupIcons" name="Board"> ボード：忘れられしもの\n\n自然が猛威を振るう姿は、なぜこうも美しいのか？\n\nワーラット年の期間中にGWENT Open 2をサポートするために導入されたバンドル。
 shop_data_overgrown_bundle_title;オーバーグローンバンドル（GWENT Open 2）
-shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> フレーム：パシフローラの王者\n\n<sprite="PopupIcons" name="Avatar"> アバター：アムリン、ナルシッサ、ヴィオラ\n\n<sprite="PopupIcons" name="Title"> 称号：パシフローラの王者\n\n\n自由都市のグウェントプレイヤーは、みなこの宿に集うという…「パシフローラ」バンドルで、ノヴィグラドの愛の味を知ろう！ 
+shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> フレーム：パシフローラの王者\n\n<sprite="PopupIcons" name="Avatar"> アバター：アムリン\n\n<sprite="PopupIcons" name="Avatar"> アバター：ナルシッサ\n\n<sprite="PopupIcons" name="Avatar"> アバター：ヴィオラ\n\n<sprite="PopupIcons" name="Title"> 称号：パシフローラの王者\n\n「パシフローラ」バンドルでノヴィグラドのパシフローラが提供する最高のサービスを味わおう！
 shop_data_passiflora_bundle_title;「パシフローラ」バンドル
 shop_data_premium_cc_keg_desc;このタルには5枚の拡張セット「紅き血の呪縛」<b>プレミアム</b>版カードが含まれ、そのうち4枚がコモン以上、5枚目（3枚から1枚を選択）はレア以上確定となります。
 shop_data_premium_cc_keg_title;プレミアムタル・紅き血の呪縛
@@ -6325,6 +6407,8 @@ shop_data_skellige_keg_7_title;タル・スケリッジx7
 shop_data_skellige_keg_7_title_gaea;Ignore.
 shop_data_skellige_keg_desc;このタルには5枚の全セット「スケリッジ」カードが含まれ、そのうち4枚がコモン以上、5枚目（3枚から1枚を選択）はレア以上確定となります。
 shop_data_skellige_keg_title;タル・スケリッジ
+shop_data_skin_dana_love_desc;<sprite="PopupIcons" name="Skin"> スキン：愛の女神\n\n新登場のダナ・メービのリーダースキンで、神聖な愛のオーラを纏って指揮を執ろう。
+shop_data_skin_dana_love_title;スキン：愛の女神
 shop_data_special_premium_keg_desc;この特別なタルは紙片でのみ購入可能で、5枚の<b>プレミアム版</b>カードが含まれ、そのうち4枚がコモン以上、5枚目（3枚から1枚を選択）はレア以上確定となります。
 shop_data_special_premium_keg_title;SPプレミアムタル
 shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board"> ボード：春\n\n<sprite="PopupIcons" name="CardBack"> カードバック：春\n\nこのバンドルを購入することでグウェントのeスポーツを支援できます。購入金額の30%がそのまま、2021年12月に開催予定のGWENT Mastersの賞金に充てられます！
@@ -6450,6 +6534,8 @@ shop_great_oak_year_bundle_desc;<sprite="PopupIcons" name="Avatar">アバター�
 shop_great_oak_year_bundle_title;巨大オーク樹バンドル
 shop_ida_emean_bundle_desc;<sprite="PopupIcons" name="Avatar">アバター：アイダ・エミアン\n\n<sprite="PopupIcons" name="Border">フレーム：エルフの門\n\n<sprite="PopupIcons" name="Title">称号：アイン・セヴェルネ\n\nこのバンドルには、元々ワーラット年のシーズン・エルフ中に解除可能だったアイテムが含まれています！
 shop_ida_emean_bundle_title;アイダ・エミアンバンドル
+shop_iris&olgierd_desc;<sprite="PopupIcons" name="CardBack"> カードバック：悲恋\n\n<sprite="PopupIcons" name="Avatar"> アバター：イリス\n\n<sprite="PopupIcons" name="Avatar"> アバター：オルギエルド\n\n<sprite="PopupIcons" name="Border"> フレーム：イーゼル\n\n<sprite="PopupIcons" name="Title"> 称号：悲哀\n\n愛は寛容で優しいものですが、時に悲劇を招き、深く傷つくこともあります。\nこのバンドルには、元々巨大オーク樹年の愛のイベント中に解除可能だったアイテムが含まれています。
+shop_iris&olgierd_title;イリスとオルギエルドバンドル
 shop_ivo_bundle_desc;<sprite="PopupIcons" name="Avatar"> アバター：ベルハーヴェンのイヴォ\n\n<sprite="PopupIcons" name="Border"> フレーム：熊の守護者\n\n<sprite="PopupIcons" name="Title"> 称号「ベルハーヴェンの異才」\n\n熊流派への愛を示しましょう！ このバンドルは元々、ワーラット年のシーズン・ベア中に解除可能なアイテムとして登場した装飾アイテムを含みます。
 shop_ivo_bundle_title;イヴォバンドル
 shop_keg_category_all;全てのカード
@@ -6472,6 +6558,8 @@ shop_leaders_syndicate_desc;さあ、ひと暴れしてやろう！\n\n シン�
 shop_leaders_syndicate_title;悪党パック
 shop_love_cardback_desc;恋に落ちましょう！\n\nこのカードバックは元々、イノシシ年のシーズン・ラブ中に解除可能なアイテムとして登場しました。
 shop_love_cardback_title;カードバック：愛
+shop_love_festival_gameboard_desc;<sprite="PopupIcons" name="Board"> ボード：愛の祭典\n\nノヴィグラドの無法者たちも愛の祭典を祝います！
+shop_love_festival_gameboard_title;ボード：愛の祭典
 shop_lubberkin_bundle_desc;<sprite="PopupIcons" name="Avatar">アバター：ラバーキン\n\n<sprite="PopupIcons" name="Border">フレーム：ラバーキン\n\n<sprite="PopupIcons" name="Title">称号：ラバーキン\n\nシーズン・ラブの到来をお祝いして、このチャーミングな守護神を抱きしめましょう。
 shop_lubberkin_bundle_title;ラバーキンバンドル
 shop_lucky_bundle_desc;<sprite="PopupIcons" name="Coin"> コイン：幸運\n\n<sprite="PopupIcons" name="Title">称号：幸運の主\n\nこのコインでさらなる豪運を呼び込みましょう。
@@ -6492,6 +6580,9 @@ shop_packs_category_2;スターターパック
 shop_popular;人気
 shop_powder_section_description;星の粉は、あなたが所持するカードをプレミアムバージョンにアップグレードさせるために利用できます。プレミアムバージョンのカードには、アニメーションなど豪華な演出が追加されます。
 shop_powder_section_title;星の粉
+shop_priscilla&dandelion_desc;<sprite="PopupIcons" name="CardBack"> カードバック：旅の共\n\n<sprite="PopupIcons" name="Avatar"> アバター：旅するダンディリオン\n\n<sprite="PopupIcons" name="Avatar"> アバター：旅するプリシラ\n\n<sprite="PopupIcons" name="Border"> フレーム：旅の舞台\n\n<sprite="PopupIcons" name="Title"> 称号：旅の詩人\n\n愛には様々な形があり、旅のお供もその1つです。\nこのバンドルには、元々巨大オーク樹年の愛のイベント中に解除可能だったアイテムが含まれています。
+shop_priscilla&dandelion_title;プリシラとダンディリオンバンドル
+shop_product_timer_label;入手期間：
 shop_questionable_morality_pack_desc;敵を誘うために餌を与えろ。混乱状態を装って打ち倒せ。\n\nシンジケートの新レジェンダリーカード、《物乞いの王》および《サイラス・エンゲルキンド・ヘメルファルト》と、シンジケート勢力を強化する6枚のカードを手に入れましょう。\n\n本パックには以下が含まれます：\n<sprite="PopupIcons" name="Card"> プレミアムカード：物乞いの王x1\n<sprite="PopupIcons" name="Card"> プレミアムカード：サイラス・エンゲルキンド・ヘメルファルトx1\n<sprite="PopupIcons" name="Card"> プレミアムカード（エピック）：魅惑のアドリアーノx1\n<sprite="PopupIcons" name="Card"> プレミアムカード（エピック）：フォン・ハースト副長x1\n<sprite="PopupIcons" name="Card"> プレミアムカード（レア）：サラマンドラの魔術師x2\n<sprite="PopupIcons" name="Card"> プレミアムカード（レア）：炎の薔薇の聖職者x2
 shop_questionable_morality_pack_title;「歪んだ倫理観」パック
 shop_sale;セール中
@@ -6517,6 +6608,8 @@ shop_shupe_leafhat_bundle_desc;<sprite="PopupIcons" name="Skin">スキン：シ�
 shop_shupe_leafhat_bundle_title;ショープの四つ葉バンドル
 shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> 四つ葉の帽子\n\nこのオファーで幸運を掴みましょう。\n\nグウェントは運ではなく技術で勝負するゲーム。とはいえ、少しばかりの幸運も役に立つでしょう！\n注：このアイテムは四つ葉バンドルのオファーからも入手可能です。
 shop_shupe_leafhat_trinket_title;アクセサリ：ショープの四つ葉
+shop_shupe_love_armour_desc;<sprite="PopupIcons" name="Trinket"> ショープの愛の鎧\n\nこの愛の鎧を身に着け、誰も自分に敵わないことを示そう！
+shop_shupe_love_armour_title;ショープの愛の鎧
 shop_shupe_love_avatar_desc;お気に入りのショープキーパーからの愛を受け入れて、無料アバター「ショープ」を手に入れましょう！\n\n愛のイベントの期間中のみ入手可能です。
 shop_shupe_love_avatar_title;無料アバター「ショープ」！
 shop_shupe_love_bundle_desc;<sprite="PopupIcons" name="Skin">スキン：ショープ（基本）（全勢力）\n\n<sprite="PopupIcons" name="Trinket">小さな翼\n\n<sprite="PopupIcons" name="Title">称号：恋に落ちて\n\nショープからたくさんの愛をお届け。ショープは適切な生き物を見つけるのに役立ちます。\nショープは実際には飛べません。
@@ -6637,6 +6730,7 @@ switch_app_popup_desc;グウェントを終了し『奪われし玉座』を起�
 switch_app_popup_title;『奪われし玉座』に切替
 syn_fluff_description;名誉、忠義、自由… 人々が戦う理由はさまざまだ。だがシンジケートの構成員が血を流す目的はただ一つ… “富”である。彼らはカネが手に入る限り、どんな汚い仕事だってやってのける。裏社会で富や名声を手に入れるには、犯罪に手を染めるしかない。シンジケートでは、ノヴィグラド表社会の通貨であるクラウンとは異なるコインが用いられる。代価として支払われると、それは決して破ることのできない誓約を交わしたことを意味する。もし破ろうものなら、究極の形で代償を支払うことになるぞ。
 syn_fluff_title;シンジケート
+syndicate_preset_deck_name;“シンジケート”スターターデッキ
 tap_to_begin;タッチして開始
 taunt_comment;追憶にふける
 taunt_curses;クソッ！
@@ -6729,7 +6823,7 @@ tracked_action_play_x_cards_with_skellige;「スケリッジ」デッキでカ�
 tracked_action_play_x_cards_with_specter_keyword;「死霊」カテゴリのカード{0}枚をプレイする。
 tracked_action_play_x_cards_with_summon_keyword;「召喚」キーワードを持つカード{0}枚をプレイする
 tracked_action_play_x_cards_with_supported_factions;支持する勢力のデッキでカード{0}枚をプレイする。
-tracked_action_play_x_cards_with_syndicate;「シンジケート」デッキでカード{0}枚をプレイする。
+tracked_action_play_x_cards_with_syndicate;「シンジケート」勢力のカード{0}枚をプレイする。
 tracked_action_play_x_cards_with_tidecloaks_tag;「引き潮団」カテゴリのカード{0}枚をプレイする。
 tracked_action_play_x_classic_matches;通常モードで{0}試合プレイする。
 tracked_action_play_x_defender_cards;「守護者」キーワードを持つカード{0}枚をプレイする。
@@ -7153,6 +7247,7 @@ ui_cardback_group_25_title;トリスの旅
 ui_cardback_group_27_title;サネッド島の叛乱
 ui_cardback_group_28_title;アレトゥーザの旅
 ui_cardback_group_3_title;ワーラットシーズン
+ui_cardback_group_30_title;ダンディリオンの旅
 ui_cardback_group_4_title;拡張セット「紅き血の呪縛」
 ui_cardback_group_5_title;拡張セット「ノヴィグラド」
 ui_cardback_group_6_title;拡張セット「鉄の裁定」
@@ -7164,6 +7259,7 @@ ui_coin_group_11_title;トリスの旅
 ui_coin_group_12_title;拡張セット
 ui_coin_group_13_title;特別な日
 ui_coin_group_14_title;アレトゥーザの旅
+ui_coin_group_17_title;ダンディリオンの旅
 ui_coin_group_2_title;ゲラルトの旅
 ui_coin_group_3_title;シリの旅
 ui_coin_group_4_title;サイバーパンク2077
@@ -7212,13 +7308,14 @@ ui_journey_main_panel_standard_path;通常
 ui_journey_main_panel_story;ジャーニーストーリー
 ui_journey_new_quests;物語の次のパートは来週登場…
 ui_journey_popup_congratulation;おめでとう！
-ui_journey_popup_finish_journey;レジスのジャーニーを完了した！ 変身して手に入れた力を使い、敵をズタズタに引き裂こう！
+ui_journey_popup_finish_journey;「ダンディリオンの旅」を完了しました！ 道中で手に入れた記念品やアクセサリを大事にして、新しい衣装で着飾ろう！
 ui_journey_popup_journey_end;ジャーニーが終了しました - クラウンの欠片を獲得すると、報酬ポイントが手に入ります
 ui_journey_popup_premium_alzur_desc;即座に25レベルを解除して幸先の良いスタートを。\nレジェンダリースキン「アルズール」や追加装飾アイテムを獲得しよう！
 ui_journey_popup_premium_aretuza_desc;即座に25レベルを解除して幸先の良いスタートを。\nボード「アレトゥーザの大広間」や追加装飾アイテムを獲得しよう！
 ui_journey_popup_premium_button;1回限定
 ui_journey_popup_premium_ciri_desc;即座に25レベルを解除して幸先の良いスタートを。\nレジェンダリースキン「シリ」や追加装飾アイテムを獲得しよう！
 ui_journey_popup_premium_ciri_title;プレミアムパス+25レベル
+ui_journey_popup_premium_dandelion_desc;即座に25レベルを解除して幸先の良いスタートを。\nレジェンダリースキン「ダンディリオン」や追加装飾アイテムを獲得しよう！
 ui_journey_popup_premium_desc;25レベルを即座に解除してスタートダッシュ！\nレジェンダリースキン「ゲラルト」や追加の装飾アイテムを解除しよう！
 ui_journey_popup_premium_regis_desc;即座に25レベルを解除して幸先の良いスタートを。\nエミエル・レジスや追加装飾アイテムを獲得しよう！
 ui_journey_popup_premium_title;ファストトラベルバンドル
@@ -7227,16 +7324,17 @@ ui_journey_popup_premium_yen_desc;即座に25レベルを解除して幸先の�
 ui_journey_popup_standard_alzur_desc;レジェンダリースキン「アルズール」を即座に解除！
 ui_journey_popup_standard_aretuza_desc;ボード「アレトゥーザの大広間」を即座に解除しよう！
 ui_journey_popup_standard_ciri_desc;レジェンダリースキン「シリ」を即座に解除しよう！
+ui_journey_popup_standard_dandelion_desc;レジェンダリースキン「ダンディリオン」を即座に解除しよう！
 ui_journey_popup_standard_desc;レジェンダリースキン「ゲラルト」を即座に解除
 ui_journey_popup_standard_regis_desc;エミエル・レジスを今すぐ解除！
 ui_journey_popup_standard_title;プレミアムパス
 ui_journey_popup_standard_triss_desc;レジェンダリースキン「トリス」を即座に解除しよう！
 ui_journey_popup_standard_yen_desc;レジェンダリースキン「イェネファー」を即座に解除しよう！
-ui_journey_popup_start_journey;「レジスの旅」が始まりました！ 試合を行い、週別クエストを完了すると参加できます。レジスの変身能力を駆使しながら軍勢を率いよう！
+ui_journey_popup_start_journey;「ダンディリオンの旅」が始まりました！ 試合を行い、週別クエストを完了して物語に聞き入りましょう！
 ui_journey_popup_start_title;ようこそ！
 ui_journey_social_panel_week;第{0} / {1}週
 ui_journey_story_extended_next_week;「ゲラルトの旅」の次のパートは来週登場…
-ui_journey_story_heading;死者は噛みつかない
+ui_journey_story_heading;急進的教養
 ui_journey_story_standard_next_week;物語の次のパートは来週登場…
 ui_journey_story_standard_title;ダンディリオン
 ui_journey_timer_days;{0}日
@@ -7294,10 +7392,11 @@ ui_leader_name_10044;ショープ
 ui_leader_name_10045;アルズール
 ui_leader_name_10046;イェネファー
 ui_leader_name_10047;トリス・メリゴールド
+ui_leader_name_10048;エミエル・レジス人間形態
 ui_leader_name_10049;オクタヴィア・ヘール
-ui_leader_name_10050;エミエル・レジス人間形態
-ui_leader_name_10051;混血のエミエル・レジス
-ui_leader_name_10052;吸血鬼レジス
+ui_leader_name_10050;混血のエミエル・レジス
+ui_leader_name_10051;吸血鬼レジス
+ui_leader_name_10052;ダンディリオン
 ui_leader_trinket_group_1_title;アーマー
 ui_leader_trinket_group_2_title;ヘッドギア
 ui_leader_trinket_group_3_title;トロフィー
@@ -7337,6 +7436,7 @@ ui_social_panel_journey_quests;ジャーニークエスト
 ui_soundtrack_group_1_title;ベーシック
 ui_soundtrack_group_2_title;スペシャル
 ui_soundtrack_group_3_title;アレトゥーザの旅
+ui_soundtrack_group_5_title;ダンディリオンの旅
 ui_tooltip_coins;シンジケートのボーナス通貨。最大9枚所持できる。次ラウンドに持ち越すと残量が半分になる。
 ui_vanity_inventory_change_category;カテゴリ変更
 ui_vanity_inventory_equip_preview;装備
@@ -7751,6 +7851,20 @@ vanity_avatar_48355_title;アバター：上級戦術
 vanity_avatar_48356_title;アバター：編み物ショープ
 vanity_avatar_48357_title;アバター：ユール・ハーピー
 vanity_avatar_48358_title;アバター：黄金の虎
+vanity_avatar_48359_title;アバター：くすんだ羽根ペン
+vanity_avatar_48360_title;アバター：紫色の羽根ペン
+vanity_avatar_48361_title;アバター：深紅の羽根ペン
+vanity_avatar_48362_title;アバター：黄金の羽根ペン
+vanity_avatar_48363_title;アバター：翡翠の羽根ペン
+vanity_avatar_48364_title;アバター：抱擁の女王
+vanity_avatar_48365_title;アバター：抱かれる者
+vanity_avatar_48366_title;アバター：ダンディリオン
+vanity_avatar_48367_title;アバター：ディクストラ
+vanity_avatar_48368_title;アバター：深紅の断罪人
+vanity_avatar_48369_title;アバター：若い吟遊詩人
+vanity_avatar_48370_title;アバター：グラマラス
+vanity_avatar_48371_title;アバター：愛でいっぱい
+vanity_avatar_48372_title;アバター：ろくでなし
 vanity_body_80284_title;黒のコート（人間）
 vanity_body_80285_title;白のコート（人間）
 vanity_body_80286_title;黒の夜会服（人間）
@@ -8042,6 +8156,18 @@ vanity_border_38187_title;フレーム：ミッドナイトパープル
 vanity_border_38188_title;フレーム：森の貴婦人たち
 vanity_border_38189_title;フレーム：上級戦術
 vanity_border_38190_title;フレーム：編み物ショープ
+vanity_border_38191_title;フレーム：くすんだ断罪人
+vanity_border_38192_title;フレーム：黄金の断罪人
+vanity_border_38193_title;フレーム：深紅の断罪人
+vanity_border_38194_title;フレーム：翡翠の断罪人
+vanity_border_38195_title;フレーム：紫色の断罪人
+vanity_border_38196_title;フレーム：抱擁の王
+vanity_border_38197_title;フレーム：抱きしめる者
+vanity_border_38198_title;フレーム：虚像
+vanity_border_38199_title;フレーム：音楽家
+vanity_border_38200_title;フレーム：ハープ
+vanity_border_38201_title;フレーム：酒場
+vanity_border_38202_title;フレーム：香水
 vanity_border_38512_title;World Mastersシーズン2
 vanity_border_description_apprentice;ランクモードでランク6に到達した
 vanity_border_description_default;誰でも利用可能
@@ -8143,7 +8269,7 @@ vanity_cardback_60096_title;カードバック：美化
 vanity_cardback_60097_title;カードバック：氷の破片
 vanity_cardback_60098_title;カードバック：悲恋
 vanity_cardback_60099_title;カードバック：旅の共
-vanity_cardback_60100_title;旧正月
+vanity_cardback_60100_title;カードバック：雄牛
 vanity_cardback_60101_title;カードバック：巨大オーク樹
 vanity_cardback_60102_title;カードバック：冬
 vanity_cardback_60103_title;カードバック：春
@@ -8167,8 +8293,8 @@ vanity_cardback_60119_title;カードバック：イェネファー
 vanity_cardback_60120_title;カードバック：トリス
 vanity_cardback_60121_title;カードバック：野良犬公
 vanity_cardback_60123_title;カードバック：ブリュエス
-vanity_cardback_60124_title;カードバック：ウィスペス
-vanity_cardback_60125_title;カードバック：ウィーヴィス
+vanity_cardback_60124_title;カードバック：ウィーヴィス
+vanity_cardback_60125_title;カードバック：ウィスペス
 vanity_cardback_60126_title;カードバック：虐殺劇
 vanity_cardback_60127_title;カードバック：墓場を歩く者
 vanity_cardback_60128_title;カードバック：レジスとゲラルト
@@ -8177,6 +8303,10 @@ vanity_cardback_60130_title;カードバック：吸血鬼レジス
 vanity_cardback_60132_title;カードバック：編み物ショープ
 vanity_cardback_60133_title;カードバック：編み物ショープ
 vanity_cardback_60137_title;カードバック：虎
+vanity_cardback_60138_title;カードバック：ダンディリオンとディクストラ
+vanity_cardback_60139_title;カードバック：ダンディリオンとゲラルト
+vanity_cardback_60140_title;カードバック：サキュバスパーティー
+vanity_cardback_60141_title;カードバック：創造力の源泉
 vanity_cardback_61001_title;カードバック：モンスター
 vanity_cardback_61002_title;カードバック：ニルフガード
 vanity_cardback_61003_title;カードバック：北方諸国
@@ -8238,6 +8368,10 @@ vanity_coin_70050_title;コイン：錬金術師
 vanity_coin_70051_title;コイン：墓地
 vanity_coin_70052_title;コイン：血の魔術
 vanity_coin_70053_title;コイン：ウロボロス
+vanity_coin_70054_title;コイン：リュート
+vanity_coin_70055_title;コイン：詩
+vanity_coin_70056_title;コイン：吟遊詩人の帽子
+vanity_coin_70057_title;コイン：香水のフラスコ
 vanity_deck_mon;デッキ：モンスター
 vanity_deck_nil;デッキ：ニルフガード
 vanity_deck_nor;デッキ：北方諸国
@@ -8289,6 +8423,7 @@ vanity_gameboard_50051_title;ボード：パーフェクト屍術教室
 vanity_gameboard_50052_title;ボード：巨大オーク樹
 vanity_gameboard_50053_title;ボード：サオヴィン
 vanity_gameboard_50054_title;ボード：ユール
+vanity_gameboard_50057_title;ボード：愛の祭典
 vanity_gameboard_default_title;デフォルト勢力ボード
 vanity_h01_border_description;マハカム エール祭りのチャレンジを熟練者モードでクリアした
 vanity_h01_border_title;フレーム：大酒呑み
@@ -8652,6 +8787,41 @@ vanity_leader_trinket_80318_title;黄のランタンのオーラ（人間）
 vanity_leader_trinket_80319_title;赤のコート（人間）
 vanity_leader_trinket_80320_title;ショープのコウモリ羽
 vanity_leader_trinket_80321_title;プレゼントの袋
+vanity_leader_trinket_80322_title;小粋な衣装
+vanity_leader_trinket_80323_title;結んだシャツ
+vanity_leader_trinket_80324_title;ボタン付きのシャツ
+vanity_leader_trinket_80325_title;おしゃれなショール
+vanity_leader_trinket_80326_title;旅する吟遊詩人のコート
+vanity_leader_trinket_80327_title;エレガントな衣服
+vanity_leader_trinket_80328_title;パンタロン
+vanity_leader_trinket_80329_title;ハイブーツ
+vanity_leader_trinket_80330_title;革のブーツ
+vanity_leader_trinket_80331_title;下着
+vanity_leader_trinket_80332_title;旅のズボン
+vanity_leader_trinket_80333_title;魅惑的なズボン
+vanity_leader_trinket_80334_title;吟遊詩人の帽子
+vanity_leader_trinket_80335_title;赤帽子
+vanity_leader_trinket_80336_title;ヘアバンド
+vanity_leader_trinket_80337_title;風になびく髪
+vanity_leader_trinket_80338_title;愛でいっぱい
+vanity_leader_trinket_80339_title;深紅の断罪人
+vanity_leader_trinket_80340_title;飾りのついたリュート
+vanity_leader_trinket_80341_title;ブズーキ
+vanity_leader_trinket_80342_title;サズ
+vanity_leader_trinket_80343_title;ショベルギター
+vanity_leader_trinket_80344_title;バラライカ
+vanity_leader_trinket_80345_title;リュート
+vanity_leader_trinket_80346_title;普通のベルト
+vanity_leader_trinket_80347_title;赤いバラのブーケ
+vanity_leader_trinket_80348_title;黄色いバラのブーケ
+vanity_leader_trinket_80349_title;バラとフルート
+vanity_leader_trinket_80350_title;蓄音機
+vanity_leader_trinket_80351_title;香水
+vanity_leader_trinket_80352_title;詩集
+vanity_leader_trinket_80353_title;オーラなし
+vanity_leader_trinket_80354_title;コンサートのオーラ
+vanity_leader_trinket_80355_title;酒場のオーラ
+vanity_leader_trinket_80356_title;スポットライトのオーラ
 vanity_leader_trinket_80357_title;ホアソン・ジュニアの醜いセーター
 vanity_leader_trinket_80358_title;ゲラルトの剣
 vanity_leader_trinket_80359_title;キャンディの剣
@@ -8689,6 +8859,10 @@ vanity_leader_trinket_80390_title;鴉の群れのオーラ（吸血鬼）
 vanity_leader_trinket_80391_title;赤のランタンのオーラ（吸血鬼）
 vanity_leader_trinket_80392_title;黄のランタンのオーラ（吸血鬼）
 vanity_leader_trinket_80393_title;普通のベルト（混血）
+vanity_leader_trinket_80394_title;小袋
+vanity_leader_trinket_80395_title;巻物
+vanity_leader_trinket_80400_title;ショープの愛の鎧
+vanity_leader_trinket_80401_title;ロイヤル・ハントレス
 vanity_monsters_challenge_title;タイラント
 vanity_nilfgaard_challenge_title;師団長
 vanity_northern_challenge_title;狩猟の達人
@@ -9019,6 +9193,11 @@ vanity_soundtrack_90014_title;栄光
 vanity_soundtrack_90015_title;失墜
 vanity_soundtrack_90016_title;夜明け
 vanity_soundtrack_90017_title;血染めの月
+vanity_soundtrack_90018_title;壮大な冒険
+vanity_soundtrack_90019_title;叙事詩
+vanity_soundtrack_90020_title;最高傑作
+vanity_soundtrack_90021_title;愛に溢れて
+vanity_soundtrack_90022_title;ノヴィグラドの調べ
 vanity_title_20150_title;志願兵
 vanity_title_20151_title;親方
 vanity_title_20152_title;散兵
@@ -9287,6 +9466,25 @@ vanity_title_28226_title;ショープの小さな助手
 vanity_title_28227_title;上級戦術家
 vanity_title_28228_title;ユールの精霊
 vanity_title_28229_title;黄金の虎
+vanity_title_28230_title;抱擁の王
+vanity_title_28231_title;抱擁の女王
+vanity_title_28232_title;抱きしめる者
+vanity_title_28233_title;抱かれる者
+vanity_title_28234_title;ナイチンゲールの王子
+vanity_title_28235_title;深紅の断罪人
+vanity_title_28236_title;抑圧されし者の守護者
+vanity_title_28237_title;スポットライトを浴びて
+vanity_title_28238_title;唯一無二
+vanity_title_28239_title;詩人
+vanity_title_28240_title;恋人
+vanity_title_28241_title;パーティーボーイ
+vanity_title_28242_title;伝説
+vanity_title_28243_title;旅する吟遊詩人
+vanity_title_28244_title;真の芸術家
+vanity_title_28245_title;至高の吟遊詩人
+vanity_title_28246_title;繊細な花
+vanity_title_28247_title;音楽家
+vanity_title_28251_title;ならず者
 vanity_title_30180;マムシ
 vanity_title_30180_description;ランクモードでランク10に到達した（シーズン・ヴァイパー：5月）
 vanity_title_30181;ガラガラヘビ

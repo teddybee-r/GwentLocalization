@@ -379,6 +379,7 @@ achievement_10688_desc;Activa la palabra paciencia 500 veces.
 achievement_10688_title;Perder la paciencia es perder la batalla
 achievement_10689_desc;Activa la palabra paciencia 1000 veces.
 achievement_10689_title;Una forma menor de desesperación
+achievement_11000_new_desc;Gana {0} partidas con Monstruos durante el desafío activo
 achievement_11001_desc;Completa 3 misiones mientras apoyas a los monstruos durante un evento de desafío.
 achievement_11001_title;Súbdito
 achievement_11002_desc;Completa 5 misiones mientras apoyas a los monstruos durante un evento de desafío.
@@ -389,6 +390,7 @@ achievement_11004_desc;Completa 15 misiones mientras apoyas a los monstruos dura
 achievement_11004_title;Adulador
 achievement_11005_desc;Completa 25 misiones mientras apoyas a los monstruos durante un evento de desafío.
 achievement_11005_title;Coloso
+achievement_11010_new_desc;Gana {0} partidas con Skellige durante el desafío activo
 achievement_11011_desc;Completa 3 misiones mientras apoyas a Skellige durante un evento de desafío.
 achievement_11011_title;Asaltante
 achievement_11012_desc;Completa 5 misiones mientras apoyas a Skellige durante un evento de desafío.
@@ -399,6 +401,7 @@ achievement_11014_desc;Completa 15 misiones mientras apoyas a Skellige durante u
 achievement_11014_title;Primer oficial
 achievement_11015_desc;Completa 25 misiones mientras apoyas a Skellige durante un evento de desafío.
 achievement_11015_title;Capitán pirata
+achievement_11020_new_desc;Gana {0} partidas con Reinos del Norte durante el desafío activo
 achievement_11021_desc;Completa 3 misiones mientras apoyas a los Reinos del Norte durante un evento de desafío.
 achievement_11021_title;Novato
 achievement_11022_desc;Completa 5 misiones mientras apoyas a los Reinos del Norte durante un evento de desafío.
@@ -409,6 +412,7 @@ achievement_11024_desc;Completa 15 misiones mientras apoyas a los Reinos del Nor
 achievement_11024_title;Patriota
 achievement_11025_desc;Completa 25 misiones mientras apoyas a los Reinos del Norte durante un evento de desafío.
 achievement_11025_title;Por el rey y el territorio
+achievement_11030_new_desc;Gana {0} partidas con Nilfgaard durante el desafío activo
 achievement_11031_desc;Completa 3 misiones mientras apoyas a Nilfgaard durante un evento de desafío.
 achievement_11031_title;Espía
 achievement_11032_desc;Completa 5 misiones mientras apoyas a Nilfgaard durante un evento de desafío.
@@ -419,6 +423,7 @@ achievement_11034_desc;Completa 15 misiones mientras apoyas a Nilfgaard durante 
 achievement_11034_title;Maestro espía
 achievement_11035_desc;Completa 25 misiones mientras apoyas a Nilfgaard durante un evento de desafío.
 achievement_11035_title;La voluntad del emperador
+achievement_11040_new_desc;Gana {0} partidas con Scoia'tael durante el desafío activo
 achievement_11041_desc;Completa 3 misiones mientras apoyas a los Scoia'tael durante un evento de desafío.
 achievement_11041_title;Insurgente
 achievement_11042_desc;Completa 5 misiones mientras apoyas a los Scoia'tael durante un evento de desafío.
@@ -429,11 +434,13 @@ achievement_11044_desc;Completa 15 misiones mientras apoyas a los Scoia'tael dur
 achievement_11044_title;Fanático
 achievement_11045_desc;Completa 25 misiones mientras apoyas a los Scoia'tael durante un evento de desafío.
 achievement_11045_title;Líder de comando
+achievement_11050_new_desc;Gana {0} partidas con el Sindicato durante el desafío activo
 achievement_11051_title;Recadero
 achievement_11052_title;Criminal de poca monta
 achievement_11053_title;Teniente
 achievement_11054_title;Mano derecha
 achievement_11055_title;Mandamás
+achievement_11060_new_desc;Completa {0} misiones de desafío
 achievement_11061_title;¡Ayudo por un precio!
 achievement_11062_title;Mediador
 achievement_11063_title;Independiente
@@ -1844,6 +1851,67 @@ achievement_90253_title;Cometer el mismo error dos veces
 achievement_90254_title;A las moiras les encanta la trinidad
 achievement_90256_title;Mirada de mal agüero
 achievement_90257_title;Reliquia familiar
+achievement_90259_desc;Completa 5 misiones del viaje de Jaskier
+achievement_90259_title;Actuación delante de un espejo
+achievement_90260_desc;Completa 10 misiones del viaje de Jaskier
+achievement_90260_title;Un espectáculo para la familia y amigos
+achievement_90261_desc;Completa 20 misiones del viaje de Jaskier
+achievement_90261_title;Entretenimiento en el pueblo
+achievement_90262_desc;Completa todas las misiones del viaje de Jaskier
+achievement_90262_title;Entretén a la taberna
+achievement_90263_desc;Completa todas las misiones del viaje estándar de Jaskier
+achievement_90263_title;Estrella del festival
+achievement_90264_desc;Completa todas las misiones del viaje extendido de Jaskier
+achievement_90264_title;Músico de la corte real
+achievement_90265_desc;Alcanza el nivel 100 en el viaje de Jaskier estándar y extendido
+achievement_90265_title;Orgulloso de mí mismo
+achievement_90266_desc;Alcanza el nivel 100 en el viaje estándar de Jaskier
+achievement_90266_title;Orgulloso amigo de Julian Alfred Pankratz
+achievement_90267_desc;Alcanza el nivel 100 en el viaje extendido de Jaskier
+achievement_90267_title;Orgulloso socio de Sigismund Dijkstra
+achievement_90269_desc;Juega 1 partida con el chal estiloso o el atuendo elegante de Jaskier
+achievement_90269_title;Querido por muchos
+achievement_90270_desc;Juega 5 partidas con el chal estiloso o el atuendo elegante de Jaskier
+achievement_90270_title;Auténtico artista y visionario
+achievement_90271_desc;Juega 10 partidas con el chal estiloso o el atuendo elegante de Jaskier
+achievement_90271_title;Optimista incorregible
+achievement_90272_desc;Juega 20 partidas con el chal estiloso o el atuendo elegante de Jaskier
+achievement_90272_title;Espíritu libre
+achievement_90273_desc;Juega 30 partidas con el chal estiloso o el atuendo elegante de Jaskier
+achievement_90273_title;Con estilo glamuroso
+achievement_90275_desc;Juega 1 partida con la camisa con botones o la chamarra de bardo viajero de Jaskier
+achievement_90275_title;El mejor poeta
+achievement_90276_desc;Juega 5 partidas con la camisa con botones o la chamarra de bardo viajero de Jaskier
+achievement_90276_title;El mejor bardo
+achievement_90277_desc;Juega 10 partidas con la camisa con botones o la chamarra de bardo viajero de Jaskier
+achievement_90277_title;El mejor lirista
+achievement_90278_desc;Juega 20 partidas con la camisa con botones o la chamarra de bardo viajero de Jaskier
+achievement_90278_title;El mejor trovador
+achievement_90279_desc;Juega 30 partidas con la camisa con botones o la chamarra de bardo viajero de Jaskier
+achievement_90279_title;El mejor sin más
+achievement_90281_desc;Juega 1 partida con el ramo de rosas roja o el aura de concierto de Jaskier equipados
+achievement_90281_title;Entre las espinas crecen rosas
+achievement_90282_desc;Juega 5 partidas con el ramo de rosas roja o el aura de concierto de Jaskier equipados
+achievement_90282_title;El arte es como una flor delicada
+achievement_90283_desc;Juega 10 partidas con el ramo de rosas roja o el aura de concierto de Jaskier equipados
+achievement_90283_title;Encuentro en el valle de las Flores
+achievement_90284_desc;Juega 20 partidas con el ramo de rosas roja o el aura de concierto de Jaskier equipados
+achievement_90284_title;El amor es la flor que tienes que dejar crecer
+achievement_90285_desc;Juega 30 partidas con el ramo de rosas roja o el aura de concierto de Jaskier equipados
+achievement_90285_title;El amor ve las rosas sin espinas
+achievement_90287_desc;Juega 1 partida con cualquier pista de música del viaje de Jaskier equipada
+achievement_90287_title;Intérprete
+achievement_90288_desc;Juega 5 partidas con cualquier pista de música del viaje de Jaskier equipada
+achievement_90288_title;Músico
+achievement_90289_desc;Juega 10 partidas con cualquier pista de música del viaje de Jaskier equipada
+achievement_90289_title;Solista
+achievement_90290_desc;Juega 20 partidas con cualquier pista de música del viaje de Jaskier equipada
+achievement_90290_title;Virtuoso
+achievement_90295_title;El regreso de la reina
+achievement_90296_title;Ayuda al rey Eist Tuirseach
+achievement_90297_title;Ayuda a la reina Calanthe
+achievement_90298_title;Ayuda a Sigismund Dijkstra
+achievement_90299_title;Ayuda a Philippa Eilhart
 achievement_category_arena;Arena
 achievement_category_collection;Colección
 achievement_category_expansions;expansiones
@@ -1854,6 +1922,7 @@ achievement_category_mastery;Maestría
 achievement_category_ranked;Clasificada
 achievement_category_seasonal;De temporada
 achievement_category_singleplayer;The Witcher Tales
+achievement_complete_love_event;Ayuda a todos los personajes del evento de amor
 achievement_complete_x_aretuza_quests;Completa {0} misiones del viaje de Aretuza
 achievement_complete_x_regis_quests;Completa {0} misiones del viaje de Regis
 achievement_geralt_winter_event;Gana {0} partidas con el aspecto de Geralt equipado
@@ -2147,6 +2216,8 @@ arenav2_newdraft_disabled_tooltip;Partidas hasta desbloquear el nuevo draft: {0}
 arenav2_optin_update_notification_description;¡Nueva versión de draft disponible! Puedes continuar tu draft actual, aunque la nueva versión quizá contenga actualizaciones de equilibrio o mecánicas especiales por tiempo limitado. Pronto se programará el cierre de la versión actual de draft.
 arenav2_play_menu_description;Bienvenidos a Draft. Compite con los demás en este modo de juego siempre cambiante de construcción de mazos.
 arenav2_play_menu_title;Draft
+arenav2_rewards_timeout_description;Error al mostrar las recompensas
+arenav2_rewards_timeout_title;Error al mostrar las recompensas
 arenav2_show_deck_tooltip;Mostrar mazo
 arenav2_summary_newdraft;Draft de nuevo
 arenav2_summary_rewards;Tus recompensas:
@@ -3734,12 +3805,12 @@ interface_card_choice_8;Elige una carta para revelar
 interface_card_choice_opponent;El rival está eligiendo
 interface_challenge_6100_abilities_subtitle;Pon a prueba tu poder con las nuevas habilidades del Año del Hombre rata
 interface_challenge_6100_abilities_title;Reto del Año del Hombre rata
-interface_challenge_acknowledge_button;Ayuda a la próxima moira
+interface_challenge_acknowledge_button;Ayuda a la otra parte
 interface_challenge_arena_event;Evento de la arena
 interface_challenge_arena_event_desc;El ganador del desafío desbloqueará un modo Arena especial con temática de facción.
 interface_challenge_arena_event_title;Evento de la arena
 interface_challenge_arena_results;Un nuevo modo especial para la arena estará disponible pronto.
-interface_challenge_available_description;Ayuda a las moiras a prepararse para Saovine
+interface_challenge_available_description;Ayuda a que los amantes se reúnan
 interface_challenge_bards_side;Bardos
 interface_challenge_belleteyn_ornaments_desc;Los adornos de Belleteyn según el ganador del desafío serán más baratos en la tienda.
 interface_challenge_c_rewards_title;Vencedor del desafío
@@ -3779,6 +3850,15 @@ interface_challenge_leader_arena_results;El ganador del desafío desbloqueará u
 interface_challenge_leader_exp_results;Experiencia adicional obtenida al jugar como el líder vencedor en cualquier modo de juego.
 interface_challenge_leader_experience_boost_desc;Experiencia adicional obtenida al jugar como el líder vencedor en cualquier modo de juego.
 interface_challenge_look_at_rewards;Comprobar mis tesoros
+interface_challenge_love_2022_acknowledge_button;Mi trabajo aquí se terminó
+interface_challenge_love_2022_reward_title_0;Por ayudar a todos recibirás:
+interface_challenge_love_2022_reward_title_0_0;Por ayudar al rey Eist recibirás:
+interface_challenge_love_2022_reward_title_0_1;Por ayudar a la reina Calanthe recibirás:
+interface_challenge_love_2022_reward_title_0_2;Por ayudar a Dijkstra recibirás:
+interface_challenge_love_2022_reward_title_0_3;Por ayudar a Philippa recibirás:
+interface_challenge_love_2022_rules;¡Ayuda a que personajes famosos se encuentren!
+interface_challenge_love_2022_rules_completed;Felicitaciones, reuniste a los amantes, que por fin pueden estar en los brazos uno del otro.
+interface_challenge_love_2022_title;Evento de amor
 interface_challenge_min_shortcut;{0} m
 interface_challenge_neu_arena_event;El ganador del desafío desbloqueará un modo especial de arena específico.
 interface_challenge_neu_arena_results;El ganador del desafío desbloqueará un modo especial de arena específico.
@@ -4920,6 +5000,7 @@ rb_ftux_hint_firstquestclaimed;Todas las misiones, incluidas las del libro de re
 rb_ftux_hint_rewardbookopened;¡Bienvenido al libro de recompensas! Elige un árbol de facción para comenzar.
 rb_ftux_hint_treeentered;Cada árbol tiene una secuencia de recompensas, desbloqueadas con llaves que se pueden ganar al jugar el juego. Recompensa una ahora.
 rb_ftux_notification_button;Vista
+rb_ftux_notification_locked_tabs;Las otras pestañas del libro de recompensas se desbloquearán tras completar al menos un árbol.
 rb_ftux_notification_open_book;Hay algo nuevo en el libro de recompensas
 rb_ftux_notification_open_quest;Aceptaste una nueva misión
 read_eula_button;Ver Acuerdo de usuario
@@ -5667,6 +5748,7 @@ reward_tree_svalblod_story_pt2;Svalblod es la encarnación del hombre y del oso 
 reward_tree_svalblod_story_pt3;Sus acólitos tomaban decocciones alucinógenas antes de adentrarse en lo más profundo de las cuevas del corazón de Ard Skellig. Una vez ahí, los osos cavernarios los devoraban vivos. Entonces, como parásitos, los sectarios tomaban el control del cuerpo de las bestias.
 reward_tree_svalblod_story_pt4;Al final, los jarl de las islas de Skellige decidieron poner fin a esta práctica. Aprehendieron a los seguidores de Svalblod, los amarraron a barcoluengos y los expulsaron a altamar sin una vela que los guiara. Este fue el golpe final para erradicar el culto de una vez por todas. Pero por desgracia... no es tan fácil matar a un dios.
 reward_tree_svalblod_title;Svalblod
+reward_tree_syndicate_ftux_title;Sindicato
 reward_tree_tb_story_pt1;Cuando Meve se fue a la cumbre de soberanos en Hagge, pidió a su ayudante de aposentos que preparara su regreso inminente. Pasó un año antes de que la reina durmiera de nuevo en su cama.
 reward_tree_tb_story_pt2;Entretanto, Lyria y Rivia fueron conquistadas por Nilfgaard. Su toma solo provocó unas pocas frases manidas de las bocas de los emisarios imperiales que informaron al emperador. Después de todo, ¿qué eran esas tierras alejadas en el panorama global de las amplias ambiciones de Emhyr var Emreis?
 reward_tree_tb_story_pt3;La reina Meve se negó a entregar las armas, aunque pocos creyeron que tenía posibilidades de retomar su patria natal. Pero como nos cuenta la historia, la gente del continente se sorprendería pronto. Nadie tanto como los nilfgaardianos.
@@ -5895,7 +5977,7 @@ shop_blood_and_many_legs_pack_title;Pack Sangre y muchas piernas
 shop_button_vanities;Adornos
 shop_cara_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar de Caranthir\n\n<sprite="PopupIcons" name="Border"> Borde del rey de la Cacería Salvaje\n\n<sprite="PopupIcons" name="Title"> Título "Presagio de guerra"\n\nEste paquete contiene adornos que primero se presentaron como desbloqueables durante la temporada de la Cacería Salvaje en el año del Jabalí Salvaje.
 shop_cara_bundle_title;Paquete de Caranthir
-shop_casanova_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar de Jaskier\n\n<sprite="PopupIcons" name="Border"> Borde de Casanova\n\n<sprite="PopupIcons" name="Title"> Título "verdadero romántico"\n\nEste paquete contiene adornos que primero se presentaron como desbloqueables durante la temporada del Amor en el año del Jabalí Salvaje. ¡Junto a un artículo especial adicional!
+shop_casanova_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar de Jaskier\n\n<sprite="PopupIcons" name="Border"> Borde de Casanova\n\n<sprite="PopupIcons" name="Title"> Título "verdadero romántico"\n\nEste paquete contiene adornos que primero se presentaron como desbloqueables durante la temporada del Amor en el año del Jabalí Salvaje.
 shop_casanova_bundle_title;Paquete Casanova
 shop_category_dungeon_keys;Llaves de calabozo
 shop_category_esport;E-Sport
@@ -6072,7 +6154,7 @@ shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> Rever
 shop_data_ep2_alt_cardback_title;Reverso carta Fuego infinito
 shop_data_ep3_alt_leader_skin_bundle_desc;<sprite="PopupIcons" name="Skin">Aspecto premium Radovid zerrikano\n\nApariencia alternativa para el Rey Radovid V. ¡No te lo pierdas!
 shop_data_ep3_alt_leader_skin_bundle_title;Radovid zerrikano
-shop_data_ep4_caravan_pack_desc;¡La fortuna ayuda a los valientes! Consigue los tesoros ofiri más preciados: ¡12 cartas de estratagema premium! Cada carta de estratagema proporciona una bonificación única al jugador que sale primero en la partida. Este paquete contiene:\n\n<sprite="PopupIcons" name="Card">Carta Lámpara mágica premium\n<sprite="PopupIcons" name="Card">Carta Cráneo de cristal premium\n<sprite="PopupIcons" name="Card">Carta Armadura encantada premium\n<sprite="PopupIcons" name="Card">Carta Pergamino maldito premium\n<sprite="PopupIcons" name="Card">Carta Veneno de basilisco premium\n<sprite="PopupIcons" name="Card">Carta Daga ceremonial premium\n<sprite="PopupIcons" name="Card">Carta Collar premium\n<sprite="PopupIcons" name="Card">Carta Solución de ingeniería premium\n<sprite="PopupIcons" name="Card">Carta Máscara de Uroboros premium\n<sprite="PopupIcons" name="Card">Carta Urna de las sombras premium\n<sprite="PopupIcons" name="Card">Carta Sable Aen Seidhe premium\n<sprite="PopupIcons" name="Card">Carta Ojo de Tigre premium
+shop_data_ep4_caravan_pack_desc;<sprite="PopupIcons" name="Card">Carta Lámpara mágica premium\n<sprite="PopupIcons" name="Card">Carta Cráneo de cristal premium\n<sprite="PopupIcons" name="Card">Carta Armadura encantada premium\n<sprite="PopupIcons" name="Card">Carta Pergamino maldito premium\n<sprite="PopupIcons" name="Card">Carta Veneno de basilisco premium\n<sprite="PopupIcons" name="Card">Carta Daga ceremonial premium\n<sprite="PopupIcons" name="Card">Carta Collar premium\n<sprite="PopupIcons" name="Card">Carta Solución de ingeniería premium\n<sprite="PopupIcons" name="Card">Carta Máscara de Uroboros premium\n<sprite="PopupIcons" name="Card">Carta Urna de las sombras premium\n<sprite="PopupIcons" name="Card">Carta Sable Aen Seidhe premium\n<sprite="PopupIcons" name="Card">Carta Ojo de Tigre premium\n\n¡La fortuna ayuda a los valientes! Consigue los tesoros ofiri más preciados: ¡12 cartas de estratagema premium! Cada carta de estratagema proporciona una bonificación única al jugador que sale primero en la partida.
 shop_data_ep4_caravan_pack_title;Paquete Incursión de caravanas
 shop_data_ep4_premium_keg_desc;Los barriles de Merchants of Ofir premium, disponibles por tiempo limitado, son una manera de potenciar tu colección de cartas de GWENT con cartas animadas adicionales de la expansión Merchants of Ofir.\n\nUna vez abierto este barril, recibirás 5 cartas premium de la expansión Merchants of Ofir, cuatro tendrán una rareza común y podrás seleccionar una quinta carta (de entre tres) que será, al menos, rara.
 shop_data_ep4_premium_keg_title;Barril de Merchants of Ofir premium
@@ -6269,7 +6351,7 @@ shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="
 shop_data_now_available_ promo_desc;¡Ya disponible!
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin"> Aspecto de grillo verde\n\n<sprite="PopupIcons" name="Board"> Tablero olvidado\n\n¡La naturaleza tomó el control! ¿No es hermoso? \n\nEste paquete se introdujo para apoyar el GWENT Open 2 durante el Año del Hombre rata.
 shop_data_overgrown_bundle_title;Paquete de sobrecrecimiento (GWENT Open 2)
-shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> Borde de Passiflora\n\n<sprite="PopupIcons" name="Avatar"> Avatares de Amrynn, Narcissa y Viola\n\n<sprite="PopupIcons" name="Title"> Título “Campeón del Passiflora”\n \n\nCompañía encantadora, un gusto sublime y los mejores jugadores de GWENT en la ciudad libre... ¡Celebra lo mejor de Novigrado con el paquete de Passiflora!
+shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> Borde de campeón del Passiflora\n\n<sprite="PopupIcons" name="Avatar"> Avatar de Amrynn\n\n<sprite="PopupIcons" name="Avatar"> Avatar de Narcissa\n\n<sprite="PopupIcons" name="Avatar"> Avatar de Viola\n\n<sprite="PopupIcons" name="Title"> Título “Campeón del Passiflora”\n\n¡Celebra lo mejor que el Passiflora de Novigrado tiene para ofrecer con el paquete de Passiflora!
 shop_data_passiflora_bundle_title;Paquete de Passiflora
 shop_data_premium_cc_keg_desc;Una vez abierto este barril, recibirás 5 cartas <b>premium</b> de la expansión Crimson Curse, cuatro tendrán una rareza común y podrás seleccionar una quinta carta (de entre tres) que será, al menos, rara.
 shop_data_premium_cc_keg_title;Barril de Crimson Curse premium
@@ -6325,6 +6407,8 @@ shop_data_skellige_keg_7_title;7 barriles de Skellige
 shop_data_skellige_keg_7_title_gaea;Ignore.
 shop_data_skellige_keg_desc;Una vez abierto este barril, recibirás 5 cartas de Skellige de cualquier colección, cuatro tendrán una rareza común y podrás seleccionar una quinta carta (de entre tres) que será, al menos, rara.
 shop_data_skellige_keg_title;Barril(es) de Skellige
+shop_data_skin_dana_love_desc;<sprite="PopupIcons" name="Skin"> Aspecto Diosa del amor\n\nToma el mando con un aura de amor y divinidad con este nuevo aspecto de líder de Dana Meadbh.
+shop_data_skin_dana_love_title;Aspecto Diosa del amor
 shop_data_special_premium_keg_desc;Solo puede comprarse con retazos. Una vez abierto este barril especial, recibirás 5 cartas <b>premium</b> de cualquier colección. Cuatro tendrán una rareza Común y una quinta carta (a elegir entre tres) que será, al menos, Rara.
 shop_data_special_premium_keg_title;Barril premium especial
 shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board"> Tablero de primavera\n\n<sprite="PopupIcons" name="CardBack"> Reverso de carta de primavera\n\nComprar este producto apoya los esports de GWENT; ¡el 30 % de los ingresos del paquete incrementará directamente la bolsa de premios del GWENT Masters, que tendrá lugar en diciembre de 2021!
@@ -6450,6 +6534,8 @@ shop_great_oak_year_bundle_desc;<sprite="PopupIcons" name="Avatar">Avatar de fam
 shop_great_oak_year_bundle_title;Paquete del Gran Roble
 shop_ida_emean_bundle_desc;<sprite="PopupIcons" name="Avatar">Avatar de Ida Emean\n\n<sprite="PopupIcons" name="Border">Borde de portal élfico\n\n<sprite="PopupIcons" name="Title">Título "Aen Saevherne"\n\nEste paquete contiene adornos que primero se presentaron como desbloqueables durante la temporada de los Elfos en el año del Hombre rata.
 shop_ida_emean_bundle_title;Paquete de Ida Emean
+shop_iris&olgierd_desc;<sprite="PopupIcons" name="CardBack"> Reverso de carta de amor trágico\n\n<sprite="PopupIcons" name="Avatar"> Avatar de Iris von Everec\n\n<sprite="PopupIcons" name="Avatar"> Avatar de Olgierd\n\n<sprite="PopupIcons" name="Border"> Borde de caballete\n\n<sprite="PopupIcons" name="Title"> Título "Desconsolado"\n\nEl amor es paciente, el amor es tierno, pero a veces también es trágico y rompe corazones.\nEste paquete contiene adornos introducidos por primera vez como artículos desbloqueables durante el evento del amor en el Año del Gran Roble.
+shop_iris&olgierd_title;Paquete de Iris y Olgierd
 shop_ivo_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar de Ivo de Belhaven\n\n<sprite="PopupIcons" name="Border"> Borde de oso guardián\n\n<sprite="PopupIcons" name="Title"> Título "de Belhaven"\n\n¡Muestra tu afinidad por la Escuela del Oso! Este paquete contiene adornos que primero se presentaron como desbloqueables durante la temporada del Oso en el año del Hombre rata.
 shop_ivo_bundle_title;Paquete de Ivo
 shop_keg_category_all;Todas las cartas.
@@ -6472,6 +6558,8 @@ shop_leaders_syndicate_desc;¡Hora de pasarla en sangre!\n\nConsigue 2 nuevas ca
 shop_leaders_syndicate_title;Pack matones
 shop_love_cardback_desc;¡Enamórate!\n\nEste reverso de carta se presentó primero como un artículo desbloqueable durante la temporada del Amor en el año del Jabalí salvaje.
 shop_love_cardback_title;Reverso de carta de amor
+shop_love_festival_gameboard_desc;<sprite="PopupIcons" name="Board"> Tablero de juego del festival del amor\n\nCelebra el festival del amor. ¡Hasta los degolladores novigrados lo hacen!
+shop_love_festival_gameboard_title;Tablero de juego del festival del amor
 shop_lubberkin_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar de Doméstica\n\n<sprite="PopupIcons" name="Border"> Borde de Doméstica\n\n<sprite="PopupIcons" name="Title"> Título "Doméstica"\n\nCelebra la llegada de la temporada del Amor y dale un abrazo a este encantador espíritu guardián.
 shop_lubberkin_bundle_title;Paquete de Doméstica
 shop_lucky_bundle_desc;<sprite="PopupIcons" name="Coin"> Moneda de la suerte\n\n<sprite="PopupIcons" name="Title"> Título "Suertudo"\n\nRefuerza tu suerte con esta moneda.
@@ -6492,6 +6580,9 @@ shop_packs_category_2;Paquetes de inicio
 shop_popular;Objetos populares
 shop_powder_section_description;El polvo meteorítico te permite transformar tus cartas en sus versiones premium que incluyen animaciones y efectos mejorados.
 shop_powder_section_title;Polvo meteorítico
+shop_priscilla&dandelion_desc;<sprite="PopupIcons" name="CardBack"> Reverso de carta de compañeros de gira\n\n<sprite="PopupIcons" name="Avatar"> Avatar de Jaskier de gira\n\n<sprite="PopupIcons" name="Avatar"> Avatar de Priscilla de gira\n\n<sprite="PopupIcons" name="Border"> Borde de escenario de gira\n\n<sprite="PopupIcons" name="Title"> Título "Poeta de gira"\n\nEl amor puede aparecer de muchas formas, como la de los compañeros de gira.\nEste paquete contiene adornos introducidos por primera vez como artículos desbloqueables durante el evento del amor en el Año del Gran Roble.
+shop_priscilla&dandelion_title;Paquete de Priscilla y Jaskier
+shop_product_timer_label;Disponible durante:
 shop_questionable_morality_pack_desc;Pon cebos para seducir al enemigo. Finge desorden y aplástalos.\n\nConsigue 2 nuevas cartas legendarias del Sindicato, Rey de los Mendigos y Cyrus Engelkind Hemmelfart, así como otras 6 cartas premium que refuerzan el arquetipo del Sindicato.\n\nEste pack contiene:\n<sprite="PopupIcons" name="Card">1 carta premium Rey de los Mendigos\n<sprite="PopupIcons" name="Card">1 carta premium Cyrus Engelkind Hemmelfart\n<sprite="PopupIcons" name="Card">1 carta premium Adriano el Visón (épica)\n<sprite="PopupIcons" name="Card">1 carta premium Teniente Von Herst (épica) \n<sprite="PopupIcons" name="Card">2 cartas premium Mago de la Salamandra (raras)\n<sprite="PopupIcons" name="Card">2 cartas premium Clérigo de la Rosa Llameante (raras)
 shop_questionable_morality_pack_title;Pack Moralidad cuestionable
 shop_sale;En oferta
@@ -6517,6 +6608,8 @@ shop_shupe_leafhat_bundle_desc;<sprite="PopupIcons" name="Skin">Aspecto básico 
 shop_shupe_leafhat_bundle_title;Paquete de cuatro hojas de Troco
 shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> Sombrero de cuatro hojas \n\nBusca la suerte con esta oferta.\n\nEste es un juego de habilidad, no de suerte. ¡Pero un poco de suerte no hace daño!\nNota: este artículo también está disponible como parte de la oferta Paquete de cuatro hojas.
 shop_shupe_leafhat_trinket_title;Adorno de cuatro hojas de Troco
+shop_shupe_love_armour_desc;<sprite="PopupIcons" name="Trinket"> Armadura del amor de Troco\n\n¡Viste esta armadura del amor y verás que ningún enemigo soportará tu presencia!
+shop_shupe_love_armour_title;Armadura del amor de Troco
 shop_shupe_love_avatar_desc;¡Acepta un poco de amor de tu tendero favorito y reclama este avatar gratuito del peluche de Troco!\n\nDisponible solo durante el evento de amor.
 shop_shupe_love_avatar_title;¡Avatar de Troco gratuito!
 shop_shupe_love_bundle_desc;<sprite="PopupIcons" name="Skin">Aspecto básico de Troco (todas las facciones)\n\n<sprite="PopupIcons" name="Trinket">Alas pequeñas \n\n<sprite="PopupIcons" name="Title"> Título "enamorado"\n\nMucho amor de TROCO para ti. TROCO ayudarte encontrar criatura adecuada.\nTROCO realmente no poder vuela.
@@ -6637,6 +6730,7 @@ switch_app_popup_desc;Esto cerrará Gwent y lanzará Thronebreaker.
 switch_app_popup_title;Cambiar a Thronebreaker
 syn_fluff_description;Algunos luchan por honor, otros por imperios. Algunos luchan por un rey, otros por libertad. Pero los miembros del Sindicato luchan por un solo motivo: riqueza. Si tienes el dinero para hacerte con sus servicios, realizarán todo tipo de actos... Sin importar lo abominable que sea su naturaleza. En el bajo mundo, el crimen es la única forma de llenar tus bolsillos y hacerte con una reputación. Mientras la economía de la ciudad florece con las coronas de Novigrado, el mundo criminal gira en torno a otro tipo de moneda. Cuando se otorga como pago, forja una promesa inquebrantable. Y quienes sean lo suficientemente tontos como para romper este voto, serán cazados y deberán pagar el precio máximo.
 syn_fluff_title;Sindicato
+syndicate_preset_deck_name;Mazo inicial del Sindicato
 tap_to_begin;Toca para comenzar
 taunt_comment;Qué recuerdos
 taunt_curses;¡Maldición!
@@ -6729,7 +6823,7 @@ tracked_action_play_x_cards_with_skellige;Juega {0} cartas usando el mazo de Ske
 tracked_action_play_x_cards_with_specter_keyword;Juega {0} cartas con la categoría Espectro
 tracked_action_play_x_cards_with_summon_keyword;Juega {0} cartas con la palabra clave Invoca
 tracked_action_play_x_cards_with_supported_factions;Juega {0} cartas con mazos de las facciones compatibles.
-tracked_action_play_x_cards_with_syndicate;Juega {0} cartas usando el mazo del Sindicato.
+tracked_action_play_x_cards_with_syndicate;Juega {0} cartas con la facción del Sindicato.
 tracked_action_play_x_cards_with_tidecloaks_tag;Juega {0} cartas de la categoría Manto Marino.
 tracked_action_play_x_classic_matches;Juega {0} partidas en el modo estándar.
 tracked_action_play_x_defender_cards;Juega {0} cartas con la palabra clave Defensor
@@ -7153,6 +7247,7 @@ ui_cardback_group_25_title;Viaje de Triss
 ui_cardback_group_27_title;Golpe de Thanedd
 ui_cardback_group_28_title;Viaje de Aretuza
 ui_cardback_group_3_title;Temporadas del Hombre rata
+ui_cardback_group_30_title;Viaje de Jaskier
 ui_cardback_group_4_title;Expansión Crimson Curse
 ui_cardback_group_5_title;Expansión Novigrad
 ui_cardback_group_6_title;Expansión Iron Judgment
@@ -7164,6 +7259,7 @@ ui_coin_group_11_title;Viaje de Triss
 ui_coin_group_12_title;Expansión
 ui_coin_group_13_title;Ocasiones especiales
 ui_coin_group_14_title;Viaje de Aretuza
+ui_coin_group_17_title;Viaje de Jaskier
 ui_coin_group_2_title;Viaje de Geralt
 ui_coin_group_3_title;Viaje de Ciri
 ui_coin_group_4_title;Cyberpunk 2077
@@ -7212,13 +7308,14 @@ ui_journey_main_panel_standard_path;Normal
 ui_journey_main_panel_story;Historia del Viaje
 ui_journey_new_quests;El siguiente conjunto de misiones llegará llegará la próxima semana...
 ui_journey_popup_congratulation;¡Felicitaciones!
-ui_journey_popup_finish_journey;¡Seguiste el viaje de Regis! ¡Transfórmate y desgarra a tus enemigos con todo el poder que obtuviste!
+ui_journey_popup_finish_journey;¡Completaste el Viaje de Jaskier! Disfruta de los recuerdos y adornos que reuniste por el camino, ¡viste tus nuevos conjuntos con orgullo!
 ui_journey_popup_journey_end;El Viaje terminó. Ganar piezas de corona te dará puntos de recompensa
 ui_journey_popup_premium_alzur_desc;Empieza con ventaja y desbloquea 25 niveles al instante.\n ¡Desbloquea el aspecto legendario de Alzur y adornos adicionales!
 ui_journey_popup_premium_aretuza_desc;Empieza con ventaja y desbloquea 25 niveles al instante.\n ¡Desbloquea el tablero de juego del salón principal de Aretuza y adornos adicionales!
 ui_journey_popup_premium_button;Oferta única
 ui_journey_popup_premium_ciri_desc;Empieza con ventaja y desbloquea 25 niveles al instante.\n ¡Desbloquea el aspecto legendario de Ciri y adornos adicionales!
 ui_journey_popup_premium_ciri_title;Pase premium de +25 niveles
+ui_journey_popup_premium_dandelion_desc;Empieza con ventaja y desbloquea 25 niveles al instante.\n ¡Desbloquea el aspecto legendario de Jaskier y adornos adicionales!
 ui_journey_popup_premium_desc;Empieza con ventaja y desbloquea 25 niveles al instante.\n ¡Desbloquea el aspecto legendario de Geralt y adornos adicionales!
 ui_journey_popup_premium_regis_desc;Empieza con ventaja y desbloquea 25 niveles al instante.\n ¡Desbloquea a Emiel Regis y adornos adicionales!
 ui_journey_popup_premium_title;Paquete Viaje rápido
@@ -7227,16 +7324,17 @@ ui_journey_popup_premium_yen_desc;Empieza con ventaja y desbloquea 25 niveles al
 ui_journey_popup_standard_alzur_desc;¡Desbloquea el aspecto legendario de Alzur inmediatamente!
 ui_journey_popup_standard_aretuza_desc;¡Desbloquea el tablero de juego del salón principal de Aretuza inmediatamente!
 ui_journey_popup_standard_ciri_desc;¡Desbloquea el aspecto legendario de Ciri de inmediato!
+ui_journey_popup_standard_dandelion_desc;¡Desbloquea el aspecto legendario de Jaskier de inmediato!
 ui_journey_popup_standard_desc;Desbloquea el aspecto legendario de Geralt inmediatamente
 ui_journey_popup_standard_regis_desc;¡Desbloquea a Emiel Regis ya!
 ui_journey_popup_standard_title;Pase premium
 ui_journey_popup_standard_triss_desc;¡Desbloquea el aspecto legendario de Triss de inmediato!
 ui_journey_popup_standard_yen_desc;¡Desbloquea el aspecto legendario de Yennefer de inmediato!
-ui_journey_popup_start_journey;¡Comienza el viaje de Regis! Sigue su historia jugando partidas y completando misiones semanales. ¡Dirige ejércitos con las distintas formas de Regis!
+ui_journey_popup_start_journey;¡Comienza el viaje de Jaskier! Sigue su historia jugando partidas y completando misiones semanales.
 ui_journey_popup_start_title;¡Bienvenidos!
 ui_journey_social_panel_week;SEMANA {0} / {1}
 ui_journey_story_extended_next_week;La siguiente parte del viaje de Geralt llegará la próxima semana...
-ui_journey_story_heading;Los muertos no muerden
+ui_journey_story_heading;Artes radicalmente libres
 ui_journey_story_standard_next_week;La siguiente parte de la historia llegará la próxima semana...
 ui_journey_story_standard_title;Jaskier
 ui_journey_timer_days;{0} DÍAS
@@ -7294,10 +7392,11 @@ ui_leader_name_10044;Troco
 ui_leader_name_10045;Alzur
 ui_leader_name_10046;Yennefer
 ui_leader_name_10047;Triss Merigold
+ui_leader_name_10048;Formas humanas de Emiel Regis
 ui_leader_name_10049;Octavia Hale
-ui_leader_name_10050;Formas humanas de Emiel Regis
-ui_leader_name_10051;Emiel Regis mestizo
-ui_leader_name_10052;Regis el vampiro
+ui_leader_name_10050;Emiel Regis mestizo
+ui_leader_name_10051;Regis el vampiro
+ui_leader_name_10052;Jaskier
 ui_leader_trinket_group_1_title;Armadura
 ui_leader_trinket_group_2_title;Gorros
 ui_leader_trinket_group_3_title;Trofeos
@@ -7337,6 +7436,7 @@ ui_social_panel_journey_quests;Misiones del viaje
 ui_soundtrack_group_1_title;Básico
 ui_soundtrack_group_2_title;Especial
 ui_soundtrack_group_3_title;Viaje de Aretuza
+ui_soundtrack_group_5_title;Viaje de Jaskier
 ui_tooltip_coins;La divisa adicional del Sindicato. Solo puedes tener un máximo de 9 monedas. Tu conteo de monedas se reduce a la mitad cuando pasas a la siguiente ronda.
 ui_vanity_inventory_change_category;Cambiar categoría
 ui_vanity_inventory_equip_preview;Equipar
@@ -7751,6 +7851,20 @@ vanity_avatar_48355_title;Avatar de táctica avanzada
 vanity_avatar_48356_title;Avatar de Troco tejiendo
 vanity_avatar_48357_title;Avatar de arpía de Yule
 vanity_avatar_48358_title;Avatar de tigre dorado
+vanity_avatar_48359_title;Avatar de pluma oscura
+vanity_avatar_48360_title;Avatar de pluma violeta
+vanity_avatar_48361_title;Avatar de pluma carmesí
+vanity_avatar_48362_title;Avatar de pluma dorada
+vanity_avatar_48363_title;Avatar de pluma jade
+vanity_avatar_48364_title;Avatar Reina de los mimos
+vanity_avatar_48365_title;Avatar de cucharita pequeña
+vanity_avatar_48366_title;Avatar de Jaskier
+vanity_avatar_48367_title;Avatar de Dijkstra
+vanity_avatar_48368_title;Avatar del Vengador carmesí
+vanity_avatar_48369_title;Avatar de joven bardo
+vanity_avatar_48370_title;Avatar glamuroso
+vanity_avatar_48371_title;Avatar lleno de amor
+vanity_avatar_48372_title;Avatar de mocoso
 vanity_body_80284_title;Capa negra de humano
 vanity_body_80285_title;Capa blanca de humano
 vanity_body_80286_title;Atuendo negro del baile de humano
@@ -8042,6 +8156,18 @@ vanity_border_38187_title;Borde púrpura medianoche
 vanity_border_38188_title;Borde de Señoras del bosque
 vanity_border_38189_title;Borde de táctica avanzada
 vanity_border_38190_title;Borde de Troco tejiendo
+vanity_border_38191_title;Borde de vengador oscuro
+vanity_border_38192_title;Borde de vengador dorado
+vanity_border_38193_title;Borde de vengador carmesí
+vanity_border_38194_title;Borde de vengador jade
+vanity_border_38195_title;Borde de vengador violeta
+vanity_border_38196_title;Borde Rey de los mimos
+vanity_border_38197_title;Borde cucharita grande
+vanity_border_38198_title;Borde de vanagloria
+vanity_border_38199_title;Borde de músico
+vanity_border_38200_title;Borde de arpa
+vanity_border_38201_title;Borde de taberna
+vanity_border_38202_title;Borde de perfume
 vanity_border_38512_title;T2 World Masters
 vanity_border_description_apprentice;Recompensa por alcanzar el rango 6 en la partida clasificada.
 vanity_border_description_default;Disponible para todos.
@@ -8143,7 +8269,7 @@ vanity_cardback_60096_title;Reverso de carta de embellecimiento
 vanity_cardback_60097_title;Reverso de carta de esquirla de hielo
 vanity_cardback_60098_title;Reverso de carta de amor trágico
 vanity_cardback_60099_title;Reverso de carta de compañeros de gira
-vanity_cardback_60100_title;Año Nuevo Lunar
+vanity_cardback_60100_title;Reverso de carta de buey
 vanity_cardback_60101_title;Reverso de carta del Gran Roble
 vanity_cardback_60102_title;Reverso de carta de invierno
 vanity_cardback_60103_title;Reverso de carta de primavera
@@ -8167,8 +8293,8 @@ vanity_cardback_60119_title;Reverso de carta de Yennefer
 vanity_cardback_60120_title;Reverso de carta de Triss
 vanity_cardback_60121_title;Reverso de carta del duque de Perros
 vanity_cardback_60123_title;Reverso de carta de Guisadora
-vanity_cardback_60124_title;Reverso de carta de Susurradora
-vanity_cardback_60125_title;Reverso de carta de Tejedora
+vanity_cardback_60124_title;Reverso de carta de Tejedora
+vanity_cardback_60125_title;Reverso de carta de Susurradora
 vanity_cardback_60126_title;Reverso de carta de carnicería
 vanity_cardback_60127_title;Reverso de carta de caminante entre lápidas
 vanity_cardback_60128_title;Reverso de carta de Regis y Geralt
@@ -8177,6 +8303,10 @@ vanity_cardback_60130_title;Reverso de carta de Regis el vampiro
 vanity_cardback_60132_title;Reverso de carta de Troco tejiendo
 vanity_cardback_60133_title;Reverso de carta de Troco tejiendo
 vanity_cardback_60137_title;Reverso de carta del tigre
+vanity_cardback_60138_title;Reverso de carta de Jaskier y Dijkstra
+vanity_cardback_60139_title;Reverso de carta de Jaskier y Geralt
+vanity_cardback_60140_title;Reverso de carta de fiesta de súcubos
+vanity_cardback_60141_title;Reverso de carta de inspiración creativa
 vanity_cardback_61001_title;Reverso de carta de monstruos
 vanity_cardback_61002_title;Reverso de carta de Nilfgaard
 vanity_cardback_61003_title;Reverso de carta de los Reinos del Norte
@@ -8238,6 +8368,10 @@ vanity_coin_70050_title;Moneda del alquimista
 vanity_coin_70051_title;Moneda de cementerio
 vanity_coin_70052_title;Moneda de magia de sangre
 vanity_coin_70053_title;Moneda de Ouroboros
+vanity_coin_70054_title;Moneda de laúd
+vanity_coin_70055_title;Moneda de poesía
+vanity_coin_70056_title;Moneda de sombrero del bardo
+vanity_coin_70057_title;Moneda de frasco de perfume
 vanity_deck_mon;Mazo de Monstruos
 vanity_deck_nil;Mazo de Nilfgaard
 vanity_deck_nor;Mazo de los Reinos del Norte
@@ -8289,6 +8423,7 @@ vanity_gameboard_50051_title;Tablero de aula de Nigromancia perfecta
 vanity_gameboard_50052_title;Tablero del Gran Roble
 vanity_gameboard_50053_title;Tablero de Saovine
 vanity_gameboard_50054_title;Tablero de Yule
+vanity_gameboard_50057_title;Tablero de juego del festival del amor
 vanity_gameboard_default_title;Tablero de facción predeterminada
 vanity_h01_border_description;Recompensa por completar los Desafíos del Festival de la cerveza de Mahakam en modo Experto.
 vanity_h01_border_title;Borde de bebedor consumado
@@ -8652,6 +8787,41 @@ vanity_leader_trinket_80318_title;Aura de faroles amarillos (humano)
 vanity_leader_trinket_80319_title;Capa roja de humano
 vanity_leader_trinket_80320_title;Alas de murciélago de Troco
 vanity_leader_trinket_80321_title;Bolsa con regalos
+vanity_leader_trinket_80322_title;Atuendo chic
+vanity_leader_trinket_80323_title;Camisa con nudo
+vanity_leader_trinket_80324_title;Camisa con botones
+vanity_leader_trinket_80325_title;Chal estiloso
+vanity_leader_trinket_80326_title;Chamarra de bardo viajero
+vanity_leader_trinket_80327_title;Atuendo elegante
+vanity_leader_trinket_80328_title;Pantalones bombachos
+vanity_leader_trinket_80329_title;Botas altas
+vanity_leader_trinket_80330_title;Botas de cuero
+vanity_leader_trinket_80331_title;Ropa interior
+vanity_leader_trinket_80332_title;Pantalones errantes
+vanity_leader_trinket_80333_title;Pantalones glamurosos
+vanity_leader_trinket_80334_title;Sombrero del bardo
+vanity_leader_trinket_80335_title;Sombrero rojo
+vanity_leader_trinket_80336_title;Diadema
+vanity_leader_trinket_80337_title;Cabello al viento
+vanity_leader_trinket_80338_title;Lleno de amor
+vanity_leader_trinket_80339_title;El Vengador carmesí
+vanity_leader_trinket_80340_title;Laúd ornamental
+vanity_leader_trinket_80341_title;Buzuki
+vanity_leader_trinket_80342_title;Saz
+vanity_leader_trinket_80343_title;Guitarra de pala
+vanity_leader_trinket_80344_title;Balalaika
+vanity_leader_trinket_80345_title;Laúd
+vanity_leader_trinket_80346_title;Cinturón básico
+vanity_leader_trinket_80347_title;Ramo de rosas rojas
+vanity_leader_trinket_80348_title;Ramo de rosas amarillas
+vanity_leader_trinket_80349_title;Flauta con rosa
+vanity_leader_trinket_80350_title;Vitrola
+vanity_leader_trinket_80351_title;Perfume
+vanity_leader_trinket_80352_title;Libro de poesía
+vanity_leader_trinket_80353_title;Sin aura
+vanity_leader_trinket_80354_title;Aura de concierto
+vanity_leader_trinket_80355_title;Aura de taberna
+vanity_leader_trinket_80356_title;Aura de foco
 vanity_leader_trinket_80357_title;Suéter feo de Hijo de perra junior
 vanity_leader_trinket_80358_title;Espada de Geralt
 vanity_leader_trinket_80359_title;Espada de caramelo
@@ -8689,6 +8859,10 @@ vanity_leader_trinket_80390_title;Aura de bandada de cuervos (vampiro)
 vanity_leader_trinket_80391_title;Aura de faroles rojos (vampiro)
 vanity_leader_trinket_80392_title;Aura de faroles amarillo (vampiro)
 vanity_leader_trinket_80393_title;Cinturón básico (mestizo)
+vanity_leader_trinket_80394_title;Bolso
+vanity_leader_trinket_80395_title;Pergaminos
+vanity_leader_trinket_80400_title;Armadura del amor de Troco
+vanity_leader_trinket_80401_title;Su alteza real
 vanity_monsters_challenge_title;Tirano
 vanity_nilfgaard_challenge_title;Comandante de División
 vanity_northern_challenge_title;Cazador maestro
@@ -9019,6 +9193,11 @@ vanity_soundtrack_90014_title;Gloria
 vanity_soundtrack_90015_title;Caída
 vanity_soundtrack_90016_title;Amanecer
 vanity_soundtrack_90017_title;Luna de sangre
+vanity_soundtrack_90018_title;Aventura épica
+vanity_soundtrack_90019_title;Balada
+vanity_soundtrack_90020_title;Obra maestra
+vanity_soundtrack_90021_title;El amor está en el aire
+vanity_soundtrack_90022_title;Temas de Novigrado
 vanity_title_20150_title;Voluntario
 vanity_title_20151_title;Capataz
 vanity_title_20152_title;Escaramuzador
@@ -9287,6 +9466,25 @@ vanity_title_28226_title;Pequeño ayudante de Troco
 vanity_title_28227_title;Estratega avanzado
 vanity_title_28228_title;Espíritu de Yule
 vanity_title_28229_title;Tigre dorado
+vanity_title_28230_title;Rey de los mimos
+vanity_title_28231_title;Reina de los mimos
+vanity_title_28232_title;Cucharita grande
+vanity_title_28233_title;Cucharita pequeña
+vanity_title_28234_title;Príncipe Ruiseñor
+vanity_title_28235_title;El Vengador carmesí
+vanity_title_28236_title;Defensor de los oprimidos
+vanity_title_28237_title;Bajo los focos
+vanity_title_28238_title;Único y singular
+vanity_title_28239_title;El poeta
+vanity_title_28240_title;Amante
+vanity_title_28241_title;Chico fiestero
+vanity_title_28242_title;La leyenda
+vanity_title_28243_title;Bardo errante
+vanity_title_28244_title;Auténtico artista
+vanity_title_28245_title;El mejor bardo
+vanity_title_28246_title;Delicada flor
+vanity_title_28247_title;Músico
+vanity_title_28251_title;Matón
 vanity_title_30180;Cabeza de cobre
 vanity_title_30180_description;Recompensa por lograr el rango 10 en partida clasificatoria, temporada de la Víbora (mayo).
 vanity_title_30181;Cascabel cornuda
