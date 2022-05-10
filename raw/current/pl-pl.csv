@@ -1511,7 +1511,7 @@ achievement_90034_desc;Zdobądź {0} poziom w trybie rozszerzonym Podróży Ciri
 achievement_90034_desc_console;Miej w talii na Arenę 3 egzemplarze tej samej karty.
 achievement_90034_title;Wszystko albo nic!
 achievement_90034_title_console;Tradycjonalista
-achievement_90035_desc;Ukończ wszystkie kontrakty powiązane z Przygodą Ciri
+achievement_90035_desc;Ukończ wszystkie kontrakty powiązane z Przygodą Ciri wypisane poniżej:
 achievement_90035_desc_console;Wygraj grę z 2 kartami pozostałymi w ręce.
 achievement_90035_title;Największy fan Ciri!
 achievement_90035_title_console;Masz już dość?
@@ -1914,6 +1914,56 @@ achievement_90296_title;Pomóż królowi Eistowi Tuirseachowi
 achievement_90297_title;Pomóż królowej Calanthe
 achievement_90298_title;Pomóż Sigismundowi Dijkstrze
 achievement_90299_title;Pomóż Philippie Eilhart
+achievement_90301_desc;Ukończ 5 zadań Podróży Geralta
+achievement_90301_title;Porzucone dziecko
+achievement_90302_desc;Ukończ 10 zadań Podróży Geralta
+achievement_90302_title;Pierwsza próba
+achievement_90303_desc;Ukończ 20 zadań Podróży Geralta
+achievement_90303_title;Pierwsze kroki wiedźmina
+achievement_90305_desc;Osiągnij 110 poziom w trybie rozszerzonym Podróży Geralta
+achievement_90305_title;Pogromca potworów
+achievement_90306_desc;Osiągnij 120 poziom w trybie rozszerzonym Podróży Geralta
+achievement_90306_title;Siła telekinezy
+achievement_90307_desc;Osiągnij 130 poziom w trybie rozszerzonym Podróży Geralta
+achievement_90307_title;Hipnotyczny efekt
+achievement_90308_desc;Osiągnij 145 poziom w trybie rozszerzonym Podróży Geralta
+achievement_90308_title;Magiczna pułapka
+achievement_90309_desc;Osiągnij 160 poziom w trybie rozszerzonym Podróży Geralta
+achievement_90309_title;Tarcza ochronna
+achievement_90310_desc;Osiągnij 175 poziom w trybie rozszerzonym Podróży Geralta
+achievement_90310_title;Gdzie jest mój piąty element?
+achievement_90312_desc;Wygraj 1 grę, używając jednaj z aur Geralta
+achievement_90312_title;Pierwszy płomień
+achievement_90313_desc;Wygraj 10 gier, używając jednaj z aur Geralta
+achievement_90313_title;Zabawy z ogniem
+achievement_90314_desc;Wygraj 30 gier, używając jednaj z aur Geralta
+achievement_90314_title;Pirokinetyczny rozbłysk
+achievement_90315_desc;Ukończ wszystkie kontrakty powiązane z Przygodą Geralta wypisane poniżej:
+achievement_90315_title;Gwynbleidd na szlaku
+achievement_90317_desc;Ukończ 5 zadań Podróży Ciri
+achievement_90317_title;Dziecko na Prawie Niespodzianki
+achievement_90318_desc;Ukończ 10 zadań Podróży Ciri
+achievement_90318_title;Sierota
+achievement_90319_desc;Ukończ 20 zadań Podróży Ciri
+achievement_90319_title;Księżniczka Cintry
+achievement_90321_desc;Wygraj 1 grę, używając jednego z trofeów Ciri
+achievement_90321_title;Skoczkini
+achievement_90322_desc;Wygraj 10 gier, używając jednego z trofeów Ciri
+achievement_90322_title;Podróżniczka między światami
+achievement_90323_desc;Wygraj 30 gier, używając jednego z trofeów Ciri
+achievement_90323_title;Pani Czasów i Miejsc
+achievement_90324_desc;Wygraj 30 gier, używając jednej z aur Ciri
+achievement_90324_title;Poczuj siłę
+achievement_90325_desc;Wygraj 30 gier, używając jednego z nakryć głowy Ciri
+achievement_90325_title;Nie traćmy głowy
+achievement_90326_desc;Wygraj 30 gier, używając jednej z monet Ciri
+achievement_90326_title;Niech rzut monetą zadecyduje o losie
+achievement_90327_desc;Wygraj 30 gier, używając jednego z rewersów Ciri
+achievement_90327_title;Zapisane w kartach
+achievement_90328_desc;Ukończ wszystkie kontrakty powiązane z akcesoriami Ciri wypisane poniżej:
+achievement_90328_title;Mistrzyni dodatków
+achievement_90329_desc;Ukończ wszystkie kontrakty powiązane z Przygodami Geralta i Ciri wypisane poniżej:
+achievement_90329_title;Jak ojciec z córką
 achievement_category_arena;Arena
 achievement_category_collection;Kolekcja
 achievement_category_expansions;dodatki
@@ -3154,9 +3204,11 @@ game_mode_seasonal_draconid_title;Szał Bojowy
 game_mode_seasonal_dryad_title;Huśtawka
 game_mode_seasonal_elf_title;Podwójna stawka
 game_mode_seasonal_griffin_title;Układ sił
+game_mode_seasonal_june_title;Sezon czerwcowy
 game_mode_seasonal_love_title;Nieodparty urok
 game_mode_seasonal_magic_title;Bliźniacze zaklęcie
 game_mode_seasonal_mahakam_title;Okopanie
+game_mode_seasonal_may_title;Sezon majowy
 game_mode_seasonal_more_provision_desc;Na początku swojej tury przemień wszystkie karty w swojej ręce w losowe karty, których koszt werbunku jest wyższy o 1
 game_mode_seasonal_more_provision_title;Cierpliwość jest cnotą!
 game_mode_seasonal_viper_title;Pęd
@@ -3360,6 +3412,17 @@ holiday_rewards_panel_title;Nagrody za ukończenie wyzwania
 http_code;Kod błędu:
 in_progress;Transakcja jest w toku, trwa oczekiwanie na finalizację płatności po stronie operatora płatności. Transakcja zostanie sfinalizowana w tle.
 in_progress_title;Finalizowanie transakcji
+infinite_journey_common_quest;Poziom łatwy
+infinite_journey_epic_quest;Poziom trudny
+infinite_journey_rare_quest;Poziom średni
+infinity_journey_name_alzur;Alzur
+infinity_journey_name_aretuza;Aretuza
+infinity_journey_name_ciri;Ciri
+infinity_journey_name_dandelion;Jaskier
+infinity_journey_name_geralt;Geralt
+infinity_journey_name_regis;Regis
+infinity_journey_name_triss;Triss
+infinity_journey_name_yennefer;Yennefer
 input_accept_deck_validation_popup;Akceptuj
 input_accept_error_loading_decks;Akceptuj
 input_accept_forfeit;Poddaj grę
@@ -4161,7 +4224,7 @@ journey_3_quest_5_extended_title;Niesławny szaleniec
 journey_3_quest_5_standard_title;Sto ballad, a nawet tysiąc!
 journey_3_quest_6_extended_title;Zimny i wyrachowany
 journey_3_quest_6_standard_title;Do rzeczy
-journey_info_description;POSTĘP\nW Podróży posuwasz się naprzód poprzez wygrywanie rund w rozgrywkach sieciowych. Każda wygrana runda daje ci 1 fragment korony.\nMożesz kontynuować swą Podróż nawet po osiągnięciu 100 poziomu i zyskać dodatkowe nagrody.\nSwoje postępy znajdziesz pod kartą Podróży w menu głównym.\n\nBONUS\n<sprite="PopupIcons" name="WellRested"> — codziennie otrzymasz pulę 14 dodatkowych fragmentów korony za wygrywanie rund. Na przykład: za wygrany mecz otrzymasz 2 fragmenty korony i do tego 2 dodatkowe fragmenty korony.\n<sprite="PopupIcons" name="WellRested"> — odnawia się każdego dnia.\n\nZADANIA\nCo tydzień do Podróży dodamy 6 nowych zadań. Za ukończenie każdego z nich otrzymasz kolejne 20 fragmentów korony.\nMożesz wykonywać zadania ze ścieżki Premium, zanim ją odblokujesz, ale otrzymasz dodatkowe fragmenty korony, dopiero gdy dokonasz odblokowania.
+journey_info_description;POSTĘP\nW Podróży posuwasz się naprzód poprzez wygrywanie rund w rozgrywkach sieciowych. Każda wygrana runda daje ci 1 fragment korony.\nMożesz kontynuować swą Podróż nawet po osiągnięciu 100 poziomu i zyskać dodatkowe nagrody.\n\nBONUSY\n<sprite="PopupIcons" name="WellRested"> — codziennie otrzymasz pulę 14 dodatkowych fragmentów korony za wygrywanie rund. Na przykład: za wygrany mecz otrzymasz 2 fragmenty korony i do tego 2 dodatkowe fragmenty korony.\n<sprite="PopupIcons" name="WellRested"> — odnawia się każdego dnia.\n\nZADANIA\nW każdym tygodniu dostępne będą tylko<b> 3 zadania</b>. Za ukończenie każdego z nich otrzymasz po 20 fragmentów korony. Jeśli masz dostęp do podróży premium, twoje nagrody za wykonywanie zadań zostaną <b>podwojone</b> (czyli otrzymasz po 40 koron za każde zadanie).\nJeśli nie uda ci się wykonać któregoś z zadań, w Nowym Tygodniu będziesz mieć możliwość ponownego wylosowania zadań z poprzedniego tygodnia.\nZadania pozostają takie same, niezależnie od wybranej podróży. Fragmenty korony zdobyte po wykonaniu zadania zostaną dodane do aktualnie wybranej podróży.\n\nPRZEŁĄCZANIE PODRÓŻY\n\nMożesz łatwo przejść z jednej podróży do drugiej w dowolnym momencie, wybierając je z listy podróży na ekranie postępów.\n
 journey_quest_1_extended_title;Walka o życie
 journey_quest_1_standard_title;Walka o godność
 journey_quest_28_standard_title;Ślub
@@ -5934,9 +5997,11 @@ season_draconid_title;Sezon Drakonidów
 season_dryad_title;Sezon Driad
 season_elf_title;Sezon Elfów
 season_griffin_title;Sezon Gryfa
+season_june_title;Sezon czerwcowy
 season_love_title;Sezon Miłości
 season_magic_title;Sezon Magii
 season_mahakam_title;Sezon Mahakamski
+season_may_title;Sezon majowy
 season_reward_avatars;Awatary
 season_reward_borders;RAMKA:
 season_reward_card;Karty:
@@ -6180,7 +6245,7 @@ shop_data_ep1_cardback_pack_title;Alternatywny rewers: Krwawa Klątwa
 shop_data_ep1_skin_pack_desc;<sprite="PopupIcons" name="Skin"> Skórka: Mroczna Krwawa Zbroja (dla Potworów)\n\nUkryty powraca! Skorzystaj z mrocznej potęgi starożytnego wampira wyższego dzięki tej eleganckiej zbroi oraz towarzyszących jej specjalnym efektom wizualnym i animacjom.
 shop_data_ep1_skin_pack_desc_sale;Ukryty powraca! Skorzystaj z mrocznej potęgi starożytnego wampira wyższego dzięki tej eleganckiej zbroi oraz towarzyszących jej specjalnym efektom wizualnym i animacjom.\n\nTa skórka łączy się tylko z frakcją Potworów i podczas wydarzenia Saovine zostanie przeceniona o 30%!
 shop_data_ep1_skin_pack_title;Skórka: Mroczna Krwawa Zbroja
-shop_data_ep2_alt_board_desc;Kiedy zapada noc, władzę nad ulicami Wolnego Miasta przejmują gangi Novigradu! Mierz się ze znajomymi i wrogami na planszy „Novigrad nocą”!
+shop_data_ep2_alt_board_desc;<sprite="PopupIcons" name="Board"> Plansza Novigrad nocą\n\nKiedy zapada noc, władzę nad ulicami Wolnego Miasta przejmują gangi Novigradu. Mierz się ze znajomymi i wrogami na planszy Novigrad nocą!
 shop_data_ep2_alt_board_title;Plansza Novigrad nocą
 shop_data_ep2_alt_cardback_desc;W Novigradzie ogień nadal płonie! Zdobądź tę alternatywną wersję novigradzkiego rewersu premium, pierwotnie dostępną w ramach pakietów przedpremierowych dodatku Novigrad.
 shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> Rewers: Nieśmiertelny Ogień\n\nW Novigradzie ogień nadal płonie! Zdobądź tę alternatywną wersję novigradzkiego rewersu premium, pierwotnie dostępną w ramach pakietów przedpremierowych dodatku Novigrad.\nTen rewers będzie dostępny ze zniżką 30% podczas Wyprzedaży Nowego Roku Księżycowego.
@@ -6268,6 +6333,8 @@ shop_data_expansion_pass_ep7_desc;Prawdziwa potęga jest w zasięgu ręki...\n\n
 shop_data_expansion_pass_ep7_title;Cena Władzy – przepustka do dodatku
 shop_data_festival_bundle_desc;<sprite="PopupIcons" name="Avatar"> Awatar: Tancerz\n\n<sprite="PopupIcons" name="Border"> Ramka: Festiwal\n\n<sprite="PopupIcons" name="Title"> Tytuł "Baletmistrz"\n\nNiech rozpocznie się taniec! Dołącz do wesołej zabawy z okazji nadchodzącego lata!
 shop_data_festival_bundle_title;Paka festiwalowa
+shop_data_fiery_judgment_cardback_desc;<sprite="PopupIcons" name="CardBack"> Rewers Żelaznej Woli\n\nDaj upust swojej ognistej furii bojowej dzięki tej specjalnej wersji rewersu Żelaznej Woli!
+shop_data_fiery_judgment_cardback_title;Rewers Żelaznej Woli
 shop_data_fire_bundle_desc;<sprite="PopupIcons" name="Skin"> Skórka: Wzięty Mówca\n\n<sprite="PopupIcons" name="Board"> Plansza: Inferno \n\nTen zestaw zaprezentowano jako formę kibicowania GWENT Open 1 w Roku Szczurołaka.
 shop_data_fire_bundle_title;Płonący Zestaw
 shop_data_first_bundles_promo_title;Paki Najeźdźców / Królestw Północy / Mahakamu
@@ -6275,7 +6342,7 @@ shop_data_forgotten_treasures_pack_desc;<sprite="PopupIcons" name="Card"> Wszyst
 shop_data_forgotten_treasures_pack_title;Pakiet Zapomnianego Skarbu
 shop_data_frozen_bundle_desc;<sprite="PopupIcons" name="Skin"> Skórka: Zamarznięty\n\n<sprite="PopupIcons" name="Board"> Plansza: Duma Demawenda\n\nW powietrzu zagościł jakiś chłód, ty też go czujesz?\n\nTen zestaw zaprezentowano jako formę kibicowania GWENT Open 3 w Roku Szczurołaka.
 shop_data_frozen_bundle_title;Paka Mrozu
-shop_data_gang_bundle_desc;Pokaż światu, do której frakcji Syndykatu należysz z ramkami inspirowanymi dowódcami nowej frakcji GWINTA. Zawartość paki: \n\n<sprite="PopupIcons" name="Border">Ramka: Tasak\n\n<sprite="PopupIcons" name="Border">Ramka: Skurwiel Junior\n\n<sprite="PopupIcons" name="Border">Ramka: Gudrun Bjornsdottir\n\n<sprite="PopupIcons" name="Border">Ramka: Król Żebraków\n\n<sprite="PopupIcons" name="Border">Ramka: Cyrus Hemmelfart\n\n <sprite="PopupIcons" name="Border">Ramka: Sigismund Dijkstra
+shop_data_gang_bundle_desc;<sprite="PopupIcons" name="Border"> Ramka: Tasak\n\n<sprite="PopupIcons" name="Border"> Ramka: Skurwiel Junior\n\n<sprite="PopupIcons" name="Border"> Ramka: Gudrun Bjornsdottir\n\n<sprite="PopupIcons" name="Border"> Ramka: Król Żebraków\n\n<sprite="PopupIcons" name="Border"> Ramka: Cyrus Hemmelfart\n\n<sprite="PopupIcons" name="Border"> Ramka: Dijkstra\n\nPokaż światu, do której frakcji Syndykatu należysz, i wyposaż się w ramki inspirowane tymi nieustraszonymi dowódcami.
 shop_data_gang_bundle_title;Paka ramek dowódców Syndykatu
 shop_data_gaunter_dark_skin_desc;<sprite="PopupIcons" name="Skin"> Mroczna skórka Gauntera O'Dimma (neutralna)\n\nRusz na pole bitwy jako wcielenie zła. Jest tu sam Gaunter O'Dimm, by towarzyszyć ci w swej najbardziej diabolicznej odsłonie.
 shop_data_gaunter_dark_skin_title;Mroczna skórka Gauntera O'Dimma
@@ -6422,6 +6489,8 @@ shop_data_scoiatael_keg_desc;Po otwarciu ta beczka da ci 5 kart Scoia'tael z dow
 shop_data_scoiatael_keg_title;Beczki Scoia'tael
 shop_data_sheep_bundle_desc;<sprite="PopupIcons" name="Avatar"> Awatar: Owca\n\n<sprite="PopupIcons" name="Border"> Ramka: Owca\n\n<sprite="PopupIcons" name="Title"> Tytuł "Owczarz"\n\nTa paka zawiera ozdoby, które wcześniej były dostępne do odblokowania podczas sezonu Gryfa w Roku Dzika - teraz z nowym specjalnym bonusem!
 shop_data_sheep_bundle_title;Owcza Paka
+shop_data_shop_small_fire_pack_desc;<sprite="PopupIcons" name="Avatar"> Awatar: Ifryt\n\n<sprite="PopupIcons" name="Border"> Ramka: Ożywiony Płomień\n\n<sprite="PopupIcons" name="Title"> Tytuł: Akolita Ognia\n\n<sprite="PopupIcons" name="Powder"> 400 j. pyłu meteorytowego\n\nZanurz się w płomieniach – temperaturę podkręcają gorące przedmioty kosmetyczne.\n\nTen zestaw zaprezentowano jako formę kibicowania GWENT Open 1 w Roku Szczurołaka.
+shop_data_shop_small_fire_pack_title;Płonąca Paka
 shop_data_shupe_base_skin_desc;<sprite="PopupIcons" name="Skin"> Skórka: Sklep (wszystkie frakcje) \n\nJaki szanujący się troll wolałby zabawę kolorowymi kawałkami papieru od kamieni i porządnej zupy elfio-cebulowej? Cóż... ten!\n\nWykorzystaj MIAŻDŻĄCĄ osobowość i trolli urok Sklepa, żeby podbić pola walki GWINTA z tą wyjątkową neutralną skórką dowódcy Sklepa, którą możesz zmieniać.
 shop_data_shupe_base_skin_title;Skórka: Sklep
 shop_data_shupe_borders_bundle_desc;<sprite="PopupIcons" name="Title"> 1 tytuł Sklepa: Łowca Przygód\n\n<sprite="PopupIcons" name="Avatar"> 1 awatar Sklepa: Sklep!\n\n<sprite="PopupIcons" name="Border"> 3 ramki Sklepa: Paladyn, Łowca i Czarodziej\n \n\nSklep i ty idą na łowy! Łowić przygody! Pokaż wszystkim, gdzie cię zagnało w dniu wolnym dzięki Pace Ramek Sklepa.
@@ -6456,6 +6525,8 @@ shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board"> Plansza: W
 shop_data_spring_bundle_open2_title;Wiosenna paka
 shop_data_spring_pack_open2_desc;<sprite="PopupIcons" name="Coin"> Moneta wiosenna\n\n<sprite="PopupIcons" name="Powder"> 400 jednostek pyłu meteorytowego\n\nZakup tego produktu oznacza wsparcie GWINTOWEGO e-sportu – 30% dochodów z zestawu bezpośrednio zwiększy pulę nagród zawodów GWENT Open 2, które odbędą się w lipcu 2021 roku!
 shop_data_spring_pack_open2_title;Pakiet wiosenny (GWENT Open 2)
+shop_data_spring_shupe_bundle_desc;<sprite="PopupIcons" name="Border"> Ramka: Rycerz Wiosny\n\n<sprite="PopupIcons" name="Title"> Tytuł: Rycerz Wiosny\n\n<sprite="PopupIcons" name="Avatar"> Awatar Sklepa\n\nW powietrzu czuć wiosnę, ahoj, przygodo! Odpowiedz na zew przygody z tą specjalną paką Sklepa!
+shop_data_spring_shupe_bundle_title;Wiosenna Paka Sklepa
 shop_data_starter_pack_desc;<sprite="PopupIcons" name="Card"> 1 karta legendarna premium \n\n<sprite="PopupIcons" name="Powder"> 400 j. pyłu meteorytowego \n\n<sprite="PopupIcons" name="Keg"> 10 potężnych beczek\n\nPakiet Startowy GWINTA to jednorazowa oferta mająca pomóc ci w szybkim rozwinięciu swojej kolekcji.
 shop_data_starter_pack_promo_desc;Jednorazowe znaczne zwiększenie wartości
 shop_data_starter_pack_promo_title;Pakiet Startowy
@@ -7312,6 +7383,7 @@ ui_cardback_group_3_title;Sezony Szczurołaka
 ui_cardback_group_30_title;Podróż Jaskra
 ui_cardback_group_31_title;NA
 ui_cardback_group_32_title;Rok Przeklętej Ropuchy
+ui_cardback_group_33_title;Podróż
 ui_cardback_group_4_title;Rozszerzenie: Krwawa Klątwa
 ui_cardback_group_5_title;Rozszerzenie: Novigrad
 ui_cardback_group_6_title;Rozszerzenie: Żelazna Wola
@@ -7361,12 +7433,18 @@ ui_gameboard_group_7_title;Karczma
 ui_gameboard_group_8_title;Okręt
 ui_gameboard_group_9_title;Wydarzenia z okazji Księżycowego Nowego Roku
 ui_gwent_deck_library;Biblioteka talii Gwinta
+ui_journey_2_story_title;Historia Ciri
+ui_journey_bonus_disabled;Standardowa
+ui_journey_bonus_enabled;<sprite="PopupIcons" name="WellRested"> Nagroda x2
+ui_journey_check_progress;Sprawdź postęp
 ui_journey_claim_rewards;Odbierz nagrody!
+ui_journey_coming_soon;Już niebawem
 ui_journey_congratulations;Gratulacje! Zdobywasz poziom!
 ui_journey_crowns_collected;Korony za wygrane rundy
 ui_journey_crowns_quests;Korony za ukończone zadania
 ui_journey_crowns_tooltip;Korony zebrane na obecnym etapie Podróży
 ui_journey_level_tooltip;Twój obecny etap Podróży
+ui_journey_list;Lista podróży
 ui_journey_main_panel_buy;Odblokuj premium
 ui_journey_main_panel_extended_path;Premium
 ui_journey_main_panel_fast_travel;Szybkie podróżowanie
@@ -7374,6 +7452,7 @@ ui_journey_main_panel_levels;Poziomy
 ui_journey_main_panel_standard_path;Standard
 ui_journey_main_panel_story;Podróż: Opowieść
 ui_journey_new_quests;Następna seria zadań będzie dostępna w kolejnym tygodniu.
+ui_journey_panel_title;Lista podróży
 ui_journey_popup_congratulation;Gratulacje!
 ui_journey_popup_finish_journey;Podróż Jaskra została ukończona! Ciesz się nowym ekwipunkiem i drobiazgami zebranymi na szlaku. Z dumą noś swe nowe stroje!
 ui_journey_popup_journey_end;Podróż dobiegła końca - zdobywanie połówek koron zapewni pkt nagród.
@@ -7384,8 +7463,9 @@ ui_journey_popup_premium_ciri_desc;Wyprzedź innych! Natychmiast odblokuj 25 poz
 ui_journey_popup_premium_ciri_title;Glejt premium +25 poziomów
 ui_journey_popup_premium_dandelion_desc;Wyprzedź innych! Natychmiast odblokuj 25 poziomów Podróży.\n Odblokuj też legendarną skórkę Jaskra i dodatkowe ozdoby!
 ui_journey_popup_premium_desc;Wyprzedź innych! Natychmiast odblokuj 25 poziomów Podróży. \n Odblokuj też legendarną skórkę Geralta i dodatkowe ozdoby!
+ui_journey_popup_premium_geralt_desc;Wyprzedź innych! Natychmiast odblokuj 25 poziomów Podróży. \n Odblokuj też legendarną skórkę Geralta i dodatkowe ozdoby!
 ui_journey_popup_premium_regis_desc;Zyskaj przewagę i natychmiast odblokuj 25 poziomów.\nOdblokuj Emiela Regisa i dodatkowe ozdoby!
-ui_journey_popup_premium_title;Paka szybkiego podróżowania
+ui_journey_popup_premium_title;Glejt premium +25 poziomów
 ui_journey_popup_premium_triss_desc;Wyprzedź innych! Natychmiast odblokuj 25 poziomów.\n Odblokuj też legendarną skórkę Triss i dodatkowe ozdoby!
 ui_journey_popup_premium_yen_desc;Wyprzedź innych! Natychmiast odblokuj 25 poziomów.\n Odblokuj też legendarną skórkę Yennefer i dodatkowe ozdoby!
 ui_journey_popup_standard_alzur_desc;Natychmiast odblokuj legendarną skórkę Alzura!
@@ -7393,17 +7473,29 @@ ui_journey_popup_standard_aretuza_desc;Bezzwłocznie odblokuj planszę Główna 
 ui_journey_popup_standard_ciri_desc;Natychmiast odblokuj legendarną skórkę Ciri!
 ui_journey_popup_standard_dandelion_desc;Natychmiast odblokuj legendarną skórkę Jaskra!
 ui_journey_popup_standard_desc;Natychmiast odblokuj legendarną skórkę Geralta
+ui_journey_popup_standard_geralt_desc;Natychmiast odblokuj legendarną skórkę Geralta
 ui_journey_popup_standard_regis_desc;Odblokuj teraz Emiela Regisa!
 ui_journey_popup_standard_title;Glejt premium
 ui_journey_popup_standard_triss_desc;Natychmiast odblokuj legendarną skórkę Triss!
 ui_journey_popup_standard_yen_desc;Natychmiast odblokuj legendarną skórkę Yennefer!
 ui_journey_popup_start_journey;Rozpoczyna się podróż Jaskra! Śledź jego historię, rozgrywając mecze i wykonując cotygodniowe zadania.
 ui_journey_popup_start_title;Witaj!
+ui_journey_premium;Podróż premium
+ui_journey_quest_complete;Ukończono zadanie!
+ui_journey_quest_complete_updated;Dostępne wkrótce w Nowym Tygodniu
+ui_journey_quest_difficulty_easy;Poziom łatwy
+ui_journey_quest_difficulty_hard;Poziom trudny
+ui_journey_quest_difficulty_normal;Poziom średni
+ui_journey_quest_reset;Nowy Tydzień:
+ui_journey_reroll_disabled_tooltip;Zmiana zadania będzie dostępna od Nowego Tygodnia
+ui_journey_reroll_enabled_tooltip;Zmień zadanie
 ui_journey_social_panel_week;TYDZIEŃ {0} / {1}
+ui_journey_standard;Podróż standardowa
 ui_journey_story_extended_next_week;Kolejna część przygód Geralta pojawi się za tydzień...
+ui_journey_story_extended_title;Historia Geralta
 ui_journey_story_heading;Sztuka radykalnie liberalna
 ui_journey_story_standard_next_week;Kolejna część opowieści pojawi się za tydzień...
-ui_journey_story_standard_title;Jaskier
+ui_journey_story_standard_title;Historia Jaskra
 ui_journey_timer_days;{0} DNI
 ui_journey_timer_ends;KOŃCZY SIĘ:
 ui_journey_until_next_level;do następnego poziomu
@@ -7504,6 +7596,8 @@ ui_soundtrack_group_1_title;Podstawowa
 ui_soundtrack_group_2_title;Specjalna
 ui_soundtrack_group_3_title;Podróż po Aretuzie
 ui_soundtrack_group_5_title;Podróż Jaskra
+ui_soundtrack_group_6_title;Podróż Geralta
+ui_soundtrack_group_7_title;Podróż Ciri
 ui_tooltip_coins;Specjalna waluta Syndykatu. Możesz dysponować maksymalnie 9 monetami. Połowa twojego zapasu monet przechodzi z tobą do kolejnej rundy.
 ui_vanity_inventory_change_category;Zmień kategorię
 ui_vanity_inventory_equip_preview;Ekwipuj
@@ -7934,6 +8028,7 @@ vanity_avatar_48371_title;Awatar: Pełen miłości
 vanity_avatar_48372_title;Awatar: Urwis
 vanity_avatar_48373_title;Awatar: Złoty nekker
 vanity_avatar_48377_title;Awatar: Przeklęta ropucha
+vanity_avatar_48381_title;Awatar: Pogromca ghuli
 vanity_body_80284_title;Człowiek: Czarny płaszcz
 vanity_body_80285_title;Człowiek: Biały płaszcz
 vanity_body_80286_title;Człowiek: Czarny strój balowy
@@ -8383,6 +8478,9 @@ vanity_cardback_60140_title;Rewers: Impreza u sukkuba
 vanity_cardback_60141_title;Rewers: Kreatywna inspiracja
 vanity_cardback_60144_title;Rewers: Pory dnia
 vanity_cardback_60145_title;Rewers: Fiolka zakazanej wiedzy
+vanity_cardback_60149_title;Rewers: Pogromca ghuli
+vanity_cardback_60150_title;Rewers: Ciri i Staruchy
+vanity_cardback_60151_title;Rewers: Pani Czasów i Miejsc
 vanity_cardback_61001_title;Rewers: Potwory
 vanity_cardback_61002_title;Rewers: Nilfgaard
 vanity_cardback_61003_title;Rewers: Królestwa Północy
@@ -8945,6 +9043,16 @@ vanity_leader_trinket_80394_title;Mieszek
 vanity_leader_trinket_80395_title;Pergaminy
 vanity_leader_trinket_80400_title;Zbroja Miłości Sklepa
 vanity_leader_trinket_80401_title;Jej Łowiecka Wysokość
+vanity_leader_trinket_80403_title;Bez aury
+vanity_leader_trinket_80404_title;Aura: Aard
+vanity_leader_trinket_80405_title;Aura: Axii
+vanity_leader_trinket_80406_title;Aura: Igni
+vanity_leader_trinket_80407_title;Aura: Quen
+vanity_leader_trinket_80408_title;Aura: Yrden
+vanity_leader_trinket_80409_title;Brak trofeum
+vanity_leader_trinket_80410_title;Tefilin
+vanity_leader_trinket_80411_title;Talizman głowy Caranthira
+vanity_leader_trinket_80412_title;Łyżwy
 vanity_monsters_challenge_title;Tyran
 vanity_nilfgaard_challenge_title;Dowódca dywizji
 vanity_northern_challenge_title;Wielki Łowczy
@@ -9280,6 +9388,8 @@ vanity_soundtrack_90019_title;Ballada
 vanity_soundtrack_90020_title;Arcydzieło
 vanity_soundtrack_90021_title;Miłość wisi w powietrzu
 vanity_soundtrack_90022_title;Melodie Novigradu
+vanity_soundtrack_90023_title;Gwynbleidd na szlaku
+vanity_soundtrack_90024_title;Pani Czasów i Miejsc
 vanity_title_20150_title;Ochotnik
 vanity_title_20151_title;Sztygar
 vanity_title_20152_title;Harcownik
@@ -9573,6 +9683,8 @@ vanity_title_28251_title;Zbir
 vanity_title_28252_title;Książę
 vanity_title_28253_title;Ciekawość
 vanity_title_28254_title;Wszechwiedza
+vanity_title_28255_title;Pogromca ghuli
+vanity_title_28256_title;Pani Czasów i Miejsc
 vanity_title_30180;Mokasyn
 vanity_title_30180_description;Nagroda za zdobycie rangi 10 w rozgrywce rankingowej, sezonu Żmii (Maj).
 vanity_title_30181;Grzechotnik

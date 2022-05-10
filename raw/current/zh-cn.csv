@@ -1511,7 +1511,7 @@ achievement_90034_desc;在希里的加长旅程中升到 {0} 级
 achievement_90034_desc_console;在一副角斗场牌组中，拥有某张卡牌的 3 张同名牌。
 achievement_90034_title;全部拿下！
 achievement_90034_title_console;传统牌手
-achievement_90035_desc;完成希里旅程中的所有相关委托
+achievement_90035_desc;完成下列“希里”旅程中的所有相关委托：
 achievement_90035_desc_console;赢得比赛时还剩 2 张手牌。
 achievement_90035_title;希里的铁粉！
 achievement_90035_title_console;有备无患
@@ -1914,6 +1914,56 @@ achievement_90296_title;帮助埃斯特·图尔赛克王
 achievement_90297_title;帮助卡兰瑟女王
 achievement_90298_title;帮助西吉斯蒙德·迪杰斯特拉
 achievement_90299_title;帮助菲丽芭·艾哈特
+achievement_90301_desc;完成 5 个“杰洛特”的旅程任务
+achievement_90301_title;被遗弃的孩子
+achievement_90302_desc;完成 10 个“杰洛特”的旅程任务
+achievement_90302_title;第一次试炼
+achievement_90303_desc;完成 20 个“杰洛特”的旅程任务
+achievement_90303_title;成为猎魔人的第一步
+achievement_90305_desc;在“杰洛特”的高阶旅程中升到 110 级
+achievement_90305_title;怪物猎人
+achievement_90306_desc;在“杰洛特”的高阶旅程中升到 120 级
+achievement_90306_title;念力鼓荡
+achievement_90307_desc;在“杰洛特”的高阶旅程中升到 130 级
+achievement_90307_title;催眠效应
+achievement_90308_desc;在“杰洛特”的高阶旅程中升到 145 级
+achievement_90308_title;魔法陷阱
+achievement_90309_desc;在“杰洛特”的高阶旅程中升到 160 级
+achievement_90309_title;保护护盾
+achievement_90310_desc;在“杰洛特”的高阶旅程中升到 175 级
+achievement_90310_title;我的第五元素去哪儿了？
+achievement_90312_desc;装备某一个“杰洛特”的“光环”，赢得 1 场对局
+achievement_90312_title;第一道烈焰
+achievement_90313_desc;装备某一个“杰洛特”的“光环”，赢得 10 场对局
+achievement_90313_title;玩火
+achievement_90314_desc;装备某一个“杰洛特”的“光环”，赢得 30 场对局
+achievement_90314_title;炎爆
+achievement_90315_desc;完成下列“杰洛特”旅程中的所有相关委托：
+achievement_90315_title;白狼之旅
+achievement_90317_desc;完成 5 个“希里”的旅程任务
+achievement_90317_title;意外律得来的孩子
+achievement_90318_desc;完成 10 个“希里”的旅程任务
+achievement_90318_title;孤儿
+achievement_90319_desc;完成 20 个“希里”的旅程任务
+achievement_90319_title;辛特拉的公主
+achievement_90321_desc;装备某一个“希里”的“战利品”，赢得 1 场对局
+achievement_90321_title;心灵传输者
+achievement_90322_desc;装备某一个“希里”的“战利品”，赢得 10 场对局
+achievement_90322_title;世界间穿梭
+achievement_90323_desc;装备某一个“希里”的“战利品”，赢得 30 场对局
+achievement_90323_title;时空之女
+achievement_90324_desc;装备某一个“希里”的“光环”，完成 30 场对局
+achievement_90324_title;感受力量
+achievement_90325_desc;装备某一个“希里”的“头部装备”，完成 30 场对局
+achievement_90325_title;输人不输面
+achievement_90326_desc;装备某一个“希里”的“硬币”，完成 30 场对局
+achievement_90326_title;命运的两面
+achievement_90327_desc;装备某一个“希里”的“卡背”，完成 30 场对局
+achievement_90327_title;牌中早有注定
+achievement_90328_desc;完成与下列“希里”饰物的所有相关委托：
+achievement_90328_title;饰物小姐
+achievement_90329_desc;完成下列“杰洛特”和“希里”旅程中的所有相关委托：
+achievement_90329_title;有其父必有其女
 achievement_category_arena;角斗场
 achievement_category_collection;卡牌收藏
 achievement_category_expansions;扩展包
@@ -3154,9 +3204,11 @@ game_mode_seasonal_draconid_title;战斗热忱
 game_mode_seasonal_dryad_title;林中秋千
 game_mode_seasonal_elf_title;双倍兵马
 game_mode_seasonal_griffin_title;权力更迭
+game_mode_seasonal_june_title;六月赛季
 game_mode_seasonal_love_title;无法抗拒的吸引
 game_mode_seasonal_magic_title;双重咒法
 game_mode_seasonal_mahakam_title;根基
+game_mode_seasonal_may_title;五月赛季
 game_mode_seasonal_more_provision_desc;己方回合开始时，将所有手牌转变为人口数 +1 的随机卡牌
 game_mode_seasonal_more_provision_title;耐心是一种美德！
 game_mode_seasonal_viper_title;汹涌动能
@@ -3360,6 +3412,17 @@ holiday_rewards_panel_title;挑战完成奖励
 http_code;错误代码：
 in_progress;交易进行中，正在完成您的支付。交易会在后台完成。
 in_progress_title;正在完成交易
+infinite_journey_common_quest;简单
+infinite_journey_epic_quest;困难
+infinite_journey_rare_quest;中等
+infinity_journey_name_alzur;阿尔祖
+infinity_journey_name_aretuza;艾瑞图萨
+infinity_journey_name_ciri;希里
+infinity_journey_name_dandelion;丹德里恩
+infinity_journey_name_geralt;杰洛特
+infinity_journey_name_regis;雷吉斯
+infinity_journey_name_triss;特莉丝
+infinity_journey_name_yennefer;叶奈法
 input_accept_deck_validation_popup;接受
 input_accept_error_loading_decks;接受
 input_accept_forfeit;投降
@@ -4161,7 +4224,7 @@ journey_3_quest_5_extended_title;臭名昭著的疯子
 journey_3_quest_5_standard_title;千百次的传唱！
 journey_3_quest_6_extended_title;冷酷与心机
 journey_3_quest_6_standard_title;加倍努力
-journey_info_description;进度\n在在线对局中获得小局胜利即可推进旅程的进度，每赢 1 小局便可以获得 1 个皇冠碎片。\n即使到达 100 级，您仍可以继续旅程，并沿途赢取额外奖励！\n\n当前的旅程进度可以在主菜单的“旅程选项卡”处查看。\n\n精力充沛\n<sprite="PopupIcons" name="WellRested"> - 在您赢得小局后，会有总计 14 个额外皇冠碎片可供领取。举例说明：您赢得 1 小局，便会获得 2 个皇冠碎片和 2 个额外皇冠碎片。\n<sprite="PopupIcons" name="WellRested"> - 次日重置。\n\n任务\n我们会每周添加 6 个全新任务至旅程之中，每个新任务会给您提供额外 20 个皇冠碎片\n您无需解锁高阶旅程也可以完成高阶任务，但如果解锁，您会获得额外的皇冠碎片奖励哦。
+journey_info_description;进度\n在线上对局中获得小局胜利即可推进旅程的进度，每赢 1 小局便可以获得 1 个“皇冠碎片”。\n即使到达 100 级，您仍可以继续旅程，并沿途赢取额外奖励！\n\n精力充沛\n<sprite="PopupIcons" name="WellRested"> - 在您赢得小局后，会有总计 14 个额外“皇冠碎片”可供领取。举例说明：您赢得 1 小局，便会获得 2 个“皇冠碎片”和 2 个额外“皇冠碎片”。\n<sprite="PopupIcons" name="WellRested"> - 次日重置。\n\n每周旅程只有<b> 3 个任务</b>每完成一个，会奖励您 20 个“皇冠碎片”\n\n如果您已开启高阶旅程，则完成这些任务<b>奖励翻倍</b>。（如每个任务获得 40 个“皇冠碎片”）\n如果您无法完成某任务或全部任务，您还可以在新一周时，重选之前的旧任务来完成。\n无论选择哪个旅程，任务都会保持不变。完成后奖励的“皇冠碎片”，会添加至当前旅程中。\n\n切换旅程\n您可以随时在旅程之间切换，从进度画面的旅程列表中选择即可。\n
 journey_quest_1_extended_title;为性命而战
 journey_quest_1_standard_title;为气节而战
 journey_quest_28_standard_title;婚礼
@@ -5934,9 +5997,11 @@ season_draconid_title;“传奇龙兽”赛季
 season_dryad_title;“树精”赛季
 season_elf_title;“林中精灵”赛季
 season_griffin_title;狮鹫赛季
+season_june_title;六月赛季
 season_love_title;“爱慕之月”赛季
 season_magic_title;“奇幻魔法”赛季
 season_mahakam_title;“玛哈坎”赛季
+season_may_title;五月赛季
 season_reward_avatars;头像
 season_reward_borders;头像框：
 season_reward_card;卡牌：
@@ -6180,7 +6245,7 @@ shop_data_ep1_cardback_pack_title;“猩红诅咒”异画卡背
 shop_data_ep1_skin_pack_desc;<sprite="PopupIcons" name="Skin">皮肤：融血铠甲（怪兽）\n\n暗影长者在黑暗中归来！用这款优雅的皮肤来拥抱上古高阶吸血鬼的黑暗力量吧！另有专属特效和动画。
 shop_data_ep1_skin_pack_desc_sale;暗影长者在黑暗中归来！用这款优雅的皮肤来拥抱上古高阶吸血鬼的黑暗力量吧！另有专属特效和动画。\n\n本皮肤只能由怪兽阵营装备，往生节期间 7 折优惠！
 shop_data_ep1_skin_pack_title;皮肤：融血铠甲
-shop_data_ep2_alt_board_desc;每当夜幕降临，诺维格瑞的帮派就会倾巢而出，统治街道！在“诺城夜色”的战场上与朋友和敌人决出胜负吧！
+shop_data_ep2_alt_board_desc;<sprite="PopupIcons" name="Board">战场：“诺城夜色”\n\n每当夜幕降临，诺维格瑞的帮派就会倾巢而出，统治街道！在“诺城夜色”的战场上与朋友和敌人决出胜负吧！
 shop_data_ep2_alt_board_title;“诺城夜色”战场
 shop_data_ep2_alt_cardback_desc;诺维格瑞的火光依旧明亮！现在就来获取此款闪卡版“诺城之火”卡背吧！该卡背为“诺城之火”预购包中所赠卡背的升级版。
 shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack">卡背：生生之火\n\n诺维格瑞的火光依旧明亮！现在就来获取此款闪卡版“诺城之火”卡背吧！该卡背为“诺城之火”预购包中所赠动态卡背的异画版。\n该卡背春节特卖活动期间七折优惠。
@@ -6268,6 +6333,8 @@ shop_data_expansion_pass_ep7_desc;真正的权力近在指尖……\n\n本扩展
 shop_data_expansion_pass_ep7_title;“权力的代价” - 扩展包通行证！
 shop_data_festival_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：舞者\n\n<sprite="PopupIcons" name="Border">边框：节庆\n\n<sprite="PopupIcons" name="Title">称号“节庆舞者”\n\n起舞吧！加入这场夏日狂欢！
 shop_data_festival_bundle_title;节庆捆绑包
+shop_data_fiery_judgment_cardback_desc;<sprite="PopupIcons" name="CardBack">卡背：“怒火审判” \n\n使用“钢铁审判”的特殊版本卡背，来向敌人释放你的战斗怒火吧！
+shop_data_fiery_judgment_cardback_title;卡背：怒火审判
 shop_data_fire_bundle_desc;<sprite="PopupIcons" name="Skin"> 皮肤：激昂的演说者\n\n<sprite="PopupIcons" name="Board"> 战场：炼狱 \n\n此捆绑包曾为“鼠人”年支持公开赛#1所推出。
 shop_data_fire_bundle_title;“烈焰捆绑包”
 shop_data_first_bundles_promo_title;入侵者 / 北方领域 / 玛哈坎捆绑包
@@ -6275,7 +6342,7 @@ shop_data_forgotten_treasures_pack_desc;<sprite="PopupIcons" name="Card">内含�
 shop_data_forgotten_treasures_pack_title;失落宝藏扩展包
 shop_data_frozen_bundle_desc;<sprite="PopupIcons" name="Skin">皮肤：冰封\n\n<sprite="PopupIcons" name="Board">战场：德玛维之傲\n\n空气中的寒意，你感受到了吗？…\n\n此捆绑包曾为“鼠人”年支持公开赛#3所推出。
 shop_data_frozen_bundle_title;冰封捆绑包
-shop_data_gang_bundle_desc;装备上全新阵营的领袖边框，让世界知道在辛迪加中，谁才是你真正的盟友！此捆绑包内含：\n\n <sprite="PopupIcons" name="Border">边框：砍刀\n\n <sprite="PopupIcons" name="Border">边框：霍桑二世\n\n <sprite="PopupIcons" name="Border">边框：古德伦·约斯多蒂尔\n\n <sprite="PopupIcons" name="Border">边框：乞丐王\n\n <sprite="PopupIcons" name="Border">边框：赛勒斯·赫姆法特\n\n <sprite="PopupIcons" name="Border">边框：西吉斯蒙德·迪杰斯特拉
+shop_data_gang_bundle_desc;<sprite="PopupIcons" name="Border">边框：“砍刀”\n\n<sprite="PopupIcons" name="Border">边框：“霍桑二世”\n\n<sprite="PopupIcons" name="Border">边框：“古德伦·约斯多蒂尔”\n\n<sprite="PopupIcons" name="Border">边框：“乞丐王”\n\n<sprite="PopupIcons" name="Border">边框：“赛勒斯·赫姆法特”\n\n<sprite="PopupIcons" name="Border">边框：“迪杰斯特拉”\n\n装备这些地下王国大佬们的边框，向辛迪加展示你的忠诚吧。
 shop_data_gang_bundle_title;辛迪加领袖边框捆绑包
 shop_data_gaunter_dark_skin_desc;<sprite="PopupIcons" name="Skin">皮肤：暗之镜子大师（中立）\n\n镜子大师亲自上阵，以迄今为止最邪恶的形象伴随您登上战场。
 shop_data_gaunter_dark_skin_title;皮肤：暗之镜子大师
@@ -6422,6 +6489,8 @@ shop_data_scoiatael_keg_desc;开启牌桶，您将获得 5 张“松鼠党”阵
 shop_data_scoiatael_keg_title;松鼠党牌桶
 shop_data_sheep_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：绵羊\n\n<sprite="PopupIcons" name="Border">边框：绵羊\n\n<sprite="PopupIcons" name="Title">称号：“好牧人”\n\n该捆绑包内含有特殊装饰品，其第一次亮相是在“野猪”年的狮鹫赛季奖励树 - 另附赠一件特殊礼品！
 shop_data_sheep_bundle_title;绵羊捆绑包
+shop_data_shop_small_fire_pack_desc;<sprite="PopupIcons" name="Avatar">头像：“伊夫利特”\n\n<sprite="PopupIcons" name="Border">动态边框：烈焰\n\n<sprite="PopupIcons" name="Title">称号：“火焰侍僧”\n\n<sprite="PopupIcons" name="Powder">x400 星尘\n\n使用这些火热的装饰品，让自己仿佛置身烈焰。\n\n该捆绑包曾在“鼠年”为支持《巫师之昆特牌》第一届公开赛首度发布。
+shop_data_shop_small_fire_pack_title;烈焰礼包
 shop_data_shupe_base_skin_desc;<sprite="PopupIcons" name="Skin">皮肤：店店（全阵营）\n\n哪种巨魔不喜欢石头或精灵洋葱汤，而是喜欢玩彩色的纸片呢？就是他！\n\n装备这款专属、可自定义的中立领袖皮肤，再加上店店的“什么都要砸个稀巴烂”的性格，以及憨态可掬的巨魔魅力来征服昆特牌的战场吧！
 shop_data_shupe_base_skin_title;皮肤：店店
 shop_data_shupe_borders_bundle_desc;<sprite="PopupIcons" name="Title">1 个店店称号：大冒险家\n\n<sprite="PopupIcons" name="Avatar">1 个店店头像：店店！\n\n<sprite="PopupIcons" name="Border">3 个店店边框：骑士、猎人和法师\n\n\n店店和你的大冒险还在继续！装备上这些边框，让大家都知道你在跟谁出去玩啦。
@@ -6456,6 +6525,8 @@ shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board">战场：�
 shop_data_spring_bundle_open2_title;春光捆绑包
 shop_data_spring_pack_open2_desc;<sprite="PopupIcons" name="Coin">硬币：春光\n\n<sprite="PopupIcons" name="Powder">x400 星尘\n\n获取此捆绑包来支持《巫师之昆特牌》电竞；此礼包收入的 30% 将直接纳入公开赛#2的额外奖池中，比赛将在2021 年 7 月进行，敬请期待！
 shop_data_spring_pack_open2_title;春光礼包（巫师之昆特牌第二届公开赛）
+shop_data_spring_shupe_bundle_desc;<sprite="PopupIcons" name="Border">边框：“春之骑士”\n\n<sprite="PopupIcons" name="Title">称号：“春之骑士”\n\n<sprite="PopupIcons" name="Avatar"> Shupe Avatar\n\n春天的气息在空气中弥漫，冒险的时节召唤着你们！获取该特殊捆绑包，与店店一起冒险吧！
+shop_data_spring_shupe_bundle_title;“店店的春天”捆绑包
 shop_data_starter_pack_desc;<sprite="PopupIcons" name="Card"> x1 传奇闪卡\n\n <sprite="PopupIcons" name="Powder"> x400 星尘\n\n <sprite="PopupIcons" name="Keg"> x10 终极牌桶\n\n《巫师之昆特牌》新手包可以让您的卡牌收藏平地而起，限购一次。
 shop_data_starter_pack_promo_desc;限购一次，超值之选
 shop_data_starter_pack_promo_title;新手包
@@ -7312,6 +7383,7 @@ ui_cardback_group_3_title;“鼠人”赛季
 ui_cardback_group_30_title;丹德里恩的旅程
 ui_cardback_group_31_title;NA
 ui_cardback_group_32_title;“蟾蜍王子”年
+ui_cardback_group_33_title;旅程
 ui_cardback_group_4_title;“猩红诅咒”扩展包
 ui_cardback_group_5_title;“诺城之火”扩展包
 ui_cardback_group_6_title;“钢铁审判”扩展包
@@ -7361,12 +7433,18 @@ ui_gameboard_group_7_title;酒馆
 ui_gameboard_group_8_title;船只
 ui_gameboard_group_9_title;春节活动
 ui_gwent_deck_library;牌组库
+ui_journey_2_story_title;希里的故事
+ui_journey_bonus_disabled;标准模式
+ui_journey_bonus_enabled;x2 <sprite="PopupIcons" name="WellRested"> 奖励
+ui_journey_check_progress;查看进度
 ui_journey_claim_rewards;获取奖励！
+ui_journey_coming_soon;敬请期待
 ui_journey_congratulations;恭喜！您升级了！
 ui_journey_crowns_collected;赢得小局的皇冠
 ui_journey_crowns_quests;完成任务的皇冠
 ui_journey_crowns_tooltip;在当前旅程等级中收集到的皇冠
 ui_journey_level_tooltip;您在旅程中的等级
+ui_journey_list;旅程列表
 ui_journey_main_panel_buy;解锁高阶旅程
 ui_journey_main_panel_extended_path;高阶旅程
 ui_journey_main_panel_fast_travel;快速移动
@@ -7374,6 +7452,7 @@ ui_journey_main_panel_levels;等级
 ui_journey_main_panel_standard_path;标准
 ui_journey_main_panel_story;旅程故事
 ui_journey_new_quests;新的系列任务下周继续……
+ui_journey_panel_title;旅程列表
 ui_journey_popup_congratulation;恭喜！
 ui_journey_popup_finish_journey;您已完成丹德里恩的旅程！快擦亮沿途获得的纪念品和饰品吧，再帅气地戴在身上！
 ui_journey_popup_journey_end;本次旅程已经抵达终点 - 获取皇冠碎片可以获得奖励点数
@@ -7384,8 +7463,9 @@ ui_journey_popup_premium_ciri_desc;先人一步，立刻解锁前 25 级。\n �
 ui_journey_popup_premium_ciri_title;高阶旅程通行证：立升 25 级
 ui_journey_popup_premium_dandelion_desc;先人一步，立刻获取额外 25 级。\n 更可解锁丹德里恩传奇皮肤和额外的饰品！
 ui_journey_popup_premium_desc;先人一步，立刻解锁前 25 级。\n 更可解锁杰洛特传奇皮肤和额外的饰品！
+ui_journey_popup_premium_geralt_desc;先人一步，立刻解锁前 25 级。\n 更可解锁杰洛特传奇皮肤和额外的饰品！
 ui_journey_popup_premium_regis_desc;先人一步，立刻解锁额外 25 级。\n 更可解锁爱米尔·雷吉斯和更多饰品！
-ui_journey_popup_premium_title;快速移动捆绑包
+ui_journey_popup_premium_title;高阶旅程通行证：立升 25 级
 ui_journey_popup_premium_triss_desc;先人一步，立刻解锁 25 级。\n 更可解锁特莉丝传奇皮肤和额外的饰品！
 ui_journey_popup_premium_yen_desc;先人一步，立刻解锁前 25 级。\n 更可解锁叶奈法传奇皮肤和额外的饰品！
 ui_journey_popup_standard_alzur_desc;立刻解锁阿祖尔传奇皮肤！
@@ -7393,17 +7473,29 @@ ui_journey_popup_standard_aretuza_desc;即刻解锁战场：艾瑞图萨主厅�
 ui_journey_popup_standard_ciri_desc;立即解锁希里传奇皮肤！
 ui_journey_popup_standard_dandelion_desc;立即解锁丹德里恩传奇皮肤！
 ui_journey_popup_standard_desc;立刻解锁杰洛特传奇皮肤
+ui_journey_popup_standard_geralt_desc;立刻解锁杰洛特传奇皮肤
 ui_journey_popup_standard_regis_desc;即刻解锁爱米尔·雷吉斯！
 ui_journey_popup_standard_title;高阶旅程通行证
 ui_journey_popup_standard_triss_desc;立即解锁特莉丝传奇皮肤！
 ui_journey_popup_standard_yen_desc;立即解锁叶奈法传奇皮肤！
 ui_journey_popup_start_journey;丹德里恩的旅程开始啦！进行对局，完成每周任务，探索他的故事！
 ui_journey_popup_start_title;欢迎！
+ui_journey_premium;高阶旅程
+ui_journey_quest_complete;任务完成！
+ui_journey_quest_complete_updated;敬请期待全新一周
+ui_journey_quest_difficulty_easy;简单
+ui_journey_quest_difficulty_hard;困难
+ui_journey_quest_difficulty_normal;中等
+ui_journey_quest_reset;全新一周：
+ui_journey_reroll_disabled_tooltip;全新一周可以更换一个新任务
+ui_journey_reroll_enabled_tooltip;更换任务
 ui_journey_social_panel_week;{0} / {1} 周
+ui_journey_standard;标准旅程
 ui_journey_story_extended_next_week;杰洛特的旅程下周继续…
+ui_journey_story_extended_title;杰洛特的故事
 ui_journey_story_heading;彻底的人文科学
 ui_journey_story_standard_next_week;预知后事如何，请听下周分解……
-ui_journey_story_standard_title;丹德里恩
+ui_journey_story_standard_title;丹德里恩的故事
 ui_journey_timer_days;{0} 天
 ui_journey_timer_ends;结束于：
 ui_journey_until_next_level;至下一级
@@ -7504,6 +7596,8 @@ ui_soundtrack_group_1_title;默认
 ui_soundtrack_group_2_title;特殊
 ui_soundtrack_group_3_title;艾瑞图萨旅程
 ui_soundtrack_group_5_title;丹德里恩的旅程
+ui_soundtrack_group_6_title;杰洛特的旅程
+ui_soundtrack_group_7_title;希里的旅程
 ui_tooltip_coins;辛迪加阵营的赏金。您最多可以拥有 9 枚金币。进入下一小局后，金币数减半。
 ui_vanity_inventory_change_category;更改类别
 ui_vanity_inventory_equip_preview;装备
@@ -7934,6 +8028,7 @@ vanity_avatar_48371_title;头像：满满是爱
 vanity_avatar_48372_title;头像：无赖
 vanity_avatar_48373_title;头像：黄金孽鬼
 vanity_avatar_48377_title;头像：蟾蜍王子
+vanity_avatar_48381_title;头像：屠鬼者
 vanity_body_80284_title;黑袍（人类）
 vanity_body_80285_title;白袍 - 人类
 vanity_body_80286_title;黑色舞装 - 人类
@@ -8383,6 +8478,9 @@ vanity_cardback_60140_title;卡背：女夜魔盛会
 vanity_cardback_60141_title;卡背：创意激扬
 vanity_cardback_60144_title;卡背：每日时刻
 vanity_cardback_60145_title;卡背：禁识之瓶
+vanity_cardback_60149_title;卡背：屠鬼者
+vanity_cardback_60150_title;卡背：希里与老巫妪
+vanity_cardback_60151_title;卡背：时空之女
 vanity_cardback_61001_title;卡背：怪兽
 vanity_cardback_61002_title;卡背：尼弗迦德
 vanity_cardback_61003_title;卡背：北方领域
@@ -8945,6 +9043,16 @@ vanity_leader_trinket_80394_title;小包
 vanity_leader_trinket_80395_title;卷轴
 vanity_leader_trinket_80400_title;店店的爱之护甲
 vanity_leader_trinket_80401_title;女王的女猎手
+vanity_leader_trinket_80403_title;无光环
+vanity_leader_trinket_80404_title;光环：阿尔德法印
+vanity_leader_trinket_80405_title;光环：亚克席法印
+vanity_leader_trinket_80406_title;光环：伊格尼法印
+vanity_leader_trinket_80407_title;光环：伊格尼法印
+vanity_leader_trinket_80408_title;光环：伊格尼法印
+vanity_leader_trinket_80409_title;无战利品
+vanity_leader_trinket_80410_title;护符匣
+vanity_leader_trinket_80411_title;卡兰希尔的头饰
+vanity_leader_trinket_80412_title;冰鞋
 vanity_monsters_challenge_title;暴君
 vanity_nilfgaard_challenge_title;师团长
 vanity_northern_challenge_title;猎手大师
@@ -9280,6 +9388,8 @@ vanity_soundtrack_90019_title;歌谣
 vanity_soundtrack_90020_title;大师之作
 vanity_soundtrack_90021_title;感受爱的味道！
 vanity_soundtrack_90022_title;诺维格瑞之曲
+vanity_soundtrack_90023_title;白狼之旅
+vanity_soundtrack_90024_title;时空之女
 vanity_title_20150_title;志愿军
 vanity_title_20151_title;监工
 vanity_title_20152_title;散兵
@@ -9573,6 +9683,8 @@ vanity_title_28251_title;暴徒
 vanity_title_28252_title;王子
 vanity_title_28253_title;稀物
 vanity_title_28254_title;全知者
+vanity_title_28255_title;屠鬼者
+vanity_title_28256_title;时空之女
 vanity_title_30180;铜头蛇
 vanity_title_30180_description;在排位赛“毒蛇”赛季（五月）获得天梯 10 级（R10）的奖励。
 vanity_title_30181;响尾蛇

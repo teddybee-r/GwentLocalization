@@ -1511,7 +1511,7 @@ achievement_90034_desc;시리의 확장 여정에서 {0}레벨에 도달하십�
 achievement_90034_desc_console;동일한 카드가 3장 이상이 되도록 아레나 덱을 구성하십시오.
 achievement_90034_title;완전한 승리!
 achievement_90034_title_console;전통주의자
-achievement_90035_desc;시리의 여정과 관련된 모든 의뢰를 완료하십시오
+achievement_90035_desc;시리의 여정과 관련된 다음 의뢰를 모두 완료하십시오
 achievement_90035_desc_console;손에 카드 2장을 남긴 채 경기에서 승리하십시오.
 achievement_90035_title;시리의 광팬!
 achievement_90035_title_console;충분한가?
@@ -1914,6 +1914,56 @@ achievement_90296_title;에이스트 튀샤흐 왕 돕기
 achievement_90297_title;칼란테 여왕 돕기
 achievement_90298_title;시기스문드 딕스트라 돕기
 achievement_90299_title;필리파 에일하트 돕기
+achievement_90301_desc;게롤트의 여정 퀘스트를 5회 완료하십시오
+achievement_90301_title;버려진 아이
+achievement_90302_desc;게롤트의 여정 퀘스트를 10회 완료하십시오
+achievement_90302_title;첫 번째 시련
+achievement_90303_desc;게롤트의 여정 퀘스트를 20회 완료하십시오
+achievement_90303_title;위쳐로서의 첫걸음
+achievement_90305_desc;게롤트의 확장 여정에서 110레벨에 도달하십시오
+achievement_90305_title;괴물 사냥꾼
+achievement_90306_desc;게롤트의 확장 여정에서 120레벨에 도달하십시오
+achievement_90306_title;염동력 밀쳐내기
+achievement_90307_desc;게롤트의 확장 여정에서 130레벨에 도달하십시오
+achievement_90307_title;최면 효과
+achievement_90308_desc;게롤트의 확장 여정에서 145레벨에 도달하십시오
+achievement_90308_title;마법 함정
+achievement_90309_desc;게롤트의 확장 여정에서 160레벨에 도달하십시오
+achievement_90309_title;방어막
+achievement_90310_desc;게롤트의 확장 여정에서 175레벨에 도달하십시오
+achievement_90310_title;제5원소는 어디에?
+achievement_90312_desc;게롤트의 오라 중 하나를 장착하고 게임에서 1회 승리하십시오
+achievement_90312_title;첫 번째 화염
+achievement_90313_desc;게롤트의 오라 중 하나를 장착하고 게임에서 10회 승리하십시오
+achievement_90313_title;불장난
+achievement_90314_desc;게롤트의 오라 중 하나를 장착하고 게임에서 30회 승리하십시오
+achievement_90314_title;염화 폭발
+achievement_90315_desc;게롤트의 여정과 관련된 다음 의뢰를 모두 완료하십시오
+achievement_90315_title;오솔길 위의 그윈블리드
+achievement_90317_desc;시리의 여정 퀘스트를 5회 완료하십시오
+achievement_90317_title;의외성의 법칙에 묶인 아이
+achievement_90318_desc;시리의 여정 퀘스트를 10회 완료하십시오
+achievement_90318_title;고아
+achievement_90319_desc;시리의 여정 퀘스트를 20회 완료하십시오
+achievement_90319_title;신트라의 공주
+achievement_90321_desc;시리의 전리품 중 하나를 장착하고 게임에서 1회 승리하십시오
+achievement_90321_title;순간 이동 능력자
+achievement_90322_desc;시리의 전리품 중 하나를 장착하고 게임에서 10회 승리하십시오
+achievement_90322_title;차원간 이동자
+achievement_90323_desc;시리의 전리품 중 하나를 장착하고 게임에서 30회 승리하십시오
+achievement_90323_title;시간과 공간의 여인
+achievement_90324_desc;시리의 오라 중 하나를 장착하고 게임을 30회 플레이하십시오
+achievement_90324_title;넘쳐나는 힘
+achievement_90325_desc;시리의 투구 중 하나를 장착하고 게임을 30회 플레이하십시오
+achievement_90325_title;머리 조심
+achievement_90326_desc;시리의 동전 중 하나를 장착하고 게임을 30회 플레이하십시오
+achievement_90326_title;운명을 결정하는 동전 던지기
+achievement_90327_desc;시리의 카드 뒷면 중 하나를 장착하고 게임을 30회 플레이하십시오
+achievement_90327_title;카드에 다 쓰여 있지
+achievement_90328_desc;시리의 액세서리와 관련된 다음 의뢰를 모두 완료하십시오
+achievement_90328_title;액세서리의 여왕
+achievement_90329_desc;게롤트와 시리의 여정과 관련된 다음 의뢰를 모두 완료하십시오
+achievement_90329_title;부전여전
 achievement_category_arena;아레나
 achievement_category_collection;컬렉션
 achievement_category_expansions;확장팩
@@ -3154,9 +3204,11 @@ game_mode_seasonal_draconid_title;속도전
 game_mode_seasonal_dryad_title;시소
 game_mode_seasonal_elf_title;x2
 game_mode_seasonal_griffin_title;전력 전환
+game_mode_seasonal_june_title;6월 시즌
 game_mode_seasonal_love_title;거부할 수 없는 손길
 game_mode_seasonal_magic_title;듀얼 캐스팅
 game_mode_seasonal_mahakam_title;고착
+game_mode_seasonal_may_title;5월 시즌
 game_mode_seasonal_more_provision_desc;내 턴을 시작할 때, 내 손에 있는 모든 카드를 유지비가 1 높은 무작위 카드로 변이시킵니다
 game_mode_seasonal_more_provision_title;기다림의 미덕!
 game_mode_seasonal_viper_title;탄력
@@ -3360,6 +3412,17 @@ holiday_rewards_panel_title;도전 완료 보상
 http_code;오류 코드:
 in_progress;결제 진행 중, 외부 결제 제공업체의 결제 완료를 기다리고 있습니다. 배경화면에서 결제가 완료됩니다.
 in_progress_title;결제 완료하는 중
+infinite_journey_common_quest;쉬움
+infinite_journey_epic_quest;어려움
+infinite_journey_rare_quest;중간
+infinity_journey_name_alzur;알주르
+infinity_journey_name_aretuza;아레투자
+infinity_journey_name_ciri;시리
+infinity_journey_name_dandelion;단델라이온
+infinity_journey_name_geralt;게롤트
+infinity_journey_name_regis;레지스
+infinity_journey_name_triss;트리스
+infinity_journey_name_yennefer;예니퍼
 input_accept_deck_validation_popup;수락
 input_accept_error_loading_decks;수락
 input_accept_forfeit;포기
@@ -4161,7 +4224,7 @@ journey_3_quest_5_extended_title;악명 높은 미치광이
 journey_3_quest_5_standard_title;발라드 100곡, 아니 1000곡!
 journey_3_quest_6_extended_title;냉정하고 계산적인
 journey_3_quest_6_standard_title;본론으로
-journey_info_description;진행 상황\n온라인 경기에서 라운드를 따낼 때마다 여정을 진행하고 왕관 조각 1개를 획득할 수 있습니다.\n100레벨에 도달해도 여정을 진행할 수 있으며, 추가 보상을 받을 수 있습니다!\n\n여정의 진행 상황은 메인 메뉴의 여정 카드를 통해 확인할 수 있습니다.\n\n보너스\n<sprite="PopupIcons" name="WellRested"> - 라운드를 따내면 최대 14개의 왕관 조각을 추가로 획득할 수 있습니다. 경기에서 승리하면 왕관 조각 2개와 추가 왕관 조각 2개를 획득하게 됩니다.\n<sprite="PopupIcons" name="WellRested"> - 매일 새롭게 갱신됩니다.\n\n퀘스트\n매주 6개의 새로운 퀘스트가 여정에 추가되며, 각 퀘스트를 통해 20개의 왕관 조각을 획득할 수 있습니다.\n프리미엄 여정을 잠금 해제하지 않고도 프리미엄 퀘스트를 진행할 수 있지만, 추가 왕관 조각을 획득하려면 프리미엄 여정을 잠금 해제해야 합니다.
+journey_info_description;진행 상황\n온라인 경기에서 라운드를 따낼 때마다 여정을 진행하고 왕관 조각 1개를 획득할 수 있습니다.\n100레벨에 도달해도 여정을 진행할 수 있으며, 추가 보상을 받을 수 있습니다!\n\n보너스\n<sprite="PopupIcons" name="WellRested"> - 라운드를 따내면 최대 14개의 왕관 조각을 추가로 획득할 수 있습니다. 경기에서 승리하면 왕관 조각 2개와 추가 왕관 조각 2개를 획득하게 됩니다.\n<sprite="PopupIcons" name="WellRested"> - 매일 새롭게 갱신됩니다.\n\n퀘스트\n매주 <b>3개의 여정 퀘스트</b>만 진행할 수 있으며, 퀘스트를 완료할 때마다 왕관 조각 20개를 획득할 수 있습니다.\n프리미엄 여정이 활성화된 상태에서 퀘스트를 완료하면 <b>2배의 보상</b>을 받게 됩니다(예: 퀘스트당 왕관 조각 40개).\n퀘스트를 완료할 수 없는 경우, 다음 주에 지난주 퀘스트를 다시 뽑을 수 있습니다.\n퀘스트는 어떤 여정을 선택하든 동일하게 유지됩니다. 퀘스트를 완료해 획득한 왕관 조각은 현재 선택된 여정에 추가됩니다.\n\n여정 변경\n진행 상황 화면의 여정 목록에서 언제든 손쉽게 현재 여정을 다른 여정으로 변경할 수 있습니다.\n
 journey_quest_1_extended_title;목숨을 위한 싸움
 journey_quest_1_standard_title;명예를 위한 싸움
 journey_quest_28_standard_title;결혼식
@@ -5934,9 +5997,11 @@ season_draconid_title;드라코니드 시즌
 season_dryad_title;드라이어드 시즌
 season_elf_title;엘프 시즌
 season_griffin_title;그리핀 시즌
+season_june_title;6월 시즌
 season_love_title;사랑 시즌
 season_magic_title;마법 시즌
 season_mahakam_title;마하캄 시즌
+season_may_title;5월 시즌
 season_reward_avatars;아바타
 season_reward_borders;테두리 장식:
 season_reward_card;카드:
@@ -6180,7 +6245,7 @@ shop_data_ep1_cardback_pack_title;새로운 핏빛 저주 카드 뒷면
 shop_data_ep1_skin_pack_desc;<sprite="PopupIcons" name="Skin"> 검은 피 갑옷 스킨(괴물)\n\n은자들의 장로가 검은 갑옷과 함께 돌아왔습니다! 특별한 시각 효과와 애니메이션이 있는 이 우아한 갑옷을 걸치고, 고대 고위 흡혈귀의 사악한 힘을 받아들이세요.
 shop_data_ep1_skin_pack_desc_sale;은자들의 장로가 검은 갑옷과 함께 돌아왔습니다! 특별한 시각 효과와 애니메이션이 있는 이 우아한 갑옷을 걸치고, 고대 고위 흡혈귀의 사악한 힘을 받아들이세요.\n\n이 스킨은 괴물 세력만 착용할 수 있으며, 사오바인 이벤트 기간에 30% 할인된 가격으로 판매됩니다!
 shop_data_ep1_skin_pack_title;검은 피 갑옷 스킨
-shop_data_ep2_alt_board_desc;밤이 다가오면, 노비그라드의 갱단이 거리를 지배합니다. 노비그라드의 밤 게임보드에서 친구, 혹은 적과 싸워 보세요!
+shop_data_ep2_alt_board_desc;<sprite="PopupIcons" name="Board"> 노비그라드의 밤 보드\n\n어둠이 내리면 노비그라드의 갱단이 거리를 지배합니다. 노비그라드의 밤 게임보드에서 친구, 혹은 적과 전투를 벌여 보세요!
 shop_data_ep2_alt_board_title;노비그라드의 밤 보드
 shop_data_ep2_alt_cardback_desc;노비그라드의 불길은 아직도 밝게 타오르고 있습니다! 새로운 버전의 프리미엄 노비그라드 카드 뒷면을 놓치지 마세요. 이 스킨은 노비그라드 사전 예약 팩의 기존 구성품인 노비그라드 카드 뒷면의 새로운 버전입니다.
 shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> 언다잉 파이어 카드 뒷면\n\n노비그라드의 불꽃은 아직도 밝게 타오릅니다! 노비그라드 사전 예약 팩의 기존 구성품인 프리미엄 노비그라드 카드 뒷면의 새로운 버전을 구매하세요.\n이 카드 뒷면은 설날맞이 할인 기간 동안 30% 할인된 가격으로 판매됩니다.
@@ -6268,6 +6333,8 @@ shop_data_expansion_pass_ep7_desc;여러분도 진정한 힘을 얻을 수 있�
 shop_data_expansion_pass_ep7_title;힘의 대가 - 확장팩 패스
 shop_data_festival_bundle_desc;<sprite="PopupIcons" name="Avatar"> 무용수 아바타\n\n<sprite="PopupIcons" name="Border"> 축제 테두리 장식\n\n<sprite="PopupIcons" name="Title"> "축제 무용수" 칭호\n\n같이 춤출까요? 다가오는 여름을 축하하며 신나게 놀아 보세요!
 shop_data_festival_bundle_title;축제 번들
+shop_data_fiery_judgment_cardback_desc;<sprite="PopupIcons" name="CardBack"> 불타는 심판 카드 뒷면\n\n이 특별한 버전의 철의 심판 카드 뒷면과 함께 전장을 향해 끓어오르는 분노를 표출하세요.
+shop_data_fiery_judgment_cardback_title;불타는 심판 카드 뒷면
 shop_data_fire_bundle_desc;<sprite="PopupIcons" name="Skin"> 열정적인 웅변가 스킨\n\n<sprite="PopupIcons" name="Board"> 불지옥 보드\n\n이 번들은 쥐인간의 해, 궨트 오픈 1 기간에 출시되었던 번들입니다.
 shop_data_fire_bundle_title;플레이밍 번들
 shop_data_first_bundles_promo_title;침략자 / 북부 왕국 / 마하캄 번들
@@ -6275,7 +6342,7 @@ shop_data_forgotten_treasures_pack_desc;<sprite="PopupIcons" name="Card"> 잊힌
 shop_data_forgotten_treasures_pack_title;잊힌 보물 팩
 shop_data_frozen_bundle_desc;<sprite="PopupIcons" name="Skin"> 얼어붙은 스킨\n\n<sprite="PopupIcons" name="Board"> 데머번드의 자부심 보드\n\n얼음장같이 차가운 공기가 느껴지시나요...?\n\n이 번들은 쥐인간의 해, 궨트 오픈 3 기간에 출시되었던 번들입니다.
 shop_data_frozen_bundle_title;얼어붙은 번들
-shop_data_gang_bundle_desc;궨트의 새로운 세력을 위한 리더 테두리 장식으로 신디케이트에 대한 충성심을 보여 주세요. 구성품은 다음과 같습니다: \n\n <sprite="PopupIcons" name="Border">클리버 테두리 장식\n\n <sprite="PopupIcons" name="Border">사생아 주니어 테두리 장식\n\n <sprite="PopupIcons" name="Border">구드론 비욘스도티르 테두리 장식\n\n <sprite="PopupIcons" name="Border">거지 왕초 테두리 장식\n\n <sprite="PopupIcons" name="Border">사이러스 헴멜파트 테두리 장식\n\n<sprite="PopupIcons" name="Border">시기스문드 딕스트라 테두리 장식
+shop_data_gang_bundle_desc;<sprite="PopupIcons" name="Border"> 클리버 테두리 장식\n\n<sprite="PopupIcons" name="Border"> 사생아 주니어 테두리 장식\n\n<sprite="PopupIcons" name="Border"> 구드론 비욘스도티르 테두리 장식\n\n<sprite="PopupIcons" name="Border"> 거지 왕초 테두리 장식\n\n<sprite="PopupIcons" name="Border"> 사이러스 헴멜파트 테두리 장식\n\n<sprite="PopupIcons" name="Border"> 딕스트라 테두리 장식\n\n이 무시무시한 리더들에게 영감을 받은 테두리 장식으로 신디케이트에 대한 충성심을 보여 주세요.
 shop_data_gang_bundle_title;신디케이트 리더 테두리 장식 번들
 shop_data_gaunter_dark_skin_desc;<sprite="PopupIcons" name="Skin"> 군터 오딤 어둠의 스킨(중립)\n\n악의 화신, 군터 오딤이 전장에 등장했습니다. 지금까지 한 번도 보여 준 적 없는 악마와 같은 모습으로, 당신과 함께하기 위해서 말이죠.
 shop_data_gaunter_dark_skin_title;군터 오딤 어둠의 스킨
@@ -6422,6 +6489,8 @@ shop_data_scoiatael_keg_desc;스코이아텔 카드통에는 총 5장의 스코�
 shop_data_scoiatael_keg_title;스코이아텔 카드통
 shop_data_sheep_bundle_desc;<sprite="PopupIcons" name="Avatar"> 양 아바타\n\n<sprite="PopupIcons" name="Border"> 양 테두리 장식\n\n<sprite="PopupIcons" name="Title"> "선한 목자" 칭호\n\n이 번들에는 야생 멧돼지의 해의 그리핀 시즌 동안 잠금 해제할 수 있었던 장식 아이템과, 특별한 신규 보너스 아이템이 들어 있습니다!
 shop_data_sheep_bundle_title;양 번들
+shop_data_shop_small_fire_pack_desc;<sprite="PopupIcons" name="Avatar"> 이프리트 아바타\n\n<sprite="PopupIcons" name="Border"> 애니메이션 플레임 테두리 장식\n\n<sprite="PopupIcons" name="Title"> "화염의 신도" 칭호\n\n<sprite="PopupIcons" name="Powder"> 운석 가루 400개\n\n이 뜨거운 장식품과 함께 마음껏 화염에 휩싸여 보세요.\n\n이 팩은 쥐인간의 해, 궨트 오픈 1 기간에 출시되었던 팩입니다.
+shop_data_shop_small_fire_pack_title;플레이밍 팩
 shop_data_shupe_base_skin_desc;<sprite="PopupIcons" name="Skin">슙 스킨(모든 세력) \n\n바위에 형형색색의 종잇조각을 붙이며 놀거나 엘프양파 수프를 즐기는 트롤이 누구일까요? 바로 슙이죠! \n\n이 특별한 커스터마이징 슙 중립 리더 스킨과 함께, 슙의 화끈한 성격과 트롤 특유의 매력을 뽐내며 궨트의 전장을 지배하세요.
 shop_data_shupe_base_skin_title;슙 스킨
 shop_data_shupe_borders_bundle_desc;<sprite="PopupIcons" name="Title"> 슙 칭호 1개: "모험가"\n\n<sprite="PopupIcons" name="Avatar"> 슙 아바타 1개: 슙!\n\n<sprite="PopupIcons" name="Border"> 슙 테두리 장식 3개: 기사, 사냥꾼, 마법사\n\n\n슙과 함께 모험을 떠나 보세요! 슙 테두리 장식 번들로 쉬는 날에 어딜 다녀왔는지 모두에게 자랑해 보세요!
@@ -6456,6 +6525,8 @@ shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board"> 봄 보드
 shop_data_spring_bundle_open2_title;봄 번들
 shop_data_spring_pack_open2_desc;<sprite="PopupIcons" name="Coin"> 봄 동전\n\n<sprite="PopupIcons" name="Powder"> 운석 가루 400개\n\n이 상품을 구매하면 궨트 e스포츠를 후원할 수 있습니다. 구매 비용 중 30%는 2021년 7월에 열리는 궨트 오픈 2의 상금으로 쓰입니다!
 shop_data_spring_pack_open2_title;봄 팩(궨트 오픈 2)
+shop_data_spring_shupe_bundle_desc;<sprite="PopupIcons" name="Border"> 봄 기사 테두리 장식\n\n <sprite="PopupIcons" name="Title"> "봄 기사" 칭호\n\n<sprite="PopupIcons" name="Avatar"> 슙 아바타\n\n봄기운이 감돌고, 모험이 우릴 부릅니다! 슙의 특별한 번들을 구매하여 부름에 응답하세요!
+shop_data_spring_shupe_bundle_title;봄 슙 번들
 shop_data_starter_pack_desc;<sprite="PopupIcons" name="Card">프리미엄 전설 카드 1장\n\n<sprite="PopupIcons" name="Powder">운석 가루 400개\n\n <sprite="PopupIcons" name="Keg">얼티밋 카드통 10개\n\n궨트 스타터 팩은 카드 컬렉션을 시작할 수 있도록 도와드리기 위해 제공하는 팩으로 한 번만 구매하실 수 있습니다.
 shop_data_starter_pack_promo_desc;1회 한정 부스터
 shop_data_starter_pack_promo_title;스타터 팩
@@ -7312,6 +7383,7 @@ ui_cardback_group_3_title;쥐인간 시즌
 ui_cardback_group_30_title;단델라이온의 여정
 ui_cardback_group_31_title;NA
 ui_cardback_group_32_title;저주받은 두꺼비의 해
+ui_cardback_group_33_title;여정
 ui_cardback_group_4_title;핏빛 저주 확장팩
 ui_cardback_group_5_title;노비그라드 확장팩
 ui_cardback_group_6_title;철의 심판 확장팩
@@ -7361,12 +7433,18 @@ ui_gameboard_group_7_title;술집
 ui_gameboard_group_8_title;함선
 ui_gameboard_group_9_title;설날맞이 이벤트
 ui_gwent_deck_library;궨트 덱 대도서관
+ui_journey_2_story_title;시리의 이야기
+ui_journey_bonus_disabled;일반
+ui_journey_bonus_enabled;<sprite="PopupIcons" name="WellRested"> 보상 2배
+ui_journey_check_progress;진행 상황 확인
 ui_journey_claim_rewards;보상을 받으세요!
+ui_journey_coming_soon;준비 중
 ui_journey_congratulations;축하합니다! 레벨이 올랐습니다!
 ui_journey_crowns_collected;라운드 승리 보상 크라운
 ui_journey_crowns_quests;퀘스트 완료 보상 크라운
 ui_journey_crowns_tooltip;현재 여정 레벨에서 얻은 크라운
 ui_journey_level_tooltip;현재 여정 레벨
+ui_journey_list;여정 목록
 ui_journey_main_panel_buy;프리미엄 잠금 해제
 ui_journey_main_panel_extended_path;프리미엄
 ui_journey_main_panel_fast_travel;빠른 여행
@@ -7374,6 +7452,7 @@ ui_journey_main_panel_levels;레벨
 ui_journey_main_panel_standard_path;일반
 ui_journey_main_panel_story;여정 이야기
 ui_journey_new_quests;다음 퀘스트는 다음 주에 계속됩니다…
+ui_journey_panel_title;여정 목록
 ui_journey_popup_congratulation;축하합니다!
 ui_journey_popup_finish_journey;단델라이온의 여정을 완료했습니다! 여정의 길에서 얻은 기념품과 장신구를 활용하여, 새 의상을 입고 멋진 모습을 보여 주세요!
 ui_journey_popup_journey_end;여정이 끝났습니다. 크라운 조각을 얻으면 보상 포인트를 받을 수 있습니다
@@ -7384,8 +7463,9 @@ ui_journey_popup_premium_ciri_desc;남들보다 빠르게 즉시 25레벨까지 
 ui_journey_popup_premium_ciri_title;프리미엄 패스 +25레벨
 ui_journey_popup_premium_dandelion_desc;남들보다 빠르게 즉시 25레벨까지 올려 보세요.\n전설 단델라이온 스킨과 추가 장식품을 잠금 해제할 수 있습니다!
 ui_journey_popup_premium_desc;남들보다 빠르게 즉시 25레벨까지 올려 보세요.\n 전설 게롤트 스킨과 추가 장식품을 잠금 해제할 수 있습니다!
+ui_journey_popup_premium_geralt_desc;남들보다 빠르게 즉시 25레벨까지 올려 보세요.\n 전설 게롤트 스킨과 추가 장식품을 잠금 해제할 수 있습니다!
 ui_journey_popup_premium_regis_desc;남들보다 빠르게 즉시 25레벨까지 올려 보세요.\n에미엘 레지스와 추가 장식품을 잠금 해제할 수 있습니다!
-ui_journey_popup_premium_title;빠른 여행 번들
+ui_journey_popup_premium_title;프리미엄 패스 +25레벨
 ui_journey_popup_premium_triss_desc;남들보다 빠르게 즉시 25레벨까지 올려 보세요.\n전설 트리스 스킨과 추가 장식품을 잠금 해제할 수 있습니다!
 ui_journey_popup_premium_yen_desc;남들보다 빠르게 즉시 25레벨까지 올려 보세요.\n전설 예니퍼 스킨과 추가 장식품을 잠금 해제할 수 있습니다!
 ui_journey_popup_standard_alzur_desc;전설 알주르 스킨을 즉시 잠금 해제하세요!
@@ -7393,17 +7473,29 @@ ui_journey_popup_standard_aretuza_desc;아레투자 중앙 홀 게임보드를 �
 ui_journey_popup_standard_ciri_desc;전설 시리 스킨을 즉시 잠금 해제하세요!
 ui_journey_popup_standard_dandelion_desc;전설 단델라이온 스킨을 즉시 잠금 해제하세요!
 ui_journey_popup_standard_desc;전설 게롤트 스킨을 즉시 잠금 해제하세요
+ui_journey_popup_standard_geralt_desc;전설 게롤트 스킨을 즉시 잠금 해제하세요
 ui_journey_popup_standard_regis_desc;지금 에미엘 레지스를 잠금 해제하세요!
 ui_journey_popup_standard_title;프리미엄 패스
 ui_journey_popup_standard_triss_desc;전설 트리스 스킨을 즉시 잠금 해제하세요!
 ui_journey_popup_standard_yen_desc;전설 예니퍼 스킨을 즉시 잠금 해제하세요!
 ui_journey_popup_start_journey;단델라이온의 여정이 시작됐습니다! 경기를 플레이하고 주간 퀘스트를 완료하여 단델라이온의 이야기를 따라가 보세요.
 ui_journey_popup_start_title;환영합니다!
+ui_journey_premium;프리미엄 여정
+ui_journey_quest_complete;퀘스트 완료!
+ui_journey_quest_complete_updated;다음 주에 공개 예정
+ui_journey_quest_difficulty_easy;쉬움
+ui_journey_quest_difficulty_hard;어려움
+ui_journey_quest_difficulty_normal;중간
+ui_journey_quest_reset;다음 주:
+ui_journey_reroll_disabled_tooltip;다음 주에 새로운 퀘스트로 변경할 수 있습니다
+ui_journey_reroll_enabled_tooltip;퀘스트 변경
 ui_journey_social_panel_week;{0}/{1}주차
+ui_journey_standard;일반 여정
 ui_journey_story_extended_next_week;게롤트의 여정은 다음 주에 계속됩니다...
+ui_journey_story_extended_title;게롤트의 이야기
 ui_journey_story_heading;급진적 진보주의 예술
 ui_journey_story_standard_next_week;다음 이야기는 다음 주에 계속됩니다...
-ui_journey_story_standard_title;단델라이온
+ui_journey_story_standard_title;단델라이온의 이야기
 ui_journey_timer_days;{0}일
 ui_journey_timer_ends;종료까지:
 ui_journey_until_next_level;다음 레벨까지
@@ -7504,6 +7596,8 @@ ui_soundtrack_group_1_title;기본
 ui_soundtrack_group_2_title;특별
 ui_soundtrack_group_3_title;아레투자 여정
 ui_soundtrack_group_5_title;단델라이온의 여정
+ui_soundtrack_group_6_title;게롤트의 여정
+ui_soundtrack_group_7_title;시리의 여정
 ui_tooltip_coins;신디케이트 세력의 추가 화폐입니다. 코인은 최대 9개까지 보유할 수 있습니다. 코인을 보유한 채 다음 라운드로 넘어가면 코인 수가 반감합니다.
 ui_vanity_inventory_change_category;카테고리 변경
 ui_vanity_inventory_equip_preview;장착
@@ -7934,6 +8028,7 @@ vanity_avatar_48371_title;넘치는 사랑 아바타
 vanity_avatar_48372_title;악동 아바타
 vanity_avatar_48373_title;황금 넥커 아바타
 vanity_avatar_48377_title;저주받은 두꺼비 아바타
+vanity_avatar_48381_title;구울 사냥꾼 아바타
 vanity_body_80284_title;인간 검은색 코트
 vanity_body_80285_title;인간 하얀색 코트
 vanity_body_80286_title;인간 검은색 무도회 복장
@@ -8383,6 +8478,9 @@ vanity_cardback_60140_title;서큐버스의 연회 카드 뒷면
 vanity_cardback_60141_title;창의적인 영감 카드 뒷면
 vanity_cardback_60144_title;하루의 시간 카드 뒷면
 vanity_cardback_60145_title;금단의 지식이 담긴 병 카드 뒷면
+vanity_cardback_60149_title;구울 사냥꾼 카드 뒷면
+vanity_cardback_60150_title;시리와 크론들 카드 뒷면
+vanity_cardback_60151_title;시간과 공간의 여인 카드 뒷면
 vanity_cardback_61001_title;괴물 카드 뒷면
 vanity_cardback_61002_title;닐프가드 카드 뒷면
 vanity_cardback_61003_title;북부 왕국 카드 뒷면
@@ -8945,6 +9043,16 @@ vanity_leader_trinket_80394_title;주머니
 vanity_leader_trinket_80395_title;스크롤
 vanity_leader_trinket_80400_title;슙의 사랑의 갑옷
 vanity_leader_trinket_80401_title;왕실 여사냥꾼
+vanity_leader_trinket_80403_title;오라 없음
+vanity_leader_trinket_80404_title;아드 오라
+vanity_leader_trinket_80405_title;액시 오라
+vanity_leader_trinket_80406_title;이그니 오라
+vanity_leader_trinket_80407_title;쿠엔 오라
+vanity_leader_trinket_80408_title;이르덴 오라
+vanity_leader_trinket_80409_title;전리품 없음
+vanity_leader_trinket_80410_title;성구함
+vanity_leader_trinket_80411_title;카란티어의 머리 부적
+vanity_leader_trinket_80412_title;스케이트
 vanity_monsters_challenge_title;폭군
 vanity_nilfgaard_challenge_title;사단 지휘관
 vanity_northern_challenge_title;특등사냥꾼
@@ -9280,6 +9388,8 @@ vanity_soundtrack_90019_title;발라드
 vanity_soundtrack_90020_title;명작
 vanity_soundtrack_90021_title;온 세상에 사랑을
 vanity_soundtrack_90022_title;노비그라드의 선율
+vanity_soundtrack_90023_title;오솔길 위의 그윈블리드
+vanity_soundtrack_90024_title;시간과 공간의 여인
 vanity_title_20150_title;자원병
 vanity_title_20151_title;감독
 vanity_title_20152_title;척후병
@@ -9573,6 +9683,8 @@ vanity_title_28251_title;나쁜 사람
 vanity_title_28252_title;왕자
 vanity_title_28253_title;호기심 많은
 vanity_title_28254_title;모든 걸 알고 있는
+vanity_title_28255_title;구울 사냥꾼
+vanity_title_28256_title;시간과 공간의 여인
 vanity_title_30180;살무사
 vanity_title_30180_description;독사 시즌(5월) 경쟁전에서 10등급을 달성하면 받는 보상입니다.
 vanity_title_30181;방울뱀

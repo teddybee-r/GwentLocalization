@@ -1511,7 +1511,7 @@ achievement_90034_desc;Reach level {0} in Ciri's Extended Journey
 achievement_90034_desc_console;Have 3 copies of the same card in an arena deck.
 achievement_90034_title;Win it all!
 achievement_90034_title_console;Traditionalist
-achievement_90035_desc;Finish all contracts connected to Ciri's Journey
+achievement_90035_desc;Finish all contracts connected to Ciri's Journey listed below:
 achievement_90035_desc_console;Win a game with 2 cards remaining in hand.
 achievement_90035_title;Ciri's biggest fan!
 achievement_90035_title_console;Had Enough Yet?
@@ -1914,6 +1914,56 @@ achievement_90296_title;Help King Eist Tuirseach
 achievement_90297_title;Help Queen Calanthe
 achievement_90298_title;Help Sigismund Dijkstra
 achievement_90299_title;Help Philippa Eilhart
+achievement_90301_desc;Complete 5 Geralt's Journey quests
+achievement_90301_title;Abandoned Child
+achievement_90302_desc;Complete 10 Geralt's Journey quests
+achievement_90302_title;First Trial
+achievement_90303_desc;Complete 20 Geralt's Journey quests
+achievement_90303_title;First Steps as a Witcher
+achievement_90305_desc;Reach level 110 in Geralt's Extended Journey
+achievement_90305_title;Monster Slayer
+achievement_90306_desc;Reach level 120 in Geralt's Extended Journey
+achievement_90306_title;Telekinetic Thrust
+achievement_90307_desc;Reach level 130 in Geralt's Extended Journey
+achievement_90307_title;Hypnotic Effect
+achievement_90308_desc;Reach level 145 in Geralt's Extended Journey
+achievement_90308_title;Magical Trap
+achievement_90309_desc;Reach level 160 in Geralt's Extended Journey
+achievement_90309_title;Protective Shield
+achievement_90310_desc;Reach level 175 in Geralt's Extended Journey
+achievement_90310_title;Where is my 5th Element?
+achievement_90312_desc;Win 1 game with one of the Geralt's Auras equipped
+achievement_90312_title;First Flame
+achievement_90313_desc;Win 10 games with one of the Geralt's Auras equipped
+achievement_90313_title;Playing with Fire
+achievement_90314_desc;Win 30 games with one of the Geralt's Auras equipped
+achievement_90314_title;Pyrokinetic Burst
+achievement_90315_desc;Finish all contracts connected to Geralt's Journey listed below:
+achievement_90315_title;Gwynbleidd on the Trail
+achievement_90317_desc;Complete 5 Ciri's Journey quests
+achievement_90317_title;Child from Law of Surprise
+achievement_90318_desc;Complete 10 Ciri's Journey quests
+achievement_90318_title;Orphan
+achievement_90319_desc;Complete 20 Ciri's Journey quests
+achievement_90319_title;Princess of Cintra
+achievement_90321_desc;Win 1 game with one of the Ciri's Trophies equipped
+achievement_90321_title;Jumper
+achievement_90322_desc;Win 10 games with one of the Ciri's Trophies equipped
+achievement_90322_title;Traveler Between Worlds
+achievement_90323_desc;Win 30 games with one of the Ciri's Trophies equipped
+achievement_90323_title;Lady of Space and Time
+achievement_90324_desc;Play 30 games with one of the Ciri's Auras equipped
+achievement_90324_title;Feel the Power
+achievement_90325_desc;Play 30 games with one of the Ciri's Headgears equipped
+achievement_90325_title;Let's Not Lose a Head
+achievement_90326_desc;Play 30 games with one of the Ciri's Coins equipped
+achievement_90326_title;Coin Flip to Decide the Fate
+achievement_90327_desc;Play 30 games with one of the Ciri's Cardbacks equipped
+achievement_90327_title;All was Writen in the Cards
+achievement_90328_desc;Finish all contracts connected to Ciri's accessories listed below:
+achievement_90328_title;Mistress of Accessories
+achievement_90329_desc;Finish all contracts connected to Geralt's and Ciri's Journeys listed below:
+achievement_90329_title;Like Father Like Daughter
 achievement_category_arena;Arena
 achievement_category_collection;Collection
 achievement_category_expansions;expansions
@@ -3154,9 +3204,11 @@ game_mode_seasonal_draconid_title;Battle Rush
 game_mode_seasonal_dryad_title;Seesaw
 game_mode_seasonal_elf_title;Double Down
 game_mode_seasonal_griffin_title;Power Shift
+game_mode_seasonal_june_title;June Season
 game_mode_seasonal_love_title;Irresistible Attraction
 game_mode_seasonal_magic_title;Dual Casting
 game_mode_seasonal_mahakam_title;Entrench
+game_mode_seasonal_may_title;May Season
 game_mode_seasonal_more_provision_desc;At the start of your turn, transform all cards in your hand into random ones that cost 1 provision more
 game_mode_seasonal_more_provision_title;Patience is a virtue!
 game_mode_seasonal_viper_title;Momentum
@@ -3360,6 +3412,17 @@ holiday_rewards_panel_title;Rewards for Completing Challenge
 http_code;Error Code:
 in_progress;Transaction in progress, waiting for external payment provider to finalize payment. Transaction will finish in the background.
 in_progress_title;Finalizing Transaction
+infinite_journey_common_quest;Easy
+infinite_journey_epic_quest;Hard
+infinite_journey_rare_quest;Medium
+infinity_journey_name_alzur;Alzur
+infinity_journey_name_aretuza;Aretuza
+infinity_journey_name_ciri;Ciri
+infinity_journey_name_dandelion;Dandelion
+infinity_journey_name_geralt;Geralt
+infinity_journey_name_regis;Regis
+infinity_journey_name_triss;Triss
+infinity_journey_name_yennefer;Yennefer
 input_accept_deck_validation_popup;Accept
 input_accept_error_loading_decks;Accept
 input_accept_forfeit;Forfeit
@@ -4161,7 +4224,7 @@ journey_3_quest_5_extended_title;Infamous madman
 journey_3_quest_5_standard_title;Hundred ballads, a thousand even!
 journey_3_quest_6_extended_title;Cold and calculated
 journey_3_quest_6_standard_title;Crack on with it
-journey_info_description;PROGRESSION\nYou progress in Journey by winning rounds in online matches, each round won gives you 1 Crown Piece.\nYou can continue your Journey progression beyond level 100 and receive extra rewards along the way!\n\nJourney progress can be found via the main menu's Journey card.\n\nBOOST\n<sprite="PopupIcons" name="WellRested"> - you have pool of 14 extra Crown Pieces that you gain after winning round i.e. You won a Match, you get 2 Crown Pieces and 2 Extra Crown Pieces.\n<sprite="PopupIcons" name="WellRested"> - resets daily on a new day.\n\nQUESTS\nEvery week we'll be adding 6 new quests to Journey, those give you extra 20 Crown Pieces each\nYou can progress in Premium's Quests without unlocking Premium Journey but you'll get extra crown pieces after unlocking Premium Path
+journey_info_description;PROGRESSION\nYou progress in Journey by winning rounds in online matches, each round won gives you 1 Crown Piece.\nYou can continue your Journey progression beyond level 100 and receive extra rewards along the way!\n\nBOOST\n<sprite="PopupIcons" name="WellRested"> - you have a pool of 14 extra Crown Pieces that you gain after winning round i.e. You won a Match, you get 2 Crown Pieces and 2 extra Crown Pieces.\n<sprite="PopupIcons" name="WellRested"> - resets daily on a new day.\n\nQUESTS\nEach week only<b> 3 quests</b> will be available for Journey, giving you 20 Crown Pieces each upon completion\nIf you have premium journey enabled, you will get <b>2x rewards</b> for completing those quests. (i.e 40 Crown Pieces each)\nIf you’re unable to complete any or all of those quests, you’ll get an option to reroll old quests from previous week on a New Week.\nQuests stay the same no matter what journey is selected. The Crown Pieces earned after completing a quest will be added to the current selected journey.\n\nSWITCHING JOURNEYS\nYou can easily switch from one journey to another any time you feel like by choosing them from the list of journeys on the progression screen.\n
 journey_quest_1_extended_title;Fight for your life
 journey_quest_1_standard_title;Fight for your dignity
 journey_quest_28_standard_title;Wedding
@@ -5806,7 +5869,7 @@ reward_tree_viper_2_story_pt4;Over many future years, fate mocked Kolgrim many t
 reward_tree_viper_2_title;Kolgrim
 reward_tree_viper_avatar_chest_1;Witchers have many weapons in their arsenal: swords both silver and steel, chains, daggers, and throwing knives. Two-handed weapons are uncommon for one simple reason – weight. But for Letho of Gulet, that was never an issue. He swung a two-handed blade with the same ease and speed that others enjoy when wielding a dagger or rapier.
 reward_tree_viper_avatar_chest_2;The relationship between Letho and another legendary witcher, Geralt of Rivia, was rather... Complicated. At different points in time, each of them had both saved and threatened the other's life. But how did their odd story finally end? It depends on whom you ask. Some believe that Geralt killed Letho at the ruins of Loc Muinne, while others claim that the two had agreed to part ways in peace. Alas, the truth yet remains a mystery...
-reward_tree_viper_avatar_chest_3;Letho was always aware of the impression he had upon others. He never raised his voice nor made threats, for there was no need. He knew his very appearance was enough to make the even the fiercest bandits shake in their boots. Letho also knew that he appeared to others as a dull-witted thug. Yet, despite possessing a superior intelligence, he made no attempt to challenge this impression. He knew people could be careless with their words if they thought they were speaking to a dumb sack of potatoes.
+reward_tree_viper_avatar_chest_3;Letho was always aware of the impression he had upon others. He never raised his voice nor made threats, for there was no need. He knew his very appearance was enough to make even the fiercest bandits shake in their boots. Letho also knew that he appeared to others as a dull-witted thug. Yet, despite possessing a superior intelligence, he made no attempt to challenge this impression. He knew people could be careless with their words if they thought they were speaking to a dumb sack of potatoes.
 reward_tree_viper_avatar_story_pt1;Witcher training places great importance on endurance and agility rather than strength alone. After all, what good can a hulking mountain of muscle do against the lightning-fast strikes of a bruxa or striga... Right?
 reward_tree_viper_avatar_story_pt2;Letho of Gulet was a witcher of the School of the Viper – an misleading association given his imposing stature. Though as large as a fiend and strong as a bull, his reflexes and agility rivaled those of other witchers... Making him an extremely formidable opponent.
 reward_tree_viper_avatar_story_pt3;His prowess in combat would, indeed, have a major impact on the people of the Continent, for he struck down not one, but two leaders in the North... Yet, what could have led Letho from his path as a monster slayer to that of an assassin of kings?
@@ -5934,9 +5997,11 @@ season_draconid_title;Season of the Draconid
 season_dryad_title;Season of the Dryad
 season_elf_title;Season of the Elf
 season_griffin_title;Season of the Griffin
+season_june_title;June Season
 season_love_title;Season of Love
 season_magic_title;Season of Magic
 season_mahakam_title;Season of Mahakam
+season_may_title;May Season
 season_reward_avatars;Avatars
 season_reward_borders;BORDER:
 season_reward_card;Cards:
@@ -6180,7 +6245,7 @@ shop_data_ep1_cardback_pack_title;Alternative Crimson Curse Cardback
 shop_data_ep1_skin_pack_desc;<sprite="PopupIcons" name="Skin"> Dark Blood Armor skin (Monsters)\n\nUnseen Elder is back in black! Embrace the dark power of the ancient higher vampire with this elegant set of armor, along with special visual effects and animations.
 shop_data_ep1_skin_pack_desc_sale;Unseen Elder is back in black! Embrace the dark power of the ancient higher vampire with this elegant set of armor, along with special visual effects and animations.\n\nThis skin can be equipped only for Monster Faction and will be up for -30% sale during the Saovine Event!
 shop_data_ep1_skin_pack_title;Dark Blood Armor skin
-shop_data_ep2_alt_board_desc;When night falls, the Gangs of Novigrad come out and rule the streets! Battle it out with friends and enemies on the Novigrad by Night gameboard!
+shop_data_ep2_alt_board_desc;<sprite="PopupIcons" name="Board"> Novigrad by Night Board\n\nWhen night falls, the Gangs of Novigrad come out and rule the streets! Battle it out with friends and foes on the Novigrad by Night gameboard!
 shop_data_ep2_alt_board_title;Novigrad by Night Board
 shop_data_ep2_alt_cardback_desc;The fire still burns bright in Novigrad! Get this alternative version of the premium Novigrad cardback. This is the alternative version of the Novigrad cardback originally available as part of the Novigrad pre-order packs.
 shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> Undying Fire Cardback\n\nThe fire still burns bright in Novigrad! Get this alternative version of the premium Novigrad Cardback, originally available as part of the Novigrad pre-order packs.\nThis Cardback will be up for -30% off during the Lunar New Year sales.
@@ -6268,6 +6333,8 @@ shop_data_expansion_pass_ep7_desc;True power can be yours...\n\nThis Expansion P
 shop_data_expansion_pass_ep7_title;Price of Power - Expansion Pass
 shop_data_festival_bundle_desc;<sprite="PopupIcons" name="Avatar"> Dancer avatar\n\n<sprite="PopupIcons" name="Border"> Festival border\n\n<sprite="PopupIcons" name="Title"> "Festival Dancer" title\n\n Let the dance begin! Join the merrymaking in celebration of the coming of Summer!
 shop_data_festival_bundle_title;Festival Bundle
+shop_data_fiery_judgment_cardback_desc;<sprite="PopupIcons" name="CardBack"> Fiery Judgment Cardback\n\nUnleash your battle fury with a fiery blaze with this special version of the Iron Judgment cardback!
+shop_data_fiery_judgment_cardback_title;Fiery Judgment Cardback
 shop_data_fire_bundle_desc;<sprite="PopupIcons" name="Skin"> Ardent Orator Skin (Syndicate) \n\n<sprite="PopupIcons" name="Board"> Inferno Board \n\nThis Bundle was introduced to support GWENT Open 1 during the Year of the Wererat.
 shop_data_fire_bundle_title;Flaming Bundle
 shop_data_first_bundles_promo_title;Invaders / Northern Realms / Mahakam Bundles
@@ -6275,7 +6342,7 @@ shop_data_forgotten_treasures_pack_desc;<sprite="PopupIcons" name="Card"> All Pr
 shop_data_forgotten_treasures_pack_title;Forgotten Treasures Pack
 shop_data_frozen_bundle_desc;<sprite="PopupIcons" name="Skin"> Frozen skin (Northern Realms) \n\n<sprite="PopupIcons" name="Board"> Demavend's Pride board\n\nThere's a chill in the air, can you feel it?... \n\nThis Bundle was introduced to support GWENT Open 3 during the Year of the Wererat.
 shop_data_frozen_bundle_title;Frozen Bundle
-shop_data_gang_bundle_desc;Show the world where your true allegiance lies within the Syndicate by equipping a border inspired by one of the leaders of GWENT’s new faction. This bundle includes:\n\n <sprite="PopupIcons" name="Border">Cleaver border\n\n <sprite="PopupIcons" name="Border">Whoreson Junior border\n\n <sprite="PopupIcons" name="Border">Gudrun Bjornsdottir border\n\n <sprite="PopupIcons" name="Border">King of Beggars border\n\n <sprite="PopupIcons" name="Border">Cyrus Hemmelfart border\n\n <sprite="PopupIcons" name="Border">Sigismund Dijkstra border
+shop_data_gang_bundle_desc;<sprite="PopupIcons" name="Border"> Cleaver Border\n\n<sprite="PopupIcons" name="Border"> Whoreson Junior Border\n\n<sprite="PopupIcons" name="Border"> Gudrun Bjornsdottir Border\n\n<sprite="PopupIcons" name="Border"> King of Beggars Border\n\n<sprite="PopupIcons" name="Border"> Cyrus Hemmelfart Border\n\n<sprite="PopupIcons" name="Border"> Dijkstra Border\n\nShow the world where your true allegiance lies within the Syndicate by equipping borders inspired by those fierce leaders.
 shop_data_gang_bundle_title;Syndicate Leaders Border Bundle
 shop_data_gaunter_dark_skin_desc;<sprite="PopupIcons" name="Skin"> Gaunter O'Dimm Dark Skin (Neutral)\n\nGo all out in the battlefield as the evil incarnate, Gaunter O'Dimm himself, is here to accompany you in his most diabolical appearance yet.
 shop_data_gaunter_dark_skin_title;Gaunter O'Dimm Dark Skin
@@ -6422,6 +6489,8 @@ shop_data_scoiatael_keg_desc;Once opened, this keg will grant you 5 Scoia'tael c
 shop_data_scoiatael_keg_title;Scoia'tael Keg(s)
 shop_data_sheep_bundle_desc;<sprite="PopupIcons" name="Avatar"> Sheep Avatar\n\n<sprite="PopupIcons" name="Border"> Sheep Border\n\n<sprite="PopupIcons" name="Title"> "Good Shepherd" Title\n\nThis bundle contains ornaments introduced as unlockable items during the Season of the Griffin in the Year of the Wild Boar — along with a new special bonus item!
 shop_data_sheep_bundle_title;Sheep Bundle
+shop_data_shop_small_fire_pack_desc;<sprite="PopupIcons" name="Avatar"> Ifrit Avatar\n\n<sprite="PopupIcons" name="Border"> Animated Flame Border\n\n<sprite="PopupIcons" name="Title"> "Fire Acolyte" Title\n\n<sprite="PopupIcons" name="Powder"> 400 Meteorite Powder\n\nEngulf yourself in flames as the temperature rises with these hot vanities.\n\nThis pack was introduced to support GWENT Open 1 during the Year of the Wererat.
+shop_data_shop_small_fire_pack_title;Flaming Pack
 shop_data_shupe_base_skin_desc;<sprite="PopupIcons" name="Skin"> Shupe Skin (All factions) \n\nWhat troll in their right mind would prefer playing with colorful scraps of paper to rocks or some good ol' elf and onion soup? Well, this one! \n\nUse Shupe's SMASHING personality and trollish charm to conquer GWENT's battlefields with this uniquely Shupe neutral and customizable leader skin.
 shop_data_shupe_base_skin_title;Shupe Skin
 shop_data_shupe_borders_bundle_desc;Shupe and you adventure be going! Show everyone where you went on your day off with the Shupe Borders Bundle. The bundle’s content includes:\n\n <sprite="PopupIcons" name="Title"> 1 Shupe Title: "The Adventurer"\n\n <sprite="PopupIcons" name="Avatar"> 1 Shupe avatar: Shupe!\n\n <sprite="PopupIcons" name="Border"> 3 Shupe borders: Knight, Hunter and Mage
@@ -6456,6 +6525,8 @@ shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board"> Spring Boa
 shop_data_spring_bundle_open2_title;Spring Bundle
 shop_data_spring_pack_open2_desc;<sprite="PopupIcons" name="Coin"> Spring Coin\n\n<sprite="PopupIcons" name="Powder"> 400 Meteorite Powder\n\nHello spring!\n\nPurchasing this product helps to support GWENT esports; 30% of proceeds from the pack will directly boost the prize pool for the GWENT Open 2, which takes place in July 2021!
 shop_data_spring_pack_open2_title;Spring Pack (GWENT Open 2)
+shop_data_spring_shupe_bundle_desc;<sprite="PopupIcons" name="Border"> Spring Knight Border\n\n<sprite="PopupIcons" name="Title"> "Spring Knight" Title\n\n<sprite="PopupIcons" name="Avatar"> Shupe Avatar\n\nSpring is in the air, adventure calls! Answer the call by getting this special bundle from Shupe!
+shop_data_spring_shupe_bundle_title;Spring Shupe Bundle
 shop_data_starter_pack_desc;<sprite="PopupIcons" name="Card"> x1 Premium Legendary Card \n\n <sprite="PopupIcons" name="Powder"> x400 Meteorite Powder\n\n <sprite="PopupIcons" name="Keg"> x10 Ultimate Keg \n\nThe GWENT Starter Pack is a one-time offer to help get your card collection off the ground.
 shop_data_starter_pack_promo_desc;One-time high value boost
 shop_data_starter_pack_promo_title;Starter Pack
@@ -7266,7 +7337,7 @@ ui_ability_name_30;Rage of the Sea
 ui_ability_name_31;Congregate
 ui_ability_name_32;Pirate's Cove
 ui_ability_name_33;Jackpot
-ui_ability_name_34;Off the books
+ui_ability_name_34;Off the Books
 ui_ability_name_35;Blood Money
 ui_ability_name_36;Lined Pockets
 ui_ability_name_39;Hidden Cache
@@ -7312,6 +7383,7 @@ ui_cardback_group_3_title;Wererat Seasons
 ui_cardback_group_30_title;Dandelion's Journey
 ui_cardback_group_31_title;NA
 ui_cardback_group_32_title;Year of the Cursed Toad
+ui_cardback_group_33_title;Journey
 ui_cardback_group_4_title;Crimson Curse Expansion
 ui_cardback_group_5_title;Novigrad Expansion
 ui_cardback_group_6_title;Iron Judgment Expansion
@@ -7361,12 +7433,18 @@ ui_gameboard_group_7_title;Tavern
 ui_gameboard_group_8_title;Ship
 ui_gameboard_group_9_title;Lunar Year Events
 ui_gwent_deck_library;Gwent Deck Library
+ui_journey_2_story_title;Ciri's Story
+ui_journey_bonus_disabled;Standard
+ui_journey_bonus_enabled;x2 <sprite="PopupIcons" name="WellRested"> Reward
+ui_journey_check_progress;Check progress
 ui_journey_claim_rewards;Claim rewards!
+ui_journey_coming_soon;Coming Soon
 ui_journey_congratulations;Congratulations! You've leveled up!
 ui_journey_crowns_collected;Crowns for winning rounds
 ui_journey_crowns_quests;Crowns for completing quests
 ui_journey_crowns_tooltip;Crowns collected in current Journey Level
 ui_journey_level_tooltip;Your current level in Journey
+ui_journey_list;Journey List
 ui_journey_main_panel_buy;Unlock Premium
 ui_journey_main_panel_extended_path;Premium
 ui_journey_main_panel_fast_travel;Fast Travel
@@ -7374,6 +7452,7 @@ ui_journey_main_panel_levels;Levels
 ui_journey_main_panel_standard_path;Standard
 ui_journey_main_panel_story;Journey Story
 ui_journey_new_quests;The next set of quests will come next week...
+ui_journey_panel_title;Journey List
 ui_journey_popup_congratulation;Congratulations!
 ui_journey_popup_finish_journey;You've finished Dandelion's Journey! Cherish souvenirs and trinkets you've gathered on the way, wear proudly your new outfits!
 ui_journey_popup_journey_end;The Journey has ended - gaining crown pieces will grant you Reward Points
@@ -7384,8 +7463,9 @@ ui_journey_popup_premium_ciri_desc;Get a head start and unlock 25 levels instant
 ui_journey_popup_premium_ciri_title;Premium Pass +25 levels
 ui_journey_popup_premium_dandelion_desc;Get a head start and unlock 25 levels instantly.\n Unlock legendary Dandelion skin and additional ornaments!
 ui_journey_popup_premium_desc;Get a head start and unlock 25 levels instantly.\n Unlock the legendary Geralt skin and additonal ornaments!
+ui_journey_popup_premium_geralt_desc;Get a head start and unlock 25 levels instantly.\n Unlock the legendary Geralt skin and additonal ornaments!
 ui_journey_popup_premium_regis_desc;Get a head start and unlock 25 levels instantly.\n Unlock Emiel Regis and additional ornaments!
-ui_journey_popup_premium_title;Fast Travel Bundle
+ui_journey_popup_premium_title;Premium Pass +25 levels
 ui_journey_popup_premium_triss_desc;Get a head start and unlock 25 levels instantly.\n Unlock legendary Triss skin and additional ornaments!
 ui_journey_popup_premium_yen_desc;Get a head start and unlock 25 levels instantly.\n Unlock legendary Yennefer skin and additional ornaments!
 ui_journey_popup_standard_alzur_desc;Unlock the legendary Alzur skin immediately!
@@ -7393,17 +7473,29 @@ ui_journey_popup_standard_aretuza_desc;Unlock Aretuza Main Hall gameboard immedi
 ui_journey_popup_standard_ciri_desc;Unlock Legendary Ciri skin immediately!
 ui_journey_popup_standard_dandelion_desc;Unlock legendary Dandelion skin immediately!
 ui_journey_popup_standard_desc;Unlock the legendary Geralt skin immediately
+ui_journey_popup_standard_geralt_desc;Unlock Legendary Geralt Skin immediately!
 ui_journey_popup_standard_regis_desc;Unlock Emiel Regis now!
 ui_journey_popup_standard_title;Premium Pass
 ui_journey_popup_standard_triss_desc;Unlock legendary Triss skin immediately!
 ui_journey_popup_standard_yen_desc;Unlock legendary Yennefer skin immediately!
 ui_journey_popup_start_journey;Dandelion's Journey begins! Follow his story by playing matches and completing weekly quests!
 ui_journey_popup_start_title;Welcome!
+ui_journey_premium;Premium Journey
+ui_journey_quest_complete;Quest complete!
+ui_journey_quest_complete_updated;Coming soon on New Week
+ui_journey_quest_difficulty_easy;Easy
+ui_journey_quest_difficulty_hard;Hard
+ui_journey_quest_difficulty_normal;Medium
+ui_journey_quest_reset;New Week:
+ui_journey_reroll_disabled_tooltip;Changing a new quest will be available on a New Week
+ui_journey_reroll_enabled_tooltip;Change Quest
 ui_journey_social_panel_week;WEEK {0} / {1}
+ui_journey_standard;Standard Journey
 ui_journey_story_extended_next_week;The next part of Geralt's Journey will come next week...
+ui_journey_story_extended_title;Geralt's Story
 ui_journey_story_heading;Radically Liberal Arts
 ui_journey_story_standard_next_week;The next part of the Story will come next week...
-ui_journey_story_standard_title;Dandelion
+ui_journey_story_standard_title;Dandelion's Story
 ui_journey_timer_days;{0} DAYS
 ui_journey_timer_ends;ENDS:
 ui_journey_until_next_level;until next level
@@ -7504,6 +7596,8 @@ ui_soundtrack_group_1_title;Basic
 ui_soundtrack_group_2_title;Special
 ui_soundtrack_group_3_title;Aretuza Journey
 ui_soundtrack_group_5_title;Dandelion's Journey
+ui_soundtrack_group_6_title;Geralt's Journey
+ui_soundtrack_group_7_title;Ciri's Journey
 ui_tooltip_coins;The Syndicate's bonus currency. You may possess a maximum of 9 coins. Your coin count is reduced by half when carried over into the next round.
 ui_vanity_inventory_change_category;Change category
 ui_vanity_inventory_equip_preview;Equip
@@ -7934,6 +8028,7 @@ vanity_avatar_48371_title;Full of Love Avatar
 vanity_avatar_48372_title;Rascal Avatar
 vanity_avatar_48373_title;Golden Nekker Avatar
 vanity_avatar_48377_title;Cursed Toad Avatar
+vanity_avatar_48381_title;Ghoul Slayer Avatar
 vanity_body_80284_title;Human Black Coat
 vanity_body_80285_title;Human White Coat
 vanity_body_80286_title;Human Black Ball Attire
@@ -8383,6 +8478,9 @@ vanity_cardback_60140_title;Succubus Party Cardback
 vanity_cardback_60141_title;Creative inspiration Cardback
 vanity_cardback_60144_title;Times of the Day Cardback
 vanity_cardback_60145_title;Vial of Forbidden Knowledge Cardback
+vanity_cardback_60149_title;Ghoul Slayer Cardback
+vanity_cardback_60150_title;Ciri and the Crones Cardback
+vanity_cardback_60151_title;Lady of Space and Time Cardback
 vanity_cardback_61001_title;Monsters Cardback
 vanity_cardback_61002_title;Nilfgaard Cardback
 vanity_cardback_61003_title;Northern Realms Cardback
@@ -8945,6 +9043,16 @@ vanity_leader_trinket_80394_title;Pouch
 vanity_leader_trinket_80395_title;Scrolls
 vanity_leader_trinket_80400_title;Shupe's Armour of Love
 vanity_leader_trinket_80401_title;Her Royal Huntress
+vanity_leader_trinket_80403_title;No Aura
+vanity_leader_trinket_80404_title;Aard Aura
+vanity_leader_trinket_80405_title;Axii Aura
+vanity_leader_trinket_80406_title;Igni Aura
+vanity_leader_trinket_80407_title;Quen Aura
+vanity_leader_trinket_80408_title;Yrden Aura
+vanity_leader_trinket_80409_title;No Trophy
+vanity_leader_trinket_80410_title;Phylactery
+vanity_leader_trinket_80411_title;Caranthir's Head Talisman
+vanity_leader_trinket_80412_title;Ice Skates
 vanity_monsters_challenge_title;Tyrant
 vanity_nilfgaard_challenge_title;Division Commander
 vanity_northern_challenge_title;Master Huntsman
@@ -9280,6 +9388,8 @@ vanity_soundtrack_90019_title;Ballad
 vanity_soundtrack_90020_title;Masterpiece
 vanity_soundtrack_90021_title;Love is in the air
 vanity_soundtrack_90022_title;Novigrad's Tunes
+vanity_soundtrack_90023_title;Gwynbleidd on the trail
+vanity_soundtrack_90024_title;Lady of Space and Time
 vanity_title_20150_title;Volunteer
 vanity_title_20151_title;Foreman
 vanity_title_20152_title;Skirmisher
@@ -9572,7 +9682,9 @@ vanity_title_28250_title;Night Owl
 vanity_title_28251_title;Goon
 vanity_title_28252_title;Prince
 vanity_title_28253_title;Curious
-vanity_title_28254_title;All-knowning
+vanity_title_28254_title;All-Knowing
+vanity_title_28255_title;Ghoul Slayer
+vanity_title_28256_title;Lady of Space and Time
 vanity_title_30180;Copperhead
 vanity_title_30180_description;Reward for attaining Rank 10 in Ranked Play, Season of the Viper (May).
 vanity_title_30181;Sidewinder

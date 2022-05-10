@@ -1511,7 +1511,7 @@ achievement_90034_desc;シリの延長ルートのジャーニーでレベル{0}
 achievement_90034_desc_console;アリーナデッキに同名カードを3枚入れる。
 achievement_90034_title;完全勝利！
 achievement_90034_title_console;伝統主義者
-achievement_90035_desc;シリのジャーニーに関連する全ての依頼を完了する。
+achievement_90035_desc;シリのジャーニーに関連する以下の全ての依頼を完了する。
 achievement_90035_desc_console;手札を2枚残した状態でゲームに勝利する。
 achievement_90035_title;シリ大好き！
 achievement_90035_title_console;もう十分？
@@ -1914,6 +1914,56 @@ achievement_90296_title;アイスト・テルショック王を手伝う
 achievement_90297_title;キャランセ女王を手伝う
 achievement_90298_title;シギスムンド・ディクストラを手伝う
 achievement_90299_title;フィリパ・エイルハートを手伝う
+achievement_90301_desc;ゲラルトのジャーニークエストを5回完了する。
+achievement_90301_title;捨てられた子供
+achievement_90302_desc;ゲラルトのジャーニークエストを10回完了する。
+achievement_90302_title;最初の試練
+achievement_90303_desc;ゲラルトのジャーニークエストを20回完了する。
+achievement_90303_title;ウィッチャーの最初の一歩
+achievement_90305_desc;ゲラルトの延長ルートのジャーニーでレベル110に到達する。
+achievement_90305_title;モンスタースレイヤー
+achievement_90306_desc;ゲラルトの延長ルートのジャーニーでレベル120に到達する。
+achievement_90306_title;念力のひと押し
+achievement_90307_desc;ゲラルトの延長ルートのジャーニーでレベル130に到達する。
+achievement_90307_title;催眠効果
+achievement_90308_desc;ゲラルトの延長ルートのジャーニーでレベル145に到達する。
+achievement_90308_title;魔法の罠
+achievement_90309_desc;ゲラルトの延長ルートのジャーニーでレベル160に到達する。
+achievement_90309_title;守りの障壁
+achievement_90310_desc;ゲラルトの延長ルートのジャーニーでレベル175に到達する。
+achievement_90310_title;第5のエレメントはどこだ？
+achievement_90312_desc;ゲラルトのオーラを装備して1試合勝利する。
+achievement_90312_title;最初の炎
+achievement_90313_desc;ゲラルトのオーラを装備して10試合勝利する。
+achievement_90313_title;火遊び
+achievement_90314_desc;ゲラルトのオーラを装備して30試合勝利する。
+achievement_90314_title;火炎術の一撃
+achievement_90315_desc;ゲラルトのジャーニーに関連する以下の全ての依頼を完了する。
+achievement_90315_title;追跡者、グウィンブレード
+achievement_90317_desc;シリのジャーニークエストを5回完了する。
+achievement_90317_title;〈偶然の原則〉の子
+achievement_90318_desc;シリのジャーニークエストを10回完了する。
+achievement_90318_title;みなしご
+achievement_90319_desc;シリのジャーニークエストを20回完了する。
+achievement_90319_title;シントラの王女
+achievement_90321_desc;シリのトロフィーを装備して1試合勝利する。
+achievement_90321_title;異世界へのジャンプ
+achievement_90322_desc;シリのトロフィーを装備して10試合勝利する。
+achievement_90322_title;異世界の旅行者
+achievement_90323_desc;シリのトロフィーを装備して30試合勝利する。
+achievement_90323_title;空間と時間の女神
+achievement_90324_desc;シリのオーラを装備して30試合勝利する。
+achievement_90324_title;力の実感
+achievement_90325_desc;シリのヘッドギアを装備して30試合勝利する。
+achievement_90325_title;頭を大事に
+achievement_90326_desc;シリのコインを装備して30試合勝利する。
+achievement_90326_title;運命のコイントス
+achievement_90327_desc;シリのカードバックを装備して30試合勝利する。
+achievement_90327_title;全てカードの言うとおり
+achievement_90328_desc;シリのジャーニーに関連する以下の全ての依頼を完了する。
+achievement_90328_title;装飾品の女王
+achievement_90329_desc;ゲラルトとシリのジャーニーに関連する以下の全ての依頼を完了する。
+achievement_90329_title;この父にしてこの子あり
 achievement_category_arena;アリーナ
 achievement_category_collection;コレクション
 achievement_category_expansions;拡張セット
@@ -3154,9 +3204,11 @@ game_mode_seasonal_draconid_title;バトルラッシュ
 game_mode_seasonal_dryad_title;シーソー
 game_mode_seasonal_elf_title;倍賭け
 game_mode_seasonal_griffin_title;パワーシフト
+game_mode_seasonal_june_title;6月のシーズン
 game_mode_seasonal_love_title;抗えない魅力
 game_mode_seasonal_magic_title;二重詠唱
 game_mode_seasonal_mahakam_title;エントレンチ
+game_mode_seasonal_may_title;5月のシーズン
 game_mode_seasonal_more_provision_desc;自軍ターン開始時に、手札の全てのカードを、構築コスト1以上の無作為に選ばれたカードに変身させる
 game_mode_seasonal_more_provision_title;忍耐は美徳だ！
 game_mode_seasonal_viper_title;モメンタム
@@ -3360,6 +3412,17 @@ holiday_rewards_panel_title;クリア報酬
 http_code;エラーコード：
 in_progress;外部決済事業者の決済処理の完了を待っています。購入処理はバックグランドで終了します。
 in_progress_title;購入処理完了中
+infinite_journey_common_quest;イージー
+infinite_journey_epic_quest;ハード
+infinite_journey_rare_quest;ノーマル
+infinity_journey_name_alzur;アルズール
+infinity_journey_name_aretuza;アレトゥーザ
+infinity_journey_name_ciri;シリ
+infinity_journey_name_dandelion;ダンディリオン
+infinity_journey_name_geralt;ゲラルト
+infinity_journey_name_regis;レジス
+infinity_journey_name_triss;トリス
+infinity_journey_name_yennefer;イェネファー
 input_accept_deck_validation_popup;OK
 input_accept_error_loading_decks;OK
 input_accept_forfeit;降参
@@ -4161,7 +4224,7 @@ journey_3_quest_5_extended_title;悪名高き狂人
 journey_3_quest_5_standard_title;何百、何千の詩
 journey_3_quest_6_extended_title;計算高く冷酷
 journey_3_quest_6_standard_title;前置きはもう十分
-journey_info_description;進捗\nジャーニーでは、オンラインマッチでラウンドを勝ち抜くと、各ラウンドに勝利するごとに1つのクラウンの欠片を獲得できる\nジャーニーの進捗はレベル100を超えて、さらなる報酬の獲得を目指して先に進めよう！\nジャーニーの進捗状況は、メインメニューのジャーニーカードから確認できる\n\nブースト\n<sprite="PopupIcons" name="WellRested"> - 勝利時、ボーナスとして追加でクラウンの欠片を獲得（合計14個まで）。例：試合勝利時、通常の2個に加えてボーナスで+2個を獲得\n<sprite="PopupIcons" name="WellRested"> - 毎日リセットされる\n\nクエスト\nジャーニーでは毎週6つの新しいクエストが追加され、各クエストで20個ずつ追加でクラウンの欠片を獲得できる\nプレミアムジャーニーを解除しなくてもゲラルトのクエストは進行できるが、プレミアムパスを解除することで追加でクラウンの欠片を入手可能
+journey_info_description;進捗状況\nオンラインマッチでラウンドに勝利すると、ジャーニーが進捗する。1ラウンド勝利するごとにクラウンの欠片1つを獲得できる。\nレベル100を超えてもジャーニーを進めることができるので、さらなる報酬の獲得を目指そう！\n\nブースト\n<sprite="PopupIcons" name="WellRested"> - 勝利時、ボーナスとして追加でクラウンの欠片を獲得できる（合計14個まで）。例：試合勝利時、通常の2個に加えてボーナスで+2個を獲得。\n<sprite="PopupIcons" name="WellRested"> - 毎日リセット。\n\nクエスト\nジャーニーでは毎週<b>3つのクエスト</b>を開始でき、各クエスト完了時に20個ずつクラウンの欠片を獲得できる。\nプレミアムジャーニーを解除している場合は、クエスト完了時に<b>2倍の報酬</b>（クラウンの欠片40個）を獲得できる。\nクエストの全てまたは一部を完了できなかった場合、次の週が始まれば前の週の古いクエストを引き直すこともできる。\nどのジャーニーを選択していてもクエストは変わらない。クエスト完了時に獲得したクラウンの欠片は、選択中のジャーニーに追加される。\n\nジャーニーの切り替え\n進捗状況画面の一覧から選択すれば、ジャーニーはいつでも簡単に切り替えられる。\n
 journey_quest_1_extended_title;命を懸けた戦い
 journey_quest_1_standard_title;尊厳を懸けた戦い
 journey_quest_28_standard_title;結婚式
@@ -5934,9 +5997,11 @@ season_draconid_title;シーズン・ドラコニド
 season_dryad_title;シーズン・ドリアード
 season_elf_title;シーズン・エルフ
 season_griffin_title;シーズン・グリフィン
+season_june_title;6月のシーズン
 season_love_title;シーズン・ラブ
 season_magic_title;シーズン・マジック
 season_mahakam_title;シーズン・マハカム
+season_may_title;5月のシーズン
 season_reward_avatars;アバター
 season_reward_borders;フレーム：
 season_reward_card;カード：
@@ -6180,7 +6245,7 @@ shop_data_ep1_cardback_pack_title;別バージョンカードバック：紅き�
 shop_data_ep1_skin_pack_desc;<sprite="PopupIcons" name="Skin">スキン：ダークブラッドアーマー（モンスター）\n\n見えざる者が戻ってくる！ この黒き鎧を装着し、いにしえの上級吸血鬼が解き放つ闇の力を身に纏おう。鎧は特別なエフェクトとアニメーションを提供します。
 shop_data_ep1_skin_pack_desc_sale;見えざる者が戻ってくる！ この黒き鎧を装着し、いにしえの上級吸血鬼が解き放つ闇の力を身に纏おう。鎧は特別なエフェクトとアニメーションを提供します。\n\nこのスキンはモンスター勢力のみが装備でき、サオヴィンイベント期間中は30%オフでお求めいただけます！
 shop_data_ep1_skin_pack_title;スキン：ダークブラッドアーマー
-shop_data_ep2_alt_board_desc;夜のとばりが下りる時、ノヴィグラドの通りはギャングによって支配される。「夜のノヴィグラド」ボードで戦おう！
+shop_data_ep2_alt_board_desc;<sprite="PopupIcons" name="Board"> ボード：夜のノヴィグラド\n\n夜のとばりが下りる時、ノヴィグラドの通りはギャングによって支配される。「夜のノヴィグラド」ボードで戦おう！
 shop_data_ep2_alt_board_title;夜のノヴィグラド
 shop_data_ep2_alt_cardback_desc;炎に照らされしノヴィグラド。ノヴィグラドのプレミアムカードバック・別バージョンを手に入れよう（ノヴィグラド予約パックの一部として配信されたカードバック：ノヴィグラドの別バージョン）。
 shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> カードバック：不滅の炎\n\nノヴィグラドの炎は今も明るく燃えている！ ノヴィグラド予約パックの一部として配信された、ノヴィグラドのプレミアムカードバックの別バージョンを手に入れよう。\n旧正月セール期間中は30%オフでお求めいただけます！
@@ -6268,6 +6333,8 @@ shop_data_expansion_pass_ep7_desc;真の力が、いまその手に…\n\nこの
 shop_data_expansion_pass_ep7_title;力の代償 - 拡張パス
 shop_data_festival_bundle_desc;<sprite="PopupIcons" name="Avatar"> アバター：踊り手 \n\n<sprite="PopupIcons" name="Border"> フレーム：祭典\n\n<sprite="PopupIcons" name="Title"> 称号：祭典の踊り手\n\n夏の到来を祝う祭典の輪に加わり踊り明かそう！
 shop_data_festival_bundle_title;祭典バンドル
+shop_data_fiery_judgment_cardback_desc;<sprite="PopupIcons" name="CardBack"> カードバック：炎の裁定\n\n炎のエフェクトに包まれた特別バージョンの「鉄の裁定」カードバックで、戦場に乗り込もう！
+shop_data_fiery_judgment_cardback_title;カードバック：炎の裁定
 shop_data_fire_bundle_desc;<sprite="PopupIcons" name="Skin"> スキン：熱心な弁論家\n\n<sprite="PopupIcons" name="Board"> ボード：獄炎\n\nワーラット年の期間中にGWENT Open 1をサポートするために導入されたバンドル。
 shop_data_fire_bundle_title;フレーミングバンドル
 shop_data_first_bundles_promo_title;侵略軍・北方諸国・マハカムバンドル
@@ -6275,7 +6342,7 @@ shop_data_forgotten_treasures_pack_desc;<sprite="PopupIcons" name="Card"> 拡張
 shop_data_forgotten_treasures_pack_title;忘れられた秘宝パック
 shop_data_frozen_bundle_desc;<sprite="PopupIcons" name="Skin"> スキン：凍結\n\n<sprite="PopupIcons" name="Board"> ボード：デマヴェンドの誇り\n\n空気がひんやりとしている…\n\nワーラット年の期間中にGWENT Open 3をサポートするために導入されたバンドル。
 shop_data_frozen_bundle_title;凍結バンドル
-shop_data_gang_bundle_desc;『グウェント』新勢力のリーダーフレームを手に入れて、シンジケートの力を世界に見せつけよう！ 内容：\n\n <sprite="PopupIcons" name="Border">フレーム：クリーヴァー\n\n <sprite="PopupIcons" name="Border">フレーム：ホアソン・ジュニア\n\n <sprite="PopupIcons" name="Border">フレーム：グドルン\n\n <sprite="PopupIcons" name="Border">フレーム：物乞いの王\n\n <sprite="PopupIcons" name="Border">フレーム：サイラス・ヘメルファルト\n\n <sprite="PopupIcons" name="Border">フレーム：ディクストラ
+shop_data_gang_bundle_desc;<sprite="PopupIcons" name="Border"> フレーム：クリーヴァー\n\n<sprite="PopupIcons" name="Border"> フレーム：ホアソン・ジュニア\n\n<sprite="PopupIcons" name="Border"> フレーム：グドルン\n\n<sprite="PopupIcons" name="Border"> フレーム：物乞いの王\n\n<sprite="PopupIcons" name="Border"> フレーム：サイラス・ヘメルファルト\n\n<sprite="PopupIcons" name="Border"> フレーム：ディクストラ\n\n荒々しい指導者たちのフレームで、シンジケートへの忠心を堂々と示そう。
 shop_data_gang_bundle_title;「シンジケート」リーダー・フレームバンドル
 shop_data_gaunter_dark_skin_desc;<sprite="PopupIcons" name="Skin"> スキン：暗黒のゴウンター・オーディム（ニュートラル）\n\n姿を現した悪の化身、ゴウンター・オーディムと戦場で肩を並べ、その大いなる力を振るいましょう。
 shop_data_gaunter_dark_skin_title;スキン：暗黒のゴウンター・オーディム
@@ -6422,6 +6489,8 @@ shop_data_scoiatael_keg_desc;このタルには5枚の全セット「スコイ�
 shop_data_scoiatael_keg_title;タル・スコイア＝テル
 shop_data_sheep_bundle_desc;<sprite="PopupIcons" name="Avatar"> アバター：羊\n\n<sprite="PopupIcons" name="Border"> フレーム：羊\n\n<sprite="PopupIcons" name="Title"> 称号：善き羊飼い\n\nこのバンドルには、元々イノシシ年のシーズン・グリフィン中に解除可能だったアイテムと、新登場のボーナスアイテム1つが含まれています！
 shop_data_sheep_bundle_title;羊バンドル
+shop_data_shop_small_fire_pack_desc;<sprite="PopupIcons" name="Avatar"> アバター：イフリット\n\n<sprite="PopupIcons" name="Border"> フレーム：快活な炎\n\n<sprite="PopupIcons" name="Title"> 称号：炎の侍祭\n\n<sprite="PopupIcons" name="Powder"> 星の粉x400\n\n炎に身を包み、ホットな装飾で燃え上がろう。\n\nこのパックは元々ワーラット年にGWENT Open 1をサポートするために登場しました。
+shop_data_shop_small_fire_pack_title;フレーミングパック
 shop_data_shupe_base_skin_desc;<sprite="PopupIcons" name="Skin"> スキン：ショープ（全勢力）\n\n岩やエルフと玉ねぎのスープより、カラフルな紙片で遊ぶのが好きなトロールがいるのか？ その答えが今ここに！\n\nこのユニークなショープのカスタマイズ可能なニュートラルリーダースキンで、ショープの素敵な個性とトロールの魅力で戦場を征服しよう。
 shop_data_shupe_base_skin_title;スキン：ショープ
 shop_data_shupe_borders_bundle_desc; <sprite="PopupIcons" name="Title"> ショープ称号x1："冒険家"\n\n<sprite="PopupIcons" name="Avatar"> シュープアバターx1：“ショープ！”\n\n<sprite="PopupIcons" name="Border"> ショープフレームx3：騎士、狩人、魔術師\n\n\nショープのフレームを装着して、ショープと一緒に冒険に出かけよう！ 
@@ -6456,6 +6525,8 @@ shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board"> ボード�
 shop_data_spring_bundle_open2_title;スプリングバンドル
 shop_data_spring_pack_open2_desc;<sprite="PopupIcons" name="Coin"> コイン：春\n\n<sprite="PopupIcons" name="Powder"> 星の粉x400\n\nこのパックを購入することでグウェントのeスポーツを支援できます。購入金額の30%がそのまま、2021年7月に開催予定のGWENT Open 2の賞金に充てられます！
 shop_data_spring_pack_open2_title;スプリングパック（GWENT Open 2）
+shop_data_spring_shupe_bundle_desc;<sprite="PopupIcons" name="Border"> フレーム：スプリングナイト\n\n<sprite="PopupIcons" name="Title"> 称号：スプリングナイト\n\n<sprite="PopupIcons" name="Avatar"> アバター：ショープ\n\n春は冒険の季節！ ショープからスペシャルバンドルを入手し、冒険に旅立ちましょう！
+shop_data_spring_shupe_bundle_title;「ショープ」スプリングバンドル
 shop_data_starter_pack_desc;<sprite="PopupIcons" name="Card"> プレミアムレジェンダリーカードx1\n\n<sprite="PopupIcons" name="Powder"> 星の粉x400\n\n<sprite="PopupIcons" name="Keg"> 極・タルx10\n\n『グウェント』のスターターパックは、一度しか購入できないとてもお得なセットです。
 shop_data_starter_pack_promo_desc;購入は一回のみ！
 shop_data_starter_pack_promo_title;スターターパック
@@ -7312,6 +7383,7 @@ ui_cardback_group_3_title;ワーラットシーズン
 ui_cardback_group_30_title;ダンディリオンの旅
 ui_cardback_group_31_title;NA
 ui_cardback_group_32_title;呪われたカエル年
+ui_cardback_group_33_title;ジャーニー
 ui_cardback_group_4_title;拡張セット「紅き血の呪縛」
 ui_cardback_group_5_title;拡張セット「ノヴィグラド」
 ui_cardback_group_6_title;拡張セット「鉄の裁定」
@@ -7361,12 +7433,18 @@ ui_gameboard_group_7_title;酒場
 ui_gameboard_group_8_title;船
 ui_gameboard_group_9_title;旧正月イベント
 ui_gwent_deck_library;グウェントデッキライブラリ
+ui_journey_2_story_title;シリの物語
+ui_journey_bonus_disabled;通常
+ui_journey_bonus_enabled;<sprite="PopupIcons" name="WellRested"> 報酬2倍
+ui_journey_check_progress;進捗状況をチェック
 ui_journey_claim_rewards;報酬を取得！
+ui_journey_coming_soon;近日配信
 ui_journey_congratulations;おめでとう！ レベルアップしました！
 ui_journey_crowns_collected;ラウンド勝利で得たクラウン
 ui_journey_crowns_quests;クエスト完了で得たクラウン
 ui_journey_crowns_tooltip;現在のジャーニーレベルで得たクラウン
 ui_journey_level_tooltip;現在のジャーニーレベル
+ui_journey_list;ジャーニーリスト
 ui_journey_main_panel_buy;プレミアムを解除
 ui_journey_main_panel_extended_path;プレミアム
 ui_journey_main_panel_fast_travel;ファストトラベル
@@ -7374,6 +7452,7 @@ ui_journey_main_panel_levels;レベル
 ui_journey_main_panel_standard_path;通常
 ui_journey_main_panel_story;ジャーニーストーリー
 ui_journey_new_quests;物語の次のパートは来週登場…
+ui_journey_panel_title;ジャーニーリスト
 ui_journey_popup_congratulation;おめでとう！
 ui_journey_popup_finish_journey;「ダンディリオンの旅」を完了しました！ 道中で手に入れた記念品やアクセサリを大事にして、新しい衣装で着飾ろう！
 ui_journey_popup_journey_end;ジャーニーが終了しました - クラウンの欠片を獲得すると、報酬ポイントが手に入ります
@@ -7384,8 +7463,9 @@ ui_journey_popup_premium_ciri_desc;即座に25レベルを解除して幸先の�
 ui_journey_popup_premium_ciri_title;プレミアムパス+25レベル
 ui_journey_popup_premium_dandelion_desc;即座に25レベルを解除して幸先の良いスタートを。\nレジェンダリースキン「ダンディリオン」や追加装飾アイテムを獲得しよう！
 ui_journey_popup_premium_desc;25レベルを即座に解除してスタートダッシュ！\nレジェンダリースキン「ゲラルト」や追加の装飾アイテムを解除しよう！
+ui_journey_popup_premium_geralt_desc;25レベルを即座に解除してスタートダッシュ！\nレジェンダリースキン「ゲラルト」や追加の装飾アイテムを解除しよう！
 ui_journey_popup_premium_regis_desc;即座に25レベルを解除して幸先の良いスタートを。\nエミエル・レジスや追加装飾アイテムを獲得しよう！
-ui_journey_popup_premium_title;ファストトラベルバンドル
+ui_journey_popup_premium_title;プレミアムパス+25レベル
 ui_journey_popup_premium_triss_desc;即座に25レベルを解除して幸先の良いスタートを。\nレジェンダリースキン「トリス」や追加装飾アイテムを獲得しよう！
 ui_journey_popup_premium_yen_desc;即座に25レベルを解除して幸先の良いスタートを。\nレジェンダリースキン「イェネファー」や追加装飾アイテムを獲得しよう！
 ui_journey_popup_standard_alzur_desc;レジェンダリースキン「アルズール」を即座に解除！
@@ -7393,17 +7473,29 @@ ui_journey_popup_standard_aretuza_desc;ボード「アレトゥーザの大広�
 ui_journey_popup_standard_ciri_desc;レジェンダリースキン「シリ」を即座に解除しよう！
 ui_journey_popup_standard_dandelion_desc;レジェンダリースキン「ダンディリオン」を即座に解除しよう！
 ui_journey_popup_standard_desc;レジェンダリースキン「ゲラルト」を即座に解除
+ui_journey_popup_standard_geralt_desc;レジェンダリースキン「ゲラルト」を即座に解除
 ui_journey_popup_standard_regis_desc;エミエル・レジスを今すぐ解除！
 ui_journey_popup_standard_title;プレミアムパス
 ui_journey_popup_standard_triss_desc;レジェンダリースキン「トリス」を即座に解除しよう！
 ui_journey_popup_standard_yen_desc;レジェンダリースキン「イェネファー」を即座に解除しよう！
 ui_journey_popup_start_journey;「ダンディリオンの旅」が始まりました！ 試合を行い、週別クエストを完了して物語に聞き入りましょう！
 ui_journey_popup_start_title;ようこそ！
+ui_journey_premium;プレミアムジャーニー
+ui_journey_quest_complete;クエスト完了！
+ui_journey_quest_complete_updated;次週登場予定
+ui_journey_quest_difficulty_easy;イージー
+ui_journey_quest_difficulty_hard;ハード
+ui_journey_quest_difficulty_normal;ノーマル
+ui_journey_quest_reset;次週：
+ui_journey_reroll_disabled_tooltip;クエスト変更は次週になると利用可能になります
+ui_journey_reroll_enabled_tooltip;クエスト変更
 ui_journey_social_panel_week;第{0} / {1}週
+ui_journey_standard;通常ルートのジャーニー
 ui_journey_story_extended_next_week;「ゲラルトの旅」の次のパートは来週登場…
+ui_journey_story_extended_title;ゲラルトの物語
 ui_journey_story_heading;急進的教養
 ui_journey_story_standard_next_week;物語の次のパートは来週登場…
-ui_journey_story_standard_title;ダンディリオン
+ui_journey_story_standard_title;ダンディリオンの物語
 ui_journey_timer_days;{0}日
 ui_journey_timer_ends;終了：
 ui_journey_until_next_level;次のレベルまで
@@ -7504,6 +7596,8 @@ ui_soundtrack_group_1_title;ベーシック
 ui_soundtrack_group_2_title;スペシャル
 ui_soundtrack_group_3_title;アレトゥーザの旅
 ui_soundtrack_group_5_title;ダンディリオンの旅
+ui_soundtrack_group_6_title;ゲラルトの旅
+ui_soundtrack_group_7_title;シリの旅
 ui_tooltip_coins;シンジケートのボーナス通貨。最大9枚所持できる。次ラウンドに持ち越すと残量が半分になる。
 ui_vanity_inventory_change_category;カテゴリ変更
 ui_vanity_inventory_equip_preview;装備
@@ -7934,6 +8028,7 @@ vanity_avatar_48371_title;アバター：愛でいっぱい
 vanity_avatar_48372_title;アバター：ろくでなし
 vanity_avatar_48373_title;アバター：黄金のネッカー
 vanity_avatar_48377_title;アバター：呪われたカエル
+vanity_avatar_48381_title;アバター：グールスレイヤー
 vanity_body_80284_title;黒のコート（人間）
 vanity_body_80285_title;白のコート（人間）
 vanity_body_80286_title;黒の夜会服（人間）
@@ -8383,6 +8478,9 @@ vanity_cardback_60140_title;カードバック：サキュバスパーティー
 vanity_cardback_60141_title;カードバック：創造力の源泉
 vanity_cardback_60144_title;カードバック：時の移ろい
 vanity_cardback_60145_title;カードバック：禁忌の知識の瓶
+vanity_cardback_60149_title;カードバック：グールスレイヤー
+vanity_cardback_60150_title;カードバック：シリと妖婆
+vanity_cardback_60151_title;カードバック：時間と空間の女神
 vanity_cardback_61001_title;カードバック：モンスター
 vanity_cardback_61002_title;カードバック：ニルフガード
 vanity_cardback_61003_title;カードバック：北方諸国
@@ -8945,6 +9043,16 @@ vanity_leader_trinket_80394_title;小袋
 vanity_leader_trinket_80395_title;巻物
 vanity_leader_trinket_80400_title;ショープの愛の鎧
 vanity_leader_trinket_80401_title;ロイヤル・ハントレス
+vanity_leader_trinket_80403_title;オーラなし
+vanity_leader_trinket_80404_title;オーラ：アード
+vanity_leader_trinket_80405_title;オーラ：アクスィー
+vanity_leader_trinket_80406_title;オーラ：イグニ
+vanity_leader_trinket_80407_title;オーラ：クエン
+vanity_leader_trinket_80408_title;オーラ：イャーデン
+vanity_leader_trinket_80409_title;トロフィーなし
+vanity_leader_trinket_80410_title;呪具
+vanity_leader_trinket_80411_title;カランシールの首のタリスマン
+vanity_leader_trinket_80412_title;スケート
 vanity_monsters_challenge_title;タイラント
 vanity_nilfgaard_challenge_title;師団長
 vanity_northern_challenge_title;狩猟の達人
@@ -9280,6 +9388,8 @@ vanity_soundtrack_90019_title;叙事詩
 vanity_soundtrack_90020_title;最高傑作
 vanity_soundtrack_90021_title;愛に溢れて
 vanity_soundtrack_90022_title;ノヴィグラドの調べ
+vanity_soundtrack_90023_title;追跡者、グウィンブレード
+vanity_soundtrack_90024_title;空間と時間の女神
 vanity_title_20150_title;志願兵
 vanity_title_20151_title;親方
 vanity_title_20152_title;散兵
@@ -9573,6 +9683,8 @@ vanity_title_28251_title;ならず者
 vanity_title_28252_title;王子
 vanity_title_28253_title;好奇心
 vanity_title_28254_title;全知
+vanity_title_28255_title;グールスレイヤー
+vanity_title_28256_title;空間と時間の女神
 vanity_title_30180;マムシ
 vanity_title_30180_description;ランクモードでランク10に到達した（シーズン・ヴァイパー：5月）
 vanity_title_30181;ガラガラヘビ

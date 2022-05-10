@@ -1511,7 +1511,7 @@ achievement_90034_desc;Erreiche in Ciris erweiterter Reise Stufe {0}
 achievement_90034_desc_console;Besitze 3 Kopien einer Karte in einem Arena-Deck.
 achievement_90034_title;Alles gewinnen!
 achievement_90034_title_console;Es lebe die Tradition
-achievement_90035_desc;Schließe im Rahmen von Ciris Reise alle Aufträge ab
+achievement_90035_desc;Schließe im Rahmen von Ciris Reise alle der unten aufgeführten Aufträge ab:
 achievement_90035_desc_console;Gewinne eine Partie mit 2 verbliebenen Karten in deiner Hand.
 achievement_90035_title;Ciris größter Fan!
 achievement_90035_title_console;Noch nicht genug?
@@ -1914,6 +1914,56 @@ achievement_90296_title;Hilf König Eist Tuirseach
 achievement_90297_title;Hilf Königin Calanthe
 achievement_90298_title;Hilf Sigismund Dijkstra
 achievement_90299_title;Hilf Philippa Eilhart
+achievement_90301_desc;Schließe 5 Quests von Geralts Reise ab
+achievement_90301_title;Verlassenes Kind
+achievement_90302_desc;Schließe 10 Quests von Geralts Reise ab
+achievement_90302_title;Erste Prüfung
+achievement_90303_desc;Schließe 20 Quests von Geralts Reise ab
+achievement_90303_title;Erste Schritte als Hexer
+achievement_90305_desc;Erreiche Stufe 110 in Geralts erweiterter Reise
+achievement_90305_title;Monsterschlächter
+achievement_90306_desc;Erreiche Stufe 120 in Geralts erweiterter Reise
+achievement_90306_title;Telekinetischer Stoß
+achievement_90307_desc;Erreiche Stufe 130 in Geralts erweiterter Reise
+achievement_90307_title;Hypnotische Wirkung
+achievement_90308_desc;Erreiche Stufe 145 in Geralts erweiterter Reise
+achievement_90308_title;Magische Falle
+achievement_90309_desc;Erreiche Stufe 160 in Geralts erweiterter Reise
+achievement_90309_title;Schutzschild
+achievement_90310_desc;Erreiche Stufe 175 in Geralts erweiterter Reise
+achievement_90310_title;Wo ist mein fünftes Element?
+achievement_90312_desc;Gewinne 1 Partie, während du eine von Geralts Auren ausgerüstet hast
+achievement_90312_title;Erste Flamme
+achievement_90313_desc;Gewinne 10 Partien, während du eine von Geralts Auren ausgerüstet hast
+achievement_90313_title;Spiel mit dem Feuer
+achievement_90314_desc;Gewinne 30 Partien, während du eine von Geralts Auren ausgerüstet hast
+achievement_90314_title;Pyrokinetische Feuerwelle
+achievement_90315_desc;Schließe im Rahmen von Geralts Reise alle der unten aufgeführten Aufträge ab:
+achievement_90315_title;Gwynbleidd auf dem Weg
+achievement_90317_desc;Schließe 5 Quests von Ciris Reise ab
+achievement_90317_title;Kind des Gesetzes der Überraschung
+achievement_90318_desc;Schließe 10 Quests von Ciris Reise ab
+achievement_90318_title;Waise
+achievement_90319_desc;Schließe 20 Quests von Ciris Reise ab
+achievement_90319_title;Prinzessin von Cintra
+achievement_90321_desc;Gewinne 1 Partie, während du eine von Ciris Trophäen ausgerüstet hast
+achievement_90321_title;Springerin
+achievement_90322_desc;Gewinne 10 Partien, während du eine von Ciris Trophäen ausgerüstet hast
+achievement_90322_title;Reisende zwischen den Welten
+achievement_90323_desc;Gewinne 30 Partien, während du eine von Ciris Trophäen ausgerüstet hast
+achievement_90323_title;Herrin der Zeiten und Welten
+achievement_90324_desc;Spiele 30 Partien mit einer von Ciris Auren
+achievement_90324_title;Spüre die Macht
+achievement_90325_desc;Spiele 30 Partien mit einem von Ciris Kopfausrüstungsteilen
+achievement_90325_title;Bloß nicht den Kopf verlieren
+achievement_90326_desc;Spiele 30 Partien mit einer von Ciris Münzen
+achievement_90326_title;Schicksalhafte Entscheidung durch Münzwurf
+achievement_90327_desc;Spiele 30 Partien mit einer von Ciris Kartenrückseiten
+achievement_90327_title;Es stand in den Karten
+achievement_90328_desc;Schließe alle der unten aufgeführten, mit Ciris Accessoires zusammenhängenden Aufträge ab:
+achievement_90328_title;Herrin der Accessoires
+achievement_90329_desc;Schließe im Rahmen von Geralts und Ciris Reisen alle der unten aufgeführten Aufträge ab:
+achievement_90329_title;Wie der Vater, so die Tochter
 achievement_category_arena;Arena
 achievement_category_collection;Sammlung
 achievement_category_expansions;Erweiterungen
@@ -3154,9 +3204,11 @@ game_mode_seasonal_draconid_title;Schlachtenrausch
 game_mode_seasonal_dryad_title;Wippe
 game_mode_seasonal_elf_title;Bloß nicht nachgeben
 game_mode_seasonal_griffin_title;Stärkeverlagerung
+game_mode_seasonal_june_title;Juni-Saison
 game_mode_seasonal_love_title;Unwiderstehliche Anziehung
 game_mode_seasonal_magic_title;Doppelzauber
 game_mode_seasonal_mahakam_title;Verschanzung
+game_mode_seasonal_may_title;Mai-Saison
 game_mode_seasonal_more_provision_desc;Verwandle alle Karten auf deiner Hand zu Beginn deines nächsten Zuges in zufällige Karten, deren Rekrutierungskosten 1 höher sind.
 game_mode_seasonal_more_provision_title;Geduld ist eine Tugend!
 game_mode_seasonal_viper_title;Schwung
@@ -3360,6 +3412,17 @@ holiday_rewards_panel_title;Belohnungen für das Abschließen der Herausforderun
 http_code;Fehlercode:
 in_progress;Transaktion wird abgewickelt. Warten auf Bestätigung des externen Zahlungsanbieters. Die Transaktion wird im Hintergrund abgeschlossen.
 in_progress_title;Transaktion wird abgeschlossen
+infinite_journey_common_quest;Leicht
+infinite_journey_epic_quest;Schwer
+infinite_journey_rare_quest;Mittel
+infinity_journey_name_alzur;Alzur
+infinity_journey_name_aretuza;Aretusa
+infinity_journey_name_ciri;Ciri
+infinity_journey_name_dandelion;Rittersporn
+infinity_journey_name_geralt;Geralt
+infinity_journey_name_regis;Regis
+infinity_journey_name_triss;Triss
+infinity_journey_name_yennefer;Yennefer
 input_accept_deck_validation_popup;Annehmen
 input_accept_error_loading_decks;Annehmen
 input_accept_forfeit;Abbrechen
@@ -4161,7 +4224,7 @@ journey_3_quest_5_extended_title;Verrufener Verrückter
 journey_3_quest_5_standard_title;Hunderte Balladen, vielleicht sogar tausende!
 journey_3_quest_6_extended_title;Kühl und kalkulierend
 journey_3_quest_6_standard_title;Komm auf den Punkt
-journey_info_description;FORTSCHRITT\nDu kommst in der Reise voran, indem du Runden in Online-Partien gewinnst. Für jede gewonnene Runde gibt es 1 Kronenstück.\nDu kannst deinen Reisefortschritt über Stufe 100 hinaus fortsetzen und dabei Bonusbelohnungen abstauben!\n\nDeinen Reisefortschritt kannst du über die Karte „Reise“ im Hauptmenü verfolgen.\n\nVERBESSERUNG\n<sprite="PopupIcons" name="WellRested"> – Du kannst insgesamt 14 Extra-Kronenstücke durch gewonnene Runden erhalten. Mit einer gewonnenen Partie erhältst du also 2 Kronenstücke und 2 Extra-Kronenstücke.\n<sprite="PopupIcons" name="WellRested"> – Wird jeweils zum neuen Tag zurückgesetzt.\n\nQUESTS\nJede Woche fügen wir 6 neue Quests zur Reise hinzu, die dir jeweils 20 Kronenstücke extra bescheren.\nDu kannst in Premiumquests vorankommen, ohne die Premium-Reise freizuschalten, aber mit dem Premiumpfad winken dir zusätzliche Kronenstücke.
+journey_info_description;FORTSCHRITT\nDu kommst in der Reise voran, indem du Runden in Online-Partien gewinnst. Für jede gewonnene Runde gibt es 1 Kronenstück.\nDu kannst deinen Reisefortschritt über Stufe 100 hinaus fortsetzen und dabei Bonusbelohnungen abstauben!\n\nVERBESSERUNG\n<sprite="PopupIcons" name="WellRested"> – Du kannst insgesamt 14 Extra-Kronenstücke durch gewonnene Runden erhalten. Mit einer gewonnenen Partie erhältst du also 2 Kronenstücke und 2 Extra-Kronenstücke.\n<sprite="PopupIcons" name="WellRested"> – Wird jeweils zum neuen Tag zurückgesetzt.\n\nQUESTS\nJede Woche sind in der Reise nur <b>3 Quests</b> verfügbar, die dir bei Abschluss jeweils 20 Kronenstücke bescheren.\nWenn du die Premiumreise aktiviert hast, erhältst du die <b>doppelten Belohnungen</b> beim Abschluss dieser Quests (also jeweils 40 Kronenstücke).\nFür den Fall, dass du eine oder alle dieser Quests nicht abschließen kannst, hast du die Möglichkeit, in einer neuen Woche die Quests aus der vorherigen Woche gegen andere, zufällige Quests auszutauschen.\nDie Quests bleiben unabhängig von der ausgewählten Reise gleich. Die durch einen Quest-Abschluss verdienten Kronenstücke werden zur aktuell ausgewählten Reise hinzugefügt.\n\nDIE REISE WECHSELN\nDu kannst ganz einfach und jederzeit von einer Reise zu einer anderen wechseln, indem du sie in der Reiseliste auf dem Fortschritt-Bildschirm auswählst.\n
 journey_quest_1_extended_title;Kämpf um dein Leben
 journey_quest_1_standard_title;Kämpf um deine Würde
 journey_quest_28_standard_title;Hochzeit
@@ -5934,9 +5997,11 @@ season_draconid_title;Saison des Draconiden
 season_dryad_title;Saison der Dryade
 season_elf_title;Saison der Elfen
 season_griffin_title;Saison des Greifen
+season_june_title;Juni-Saison
 season_love_title;Saison der Liebe
 season_magic_title;Saison der Magie
 season_mahakam_title;Saison von Mahakam
+season_may_title;Mai-Saison
 season_reward_avatars;Avatare
 season_reward_borders;RAHMEN:
 season_reward_card;Karten:
@@ -6180,7 +6245,7 @@ shop_data_ep1_cardback_pack_title;Alternative Crimson Curse-Kartenrückseite
 shop_data_ep1_skin_pack_desc;<sprite="PopupIcons" name="Skin"> Dunkle Blutrüstung – Skin (Monster) \n\nDer Unsichtbare ist zurück – und diesmal in Schwarz! Gib dich der finsteren Macht des altehrwürdigen höheren Vampirs mit diesem eleganten Rüstungsset hin, das über besondere visuelle Effekte und Animationen verfügt.
 shop_data_ep1_skin_pack_desc_sale;Der Unsichtbare ist zurück – und diesmal in Schwarz! Gib dich der finsteren Macht des altehrwürdigen höheren Vampirs mit diesem eleganten Rüstungsset hin, das über besondere visuelle Effekte und Animationen verfügt.\n\nDieser Skin kann nur für die Monster-Fraktion ausgerüstet werden und ist während des Saovine-Events 30 % günstiger!
 shop_data_ep1_skin_pack_title;Dunkle Blutrüstung – Skin
-shop_data_ep2_alt_board_desc;Wenn die Nacht hereinbricht, übernehmen die Gangs von Novigrad die Straßen! Kämpfe mit Freunden und Feinden auf dem „Novigrad-Nacht“-Spielbrett!
+shop_data_ep2_alt_board_desc;<sprite="PopupIcons" name="Board"> Novigrad bei Nacht – Spielbrett\n\nWenn die Nacht hereinbricht, übernehmen die Banden von Novigrad die Straßen! Kämpfe mit Freunden und Feinden auf dem "Novigrad bei Nacht"-Spielbrett!
 shop_data_ep2_alt_board_title;„Novigrad-Nacht“-Brett
 shop_data_ep2_alt_cardback_desc;Das Feuer brennt immer noch hell in Novigrad! Schnapp dir diese alternative Version der Premium-Novigrad-Kartenrückseite. Dies ist die alternative Version der Novigrad-Kartenrückseite, die ursprünglich als Teil der Novigrad-Vorbesteller-Packs erhältlich war.
 shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> Ewigfeuer – Kartenrückseite\n\nDas Feuer brennt immer noch hell in Novigrad! Schnapp dir diese alternative Version der Premium-Novigrad-Kartenrückseite, die ursprünglich als Teil der Novigrad-Vorbesteller-Packs erhältlich war.\nDiese Kartenrückseite ist während der Rabatte zum Mondneujahr um 30 % reduziert.
@@ -6268,6 +6333,8 @@ shop_data_expansion_pass_ep7_desc;Wahre Macht kann dir gehören ...\n\nDieser Er
 shop_data_expansion_pass_ep7_title;Price of Power – Erweiterungs-Pass
 shop_data_festival_bundle_desc;<sprite="PopupIcons" name="Avatar">Tänzer – Avatar\n\n<sprite="PopupIcons" name="Border">Fest – Rahmen\n\n<sprite="PopupIcons" name="Title">Titel "Festtänzer"\n\nMöge der Tanz beginnen! Genieße die Feier, der Sommer steht vor der Tür!
 shop_data_festival_bundle_title;Fest-Bundle
+shop_data_fiery_judgment_cardback_desc;<sprite="PopupIcons" name="CardBack"> Feurige Iron Judgment-Kartenrückseite\n\nVerliere dich im Kampfrausch mit einer feurigen Brunst mit dieser speziellen Version der "Iron Judgment"-Kartenrückseite!
+shop_data_fiery_judgment_cardback_title;Feurige Iron Judgment-Kartenr
 shop_data_fire_bundle_desc;<sprite="PopupIcons" name="Skin"> Leidenschaftlicher Redner – Skin\n\n<sprite="PopupIcons" name="Board"> Inferno – Spielbrett\n\nDieses Bundle wurde veröffentlicht, um die GWENT Open 1 im des Jahr der Werratte zu unterstützen.
 shop_data_fire_bundle_title;Flammendes Bundle
 shop_data_first_bundles_promo_title;Invasoren/Nördliche Königreiche/Mahakam-Bundles
@@ -6275,7 +6342,7 @@ shop_data_forgotten_treasures_pack_desc;<sprite="PopupIcons" name="Card"> Alle P
 shop_data_forgotten_treasures_pack_title;Verlorene-Schätze-Pack
 shop_data_frozen_bundle_desc;<sprite="PopupIcons" name="Skin"> Gefroren – Skin\n\n<sprite="PopupIcons" name="Board"> Demawends Stolz – Spielbrett\n\nFrost liegt in der Luft, spürst du es auch? \n\nDieses Bundle wurde veröffentlicht, um die GWENT Open 3 im Jahr der Werratte zu unterstützen.
 shop_data_frozen_bundle_title;Gefroren-Bundle
-shop_data_gang_bundle_desc;Zeige der Welt auf welcher Seite du innerhalb Syndikats stehst, indem du einen Rahmen ausrüstet, der auf einen der Anführer der neuen GWENT-Fraktion Bezug nimmt. Dieses Bundle enthält:\n\n <sprite="PopupIcons" name="Border">Hacker – Rahmen\n\n <sprite="PopupIcons" name="Border">Hurensohn Junior – Rahmen\n\n <sprite="PopupIcons" name="Border">Gudrun Bjornsdottir – Rahmen\n\n<sprite="PopupIcons" name="Border">Bettlerkönig – Rahmen\n\n <sprite="PopupIcons" name="Border">Cyrus Hemmelfart – Rahmen\n\n <sprite="PopupIcons" name="Border">Sigismund Dijkstra – Rahmen
+shop_data_gang_bundle_desc;<sprite="PopupIcons" name="Border"> Hacker – Rahmen\n\n<sprite="PopupIcons" name="Border"> Hurensohn Junior – Rahmen\n\n<sprite="PopupIcons" name="Border"> Gudrun Bjornsdottir – Rahmen\n\n<sprite="PopupIcons" name="Border"> Bettlerkönig – Rahmen\n\n<sprite="PopupIcons" name="Border"> Cyrus Hemmelfart – Rahmen\n\n<sprite="PopupIcons" name="Border"> Dijkstra – Rahmen\n\nZeige der Welt, auf welcher Seite du innerhalb Syndikats stehst, indem du Rahmen ausrüstest, die an seine grimmigen Anführer angelehnt sind.
 shop_data_gang_bundle_title;Syndikatsanführer-Rahmen-Bundle
 shop_data_gaunter_dark_skin_desc;<sprite="PopupIcons" name="Skin"> Dunkel – Skin von Gaunter O'Dim (Neutral)\n\nZiehe als Gaunter O'Dim, die Ausgeburt des Bösen, in seinem bisher finstersten Erscheinungsbild in den Kampf.
 shop_data_gaunter_dark_skin_title;Dunkel – Skin von Gaunter O'Dim
@@ -6422,6 +6489,8 @@ shop_data_scoiatael_keg_desc;Dieses Fass gewährt dir nach dem Öffnen fünf Sco
 shop_data_scoiatael_keg_title;Scoia'tael-Fass
 shop_data_sheep_bundle_desc;<sprite="PopupIcons" name="Avatar"> Schaf – Avatar\n\n<sprite="PopupIcons" name="Border"> Schaf – Rahmen\n\n<sprite="PopupIcons" name="Title"> Guter Hirte – Titel\n\nDieses Bundle enthält Verzierungen, die ursprünglich als freischaltbare Gegenstände in der Saison des Greifen im Jahr des Wildschweins eingeführt wurden – und dazu gibt es einen neuen, besonderen Bonusgegenstand!
 shop_data_sheep_bundle_title;Schaf-Bundle
+shop_data_shop_small_fire_pack_desc;<sprite="PopupIcons" name="Avatar"> Ifrit – Avatar\n\n<sprite="PopupIcons" name="Border"> Animierte Flamme – Rahmen\n\n<sprite="PopupIcons" name="Title"> Feuerakolyth – Titel\n\n<sprite="PopupIcons" name="Powder"> 400 Meteoritenstaub\n\nHülle dich in Flammen mit diesen heiß begehrten kosmetischen Gegenständen.\n\nDieses Pack wurde veröffentlicht, um die GWENT Open 1 im Jahr der Werratte zu unterstützen.
+shop_data_shop_small_fire_pack_title;Flammendes Pack
 shop_data_shupe_base_skin_desc;<sprite="PopupIcons" name="Skin">Shøp – Skin (Alle Fraktionen)\n\nWelcher Troll, der etwas auf sich hält, spielt lieber mit bunten Fetzen als mit Steinen oder einer deftigen Elf- und Zwiebelsuppe? Na, dieser hier!\n\nSetze Shøps umwerfenden Trollcharme ein, um GWENTs Schlachtfelder mit diesem einzigartigen neutralen und anpassbaren Anführer-Skin zu erobern.
 shop_data_shupe_base_skin_title;Shøp – Skin
 shop_data_shupe_borders_bundle_desc;<sprite="PopupIcons" name="Title"> 1 Shøp-Titel: „Der Abenteurer“\n\n<sprite="PopupIcons" name="Avatar"> 1 Shøp-Avatar: Shøp!\n\n<sprite="PopupIcons" name="Border"> 3 Shøp-Rahmen: Ritter, Jäger und Magier\n \n\nShøp und du werden Abenteuer erleben! Zeige allen mit dem Shøp-Rahmen-Bundle, wohin du an deinen freien Tagen aufgebrochen bist.
@@ -6456,6 +6525,8 @@ shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board"> Frühling 
 shop_data_spring_bundle_open2_title;Frühling-Bundle
 shop_data_spring_pack_open2_desc;<sprite="PopupIcons" name="Coin"> Frühling – Münze\n\n<sprite="PopupIcons" name="Powder"> 400 Meteoritenstaub\n\nMit dem Kauf dieses Produkts unterstützt du den GWENT-E-Sport. 30 % der Einnahmen, die mit dem Pack erzielt werden, gehen direkt in die Preisgelder der GWENT Open 2, die im Juli 2021 stattfinden werden!
 shop_data_spring_pack_open2_title;Frühlings-Pack (GWENT Open 2)
+shop_data_spring_shupe_bundle_desc;<sprite="PopupIcons" name="Border"> Frühlingsritter – Rahmen\n\n<sprite="PopupIcons" name="Title"> Frühlingsritter – Titel\n\n<sprite="PopupIcons" name="Avatar"> Shøp – Avatar\n\nDer Frühling ist erwacht und das Abenteuer ruft! Folge dem Ruf, indem du dir dieses besondere Bundle von Shøp holst!
+shop_data_spring_shupe_bundle_title;Shøp-Frühlings-Bundle
 shop_data_starter_pack_desc;<sprite="PopupIcons" name="Card"> 1 Legendäre Premiumkarte\n\n <sprite="PopupIcons" name="Powder"> 400 Meteoritenstaub\n\n <sprite="PopupIcons" name="Keg"> 10 Ultimative Fässer\n\nDas GWENT-Starterpack ist ein einmaliges Angebot, mit dem du deiner Kartensammlung ein großartiges Fundament geben kannst.
 shop_data_starter_pack_promo_desc;Einmaliges, preiswertes Angebot
 shop_data_starter_pack_promo_title;Starterpack
@@ -7312,6 +7383,7 @@ ui_cardback_group_3_title;Werratten-Saisons
 ui_cardback_group_30_title;Rittersporns Reise
 ui_cardback_group_31_title;NA
 ui_cardback_group_32_title;Jahr der verfluchten Kröte
+ui_cardback_group_33_title;Reise
 ui_cardback_group_4_title;„Crimson Curse“-Eweiterung
 ui_cardback_group_5_title;Novigrad-Eweiterung
 ui_cardback_group_6_title;„Iron Judgment“-Eweiterung
@@ -7361,12 +7433,18 @@ ui_gameboard_group_7_title;Taverne
 ui_gameboard_group_8_title;Schiff
 ui_gameboard_group_9_title;Mondneujahrs-Events
 ui_gwent_deck_library;Gwent-Deckbibliothek
+ui_journey_2_story_title;Ciris Geschichte
+ui_journey_bonus_disabled;Standard
+ui_journey_bonus_enabled;2-fache <sprite="PopupIcons" name="WellRested"> Belohnung
+ui_journey_check_progress;Fortschritt einsehen
 ui_journey_claim_rewards;Belohnungen abholen!
+ui_journey_coming_soon;Bald verfügbar
 ui_journey_congratulations;Herzlichen Glückwunsch! Du bist eine Stufe aufgestiegen!
 ui_journey_crowns_collected;Kronen für gewonnene Runden
 ui_journey_crowns_quests;Kronen für abgeschlossene Quests
 ui_journey_crowns_tooltip;Gesammelte Kronen in der aktuellen Reisestufe
 ui_journey_level_tooltip;Deine aktuelle Reisestufe
+ui_journey_list;Reiseliste
 ui_journey_main_panel_buy;Premium freischalten
 ui_journey_main_panel_extended_path;Premium
 ui_journey_main_panel_fast_travel;Schnellreisen
@@ -7374,6 +7452,7 @@ ui_journey_main_panel_levels;Level
 ui_journey_main_panel_standard_path;Standard
 ui_journey_main_panel_story;Reisegeschichte
 ui_journey_new_quests;Die nächsten Quests starten kommende Woche ...
+ui_journey_panel_title;Reiseliste
 ui_journey_popup_congratulation;Herzlichen Glückwunsch!
 ui_journey_popup_finish_journey;Du hast Rittersporns Reise abgeschlossen! Erfreue dich an den Souvenirs und Schätzen, die du unterwegs gefunden hast, und trage deine neuen Outfits mit Stolz!
 ui_journey_popup_journey_end;Die Reise ist beendet – Kronenstücke bringen dir Belohnungspunkte ein
@@ -7384,8 +7463,9 @@ ui_journey_popup_premium_ciri_desc;Erhalte einen Vorsprung und schalte sofort 25
 ui_journey_popup_premium_ciri_title;Premiumpass +25 Stufen
 ui_journey_popup_premium_dandelion_desc;Erhalte einen Vorsprung und schalte sofort 25 Stufen frei.\n Schalte den legendären Rittersporn-Skin und zusätzliche Verzierungen frei!
 ui_journey_popup_premium_desc;Erhalte einen Vorsprung und schalte sofort 25 Level frei.\nSchalte den legendären Geralt-Skin und zusätzliche Verzierungen frei!
+ui_journey_popup_premium_geralt_desc;Erhalte einen Vorsprung und schalte sofort 25 Level frei.\nSchalte den legendären Geralt-Skin und zusätzliche Verzierungen frei!
 ui_journey_popup_premium_regis_desc;Erhalte einen Vorsprung und schalte sofort 25 Stufen frei.\nSchalte Emiel Regis und zusätzliche Verzierungen frei!
-ui_journey_popup_premium_title;Schnellreise-Bundle
+ui_journey_popup_premium_title;Premiumpass +25 Stufen
 ui_journey_popup_premium_triss_desc;Erhalte einen Vorsprung und schalte sofort 25 Stufen frei.\nSchalte den legendären Triss-Skin und zusätzliche Verzierungen frei!
 ui_journey_popup_premium_yen_desc;Erhalte einen Vorsprung und schalte sofort 25 Stufen frei.\nSchalte den legendären Yennefer-Skin und zusätzliche Verzierungen frei!
 ui_journey_popup_standard_alzur_desc;Schalte sofort den legendären Alzur-Skin frei!
@@ -7393,17 +7473,29 @@ ui_journey_popup_standard_aretuza_desc;Schalte sofort das Aretusa-Haupthalle-Spi
 ui_journey_popup_standard_ciri_desc;Schalte sofort den legendären Ciri-Skin frei!
 ui_journey_popup_standard_dandelion_desc;Schalte sofort den legendären Rittersporn-Skin frei.
 ui_journey_popup_standard_desc;Schalte sofort den legendären Geralt-Skin frei
+ui_journey_popup_standard_geralt_desc;Schalte sofort den legendären Geralt-Skin frei
 ui_journey_popup_standard_regis_desc;Schalte Emiel Regis jetzt frei!
 ui_journey_popup_standard_title;Premiumpass
 ui_journey_popup_standard_triss_desc;Schalte sofort den legendären Triss-Skin frei!
 ui_journey_popup_standard_yen_desc;Schalte sofort den legendären Yennefer-Skin frei.
 ui_journey_popup_start_journey;Rittersporns Reise beginnt! Folge seiner Geschichte, indem du Partien spielst und wöchentliche Quests abschließt!
 ui_journey_popup_start_title;Willkommen!
+ui_journey_premium;Premiumreise
+ui_journey_quest_complete;Quest abgeschlossen!
+ui_journey_quest_complete_updated;Bald verfügbar in der neuen Woche
+ui_journey_quest_difficulty_easy;Leicht
+ui_journey_quest_difficulty_hard;Schwer
+ui_journey_quest_difficulty_normal;Mittel
+ui_journey_quest_reset;Neue Woche:
+ui_journey_reroll_disabled_tooltip;Du kannst erst in einer neuen Woche wieder neue Quests wechseln
+ui_journey_reroll_enabled_tooltip;Quest wechseln
 ui_journey_social_panel_week;WOCHE {0} / {1}
+ui_journey_standard;Standardreise
 ui_journey_story_extended_next_week;Der nächste Teil von Geralts Reise erwartet dich nächste Woche ...
+ui_journey_story_extended_title;Geralts Geschichte
 ui_journey_story_heading;Radikal freie Künste
 ui_journey_story_standard_next_week;Das nächste Kapitel folgt in der kommenden Woche ...
-ui_journey_story_standard_title;Rittersporn
+ui_journey_story_standard_title;Rittersporns Geschichte
 ui_journey_timer_days;{0} TAGE
 ui_journey_timer_ends;ENDET:
 ui_journey_until_next_level;bis zur nächsten Stufe
@@ -7504,6 +7596,8 @@ ui_soundtrack_group_1_title;Grundlegend
 ui_soundtrack_group_2_title;Speziell
 ui_soundtrack_group_3_title;Aretusa-Reise
 ui_soundtrack_group_5_title;Rittersporns Reise
+ui_soundtrack_group_6_title;Geralts Reise
+ui_soundtrack_group_7_title;Ciris Reise
 ui_tooltip_coins;Die besondere Währung des Syndikats. Du darfst maximal 9 Münzen besitzen. Beim Übergang in die nächste Runde wird deine aktuelle Münzenanzahl halbiert.
 ui_vanity_inventory_change_category;Kategorie wechseln
 ui_vanity_inventory_equip_preview;Ausrüsten
@@ -7896,7 +7990,7 @@ vanity_avatar_48333_title;Wassermagie – Avatar
 vanity_avatar_48334_title;Sternenmagie – Avatar
 vanity_avatar_48335_title;Gruftweib – Avatar
 vanity_avatar_48336_title;Herzog der Hunde – Avatar
-vanity_avatar_48337_title;BrauerinBrauerin – Avatar
+vanity_avatar_48337_title;Brauerin – Avatar
 vanity_avatar_48338_title;Flüsterin – Avatar
 vanity_avatar_48339_title;Weberin – Avatar
 vanity_avatar_48340_title;Emiel Regis – Avatar
@@ -7934,6 +8028,7 @@ vanity_avatar_48371_title;Voller Liebe – Avatar
 vanity_avatar_48372_title;Schlingel – Avatar
 vanity_avatar_48373_title;Goldener Nekker – Avatar
 vanity_avatar_48377_title;Verfluchte Kröte – Avatar
+vanity_avatar_48381_title;Ghul-Schlächter – Avatar
 vanity_body_80284_title;Schwarzer Mantel (Mensch)
 vanity_body_80285_title;Weißer Mantel (Mensch)
 vanity_body_80286_title;Schwarze Ballkleidung (Mensch)
@@ -8383,6 +8478,9 @@ vanity_cardback_60140_title;Sukkubus-Party – Kartenrückseite
 vanity_cardback_60141_title;Inspiration und Kreativität – Kartenrückseite
 vanity_cardback_60144_title;Tageszeiten – Kartenrückseite
 vanity_cardback_60145_title;Fläschchen mit verbotenem Wissen – Kartenrückseite
+vanity_cardback_60149_title;Ghul-Schlächter – Kartenrückseite
+vanity_cardback_60150_title;Ciri und die Muhmen – Kartenrückseite
+vanity_cardback_60151_title;Herrin der Zeiten und Welten – Kartenrückseite
 vanity_cardback_61001_title;Ungeheuer – Kartenrückseite
 vanity_cardback_61002_title;Nilfgaard – Kartenrückseite
 vanity_cardback_61003_title;Nördliche Königreiche – Kartenrückseite
@@ -8945,6 +9043,16 @@ vanity_leader_trinket_80394_title;Beutel
 vanity_leader_trinket_80395_title;Schriftrollen
 vanity_leader_trinket_80400_title;Shøps Liebesrüstung
 vanity_leader_trinket_80401_title;Ihre Königliche Jägerin
+vanity_leader_trinket_80403_title;Keine Aura
+vanity_leader_trinket_80404_title;Aard – Aura
+vanity_leader_trinket_80405_title;Axii – Aura
+vanity_leader_trinket_80406_title;Igni – Aura
+vanity_leader_trinket_80407_title;Quen – Aura
+vanity_leader_trinket_80408_title;Yrden – Aura
+vanity_leader_trinket_80409_title;Keine Trophäe
+vanity_leader_trinket_80410_title;Phylakterium
+vanity_leader_trinket_80411_title;Caranthir-Kopf-Talisman
+vanity_leader_trinket_80412_title;Schlittschuhe
 vanity_monsters_challenge_title;Tyrann
 vanity_nilfgaard_challenge_title;Divisionskommandant
 vanity_northern_challenge_title;Meisterjäger
@@ -9280,6 +9388,8 @@ vanity_soundtrack_90019_title;Ballade
 vanity_soundtrack_90020_title;Meisterwerk
 vanity_soundtrack_90021_title;Ein Hauch von Romantik
 vanity_soundtrack_90022_title;Melodien aus Novigrad
+vanity_soundtrack_90023_title;Gwynbleidd auf dem Weg
+vanity_soundtrack_90024_title;Herrin der Zeiten und Welten
 vanity_title_20150_title;Freiwilliger
 vanity_title_20151_title;Vorarbeiter
 vanity_title_20152_title;Scharmützler
@@ -9573,6 +9683,8 @@ vanity_title_28251_title;Schlägertyp
 vanity_title_28252_title;Prinz
 vanity_title_28253_title;Neugierig
 vanity_title_28254_title;Allwissend
+vanity_title_28255_title;Ghul-Schlächter
+vanity_title_28256_title;Herrin der Zeiten und Welten
 vanity_title_30180;Kupferkopf
 vanity_title_30180_description;Belohnung für das Erreichen von Rang 10 im Ranglistenmodus der Saison der Viper (Mai).
 vanity_title_30181;Seitenwinder

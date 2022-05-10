@@ -1511,7 +1511,7 @@ achievement_90034_desc;Atteindre le niveau {0} dans le Voyage étendu de Ciri.
 achievement_90034_desc_console;Avoir 3 copies de la même carte dans un jeu d'arène.
 achievement_90034_title;Une réussite complète !
 achievement_90034_title_console;Traditionaliste
-achievement_90035_desc;Terminer tous les contrats liés au Voyage de Ciri.
+achievement_90035_desc;Terminer tous les contrats liés au Voyage de Ciri listés ci-dessous :
 achievement_90035_desc_console;Gagner une partie avec 2 cartes restantes en main.
 achievement_90035_title;Le plus grand fan de Ciri !
 achievement_90035_title_console;T'en veux encore ?
@@ -1914,6 +1914,56 @@ achievement_90296_title;Aider le roi Eist Tuirseach
 achievement_90297_title;Aider la reine Calanthe
 achievement_90298_title;Aider Sigismund Dijkstra
 achievement_90299_title;Aider Philippa Eilhart
+achievement_90301_desc;Terminer 5 quêtes du Voyage de Geralt.
+achievement_90301_title;Enfant abandonné
+achievement_90302_desc;Terminer 10 quêtes du Voyage de Geralt.
+achievement_90302_title;Première épreuve
+achievement_90303_desc;Terminer 20 quêtes du Voyage de Geralt.
+achievement_90303_title;Premiers pas de sorceleur
+achievement_90305_desc;Atteindre le niveau 110 dans le Voyage étendu de Geralt.
+achievement_90305_title;Tueur de monstres
+achievement_90306_desc;Atteindre le niveau 120 dans le Voyage étendu de Geralt.
+achievement_90306_title;Impulsion télékinétique
+achievement_90307_desc;Atteindre le niveau 130 dans le Voyage étendu de Geralt.
+achievement_90307_title;Effet hypnotique
+achievement_90308_desc;Atteindre le niveau 145 dans le Voyage étendu de Geralt.
+achievement_90308_title;Piège magique
+achievement_90309_desc;Atteindre le niveau 160 dans le Voyage étendu de Geralt.
+achievement_90309_title;Bouclier de protection
+achievement_90310_desc;Atteindre le niveau 175 dans le Voyage étendu de Geralt.
+achievement_90310_title;Où est mon 5e élément ?
+achievement_90312_desc;Gagner 1 partie en ayant équipé une des auras de Geralt.
+achievement_90312_title;Première flamme
+achievement_90313_desc;Gagner 10 parties en ayant équipé une des auras de Geralt.
+achievement_90313_title;Jouer avec le feu
+achievement_90314_desc;Gagner 30 parties en ayant équipé une des auras de Geralt.
+achievement_90314_title;Explosion pyrokynétique
+achievement_90315_desc;Terminer tous les contrats liés au Voyage de Geralt listés ci-dessous :
+achievement_90315_title;Gwynbleidd sur la Voie
+achievement_90317_desc;Terminer 5 quêtes du Voyage de Ciri.
+achievement_90317_title;L'enfant du Droit de surprise
+achievement_90318_desc;Terminer 10 quêtes du Voyage de Ciri.
+achievement_90318_title;Orpheline
+achievement_90319_desc;Terminer 20 quêtes du Voyage de Ciri.
+achievement_90319_title;Princesse de Cintra
+achievement_90321_desc;Gagner 1 partie en ayant équipé un des trophées de Ciri.
+achievement_90321_title;Don de téléportation
+achievement_90322_desc;Gagner 10 parties en ayant équipé un des trophées de Ciri.
+achievement_90322_title;Voyageuse entre les mondes
+achievement_90323_desc;Gagner 30 parties en ayant équipé un des trophées de Ciri.
+achievement_90323_title;Dame de l'Espace et du Temps
+achievement_90324_desc;Jouer 30 parties en ayant équipé une des auras de Ciri.
+achievement_90324_title;Sensation de puissance
+achievement_90325_desc;Jouer 30 parties en ayant équipé une des coiffes de Ciri.
+achievement_90325_title;Une tête bien faite
+achievement_90326_desc;Jouer 30 parties en ayant équipé une des pièces de Ciri.
+achievement_90326_title;Jouer l'avenir à pile ou face
+achievement_90327_desc;Jouer 30 parties en ayant équipé un des dos de cartes de Ciri.
+achievement_90327_title;Tout était écrit dans les cartes
+achievement_90328_desc;Terminer tous les contrats liés aux accessoires de Ciri listés ci-dessous :
+achievement_90328_title;Maîtresse des accessoires
+achievement_90329_desc;Terminer tous les contrats liés aux Voyages de Geralt et Ciri listés ci-dessous :
+achievement_90329_title;Tel père, telle fille
 achievement_category_arena;Arène
 achievement_category_collection;Collection
 achievement_category_expansions;extensions
@@ -3154,9 +3204,11 @@ game_mode_seasonal_draconid_title;Ruée martiale
 game_mode_seasonal_dryad_title;Bascule
 game_mode_seasonal_elf_title;Coup double
 game_mode_seasonal_griffin_title;Changement de pouvoir
+game_mode_seasonal_june_title;Saison de juin
 game_mode_seasonal_love_title;Attirance irrésistible
 game_mode_seasonal_magic_title;Double lancer
 game_mode_seasonal_mahakam_title;Retranchement
+game_mode_seasonal_may_title;Saison de mai
 game_mode_seasonal_more_provision_desc;Au début de votre tour, remplacez toutes les cartes dans votre main par des cartes aléatoires qui coûtent 1 point de recrutement en plus.
 game_mode_seasonal_more_provision_title;La patience est une vertu !
 game_mode_seasonal_viper_title;Élan
@@ -3360,6 +3412,17 @@ holiday_rewards_panel_title;Récompenses pour avoir terminé le défi
 http_code;Code d'erreur :
 in_progress;Transaction en cours : finalisation du paiement par la société externe de traitement des paiements en attente. La transaction s'achèvera en arrière-plan.
 in_progress_title;Finalisation de la transaction
+infinite_journey_common_quest;Facile
+infinite_journey_epic_quest;Difficile
+infinite_journey_rare_quest;Moyenne
+infinity_journey_name_alzur;Alzur
+infinity_journey_name_aretuza;Aretuza
+infinity_journey_name_ciri;Ciri
+infinity_journey_name_dandelion;Jaskier
+infinity_journey_name_geralt;Geralt
+infinity_journey_name_regis;Regis
+infinity_journey_name_triss;Triss
+infinity_journey_name_yennefer;Yennefer
 input_accept_deck_validation_popup;Accepter
 input_accept_error_loading_decks;Accepter
 input_accept_forfeit;Abandonner
@@ -4161,7 +4224,7 @@ journey_3_quest_5_extended_title;Un fou tristement célèbre
 journey_3_quest_5_standard_title;Une centaine de ballades, voire un millier !
 journey_3_quest_6_extended_title;Froid et calculateur
 journey_3_quest_6_standard_title;Venez-en au fait !
-journey_info_description;PROGRESSION\nVous progressez dans le Voyage en remportant des manches dans les parties en ligne ; chaque manche gagnée vous rapporte 1 morceau de couronne.\nVous pouvez poursuivre votre progression dans le Voyage au-delà du niveau 100 pour recevoir des récompenses supplémentaires !\n\nPour consulter votre progression dans le Voyage, cliquez sur la carte Voyage du menu principal.\n\nBONUS\n<sprite="PopupIcons" name="WellRested"> : vous avez une réserve de 14 morceaux de couronne supplémentaires que vous gagnez lorsque vous remportez une manche. Si vous gagnez une partie, vous obtiendrez donc 2 morceaux de couronne et 2 morceaux de couronne supplémentaires.\n<sprite="PopupIcons" name="WellRested"> : se réinitialise chaque jour.\n\nQUÊTES\nChaque semaine, nous ajouterons 6 nouvelles quêtes au Voyage ; celles-ci vous rapporteront 20 morceaux de couronne chacune.\nVous pouvez progresser dans les quêtes premium sans déverrouiller le Voyage premium, mais vous obtiendrez des morceaux de couronne supplémentaires après avoir déverrouillé la Voie premium.
+journey_info_description;PROGRESSION\nVous progressez dans le Voyage en remportant des manches dans les parties en ligne. Chaque manche gagnée vous rapporte 1 morceau de couronne.\nVous pouvez poursuivre votre progression dans le Voyage au-delà du niveau 100 pour recevoir des récompenses supplémentaires !\n\nBONUS\n<sprite="PopupIcons" name="WellRested"> : vous avez une réserve de 14 morceaux de couronne supplémentaires que vous gagnez lorsque vous remportez une manche. Si vous gagnez une partie, vous obtiendrez donc 2 morceaux de couronne et 2 morceaux de couronne supplémentaires.\n<sprite="PopupIcons" name="WellRested"> : se réinitialise chaque jour.\n\nQUÊTES\nChaque semaine, <b>3 quêtes</b> seulement seront disponibles pour le Voyage, et vous obtiendrez 20 morceaux de couronne en terminant chacune d'elles.\nSi vous avez activé le Voyage premium, vous obtiendrez <b>2 fois plus de récompenses</b> en terminant ces quêtes, c'est-à-dire 40 morceaux de couronne pour chacune.\nSi vous ne parvenez pas à terminer une de ces quêtes ou toutes ces quêtes, vous pourrez refaire les quêtes de la semaine précédente lors de la nouvelle semaine.\nLes quêtes sont identiques quel que soit le Voyage sélectionné. Les morceaux de couronne gagnés en terminant une quête sont ajoutés au Voyage actuel sélectionné.\n\nCHANGEMENT DE VOYAGE\nVous pouvez passer facilement d'un Voyage à un autre quand bon vous semble : il vous suffit pour cela de faire votre choix dans la liste des Voyages disponible sur l'écran de progression.\n
 journey_quest_1_extended_title;Combat pour la survie
 journey_quest_1_standard_title;Combat pour la dignité
 journey_quest_28_standard_title;Mariage
@@ -5934,9 +5997,11 @@ season_draconid_title;Saison du Draconide
 season_dryad_title;Saison de la Dryade
 season_elf_title;Saison des Elfes
 season_griffin_title;Saison du Griffon
+season_june_title;Saison de juin
 season_love_title;Saison de l'Amour
 season_magic_title;Saison de la Magie
 season_mahakam_title;Saison de Mahakam
+season_may_title;Saison de mai
 season_reward_avatars;Avatars
 season_reward_borders;BORDURE :
 season_reward_card;Cartes :
@@ -6180,7 +6245,7 @@ shop_data_ep1_cardback_pack_title;Dos de carte alternatif de Crimson Curse
 shop_data_ep1_skin_pack_desc;<sprite="PopupIcons" name="Skin"> Tenue Armure de sang noir (Monstres)\n\nLe Doyen des Invisibles fait un sombre retour ! Adoptez le pouvoir obscur de ce vampire supérieur ancien avec cette armure élégante, ainsi que ses animations et effets spéciaux.
 shop_data_ep1_skin_pack_desc_sale;Le Doyen des Invisibles fait un sombre retour ! Adoptez le pouvoir obscur de ce vampire supérieur ancien avec cette armure élégante, ainsi que ses animations et effets spéciaux.\n\nCette tenue ne peut être utilisée qu'avec la faction des Monstres. Elle est proposée avec une remise de 30 % durant l'événement de Saovine !
 shop_data_ep1_skin_pack_title;Tenue Armure de sang noir
-shop_data_ep2_alt_board_desc;Lorsque la nuit tombe, les bandes de Novigrad imposent leur loi dans les rues ! Affrontez vos amis et vos ennemis sur le plateau de jeu de Novigrad la nuit !
+shop_data_ep2_alt_board_desc;<sprite="PopupIcons" name="Board"> Plateau de Novigrad la nuit\n\nLorsque la nuit tombe, les bandes de Novigrad imposent leur loi dans les rues ! Affrontez vos amis et vos ennemis sur le plateau de jeu de Novigrad la nuit !
 shop_data_ep2_alt_board_title;Plateau de Novigrad la nuit
 shop_data_ep2_alt_cardback_desc;Le feu reste vif à Novigrad ! Obtenez cette version alternative du dos de carte premium de Novigrad. Il s'agit de la version alternative du dos de carte de Novigrad disponible initialement dans les packs de précommande de Novigrad.
 shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> Dos de carte de Feu perpétuel\n\nLe feu reste vif à Novigrad ! Obtenez cette version alternative du dos de carte premium de Novigrad, disponible initialement dans les packs de précommande de Novigrad.\nCe dos de carte sera disponible avec une remise de 30 % durant les promotions du Nouvel An lunaire.
@@ -6268,6 +6333,8 @@ shop_data_expansion_pass_ep7_desc;Le véritable pouvoir est à votre portée…\
 shop_data_expansion_pass_ep7_title;Pass d'extension Price of Power
 shop_data_festival_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar de danseur\n\n<sprite="PopupIcons" name="Border"> Bordure de festival\n\n<sprite="PopupIcons" name="Title"> Titre "Danseur du festival" \n\nDansons ! Prenez part à l'euphorie et venez fêter l'arrivée de l'été !
 shop_data_festival_bundle_title;Lot du festival
+shop_data_fiery_judgment_cardback_desc;<sprite="PopupIcons" name="CardBack"> Dos de carte enflammée\n\nLibérez votre fureur de vaincre avec un brasier ardent grâce à cette version spéciale du dos de carte d'Iron Judgment !
+shop_data_fiery_judgment_cardback_title;Dos de carte enflammé
 shop_data_fire_bundle_desc;<sprite="PopupIcons" name="Skin"> Tenue d'orateur ardent\n\n<sprite="PopupIcons" name="Board"> Plateau de brasier \n\nCe lot a été proposé pour soutenir le GWENT Open 1 durant l'année du Rat-garou.
 shop_data_fire_bundle_title;Lot ardent
 shop_data_first_bundles_promo_title;Lots Envahisseurs / Royaumes du Nord / Mahakam
@@ -6275,7 +6342,7 @@ shop_data_forgotten_treasures_pack_desc;<sprite="PopupIcons" name="Card"> Toute
 shop_data_forgotten_treasures_pack_title;Pack de trésors oubliés
 shop_data_frozen_bundle_desc;<sprite="PopupIcons" name="Skin"> Tenue gelée\n\n<sprite="PopupIcons" name="Board"> Plateau de la fierté de Demavend\n\nL'air se rafraîchit, vous le sentez ?\n\nCe lot a été proposé pour soutenir le GWENT Open 3 durant l'année du Rat-garou.
 shop_data_frozen_bundle_title;Lot gelé
-shop_data_gang_bundle_desc;Montrez au monde entier à qui va vraiment votre allégeance dans le Syndicat en utilisant une bordure inspirée par un des chefs de la nouvelle faction de GWENT. Ce lot contient :\n\n <sprite="PopupIcons" name="Border">Bordure de Surin\n\n <sprite="PopupIcons" name="Border">Bordure du Petit Bâtard\n\n <sprite="PopupIcons" name="Border">Bordure de Gudrun Bjornsdottir\n\n <sprite="PopupIcons" name="Border">Bordure du Roi des mendiants\n\n <sprite="PopupIcons" name="Border">Bordure de Cyrus Hemmelfart\n\n <sprite="PopupIcons" name="Border">Bordure de Dijkstra
+shop_data_gang_bundle_desc;<sprite="PopupIcons" name="Border"> Bordure de Surin\n\n<sprite="PopupIcons" name="Border"> Bordure du Petit Bâtard\n\n<sprite="PopupIcons" name="Border"> Bordure de Gudrun Bjornsdottir\n\n<sprite="PopupIcons" name="Border"> Bordure du Roi des mendiants\n\n<sprite="PopupIcons" name="Border"> Bordure de Cyrus Hemmelfart\n\n<sprite="PopupIcons" name="Border"> Bordure de Dijkstra\n\nMontrez au monde entier à qui va vraiment votre allégeance dans le Syndicat en équipant des bordures inspirées par ces chefs farouches.
 shop_data_gang_bundle_title;Lot de bordures de chefs du Syndicat
 shop_data_gaunter_dark_skin_desc;<sprite="PopupIcons" name="Skin"> Tenue sombre de Gaunter de Meuré (Neutre)\n\nDéchaînez-vous sur le champ de bataille comme l'incarnation du mal : Gaunter de Meuré en personne est là pour vous accompagner, vêtu de sa tenue la plus diabolique à ce jour.
 shop_data_gaunter_dark_skin_title;Tenue sombre de Gaunter de Meuré
@@ -6422,6 +6489,8 @@ shop_data_scoiatael_keg_desc;En ouvrant ce baril, vous obtiendrez 5 cartes des 
 shop_data_scoiatael_keg_title;Baril(s) de cartes Scoia'tael
 shop_data_sheep_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar de mouton\n\n<sprite="PopupIcons" name="Border"> Bordure de mouton\n\n<sprite="PopupIcons" name="Title"> Titre "Bon berger"\n\nCe lot contient des ornements d'abord proposés comme objets à déverrouiller durant la Saison du Griffon de l'Année du Sanglier sauvage, ainsi qu'une nouvel objet bonus spécial !
 shop_data_sheep_bundle_title;Lot de mouton
+shop_data_shop_small_fire_pack_desc;<sprite="PopupIcons" name="Avatar"> Avatar d'ifrit\n\n<sprite="PopupIcons" name="Border"> Bordure de flammes animées\n\n<sprite="PopupIcons" name="Title"> Titre "Acolyte du feu"\n\n<sprite="PopupIcons" name="Powder"> 400 poussières de météorite\n\nEnflammez-vous avec ces objets cosmétiques qui feront monter encore plus la température.\n\nCe pack a été proposé pour soutenir le GWENT Open 1 durant l'Année du Rat-garou.
+shop_data_shop_small_fire_pack_title;Pack ardent
 shop_data_shupe_base_skin_desc;<sprite="PopupIcons" name="Skin">Tenue d'Échøp (toutes les factions)\n\nQuel troll sain d'esprit préférerait des bouts de papier colorés à des cailloux ou une bonne gratinée d'elfe ? Eh bien, ce troll-là !\n\nUtilisez la personnalité PERCUTANTE d'Échøp et son charme troll pour l'emporter sur les champs de bataille de GWENT avec cette tenue de chef unique et personnalisable pour Échøp.
 shop_data_shupe_base_skin_title;Tenue d'Échøp
 shop_data_shupe_borders_bundle_desc;<sprite="PopupIcons" name="Title"> 1 titre d'Échøp : "L'Aventurier"\n\n<sprite="PopupIcons" name="Avatar"> 1 avatar d'Échøp : Échøp !\n\n<sprite="PopupIcons" name="Border"> 3 bordures d'Échøp : chevalier, chasseur et mage\n \n\nPartez à l'aventure avec Échøp ! Montrez à tous où vous avez passé votre jour de repos avec le lot de bordures d'Échøp.
@@ -6456,6 +6525,8 @@ shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board"> Plateau d
 shop_data_spring_bundle_open2_title;Lot du printemps
 shop_data_spring_pack_open2_desc;<sprite="PopupIcons" name="Coin"> Pièce du printemps\n\n<sprite="PopupIcons" name="Powder"> 400 poussières de météorite\n\nEn achetant cet article, vous soutiendrez l'e-sport de GWENT. 30 % des recettes du pack seront ajoutés directement à la dotation du GWENT Open 2, qui aura lieu en juillet 2021 !
 shop_data_spring_pack_open2_title;Pack du printemps (GWENT Open 2)
+shop_data_spring_shupe_bundle_desc;<sprite="PopupIcons" name="Border"> Bordure de chevalier du printemps\n\n<sprite="PopupIcons" name="Title"> Titre "Chevalier du printemps"\n\n<sprite="PopupIcons" name="Avatar"> Avatar d'Échøp\n\nLe printemps s'annonce et l'aventure vous appelle ! Répondez-lui avec ce lot spécial d'Échøp !
+shop_data_spring_shupe_bundle_title;Lot printanier d'Échøp
 shop_data_starter_pack_desc;<sprite="PopupIcons" name="Card"> 1 carte légendaire premium\n\n<sprite="PopupIcons" name="Powder"> 400 poussières de météorite\n\n<sprite="PopupIcons" name="Keg"> 10 barils ultimes\n\nLe pack de démarrage de GWENT est une offre disponible une fois pour vous aider à étoffer votre collection de cartes.
 shop_data_starter_pack_promo_desc;Amélioration de grande valeur utilisable une fois
 shop_data_starter_pack_promo_title;Pack de démarrage
@@ -7312,6 +7383,7 @@ ui_cardback_group_3_title;Saisons du Rat-garou
 ui_cardback_group_30_title;Voyage de Jaskier
 ui_cardback_group_31_title;NA
 ui_cardback_group_32_title;Année du Crapaud maudit
+ui_cardback_group_33_title;Voyage
 ui_cardback_group_4_title;Extension Crimson Curse
 ui_cardback_group_5_title;Extension Novigrad
 ui_cardback_group_6_title;Extension Iron Judgment
@@ -7361,12 +7433,18 @@ ui_gameboard_group_7_title;Taverne
 ui_gameboard_group_8_title;Bateau
 ui_gameboard_group_9_title;Événements du Nouvel An lunaire
 ui_gwent_deck_library;Bibliothèque de jeux de Gwent
+ui_journey_2_story_title;Histoire de Ciri
+ui_journey_bonus_disabled;Standard
+ui_journey_bonus_enabled;Récompense <sprite="PopupIcons" name="WellRested"> x2
+ui_journey_check_progress;Voir la progression
 ui_journey_claim_rewards;Obtenez vos récompenses !
+ui_journey_coming_soon;Prochainement
 ui_journey_congratulations;Félicitations ! Vous venez de passer au niveau supérieur !
 ui_journey_crowns_collected;Couronnes pour les manches gagnées
 ui_journey_crowns_quests;Couronnes pour les quêtes terminées
 ui_journey_crowns_tooltip;Couronnes obtenues au niveau de Voyage actuel
 ui_journey_level_tooltip;Votre niveau actuel dans le Voyage
+ui_journey_list;Liste des Voyages
 ui_journey_main_panel_buy;Déverrouiller le premium
 ui_journey_main_panel_extended_path;Premium
 ui_journey_main_panel_fast_travel;Voyage rapide
@@ -7374,6 +7452,7 @@ ui_journey_main_panel_levels;Niveaux
 ui_journey_main_panel_standard_path;Standard
 ui_journey_main_panel_story;Histoire du Voyage
 ui_journey_new_quests;La prochaine série de quêtes sera disponible la semaine prochaine…
+ui_journey_panel_title;Liste des Voyages
 ui_journey_popup_congratulation;Félicitations !
 ui_journey_popup_finish_journey;Vous avez terminé le Voyage de Jaskier ! Chérissez les souvenirs et les babioles que vous avez accumulés en chemin, et portez fièrement vos nouvelles tenues !
 ui_journey_popup_journey_end;Le Voyage est terminé : l'obtention de morceaux de couronne vous rapportera des points de récompense.
@@ -7384,8 +7463,9 @@ ui_journey_popup_premium_ciri_desc;Prenez une longueur d'avance en déverrouilla
 ui_journey_popup_premium_ciri_title;Laissez-passer premium + 25 niveaux
 ui_journey_popup_premium_dandelion_desc;Prenez une longueur d'avance en déverrouillant instantanément 25 niveaux.\nDéverrouillez la tenue légendaire de Jaskier et des ornements supplémentaires !
 ui_journey_popup_premium_desc;Prenez une longueur d'avance en déverrouillant instantanément 25 niveaux.\nDéverrouillez la tenue de Geralt légendaire et des ornements supplémentaires !
+ui_journey_popup_premium_geralt_desc;Prenez une longueur d'avance en déverrouillant instantanément 25 niveaux.\nDéverrouillez la tenue de Geralt légendaire et des ornements supplémentaires !
 ui_journey_popup_premium_regis_desc;Prenez une longueur d'avance en déverrouillant instantanément 25 niveaux.\nDéverrouillez Emiel Régis et des ornements supplémentaires !
-ui_journey_popup_premium_title;Lot de voyage rapide
+ui_journey_popup_premium_title;Laissez-passer premium + 25 niveaux
 ui_journey_popup_premium_triss_desc;Prenez une longueur d'avance en déverrouillant instantanément 25 niveaux.\nDéverrouillez la tenue légendaire de Triss et des ornements supplémentaires !
 ui_journey_popup_premium_yen_desc;Prenez une longueur d'avance en déverrouillant instantanément 25 niveaux.\nDéverrouillez la tenue de Yennefer légendaire et des ornements supplémentaires !
 ui_journey_popup_standard_alzur_desc;Déverrouillez la tenue d'Alzur légendaire immédiatement !
@@ -7393,17 +7473,29 @@ ui_journey_popup_standard_aretuza_desc;Déverrouillez le plateau de la grande sa
 ui_journey_popup_standard_ciri_desc;Déverrouillez la tenue de Ciri légendaire immédiatement !
 ui_journey_popup_standard_dandelion_desc;Déverrouillez la tenue légendaire de Jaskier immédiatement !
 ui_journey_popup_standard_desc;Déverrouillez la tenue de Geralt légendaire immédiatement.
+ui_journey_popup_standard_geralt_desc;Déverrouillez la tenue de Geralt légendaire immédiatement.
 ui_journey_popup_standard_regis_desc;Déverrouillez Emiel Régis maintenant !
 ui_journey_popup_standard_title;Laissez-passer premium
 ui_journey_popup_standard_triss_desc;Déverrouillez la tenue légendaire de Triss immédiatement !
 ui_journey_popup_standard_yen_desc;Déverrouillez la tenue de Yennefer légendaire immédiatement !
 ui_journey_popup_start_journey;Le Voyage de Jaskier commence ! Suivez son histoire en jouant des parties et en terminant des quêtes hebdomadaires !
 ui_journey_popup_start_title;Bienvenue !
+ui_journey_premium;Voyage premium
+ui_journey_quest_complete;Quête terminée !
+ui_journey_quest_complete_updated;À venir lors de la nouvelle semaine
+ui_journey_quest_difficulty_easy;Facile
+ui_journey_quest_difficulty_hard;Difficile
+ui_journey_quest_difficulty_normal;Moyenne
+ui_journey_quest_reset;Nouvelle semaine :
+ui_journey_reroll_disabled_tooltip;Attendez le début d'une nouvelle semaine pour choisir une nouvelle quête.
+ui_journey_reroll_enabled_tooltip;Changer de quête
 ui_journey_social_panel_week;SEMAINE {0} / {1}
+ui_journey_standard;Voyage standard
 ui_journey_story_extended_next_week;La suite du Voyage de Geralt sera disponible la semaine prochaine…
+ui_journey_story_extended_title;Histoire de Geralt
 ui_journey_story_heading;Des arts radicalement libéraux
 ui_journey_story_standard_next_week;La suite de l'histoire sera disponible la semaine prochaine…
-ui_journey_story_standard_title;Jaskier
+ui_journey_story_standard_title;Histoire de Jaskier
 ui_journey_timer_days;{0} JOURS
 ui_journey_timer_ends;FIN DANS :
 ui_journey_until_next_level;jusqu'au niveau suivant
@@ -7504,6 +7596,8 @@ ui_soundtrack_group_1_title;Basique
 ui_soundtrack_group_2_title;Spéciale
 ui_soundtrack_group_3_title;Voyage d'Aretuza
 ui_soundtrack_group_5_title;Voyage de Jaskier
+ui_soundtrack_group_6_title;Voyage de Geralt
+ui_soundtrack_group_7_title;Voyage de Ciri
 ui_tooltip_coins;La monnaie bonus du Syndicat. Vous pouvez posséder au maximum 9 piastres. Votre nombre de piastres est divisé par deux en passant à la manche suivante.
 ui_vanity_inventory_change_category;Changer de catégorie
 ui_vanity_inventory_equip_preview;Équiper
@@ -7934,6 +8028,7 @@ vanity_avatar_48371_title;Avatar plein d'amour
 vanity_avatar_48372_title;Avatar de canaille
 vanity_avatar_48373_title;Avatar de nekker doré
 vanity_avatar_48377_title;Avatar de crapaud maudit
+vanity_avatar_48381_title;Avatar de tueur de goules
 vanity_body_80284_title;Manteau noir d'humain
 vanity_body_80285_title;Manteau blanc d'humain
 vanity_body_80286_title;Tenue de bal noire d'humain
@@ -8383,6 +8478,9 @@ vanity_cardback_60140_title;Dos de carte de fête de succubes
 vanity_cardback_60141_title;Dos de carte d'inspiration créative
 vanity_cardback_60144_title;Dos de carte des moments du jour
 vanity_cardback_60145_title;Dos de carte de fiole de savoir interdit
+vanity_cardback_60149_title;Dos de carte de tueur de goules
+vanity_cardback_60150_title;Dos de carte de Ciri et les Moires
+vanity_cardback_60151_title;Dos de carte de la Dame de l'Espace et du Temps
 vanity_cardback_61001_title;Dos de carte des Monstres
 vanity_cardback_61002_title;Dos de carte du Nilfgaard
 vanity_cardback_61003_title;Dos de carte des Royaumes du Nord
@@ -8945,6 +9043,16 @@ vanity_leader_trinket_80394_title;Sacoche
 vanity_leader_trinket_80395_title;Parchemins
 vanity_leader_trinket_80400_title;Armure d'amour d'Échøp
 vanity_leader_trinket_80401_title;Sa Royale Chasseuse
+vanity_leader_trinket_80403_title;Aucune aura
+vanity_leader_trinket_80404_title;Aura d'Aard
+vanity_leader_trinket_80405_title;Aura d'Axii
+vanity_leader_trinket_80406_title;Aura d'Igni
+vanity_leader_trinket_80407_title;Aura de Quen
+vanity_leader_trinket_80408_title;Aura d'Yrden
+vanity_leader_trinket_80409_title;Aucun trophée
+vanity_leader_trinket_80410_title;Phylactère
+vanity_leader_trinket_80411_title;Talisman de tête de Caranthir
+vanity_leader_trinket_80412_title;Patins à glace
 vanity_monsters_challenge_title;Tyran
 vanity_nilfgaard_challenge_title;Commandant de division
 vanity_northern_challenge_title;Maître chasseur
@@ -9280,6 +9388,8 @@ vanity_soundtrack_90019_title;Ballade
 vanity_soundtrack_90020_title;Chef-d'œuvre
 vanity_soundtrack_90021_title;De l'amour dans l'air
 vanity_soundtrack_90022_title;Airs de Novigrad
+vanity_soundtrack_90023_title;Gwynbleidd sur la Voie
+vanity_soundtrack_90024_title;Dame de l'Espace et du Temps
 vanity_title_20150_title;Volontaire
 vanity_title_20151_title;Contremaître
 vanity_title_20152_title;Escarmoucheur
@@ -9573,6 +9683,8 @@ vanity_title_28251_title;Bandit
 vanity_title_28252_title;Prince
 vanity_title_28253_title;Curieux
 vanity_title_28254_title;Omniscient
+vanity_title_28255_title;Tueur de goules
+vanity_title_28256_title;Dame de l'Espace et du Temps
 vanity_title_30180;Vipère cuivrée
 vanity_title_30180_description;Récompense pour avoir atteint le rang 10 en mode Partie classée lors de la Saison de la vipère (mai).
 vanity_title_30181;Crotale

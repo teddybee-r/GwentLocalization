@@ -1511,7 +1511,7 @@ achievement_90034_desc;Alcanza el nivel {0} en el Viaje de Ciri extendido
 achievement_90034_desc_console;Ten 3 copias de la misma carta en un mazo de la arena.
 achievement_90034_title;¡Gánalo todo!
 achievement_90034_title_console;Tradicionalista
-achievement_90035_desc;Completa todos los contratos conectados con el Viaje de Ciri
+achievement_90035_desc;Completa todos los contratos relacionados con el Viaje de Ciri enumerados a continuación:
 achievement_90035_desc_console;Gana una partida teniendo solo 2 cartas en mano.
 achievement_90035_title;¡Fan nº. 1 de Ciri!
 achievement_90035_title_console;¿Ya tuviste suficiente?
@@ -1914,6 +1914,56 @@ achievement_90296_title;Ayuda al rey Eist Tuirseach
 achievement_90297_title;Ayuda a la reina Calanthe
 achievement_90298_title;Ayuda a Sigismund Dijkstra
 achievement_90299_title;Ayuda a Philippa Eilhart
+achievement_90301_desc;Completa 5 misiones del Viaje de Geralt
+achievement_90301_title;Niño abandonado
+achievement_90302_desc;Completa 10 misiones del Viaje de Geralt
+achievement_90302_title;Primera prueba
+achievement_90303_desc;Completa 20 misiones del Viaje de Geralt
+achievement_90303_title;Primeros pasos como brujo
+achievement_90305_desc;Alcanza el nivel 110 en el Viaje de Geralt extendido
+achievement_90305_title;Cazador de monstruos
+achievement_90306_desc;Alcanza el nivel 120 en el Viaje de Geralt extendido
+achievement_90306_title;Empujón telequinético
+achievement_90307_desc;Alcanza el nivel 130 en el Viaje de Geralt extendido
+achievement_90307_title;Efecto hipnótico
+achievement_90308_desc;Alcanza el nivel 145 en el Viaje de Geralt extendido
+achievement_90308_title;Trampa mágica
+achievement_90309_desc;Alcanza el nivel 160 en el Viaje de Geralt extendido
+achievement_90309_title;Escudo protector
+achievement_90310_desc;Alcanza el nivel 175 en el Viaje de Geralt extendido
+achievement_90310_title;¿Dónde está mi quinto elemento?
+achievement_90312_desc;Gana 1 partida con una de las auras de Geralt equipadas
+achievement_90312_title;Primera llama
+achievement_90313_desc;Gana 10 partidas con una de las auras de Geralt equipadas
+achievement_90313_title;Jugando con fuego
+achievement_90314_desc;Gana 30 partidas con una de las auras de Geralt equipadas
+achievement_90314_title;Explosión piroquinética
+achievement_90315_desc;Completa todos los contratos relacionados con el Viaje de Geralt enumerados a continuación:
+achievement_90315_title;Gwynbleidd en la Senda
+achievement_90317_desc;Completa 5 misiones del Viaje de Ciri
+achievement_90317_title;Hija de la ley de la sorpresa
+achievement_90318_desc;Completa 10 misiones del Viaje de Ciri
+achievement_90318_title;Huérfana
+achievement_90319_desc;Completa 20 misiones del Viaje de Ciri
+achievement_90319_title;Princesa de Cintra
+achievement_90321_desc;Gana 1 partida con uno de los trofeos de Ciri equipados
+achievement_90321_title;Saltadora
+achievement_90322_desc;Gana 10 partidas con uno de los trofeos de Ciri equipados
+achievement_90322_title;Viajera entre mundos
+achievement_90323_desc;Gana 30 partidas con uno de los trofeos de Ciri equipados
+achievement_90323_title;Dama del Espacio y el Tiempo
+achievement_90324_desc;Juega 30 partidas con una de las auras de Ciri equipadas
+achievement_90324_title;Siente el poder
+achievement_90325_desc;Juega 30 partidas con uno de los gorros de Ciri equipados
+achievement_90325_title;Da la cara
+achievement_90326_desc;Juega 30 partidas con una de las monedas de Ciri equipadas
+achievement_90326_title;El destino lo decide una moneda al aire
+achievement_90327_desc;Juega 30 partidas con uno de los reversos de carta de Ciri equipados
+achievement_90327_title;Todo está escrito en las cartas
+achievement_90328_desc;Completa todos los contratos relacionados con los accesorios de Ciri enumerados a continuación:
+achievement_90328_title;Dama de los accesorios
+achievement_90329_desc;Completa todos los contratos relacionados con los Viajes de Geralt y Ciri enumerados a continuación:
+achievement_90329_title;De tal palo, tal astilla
 achievement_category_arena;Arena
 achievement_category_collection;Colección
 achievement_category_expansions;expansiones
@@ -3154,9 +3204,11 @@ game_mode_seasonal_draconid_title;Frenesí de batalla
 game_mode_seasonal_dryad_title;Sube y baja
 game_mode_seasonal_elf_title;Doble ración
 game_mode_seasonal_griffin_title;Cambio de poder
+game_mode_seasonal_june_title;Temporada de junio
 game_mode_seasonal_love_title;Atracción irresistible
 game_mode_seasonal_magic_title;Magia doble
 game_mode_seasonal_mahakam_title;Trincheras
+game_mode_seasonal_may_title;Temporada de mayo
 game_mode_seasonal_more_provision_desc;Al inicio de tu turno, transforma todas las cartas de tu mano en cartas aleatorias que cuestan 1 provisión más
 game_mode_seasonal_more_provision_title;¡La paciencia es una virtud!
 game_mode_seasonal_viper_title;Inercia
@@ -3360,6 +3412,17 @@ holiday_rewards_panel_title;Recompensas por completar el Desafío
 http_code;Código de error:
 in_progress;Transacción en progreso, esperando que el proveedor externo de pagos finalice el pago. La transacción se completará en segundo plano.
 in_progress_title;Finalizando la transacción
+infinite_journey_common_quest;Fácil
+infinite_journey_epic_quest;Difícil
+infinite_journey_rare_quest;Intermedio
+infinity_journey_name_alzur;Alzur
+infinity_journey_name_aretuza;Aretuza
+infinity_journey_name_ciri;Ciri
+infinity_journey_name_dandelion;Jaskier
+infinity_journey_name_geralt;Geralt
+infinity_journey_name_regis;Regis
+infinity_journey_name_triss;Triss
+infinity_journey_name_yennefer;Yennefer
 input_accept_deck_validation_popup;Aceptar
 input_accept_error_loading_decks;Aceptar
 input_accept_forfeit;Rendirse
@@ -4161,7 +4224,7 @@ journey_3_quest_5_extended_title;Loco infame
 journey_3_quest_5_standard_title;Cien baladas, ¡o incluso mil!
 journey_3_quest_6_extended_title;Frío y calculador
 journey_3_quest_6_standard_title;Ve al grano
-journey_info_description;PROGRESIÓN\nProgresas en Viaje ganando rondas en partidas en línea. Cada ronda ganada te da 1 pedazo de corona.\n¡Puedes continuar tu progresión de Viaje pasado el nivel 100 y recibir recompensas adicionales por el camino!\n\nEl progreso del Viaje se puede encontrar en la carta de Viaje del menú principal.\n\nPOTENCIACIÓN\n<sprite="PopupIcons" name="WellRested"> - tienes una reserva de 14 pedazos de corona adicionales que obtienes después de ganar una ronda. Es decir, si ganaste una partida, obtienes 2 pedazos de corona y 2 pedazos de corona adicionales.\n<sprite="PopupIcons" name="WellRested"> - se restablece diariamente con el nuevo día.\n\nMISIONES\nCada semana agregaremos 6 nuevas misiones a Viaje, que te dan 20 pedazos de corona adicionales cada una.\nPuedes progresar en las misiones premium sin desbloquear Viaje premium, pero obtendrás piezas de corona adicionales después de desbloquear el camino premium.
+journey_info_description;PROGRESO\nProgresas en el Viaje ganando rondas en partidas en línea. Cada ronda ganada te da 1 pedazo de corona.\n¡Puedes continuar tu progreso de Viaje pasado el nivel 100 y recibir recompensas adicionales por el camino!\n\nMEJORAS\n<sprite="PopupIcons" name="WellRested"> - Tienes un conjunto de 14 pedazos de corona adicionales que obtienes después de ganar la ronda. Es decir, si ganas una partida, obtienes 2 pedazos de corona y 2 pedazos de corona adicionales.\n<sprite="PopupIcons" name="WellRested"> - Se restablece a diario.\n\nMISIONES\nCada semana, solo habrá <b>3 misiones</b> disponibles para el Viaje. Al completarlas, te otorgan 20 pedazos de corona cada una.\nSi tienes activado el Viaje premium, obtendrás <b>el doble de recompensas</b> por completar estas misiones, es decir, 40 pedazos de corona por cada una.\nSi no eres capaz de completar alguna de estas misiones, tendrás la opción de reintentar misiones antiguas de semanas anteriores durante la siguiente semana.\nLas misiones siguen siendo las mismas, sea cual sea el Viaje que hayas seleccionado. Los pedazos de corona conseguidos tras completar una misión se añadirán al Viaje que tengas seleccionado en ese momento.\n\nCAMBIAR DE VIAJE\nPuedes cambiar de Viaje con facilidad siempre que quieras. Para ello, solo tienes que elegirlo en la lista de Viajes de la pantalla de progreso.\n
 journey_quest_1_extended_title;Lucha por tu vida
 journey_quest_1_standard_title;Lucha por tu dignidad
 journey_quest_28_standard_title;Matrimonio
@@ -5934,9 +5997,11 @@ season_draconid_title;Temporada del Dracónido
 season_dryad_title;Temporada de la Dríada
 season_elf_title;Temporada de los Elfos
 season_griffin_title;Temporada del Grifo
+season_june_title;Temporada de junio
 season_love_title;Temporada del Amor
 season_magic_title;Temporada de la Magia
 season_mahakam_title;Temporada de Mahakam
+season_may_title;Temporada de mayo
 season_reward_avatars;Avatares
 season_reward_borders;BORDE:
 season_reward_card;Cartas
@@ -6180,7 +6245,7 @@ shop_data_ep1_cardback_pack_title;Reverso de carta de Crimson Curse alternativo
 shop_data_ep1_skin_pack_desc;<sprite="PopupIcons" name="Skin"> Aspecto de armadura sangrienta oscura (Monstruos)\n\n¡El Anciano Oculto regresa a la oscuridad! Acoge el verdadero poder oscuro del Anciano Oculto con este elegante conjunto de armadura, que viene con efectos visuales y animaciones especiales.
 shop_data_ep1_skin_pack_desc_sale;¡El Anciano Oculto regresa a la oscuridad! Acoge el verdadero poder oscuro del antiguo vampiro superior con este elegante conjunto de armadura, que viene con efectos visuales y animaciones especiales.\n\nEste aspecto puede equiparse solo en la facción de Monstruos ¡y tendrá un descuento del 30 % durante el evento de Saovine!
 shop_data_ep1_skin_pack_title;Aspecto de armadura sangrienta oscura
-shop_data_ep2_alt_board_desc;Cuando la noche cae, las bandas de Novigrado se hacen con las calles. Combate con amigos y enemigos en el tablero de juego de Novigrado noche.
+shop_data_ep2_alt_board_desc;<sprite="PopupIcons" name="Board"> Tablero Novigrado noche\n\nCuando la noche cae, las bandas de Novigrado se hacen con las calles. Combate con amigos y enemigos en el tablero de juego de Novigrado noche.
 shop_data_ep2_alt_board_title;Tablero Novigrado noche
 shop_data_ep2_alt_cardback_desc;¡Las llamas aún brillan con fuerza en Novigrado! Hazte con esta versión alternativa del reverso de carta premium de Novigrad. Esta versión es alternativa del reverso de carta Novigrad que se incluyó originalmente como parte de los paquetes de reserva de Novigrad.
 shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> Reverso de carta del fuego infinito\n\n¡Las llamas aún brillan con fuerza en Novigrado! Hazte con esta versión alternativa del reverso de carta premium de Novigrad, disponible originalmente como parte de los paquetes de reserva de Novigrad.\nEste reverso de carta tendrá un 30 % de descuento durante las promociones del Año Nuevo Lunar.
@@ -6268,6 +6333,8 @@ shop_data_expansion_pass_ep7_desc;El verdadero poder puede ser tuyo...\n\nEste a
 shop_data_expansion_pass_ep7_title;Price of Power - Abono de expansión
 shop_data_festival_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar de bailarina\n\n<sprite="PopupIcons" name="Border"> Borde de festival\n\n<sprite="PopupIcons" name="Title"> Título "Bailarín de festival"\n\n¡Que comience el baile! ¡Únete a los festejos por la celebración de la llegada del verano!
 shop_data_festival_bundle_title;Paquete de festival
+shop_data_fiery_judgment_cardback_desc;<sprite="PopupIcons" name="CardBack"> Reverso de carta Sentencia de fuego\n\n¡Desata tu furia de batalla con una llamarada ardiente con esta versión especial del reverso de carta de Iron Judgment!
+shop_data_fiery_judgment_cardback_title;Reverso de carta ardiente de Iron Judgment
 shop_data_fire_bundle_desc;<sprite="PopupIcons" name="Skin"> Aspecto Orador ardiente\n\n<sprite="PopupIcons" name="Board"> Tablero Inferno\n\nEste paquete se introdujo para apoyar el GWENT Open 1 durante el Año del Hombre rata.
 shop_data_fire_bundle_title;Pack ardiente
 shop_data_first_bundles_promo_title;Lote de invasores / reinos del norte / Mahakam
@@ -6275,7 +6342,7 @@ shop_data_forgotten_treasures_pack_desc;<sprite="PopupIcons" name="Card"> Todas 
 shop_data_forgotten_treasures_pack_title;Pack Tesoros olvidados
 shop_data_frozen_bundle_desc;<sprite="PopupIcons" name="Skin"> Aspecto congelado\n\n<sprite="PopupIcons" name="Board"> Tablero Orgullo de Demavend\n\nRefrescó el aire, ¿lo notas?... \n\nEste paquete se introdujo para poyar el GWENT Open 3 durante el Año del Hombre rata.
 shop_data_frozen_bundle_title;Paquete congelado
-shop_data_gang_bundle_desc;Muéstrale al mundo a qué parte del Sindicato eres leal equipando un borde inspirado en uno de los líderes de la nueva facción de GWENT. Este paquete incluye: \n\n <sprite="PopupIcons" name="Border">Borde de Sacabuche \n\n <sprite="PopupIcons" name="Border">Borde de Hijo de perra junior\n\n <sprite="PopupIcons" name="Border">Borde de Gudrun Bjornsdottir\n\n <sprite="PopupIcons" name="Border">Borde del Rey de los mendigos\n\n <sprite="PopupIcons" name="Border">Borde de Cyrus Hemmelfart\n\n <sprite="PopupIcons" name="Border">Borde de Sigismund Dijkstra
+shop_data_gang_bundle_desc;<sprite="PopupIcons" name="Border"> Borde de Sacabuche\n\n<sprite="PopupIcons" name="Border"> Borde de Hijo de perra junior\n\n<sprite="PopupIcons" name="Border"> Borde de Gudrun Bjornsdottir\n\n<sprite="PopupIcons" name="Border"> Borde del Rey de los Mendigos\n\n<sprite="PopupIcons" name="Border"> Borde de Cyrus Hemmelfart\n\n<sprite="PopupIcons" name="Border"> Borde de Dijkstra\n\nMuéstrale al mundo entero a quién debes lealtad en el Sindicato al equiparte un borde inspirado en uno de estos temibles líderes.
 shop_data_gang_bundle_title;Paquete de bordes de líderes del Sindicato
 shop_data_gaunter_dark_skin_desc;<sprite="PopupIcons" name="Skin"> Aspecto oscuro de Gaunter O'Dimm (neutral)\n\nLucha sin cuartel en el campo de batalla mientras la encarnación del mal, el propio Gaunter O'Dimm, te acompaña en su apariencia más diabólica hasta la fecha.
 shop_data_gaunter_dark_skin_title;Aspecto oscuro de Gaunter O'Dimm
@@ -6422,6 +6489,8 @@ shop_data_scoiatael_keg_desc;Una vez abierto este barril, recibirás 5 cartas Sc
 shop_data_scoiatael_keg_title;Barril(es) Scoia'tael
 shop_data_sheep_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar de oveja\n\n<sprite="PopupIcons" name="Border"> Borde de oveja\n\n<sprite="PopupIcons" name="Title"> Título "Buen pastor"\n\nEste paquete contiene adornos que primero se presentaron como desbloqueables durante la temporada del Grifo en el año del Jabalí Salvaje. ¡Junto a un nuevo artículo especial adicional!
 shop_data_sheep_bundle_title;Paquete de la oveja
+shop_data_shop_small_fire_pack_desc;<sprite="PopupIcons" name="Avatar"> Avatar de Ifrit\n\n<sprite="PopupIcons" name="Border"> Borde de Llama animada\n\n<sprite="PopupIcons" name="Title"> Título de "Acólito de fuego"\n\n<sprite="PopupIcons" name="Powder"> 400 polvos meteoríticos\n\nDeja que las llamas te envuelvan cuando suba la temperatura con estos ardorosos artículos estéticos.\n\nEste paquete se introdujo para apoyar el GWENT Open 1 durante el Año del Hombre rata.
+shop_data_shop_small_fire_pack_title;Paquete ardiente
 shop_data_shupe_base_skin_desc;<sprite="PopupIcons" name="Skin"> Aspecto de Troco (todas las facciones) \n\n¿Qué trol en su sano juicio preferiría jugar con retazos coloridos de papel a piedras o una buena sopa de elfo y cebolla? ¡Pues este! \n\nUtiliza la personalidad ARROLLADORA y su encanto trolero para conquistar los campos de batallad e GWENT con este aspecto de líder personalizable y excepcionalmente neutral de Troco.
 shop_data_shupe_base_skin_title;Aspecto de Troco
 shop_data_shupe_borders_bundle_desc;<sprite="PopupIcons" name="Title"> 1 Título de Troco: “Aventurero”\n\n<sprite="PopupIcons" name="Avatar"> 1 Avatar de Troco: ¡Troco!\n\n<sprite="PopupIcons" name="Border"> 3 bordes de Troco: Caballero, Cazador y Mago\n \n\n¡Troco y tú de aventuras ir! Muestra a todo el mundo dónde fuiste en tu día libre con el paquete de bordes de Troco.
@@ -6456,6 +6525,8 @@ shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board"> Tablero de
 shop_data_spring_bundle_open2_title;Paquete de primavera
 shop_data_spring_pack_open2_desc;<sprite="PopupIcons" name="Coin"> Moneda de primavera\n\n<sprite="PopupIcons" name="Powder"> 400 polvos meteoríticos\n\nComprar este producto apoya los esports de GWENT; ¡el 30 % de los ingresos del paquete incrementará directamente la bolsa de premios del GWENT Open 2, que tendrá lugar en julio de 2021!
 shop_data_spring_pack_open2_title;Pack de primavera (GWENT Open 2)
+shop_data_spring_shupe_bundle_desc;<sprite="PopupIcons" name="Border"> Borde de Caballero de primavera\n\n<sprite="PopupIcons" name="Title"> Título de Caballero de primavera\n\n<sprite="PopupIcons" name="Avatar"> Avatar de Troco\n\n¡La primavera está en el aire, la aventura te llama! ¡Responde su llamado y consigue este paquete especial de Troco!
+shop_data_spring_shupe_bundle_title;Paquete de Troco de invierno
 shop_data_starter_pack_desc;<sprite="PopupIcons" name="Card"> 1 carta legendaria premium \n\n <sprite="PopupIcons" name="Powder"> 400 polvos meteoríticos\n\n <sprite="PopupIcons" name="Keg"> 10 barriles definitivos \n\nEl paquete de inicio de GWENT es una oferta única para ayudarte a construir tu colección de cartas.
 shop_data_starter_pack_promo_desc;Impulso de alto valor único
 shop_data_starter_pack_promo_title;Paquete de inicio
@@ -7312,6 +7383,7 @@ ui_cardback_group_3_title;Temporadas del Hombre rata
 ui_cardback_group_30_title;Viaje de Jaskier
 ui_cardback_group_31_title;NA
 ui_cardback_group_32_title;Año del sapo maldito
+ui_cardback_group_33_title;Viaje
 ui_cardback_group_4_title;Expansión Crimson Curse
 ui_cardback_group_5_title;Expansión Novigrad
 ui_cardback_group_6_title;Expansión Iron Judgment
@@ -7361,12 +7433,18 @@ ui_gameboard_group_7_title;Taberna
 ui_gameboard_group_8_title;Barco
 ui_gameboard_group_9_title;Eventos del Año Nuevo Lunar
 ui_gwent_deck_library;Biblioteca de mazos de Gwent
+ui_journey_2_story_title;Historia de Ciri
+ui_journey_bonus_disabled;Normal
+ui_journey_bonus_enabled;x2 <sprite="PopupIcons" name="WellRested"> Recompensa doble
+ui_journey_check_progress;Comprobar progreso
 ui_journey_claim_rewards;¡Cobra tus recompensas!
+ui_journey_coming_soon;Próximamente
 ui_journey_congratulations;¡Felicitaciones! ¡Subiste de nivel!
 ui_journey_crowns_collected;Coronas por ganar rondas
 ui_journey_crowns_quests;Coronas por completar rondas
 ui_journey_crowns_tooltip;Coronas reunidas en nivel de viaje actual
 ui_journey_level_tooltip;Tu nivel actual en el viaje
+ui_journey_list;Lista de Viajes
 ui_journey_main_panel_buy;Desbloquear premium
 ui_journey_main_panel_extended_path;Premium
 ui_journey_main_panel_fast_travel;Viaje rápido
@@ -7374,6 +7452,7 @@ ui_journey_main_panel_levels;Niveles
 ui_journey_main_panel_standard_path;Normal
 ui_journey_main_panel_story;Historia del Viaje
 ui_journey_new_quests;El siguiente conjunto de misiones llegará llegará la próxima semana...
+ui_journey_panel_title;Lista de Viajes
 ui_journey_popup_congratulation;¡Felicitaciones!
 ui_journey_popup_finish_journey;¡Completaste el Viaje de Jaskier! Disfruta de los recuerdos y adornos que reuniste por el camino, ¡viste tus nuevos conjuntos con orgullo!
 ui_journey_popup_journey_end;El Viaje terminó. Ganar piezas de corona te dará puntos de recompensa
@@ -7384,8 +7463,9 @@ ui_journey_popup_premium_ciri_desc;Empieza con ventaja y desbloquea 25 niveles a
 ui_journey_popup_premium_ciri_title;Pase premium de +25 niveles
 ui_journey_popup_premium_dandelion_desc;Empieza con ventaja y desbloquea 25 niveles al instante.\n ¡Desbloquea el aspecto legendario de Jaskier y adornos adicionales!
 ui_journey_popup_premium_desc;Empieza con ventaja y desbloquea 25 niveles al instante.\n ¡Desbloquea el aspecto legendario de Geralt y adornos adicionales!
+ui_journey_popup_premium_geralt_desc;Empieza con ventaja y desbloquea 25 niveles al instante.\n ¡Desbloquea el aspecto legendario de Geralt y adornos adicionales!
 ui_journey_popup_premium_regis_desc;Empieza con ventaja y desbloquea 25 niveles al instante.\n ¡Desbloquea a Emiel Regis y adornos adicionales!
-ui_journey_popup_premium_title;Paquete Viaje rápido
+ui_journey_popup_premium_title;Pase premium de +25 niveles
 ui_journey_popup_premium_triss_desc;Empieza con ventaja y desbloquea 25 niveles al instante.\n ¡Desbloquea el aspecto legendario de Triss y adornos adicionales!
 ui_journey_popup_premium_yen_desc;Empieza con ventaja y desbloquea 25 niveles al instante.\n ¡Desbloquea el aspecto legendario de Yennefer y adornos adicionales!
 ui_journey_popup_standard_alzur_desc;¡Desbloquea el aspecto legendario de Alzur inmediatamente!
@@ -7393,17 +7473,29 @@ ui_journey_popup_standard_aretuza_desc;¡Desbloquea el tablero de juego del sal�
 ui_journey_popup_standard_ciri_desc;¡Desbloquea el aspecto legendario de Ciri de inmediato!
 ui_journey_popup_standard_dandelion_desc;¡Desbloquea el aspecto legendario de Jaskier de inmediato!
 ui_journey_popup_standard_desc;Desbloquea el aspecto legendario de Geralt inmediatamente
+ui_journey_popup_standard_geralt_desc;Desbloquea el aspecto legendario de Geralt inmediatamente
 ui_journey_popup_standard_regis_desc;¡Desbloquea a Emiel Regis ya!
 ui_journey_popup_standard_title;Pase premium
 ui_journey_popup_standard_triss_desc;¡Desbloquea el aspecto legendario de Triss de inmediato!
 ui_journey_popup_standard_yen_desc;¡Desbloquea el aspecto legendario de Yennefer de inmediato!
 ui_journey_popup_start_journey;¡Comienza el viaje de Jaskier! Sigue su historia jugando partidas y completando misiones semanales.
 ui_journey_popup_start_title;¡Bienvenidos!
+ui_journey_premium;Viaje premium
+ui_journey_quest_complete;¡Misión completada!
+ui_journey_quest_complete_updated;Próximamente, en la siguiente semana
+ui_journey_quest_difficulty_easy;Fácil
+ui_journey_quest_difficulty_hard;Difícil
+ui_journey_quest_difficulty_normal;Intermedio
+ui_journey_quest_reset;Siguiente semana:
+ui_journey_reroll_disabled_tooltip;Podrás cambiar de misión la siguiente semana
+ui_journey_reroll_enabled_tooltip;Cambiar de misión
 ui_journey_social_panel_week;SEMANA {0} / {1}
+ui_journey_standard;Viaje normal
 ui_journey_story_extended_next_week;La siguiente parte del viaje de Geralt llegará la próxima semana...
+ui_journey_story_extended_title;Historia de Geralt
 ui_journey_story_heading;Artes radicalmente libres
 ui_journey_story_standard_next_week;La siguiente parte de la historia llegará la próxima semana...
-ui_journey_story_standard_title;Jaskier
+ui_journey_story_standard_title;Historia de Jaskier
 ui_journey_timer_days;{0} DÍAS
 ui_journey_timer_ends;TERMINA:
 ui_journey_until_next_level;hasta el siguiente nivel
@@ -7504,6 +7596,8 @@ ui_soundtrack_group_1_title;Básico
 ui_soundtrack_group_2_title;Especial
 ui_soundtrack_group_3_title;Viaje de Aretuza
 ui_soundtrack_group_5_title;Viaje de Jaskier
+ui_soundtrack_group_6_title;Viaje de Geralt
+ui_soundtrack_group_7_title;Viaje de Ciri
 ui_tooltip_coins;La divisa adicional del Sindicato. Solo puedes tener un máximo de 9 monedas. Tu conteo de monedas se reduce a la mitad cuando pasas a la siguiente ronda.
 ui_vanity_inventory_change_category;Cambiar categoría
 ui_vanity_inventory_equip_preview;Equipar
@@ -7934,6 +8028,7 @@ vanity_avatar_48371_title;Avatar lleno de amor
 vanity_avatar_48372_title;Avatar de mocoso
 vanity_avatar_48373_title;Avatar de nekker dorado
 vanity_avatar_48377_title;Avatar de sapo maldito
+vanity_avatar_48381_title;Avatar de cazador de ghuls
 vanity_body_80284_title;Capa negra de humano
 vanity_body_80285_title;Capa blanca de humano
 vanity_body_80286_title;Atuendo negro del baile de humano
@@ -8383,6 +8478,9 @@ vanity_cardback_60140_title;Reverso de carta de fiesta de súcubos
 vanity_cardback_60141_title;Reverso de carta de inspiración creativa
 vanity_cardback_60144_title;Reverso de carta de Las horas del día
 vanity_cardback_60145_title;Reverso de carta de vial de sabiduría prohibida
+vanity_cardback_60149_title;Reverso de carta de cazador de ghuls
+vanity_cardback_60150_title;Reverso de carta de Ciri y las moiras
+vanity_cardback_60151_title;Reverso de carta de Dama del Espacio y el Tiempo
 vanity_cardback_61001_title;Reverso de carta de monstruos
 vanity_cardback_61002_title;Reverso de carta de Nilfgaard
 vanity_cardback_61003_title;Reverso de carta de los Reinos del Norte
@@ -8945,6 +9043,16 @@ vanity_leader_trinket_80394_title;Bolso
 vanity_leader_trinket_80395_title;Pergaminos
 vanity_leader_trinket_80400_title;Armadura del amor de Troco
 vanity_leader_trinket_80401_title;Su alteza real
+vanity_leader_trinket_80403_title;Sin aura
+vanity_leader_trinket_80404_title;Aura de Aard
+vanity_leader_trinket_80405_title;Aura de Axii
+vanity_leader_trinket_80406_title;Aura de Igni
+vanity_leader_trinket_80407_title;Aura de Quen
+vanity_leader_trinket_80408_title;Aura de Yrden
+vanity_leader_trinket_80409_title;Sin trofeo
+vanity_leader_trinket_80410_title;Filacteria
+vanity_leader_trinket_80411_title;Talismán de la cabeza de Caranthir
+vanity_leader_trinket_80412_title;Patines de hielo
 vanity_monsters_challenge_title;Tirano
 vanity_nilfgaard_challenge_title;Comandante de División
 vanity_northern_challenge_title;Cazador maestro
@@ -9280,6 +9388,8 @@ vanity_soundtrack_90019_title;Balada
 vanity_soundtrack_90020_title;Obra maestra
 vanity_soundtrack_90021_title;El amor está en el aire
 vanity_soundtrack_90022_title;Temas de Novigrado
+vanity_soundtrack_90023_title;Gwynbleidd en la Senda
+vanity_soundtrack_90024_title;Dama del Espacio y el Tiempo
 vanity_title_20150_title;Voluntario
 vanity_title_20151_title;Capataz
 vanity_title_20152_title;Escaramuzador
@@ -9573,6 +9683,8 @@ vanity_title_28251_title;Matón
 vanity_title_28252_title;Príncipe
 vanity_title_28253_title;Curioso
 vanity_title_28254_title;Sabelotodo
+vanity_title_28255_title;Cazador de ghuls
+vanity_title_28256_title;Dama del Espacio y el Tiempo
 vanity_title_30180;Cabeza de cobre
 vanity_title_30180_description;Recompensa por lograr el rango 10 en partida clasificatoria, temporada de la Víbora (mayo).
 vanity_title_30181;Cascabel cornuda
