@@ -1383,6 +1383,8 @@ achievement_80147_desc;Comprar pacote de reserva extraordinário
 achievement_80147_title;Apoiador extraordinário
 achievement_80148_desc;Comprar oferta de combinação Way of the Witcher
 achievement_80148_title;Apoiador antecipado
+achievement_80149_desc;NA
+achievement_80149_title;NA
 achievement_90000_desc;Conclua os seguintes contratos:
 achievement_90000_title;Criaturas míticas
 achievement_90001_desc;Jogue {0} partidas com o mascote Carpeado equipado
@@ -1927,6 +1929,10 @@ achievement_complete_x_aretuza_quests;Conclua {0} missões da Jornada de Aretuza
 achievement_complete_x_regis_quests;Cumpra {0} missões da jornada de Regis
 achievement_geralt_winter_event;Vença {0} partidas com o visual de Geralt equipado
 achievement_help_x_crones;Ajude {0} moiras a preparar o presente para os aldeãos durante a festividade de Saovine
+achievement_play_dandelion_first_set_desc;Jogue {0} partidas com o Xale Elegante ou o Traje Elegante de Dandelion
+achievement_play_dandelion_fourth_set_desc;Jogue {0} partidas equipado com qualquer música da jornada de Dandelion
+achievement_play_dandelion_second_set_desc;Jogue {0} partidas com a Camisa Abotoada ou o Casaco de Viagem de Bardo de Dandelion
+achievement_play_dandelion_third_set_desc;Jogue {0} partidas com o Buquê de Rosas Vermelhas ou a Aura de Concerto Equipada de Dandelion
 achievement_play_vampires_x_matches;Jogue Vampiros em {0} partidas
 achievement_play_x_games_with_aretuza_music;Jogue {0} jogos com qualquer faixa de música da Jornada de Aretuza equipada
 achievement_play_x_games_with_cave;Jogue {0} jogos com o Tabuleiro da Caverna da Ilha de Thanedd
@@ -3038,6 +3044,7 @@ filter_region_af;África
 filter_region_as;Ásia
 filter_region_eu;Europa
 filter_region_global;Global
+filter_region_global_in_gaea;N/A
 filter_region_na;América do Norte
 filter_region_oc;Austrália e Oceania
 filter_region_sa;América do Sul
@@ -6099,6 +6106,7 @@ shop_data_category_avatars_title;Avatares
 shop_data_category_boards_title;Tabuleiros de jogo
 shop_data_category_borders_title;Bordas
 shop_data_category_bundles_title;Conjuntos
+shop_data_category_campaigns_title;NA
 shop_data_category_card_backs_title;Verso de cartas
 shop_data_category_kegs_title;Barris de cartas
 shop_data_category_leader_skins_title;Aparências de líderes
@@ -6120,6 +6128,8 @@ shop_data_commanders_bundle_desc;<sprite="PopupIcons" name="Skin"> Visual Olhos 
 shop_data_commanders_bundle_title;Conjunto do Comandante
 shop_data_crimson_curse_pre_pack_desc;A lua de sangue está ascendendo! Este pacote de conjunto não básico ajudará você a se preparar para a batalha e pode ser aberto quando Crimson Curse for lançado no dia 28 de março de 2019. Ele contém:\n\n    <sprite="PopupIcons" name="CCKeg"> 40 Barris Crimson Curse\n\n    <sprite="PopupIcons" name="Skin"> Armadura de Sangue do Ancião Sonegado\n\n    <sprite="PopupIcons" name="CardBack"> Verso de carta animado Crimson Curse.
 shop_data_crimson_curse_pre_pack_title;Pacote de reserva de Crimson Curse
+shop_data_day_bundle_desc;<sprite="PopupIcons" name="Coin"> Moeda do dia\n\n<sprite="PopupIcons" name="Board"> Tabuleiro “À Luz do Dia”\n\nAompra deste produto ajuda a apoiar os e-sports de GWENT. 50% dos lucros do pacote aumentarão diretamente a premiação do Aberto 1 de GWENT, que acontecerá em abril de 2022!
+shop_data_day_bundle_title;Conjunto do Dia (ABERTO 1)
 shop_data_discount_promo_desc;Desconto!
 shop_data_draconid_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar Saskia\n\n<sprite="PopupIcons" name="Border"> Borda Grande Wyrm\n\n<sprite="PopupIcons" name="Title"> Título "Matador de Dragões"\n\nEste conjunto contém ornamentos introduzidos originalmente como itens desbloqueáveis na Temporada do Draconídeo no Ano do Javali - além de um item bônus especial!
 shop_data_draconid_bundle_title;Conjunto Draconídeo
@@ -6349,6 +6359,10 @@ shop_data_northern_keg_desc;Quando aberto, este barril concede 5 cartas dos Rein
 shop_data_northern_keg_title;Barril(is) dos Reinos do Norte
 shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 barris dos Reinos do Norte.\n\n<sprite="PopupIcons" name="Card">Carta Príncipe Viraxas.\n\n<sprite="PopupIcons" name="Border">Borda dos Reinos do Norte.\n\nIdeal para novos jogadores! Apoie sua facção favorita de GWENT! Este pacote oferece 5 barris com cartas exclusivamente dos Reinos do Norte, bem como uma carta de ouro dos Reinos do Norte e uma borda de facção exclusiva.
 shop_data_now_available_ promo_desc;Já disponível!
+shop_data_origins_desc;NA
+shop_data_origins_title;NA
+shop_data_originsdeluxe_desc;NA
+shop_data_originsdeluxe_title;NA
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin"> Visual Grilo Verde\n\n<sprite="PopupIcons" name="Board"> Tabuleiro esquecido\n\nA natureza chegou! Não é uma maravilha? \n\nEste conjunto foi introduzido para apoiar o GWENT Open 2 durante o Ano do Homem-rato.
 shop_data_overgrown_bundle_title;Pacote Plantado (GWENT Open 2)
 shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> Borda Campeão de Passiflora\n\n<sprite="PopupIcons" name="Avatar"> Avatar Amrynn\n\n<sprite="PopupIcons" name="Avatar"> Avatar Narcissa\n\n<sprite="PopupIcons" name="Avatar"> Avatar Viola\n\n<sprite="PopupIcons" name="Title"> Título “Campeão de Passiflora”\n\nComemore o melhor que o Passiflora de Novigrad tem a oferecer com o Conjunto de Passiflora!
@@ -6442,6 +6456,8 @@ shop_data_thronebreaker_desc;Thronebreaker é um RPG de cartas para um jogador a
 shop_data_thronebreaker_title;Thronebreaker
 shop_data_tiger_bundle_desc;<sprite="PopupIcons" name="Board"> Tabuleiro Tigre\n\n<sprite="PopupIcons" name="CardBack"> Verso de carta Tigre\n\nÉ hora de se preparar e lutar em todas as suas batalhas com ferocidade e magnificência incomparáveis!
 shop_data_tiger_bundle_title;Conjunto Tigre
+shop_data_time_of_day_bundle_desc;<sprite="PopupIcons" name="CardBack"> Verso de carta “Horas do dia”\n\n<sprite="PopupIcons" name="Title"> Título “Madrugador”\n\n<sprite="PopupIcons" name="Title"> Título “Noctívago”\n\nA compra deste produto ajuda a apoiar os e-sports de GWENT: 50% da receita do pacote aumentará diretamente a premiação do GWENT Masters, que acontecerá em dezembro de 2022!
+shop_data_time_of_day_bundle_title;Conjunto “Horas do dia”
 shop_data_ultimate_premium_keg_title;Barril premium supremo
 shop_data_ultimate_starter_pack_desc;<sprite="PopupIcons" name="Keg"> 7 barris supremos\n\n <sprite="PopupIcons" name="Keg"> 7 barris Crimson Curse\n\n <sprite="PopupIcons" name="Keg"> 7 barris de Novigrad\n\n<sprite="PopupIcons" name="Keg"> 7 barris Iron Judgment\n\n<sprite="PopupIcons" name="Keg"> 7 barris Merchants of Ofir\n\nEste pacote permite que você aumente sua coleção e construa um baralho poderoso para batalhar.\n
 shop_data_usurper_emperor_skin_desc;Épocas de desespero pedem medidas desesperadas. Resolva tudo por conta própria e assuma o seu lugar no trono com este visual imperial para o Usurpador.
@@ -6450,6 +6466,8 @@ shop_data_viper_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar Serrit\n\
 shop_data_viper_bundle_title;Conjunto da Escola da Víbora
 shop_data_viper_cardback_2020_desc;<sprite="PopupIcons" name="CardBack">Verso de carta Temporada da Víbora\n\nEste verso de carta foi introduzido originalmente como um item desbloqueável durante a Temporada da Víbora no Ano do Homem-rato.
 shop_data_viper_cardback_2020_title;Verso de carta da Víbora (2020)
+shop_data_viziman_champion_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar Farrista\n\n<sprite="PopupIcons" name="Border"> Borda Cerveja\n\n<sprite="PopupIcons" name="Title"> Título “Campeão Vizimano”\n\nObtenha este conjunto *hic* revigorante do coração de Teméria e junte-se *hic* à diversão!
+shop_data_viziman_champion_bundle_title;Conjunto Campeão de Vizima
 shop_data_winter_board_desc;<sprite="PopupIcons" name="Board">Tabuleiro de Inverno\n\nVocê quer com... porcos vestidos?! Já é Solstício de Inverno? \nEste tabuleiro de jogo apareceu como parte do Evento de Solstício de Inverno de 2019 no Ano do Javali Selvagem.
 shop_data_winter_board_desc_sale;<sprite="PopupIcons" name="Board">Tabuleiro de Inverno\n\nEste tabuleiro apareceu como parte do Evento de Solstício de Inverno de 2019 no Ano do Javali Selvagem. Ele estará disponível com 30% de desconto durante a promoção do Evento de Inverno.
 shop_data_winter_bundle_open1_desc;<sprite="PopupIcons" name="Board"> Tabuleiro de Inverno\n\n<sprite="PopupIcons" name="CardBack"> Verso de carta de Inverno\n\nA compra deste produto ajuda a apoiar os e-sports de GWENT: 30% da receita do pacote aumentará diretamente a premiação do GWENT Masters, que acontecerá em dezembro de 2021!
@@ -6590,7 +6608,7 @@ shop_schemes_and_order_pack_desc;Toda guerra se baseia no engano!\n\nObtenha 2 n
 shop_schemes_and_order_pack_title;Pacote Planos e Ordem
 shop_school_of_wolf_bundle_desc;<sprite="PopupIcons" name="Avatar">Avatar Vesemir\n\n<sprite="PopupIcons" name="Border">Borda Grande Lobo\n\n<sprite="PopupIcons" name="Title"> Título "Doyen"\n\nEste conjunto contém ornamentos introduzidos anteriormente como itens desbloqueáveis durante a Temporada do Lobo no Ano do Javali, bem como um item bônus especial!
 shop_school_of_wolf_bundle_title;Conjunto da Escola do Lobo
-shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar Ursa\n\n<sprite="PopupIcons" name="Border"> Borda de Urso\n\n<sprite="PopupIcons" name="Title"> Título "Feroz" \n\nEste pacote contém ornamentos originalmente introduzidos como itens desbloqueáveis durante a Temporada do Urso no Ano do Javali Selvagem, bem como um item bônus especial!
+shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar"> Avatar Ursa\n\n<sprite="PopupIcons" name="Border"> Borda de Urso\n\n<sprite="PopupIcons" name="Title"> Título “Feroz”\n\nEste conjunto contém ornamentos originalmente introduzidos como itens desbloqueáveis durante a Temporada do Urso no Ano do Javali Selvagem.
 shop_season_bear_bundle_title;Conjunto Feroz
 shop_shupe_antlers_bundle_desc;<sprite="PopupIcons" name="Skin">Visual base de Løjo (todas as facções)\n\n<sprite="PopupIcons" name="Trinket">Chifres Festivos\n\n<sprite="PopupIcons" name="Title"> Título "Troll Festivo"\n\nHoje a noite é bela, Løjo e a galera,\nVamos à batalha, felizes a cantar
 shop_shupe_antlers_bundle_title;Conjunto Chifres Festivos
@@ -6606,7 +6624,7 @@ shop_shupe_christmas_desc;<sprite="PopupIcons" name="Trinket">Bolsa com presente
 shop_shupe_christmas_title;Bolsa com Presentes
 shop_shupe_leafhat_bundle_desc;<sprite="PopupIcons" name="Skin">Visual base de Lojø (todas as facções)\n\n<sprite="PopupIcons" name="Trinket">Chapéu Trevo de Quatro Folhas \n\nO Lojø tá com sorte, SORTE À BEÇA.
 shop_shupe_leafhat_bundle_title;Conjunto Quatro Folhas do Lojø
-shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> Chapéu Quatro Folhas \n\nSinta a sorte com esta oferta.\n\nEste é um jogo de habilidade e não de sorte. No entanto, um pouco de sorte é sempre bem-vindo!\nObservação: este pacote também está disponível como parte do Conjunto Quatro Folhas.
+shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> Chapéu Quatro Folhas \n\nSinta a sorte com esta oferta.\n\nEste jogo requer habilidade e não de sorte, mas um pouco de sorte nunca é demais!
 shop_shupe_leafhat_trinket_title;Berloque Quatro Folhas do Lojø
 shop_shupe_love_armour_desc;<sprite="PopupIcons" name="Trinket"> Armadura do Amor de Lojø\n\nVista esta Armadura do Amor e nenhum inimigo resistirá à sua presença!
 shop_shupe_love_armour_title;Armadura do Amor de Lojø
@@ -6728,6 +6746,10 @@ status_owned;Possuídas
 switch_app_exec_failed_message;Não foi possível mudar para Thronebreaker.
 switch_app_popup_desc;Você fechará o Gwent e iniciará o Thronebreaker.
 switch_app_popup_title;Mudar para Thronebreaker
+switch_to_appstore_button_title;Alternar para a App Store
+switch_to_general_button_title;Abrir no navegador
+switch_to_googleplay_button_title;Alternar para a Google Play
+switch_to_steam_button_title;Abrir na Steam
 syn_fluff_description;Alguns lutam por honra, outros pelo império. Alguns lutam pelo rei, outros pela liberdade. Os membros do Sindicato lutam por um único propósito: a prosperidade. Se você puder arcar com os custos, eles farão todos o que você bem quiser... por mais horrendo que seja. No submundo do crime, é com a criminalidade que as reputações são construídas e os bolsos são enchidos. Apesar da economia da cidade prosperar na Coroa Novigradense, por debaixo dos panos, um outro tipo de moeda corre pelas ruas. Quando usadas como pagamento, um pacto inviolável é lacrado. E aqueles tolos suficiente para violar o acordo serão caçados e forçados a pagar o preço supremo.
 syn_fluff_title;Sindicato
 syndicate_preset_deck_name;Baralho inicial do Sindicato
@@ -6915,6 +6937,7 @@ tracked_event_damage_with_bleeding_x_times;Cause dano com Sangramento {0} vezes
 tracked_event_damage_with_detlaff_x_times;Cause dano usando a habilidade de Dettlaff <strong>{0}</strong> vezes.
 tracked_event_damage_with_frost_x_times;Cause dano com Frio {0} vezes
 tracked_event_destroy_footmen_with_lonely_champion;Destrua {0} Soldados da Rosa Ardente com Campeão Solitário
+tracked_event_destroy_x_units;Destrua {0} unidades
 tracked_event_diveristy_x_times;Ignore.
 tracked_event_draw_cards_with_calnthe_x_times;Compre uma carta usando a habilidade de Calanthe <strong>{0}</strong> vezes.
 tracked_event_exposed_x_times;Acione Expor {0} vezes
@@ -7232,7 +7255,7 @@ ui_cardback_group_11_title;Eventos do Ano Novo Lunar
 ui_cardback_group_12_title;Eventos de amor
 ui_cardback_group_13_title;Ano do Homem-rato
 ui_cardback_group_14_title;Jornada de Geralt
-ui_cardback_group_15_title;Mestres de GWENT
+ui_cardback_group_15_title;Mestres do Mundo
 ui_cardback_group_16_title;Expansão Master Mirror
 ui_cardback_group_17_title;Jornada de Ciri
 ui_cardback_group_18_title;Eventos de Saovine
@@ -7248,6 +7271,7 @@ ui_cardback_group_27_title;Golpe de Thanedd
 ui_cardback_group_28_title;Jornada de Aretuza
 ui_cardback_group_3_title;Temporadas do Homem-rato
 ui_cardback_group_30_title;Jornada de Dandelion
+ui_cardback_group_31_title;N/A
 ui_cardback_group_4_title;Expansão Crimson Curse
 ui_cardback_group_5_title;Expansão de Novigrad
 ui_cardback_group_6_title;Expansão Iron Judgment
@@ -7260,6 +7284,7 @@ ui_coin_group_12_title;Expansão
 ui_coin_group_13_title;Ocasiões especiais
 ui_coin_group_14_title;Jornada de Aretuza
 ui_coin_group_17_title;Jornada de Dandelion
+ui_coin_group_18_title;Gwent Masters - 4ª temporada
 ui_coin_group_2_title;Jornada de Geralt
 ui_coin_group_3_title;Jornada de Ciri
 ui_coin_group_4_title;Cyberpunk 2077
@@ -7282,6 +7307,7 @@ ui_gameboard_group_1_title;Básico
 ui_gameboard_group_10_title;Ano do Homem-rato
 ui_gameboard_group_11_title;Templo de Lilvani
 ui_gameboard_group_12_title;Ponte
+ui_gameboard_group_13_title;NA
 ui_gameboard_group_14_title;Laboratório
 ui_gameboard_group_16_title;Price of Power
 ui_gameboard_group_17_title;Jornada de Aretuza
@@ -8223,7 +8249,7 @@ vanity_cardback_60035_title;Verso de carta de Leshen
 vanity_cardback_60036_title;Verso de carta dos sinais do bruxo
 vanity_cardback_60037_title;Verso de carta do Rei Rato
 vanity_cardback_60040_title;Verso de carta da Temporada do Urso
-vanity_cardback_60049_title;Mestres do Mundo Temporada 1
+vanity_cardback_60049_title;Verso de carta da 1ª temporada
 vanity_cardback_60050_title;Verso de carta da Temporada dos Elfos
 vanity_cardback_60051_title;Verso de carta da Temporada da Víbora
 vanity_cardback_60052_title;Verso de carta da Temporada da Magia
@@ -8246,7 +8272,7 @@ vanity_cardback_60072_title;Verso de varta de modificação genética
 vanity_cardback_60073_title;Verso de carta de altar de esfinge
 vanity_cardback_60074_title;Verso de carta de alquimia
 vanity_cardback_60075_title;Verso de carta do Cerco da Ponte de Yaruga
-vanity_cardback_60076_title;Verso de carta World Masters Temporada 2
+vanity_cardback_60076_title;Verso de carta da 2ª temporada
 vanity_cardback_60077_title;Verso de carta Vampiro Ferido
 vanity_cardback_60078_title;Verso de carta Anão Fantasma
 vanity_cardback_60079_title;Verso de carta do sol e da lua
@@ -8276,7 +8302,7 @@ vanity_cardback_60103_title;Verso de carta de primavera
 vanity_cardback_60104_title;Verso de carta de Verão
 vanity_cardback_60105_title;Verso de carta de Outono
 vanity_cardback_60105_tittle;Verso de carta de Outono
-vanity_cardback_60106_title;3ª Temporada de Mestres do Mundo
+vanity_cardback_60106_title;Verso de carta da 3ª temporada
 vanity_cardback_60107_title;Verso de carta comemorativo
 vanity_cardback_60108_title;Verso de cartal Brokilon
 vanity_cardback_60109_title;Verso de carta Conselheiro de Foltest
@@ -8301,12 +8327,16 @@ vanity_cardback_60128_title;Verso de carta Regis e Geralt
 vanity_cardback_60129_title;Verso de carta Emiel Regis
 vanity_cardback_60130_title;Verso de carta de Regis, o Vampiro
 vanity_cardback_60132_title;Verso de carta Lojø de Tricô
-vanity_cardback_60133_title;Verso de carta Lojø de Tricô
+vanity_cardback_60133_title;Verso de carta
+vanity_cardback_60134_title;NA
+vanity_cardback_60135_title;NA
+vanity_cardback_60136_title;NA
 vanity_cardback_60137_title;Verso de carta Tigre
 vanity_cardback_60138_title;Verso de carta Dandelion e Dijkstra
 vanity_cardback_60139_title;Verso de carta Dandelion e Geralt
 vanity_cardback_60140_title;Verso de carta Grupo de Súcubos
 vanity_cardback_60141_title;Verso de carta Inspiração Criativa
+vanity_cardback_60144_title;Verso de carta de horas do dia
 vanity_cardback_61001_title;Verso de Carta dos Monstros
 vanity_cardback_61002_title;Verso de Carta de Nilfgaard
 vanity_cardback_61003_title;Verso de Carta dos Reinos do Norte
@@ -8372,6 +8402,7 @@ vanity_coin_70054_title;Moeda Alaúde
 vanity_coin_70055_title;Moeda Poesia
 vanity_coin_70056_title;Moeda Chapéu de Bardo
 vanity_coin_70057_title;Moeda Frasco de Perfume
+vanity_coin_70058_title;Moeda do dia
 vanity_deck_mon;Baralho dos Monstros
 vanity_deck_nil;Baralho de Nilfgaard
 vanity_deck_nor;Baralho dos Reinos do Norte
@@ -8406,6 +8437,7 @@ vanity_gameboard_50033_title;Tabuleiro Mundo Distorcido
 vanity_gameboard_50034_title;Tabuleiro Esquecido
 vanity_gameboard_50035_title;Tabuleiro do Orgulho de Demavend
 vanity_gameboard_50036_title;Tabuleiro Prado de Dandelion
+vanity_gameboard_50037_title;NA
 vanity_gameboard_50038_title;de Alzur
 vanity_gameboard_50039_title;Tabuleiro de Inverno
 vanity_gameboard_50040_title;Tabuleiro de primavera
@@ -8424,6 +8456,7 @@ vanity_gameboard_50052_title;Tabuleiro Grande Carvalho
 vanity_gameboard_50053_title;Tabuleiro de Saovine
 vanity_gameboard_50054_title;Tabuleiro de Solstício de Inverno
 vanity_gameboard_50057_title;Tabuleiro Festival do Amor
+vanity_gameboard_50058_title;Tabuleiro À Luz do Dia
 vanity_gameboard_default_title;Tabuleiro de Facção Padrão
 vanity_h01_border_description;Recompensa por completar Desafios do Festival da Cerveja de Mahakam no modo Especialista.
 vanity_h01_border_title;Borda Levantador de Copos
@@ -9484,6 +9517,9 @@ vanity_title_28244_title;Verdadeiro Artista
 vanity_title_28245_title;O melhor bardo
 vanity_title_28246_title;Flor Delicada
 vanity_title_28247_title;Músico
+vanity_title_28248_title;NA
+vanity_title_28249_title;Madrugador
+vanity_title_28250_title;Noctívago
 vanity_title_28251_title;Troglodita
 vanity_title_30180;Cabeça-de-cobra
 vanity_title_30180_description;Recompensa por alcançar o ranking 10 no jogo classificatório, temporada da Víbora (maio).

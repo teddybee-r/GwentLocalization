@@ -1383,6 +1383,8 @@ achievement_80147_desc;Kup Nadzwyczajną Pakę Przedpremierową
 achievement_80147_title;Nadzwyczajny wspierający
 achievement_80148_desc;Kup Wielopak Wiedźminów
 achievement_80148_title;Wczesny fundator
+achievement_80149_desc;NA
+achievement_80149_title;NA
 achievement_90000_desc;Ukończ następujące kontrakty:
 achievement_90000_title;Mityczne istoty
 achievement_90001_desc;Rozegraj {0} gier z wyekpwipowaną Maskotką Płotki
@@ -1927,6 +1929,10 @@ achievement_complete_x_aretuza_quests;Ukończ zadania Podróży po Aretuzie w li
 achievement_complete_x_regis_quests;Ukończ zadania ({0}) Podróży Regisa
 achievement_geralt_winter_event;Wygraj rozgrywki ({0}) ze skórką Geralta
 achievement_help_x_crones;Pomóż Staruchom ({0}) przygotować prezent dla mieszkańców wioski podczas święta Saovine
+achievement_play_dandelion_first_set_desc;Rozegraj partie ({0}) w stylowym szalu lub eleganckim stroju Jaskra
+achievement_play_dandelion_fourth_set_desc;Rozegraj partie ({0}), używając dowolnej ścieżki dźwiękowej z Podróży Jaskra
+achievement_play_dandelion_second_set_desc;Rozegraj partie ({0}) w płaszczu wędrownego barda lub w koszuli z guzikami Jaskra
+achievement_play_dandelion_third_set_desc;Rozegraj partie ({0}) z wyposażonym bukietem czerwonych róż lub koncertową aurą Jaskra
 achievement_play_vampires_x_matches;Zagraj wampirem w {0} partiach
 achievement_play_x_games_with_aretuza_music;Rozegraj partie w liczbie {0}, używając jakiejkolwiek ścieżki dźwiękowej z Podróży po Aretuzie
 achievement_play_x_games_with_cave;Rozegraj partie w liczbie {0}, używając planszy Jaskinia na Thanedd
@@ -3038,6 +3044,7 @@ filter_region_af;Afryka
 filter_region_as;Azja
 filter_region_eu;Europa
 filter_region_global;Cały świat
+filter_region_global_in_gaea;N/A
 filter_region_na;Ameryka Północna
 filter_region_oc;Australia i Oceania
 filter_region_sa;Ameryka Południowa
@@ -6099,6 +6106,7 @@ shop_data_category_avatars_title;Awatary
 shop_data_category_boards_title;Plansze
 shop_data_category_borders_title;Ramki
 shop_data_category_bundles_title;Paki
+shop_data_category_campaigns_title;NA
 shop_data_category_card_backs_title;Koszulki kart
 shop_data_category_kegs_title;Beczki z kartami
 shop_data_category_leader_skins_title;Skórki dowódców
@@ -6120,6 +6128,8 @@ shop_data_commanders_bundle_desc;<sprite="PopupIcons" name="Skin"> Skórka: Sreb
 shop_data_commanders_bundle_title;Paka Dowodzenia
 shop_data_crimson_curse_pre_pack_desc;Wschodzi krwawy księżyc! Ten pakiet spoza zestawu podstawowego pomoże ci przygotować się do walki. Będzie można go otworzyć po premierze rozszerzenia „Krwawa Klątwa” 28 marca 2019. Zawiera on:\n\n    <sprite="PopupIcons" name="CCKeg"> 40 beczek Krwawej Klątwy\n\n    <sprite="PopupIcons" name="Skin"> Krwawą zbroję Ukrytego\n\n    <sprite="PopupIcons" name="CardBack"> Animowany rewers „Krwawa Klątwa”.
 shop_data_crimson_curse_pre_pack_title;Pakiet przedsprzedażowy „Krwawa klątwa”
+shop_data_day_bundle_desc;<sprite="PopupIcons" name="Coin"> Moneta: Dzień\n\n<sprite="PopupIcons" name="Board"> Plansza: W świetle dnia\n\nZakup tego produktu oznacza wsparcie GWINTOWEGO e-sportu – 50% dochodów z zestawu zwiększy bezpośrednio pulę nagród zawodów GWENT Open 1, które odbędą się w kwietniu 2022 roku!
+shop_data_day_bundle_title;Dzienna paka (OPEN 1)
 shop_data_discount_promo_desc;Rabat!
 shop_data_draconid_bundle_desc;<sprite="PopupIcons" name="Avatar"> Awatar: Saskia\n\n<sprite="PopupIcons" name="Border"> Ramka:Wielki żmij\n\n<sprite="PopupIcons" name="Title"> Tytuł: Pogromca smoków\n\nTen pakiet zawiera ozdoby, które można było odblokować po raz pierwszy w Sezonie Drakonida w Roku Dzika – oraz specjalny przedmiot bonusowy!
 shop_data_draconid_bundle_title;Paka Drakonida
@@ -6349,6 +6359,10 @@ shop_data_northern_keg_desc;Po otwarciu ta beczka da ci 5 kart Królestw Półno
 shop_data_northern_keg_title;Beczki Królestw Północy
 shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 beczek Królestw Północy.\n\n<sprite="PopupIcons" name="Card">Karta Książę Viraxas.\n\n<sprite="PopupIcons" name="Border">Ramka: Królestwa Północy.\n\nIdealny zestaw dla nowych graczy! Wzmocnij swoją ulubioną frakcję GWINTA! Pakiet zawiera 5 beczek wyłącznie z kartami Królestw Północy, a także wybraną złotą kartę Królestw Północy i unikalną ramkę frakcji.
 shop_data_now_available_ promo_desc;Już dostępne!
+shop_data_origins_desc;NA
+shop_data_origins_title;NA
+shop_data_originsdeluxe_desc;NA
+shop_data_originsdeluxe_title;NA
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin"> Skórka: Zielony świerszcz\n\n<sprite="PopupIcons" name="Board"> Plansza: Zarośla\n\nNatura dochodzi do głosu! Czyż nie jest piękna?\n\nTen zestaw zaprezentowano jako formę kibicowania GWENT Open 2 w Roku Szczurołaka.
 shop_data_overgrown_bundle_title;Paka Rozkwitu (GWENT Open 2)
 shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> Ramka: Czempion Passiflory\n\n<sprite="PopupIcons" name="Avatar"> Awatar: Amrynn\n\n<sprite="PopupIcons" name="Avatar"> Awatar: Narcissa\n\n<sprite="PopupIcons" name="Avatar"> Awatar: Viola\n\n<sprite="PopupIcons" name="Title"> Tytuł: „Czempion Passiflory”\n\nUczcij to, co najlepsze ma do zaoferowania nowigradzka Passiflora, dzięki pace Passiflory!
@@ -6442,6 +6456,8 @@ shop_data_thronebreaker_desc;Wojna Krwi to jednoosobowa karciana gra role-playin
 shop_data_thronebreaker_title;Wojna Krwi
 shop_data_tiger_bundle_desc;<sprite="PopupIcons" name="Board"> Plansza: Tygrys\n\n<sprite="PopupIcons" name="CardBack"> Rewers: Tygrys\n\nCzas się przygotować i stoczyć wszystkie bitwy z niezrównaną zaciekłością i wspaniałością!
 shop_data_tiger_bundle_title;Paka Tygrysa
+shop_data_time_of_day_bundle_desc;<sprite="PopupIcons" name="CardBack"> Rewers: Pory dnia\n\n<sprite="PopupIcons" name="Title"> Tytuł: Ranny ptaszek\n\n<sprite="PopupIcons" name="Title"> Tytuł: Sowa\n\nZakup tego produktu oznacza wsparcie GWINTOWEGO e-sportu – 50% dochodów z zestawu bezpośrednio zwiększy pulę nagród zawodów GWENT Masters, które odbędą się w grudniu 2022 roku!
+shop_data_time_of_day_bundle_title;Paka: Pory dnia
 shop_data_ultimate_premium_keg_title;Potężna beczka premium
 shop_data_ultimate_starter_pack_desc;<sprite="PopupIcons" name="Keg"> 7 potężnych beczek\n\n<sprite="PopupIcons" name="Keg"> 7 beczek Krwawej Klątwy\n\n<sprite="PopupIcons" name="Keg"> 7 beczek Novigradu\n\n<sprite="PopupIcons" name="Keg"> 7 beczek Żelaznej Woli\n\n<sprite="PopupIcons" name="Keg"> 7 beczek Kupców Ofiru\n\nTa paka pozwala ci szybko rozbudować twoją kolekcję i stworzyć własną, potężną talię, której żadna bitwa niestraszna.\n
 shop_data_usurper_emperor_skin_desc;Desperackie czasy wymagają desperackich środków. Weź sprawy w swoje ręce i wygraj grę o tron dzięki tej imperialnej skórze dla Uzurpatora.
@@ -6450,6 +6466,8 @@ shop_data_viper_bundle_desc;<sprite="PopupIcons" name="Avatar"> Awatar: Serrit\n
 shop_data_viper_bundle_title;Zestaw Szkoły Żmii
 shop_data_viper_cardback_2020_desc;<sprite="PopupIcons" name="CardBack">Rewers: Sezon Żmii\n\nTen rewers został po raz pierwszy zaprezentowany jako przedmiot do odblokowania podczas Sezonu Żmii w Roku Szczurołaka.
 shop_data_viper_cardback_2020_title;Rewers: Żmija (2020)
+shop_data_viziman_champion_bundle_desc;<sprite="PopupIcons" name="Avatar"> Awatar: Hulaka\n\n<sprite="PopupIcons" name="Border"> Ramka: Trunek\n\n<sprite="PopupIcons" name="Title"> Tytuł: Czempion Wyzimy\n\nZdobądź ten orzeźwiający *czka* zestaw z samego serca Temerii i *czka* dołącz do zabawy!
+shop_data_viziman_champion_bundle_title;Zestaw Czempiona Wyzimy
 shop_data_winter_board_desc;<sprite="PopupIcons" name="Board">Plansza: Zima\n\nUlepimy dziś… poprzebierane świnki?! Yule już za pasem? Jak to?!\nTa plansza została po raz pierwszy zaprezentowana jako element wydarzenia Yule 2019 w Roku Dzika.
 shop_data_winter_board_desc_sale;<sprite="PopupIcons" name="Board">Plansza: Zima\nTa plansza została po raz pierwszy zaprezentowana jako element wydarzenia Yule 2019 w Roku Dzika. Plansza będzie dostępna ze zniżką 30% podczas wyprzedaży Wydarzenia zimowego.
 shop_data_winter_bundle_open1_desc;<sprite="PopupIcons" name="Board"> Plansza: Zima\n\n<sprite="PopupIcons" name="CardBack"> Rewers: Zima\n\nZakup tego produktu oznacza wsparcie GWINTOWEGO e-sportu – 30% dochodów z zestawu bezpośrednio zwiększy pulę nagród zawodów GWENT Masters, które odbędą się w grudniu 2021 roku!
@@ -6590,7 +6608,7 @@ shop_schemes_and_order_pack_desc;Wszystkie wojny opierają się na oszustwie!\n\
 shop_schemes_and_order_pack_title;Pakiet Intryg i Ładu
 shop_school_of_wolf_bundle_desc;<sprite="PopupIcons" name="Avatar"> Awatar: Vesemir\n\n<sprite="PopupIcons" name="Border"> Ramka: Wielki Warg\n\n<sprite="PopupIcons" name="Title"> Tytuł: „Nestor”\n\nTen zestaw obejmuje ornamenty dostępne po raz pierwszy jako przedmioty do odblokowania podczas Sezonu Wilka w Roku Dzika, a także wyjątkowy nowy przedmiot dodatkowy!
 shop_school_of_wolf_bundle_title;Zestaw Szkoły Wilka
-shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar"> Awatar: Niedźwiedzica\n\n<sprite="PopupIcons" name="Border"> Ramka: Niedźwiedź\n\n<sprite="PopupIcons" name="Title"> Tytuł „Zaciekły”\n\nTen zestaw obejmuje ornamenty dostępne po raz pierwszy jako przedmioty do odblokowania podczas Sezonu Niedźwiedzia w Roku Dzika – teraz z nowym specjalnym przedmiotem dodatkowym!
+shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar"> Awatar: Niedźwiedzica\n\n<sprite="PopupIcons" name="Border"> Ramka: Niedźwiedź\n\n<sprite="PopupIcons" name="Title"> Tytuł „Zaciekły”\n\nTen zestaw obejmuje ornamenty dostępne po raz pierwszy jako przedmioty do odblokowania podczas Sezonu Niedźwiedzia w Roku Dzika.
 shop_season_bear_bundle_title;Zaciekły zestaw
 shop_shupe_antlers_bundle_desc;<sprite="PopupIcons" name="Skin"> Skórka bazowa Sklepa (wszystkie frakcje)\n\n<sprite="PopupIcons" name="Trinket"> Świąteczne rogi\n\n<sprite="PopupIcons" name="Title"> Tytuł „Świąteczny Troll”\n\nNAJLEPSIEJSZE życzenia od SKLEPA radosnego\nSKLEP życzy wesołych świąt!
 shop_shupe_antlers_bundle_title;Zestaw Świątecznych Rogów
@@ -6606,7 +6624,7 @@ shop_shupe_christmas_desc;<sprite="PopupIcons" name="Trinket">Wór prezentów (d
 shop_shupe_christmas_title;Wór prezentów
 shop_shupe_leafhat_bundle_desc;<sprite="PopupIcons" name="Skin">Skórka bazowa Sklepa (wszystkie frakcje)\n\n<sprite="PopupIcons" name="Trinket">Czterolistny kapelusz \n\nSKLEP ma dzisiaj szczęście – MIAŻDŻĄCE SZCZĘŚCIE.
 shop_shupe_leafhat_bundle_title;Czterolistny zestaw Sklepa
-shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> Czterolistny kapelusz \n\nOferta na szczęście.\n\nDo tej gry potrzebne są umiejętności, nie fart. Jednak odrobina szczęścia nie zaszkodzi!\nUwaga: ten przedmiot jest też dostępny w Czterolistnym zestawie.
+shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> Czterolistny kapelusz \n\nOferta na szczęście.\n\nDo tej gry potrzebne są umiejętności, nie fart. Jednak odrobina szczęścia nie zaszkodzi!
 shop_shupe_leafhat_trinket_title;Czterolistny bibelot Sklepa
 shop_shupe_love_armour_desc;<sprite="PopupIcons" name="Trinket"> Zbroja Miłości Sklepa\n\nZałóż tę Zbroję Miłości, a żaden wróg nie oprze się twojej obecności!
 shop_shupe_love_armour_title;Zbroja Miłości Sklepa
@@ -6728,6 +6746,10 @@ status_owned;Posiadane
 switch_app_exec_failed_message;Nie udało się przełączyć na Wojnę Krwi.
 switch_app_popup_desc;Zamknij Gwinta i uruchom Wojnę Krwi.
 switch_app_popup_title;Przełącz na Wojnę Krwi.
+switch_to_appstore_button_title;Przejdź do App Store
+switch_to_general_button_title;Otwórz w przeglądarce
+switch_to_googleplay_button_title;Przejdź do Google Play
+switch_to_steam_button_title;Otwórz w Steam
 syn_fluff_description;Jedni walczą o honor, inni o imperium. Jedni walczą w imię króla, inni w imię wolności. Członkowie Syndykatu walczą tylko z jednego powodu – dla bogactwa. Jeśli stać cię na ich usługi, zrobią dla ciebie, cokolwiek zechcesz... jak wielkie to by nie było draństwo. W przestępczym półświatku trzeba się uciekać do zbrodni, żeby budować reputację i napełniać trzos. Miejską walutą jest novigradzka korona, ale przestępcy posługują się innymi monetami. Przekazane w ramach płatności tworzą one niezrywalny pakt. Ktoś dość głupi, żeby złamać postanowienia takiej umowy staje się celem polowania i szybko zostanie zmuszony do zapłacenia znacznie wyższej ceny.
 syn_fluff_title;Syndykat
 syndicate_preset_deck_name;Talia startowa Syndykatu
@@ -6915,6 +6937,7 @@ tracked_event_damage_with_bleeding_x_times;Zadaj obrażenia krwawieniem {0} razy
 tracked_event_damage_with_detlaff_x_times;<strong>{0}</strong> razy zadaj obrażenia przy użyciu umiejętności Dettlaffa.
 tracked_event_damage_with_frost_x_times;Zadaj obrażenia Mrozem {0} razy
 tracked_event_destroy_footmen_with_lonely_champion;Zniszcz {0} Szeregowych Płonącej Róży przy pomocy Samotnego Czempiona 
+tracked_event_destroy_x_units;Zniszcz jednostki ({0})
 tracked_event_diveristy_x_times;Ignore.
 tracked_event_draw_cards_with_calnthe_x_times;<strong>{0}</strong> razy dobierz kartę przy użyciu umiejętności Calanthe.
 tracked_event_exposed_x_times;Wykorzystaj wrażliwość jednostki {0} razy
@@ -7232,7 +7255,7 @@ ui_cardback_group_11_title;Wydarzenia z okazji Księżycowego Nowego Roku
 ui_cardback_group_12_title;Wydarzenia miłosne
 ui_cardback_group_13_title;Rok Szczurołaka
 ui_cardback_group_14_title;Podróż Geralta
-ui_cardback_group_15_title;GWENT Masters
+ui_cardback_group_15_title;World Masters
 ui_cardback_group_16_title;Dodatek Pan Lusterko
 ui_cardback_group_17_title;Podróż Ciri
 ui_cardback_group_18_title;Wydarzenia Saovine
@@ -7248,6 +7271,7 @@ ui_cardback_group_27_title;Przewrót na Thanedd
 ui_cardback_group_28_title;Podróż po Aretuzie
 ui_cardback_group_3_title;Sezony Szczurołaka
 ui_cardback_group_30_title;Podróż Jaskra
+ui_cardback_group_31_title;N/A
 ui_cardback_group_4_title;Rozszerzenie: Krwawa Klątwa
 ui_cardback_group_5_title;Rozszerzenie: Novigrad
 ui_cardback_group_6_title;Rozszerzenie: Żelazna Wola
@@ -7260,6 +7284,7 @@ ui_coin_group_12_title;Rozszerzenie
 ui_coin_group_13_title;Specjalne okazje
 ui_coin_group_14_title;Podróż po Aretuzie
 ui_coin_group_17_title;Podróż Jaskra
+ui_coin_group_18_title;Gwent Masters – Sezon 4
 ui_coin_group_2_title;Podróż Geralta
 ui_coin_group_3_title;Podróż Ciri
 ui_coin_group_4_title;Cyberpunk 2077
@@ -7282,6 +7307,7 @@ ui_gameboard_group_1_title;Podstawowy
 ui_gameboard_group_10_title;Rok Szczurołaka
 ui_gameboard_group_11_title;Światynia Lilwani
 ui_gameboard_group_12_title;Most
+ui_gameboard_group_13_title;NA
 ui_gameboard_group_14_title;Laboratorium
 ui_gameboard_group_16_title;Cena Władzy
 ui_gameboard_group_17_title;Podróż po Aretuzie
@@ -8223,7 +8249,7 @@ vanity_cardback_60035_title;Rewers: Leszy
 vanity_cardback_60036_title;Rewers: Wiedźmińskie znaki
 vanity_cardback_60037_title;Rewers: Król Szczurów
 vanity_cardback_60040_title;Rewers: Sezon Niedźwiedzia
-vanity_cardback_60049_title;World Masters Sezon 1
+vanity_cardback_60049_title;Rewers: Sezon 1
 vanity_cardback_60050_title;Rewers: Sezon Elfów
 vanity_cardback_60051_title;Rewers: Sezon Żmii
 vanity_cardback_60052_title;Rewers: Sezon Magii
@@ -8246,7 +8272,7 @@ vanity_cardback_60072_title;Rewers: Modyfikacja genów
 vanity_cardback_60073_title;Rewers: Ołtarz sfinksa
 vanity_cardback_60074_title;Rewers: Alchemia
 vanity_cardback_60075_title;Rewers: Walka o Most na Jarudze
-vanity_cardback_60076_title;Rewers: World Masters Sezon 2
+vanity_cardback_60076_title;Rewers: Sezon 2
 vanity_cardback_60077_title;Rewers: Poraniony Wampir
 vanity_cardback_60078_title;Rewers: Duch Krasnoluda
 vanity_cardback_60079_title;Rewers: Słońce i księżyc
@@ -8276,7 +8302,7 @@ vanity_cardback_60103_title;Rewers: Wiosna
 vanity_cardback_60104_title;Rewers: Lato
 vanity_cardback_60105_title;Rewers: Jesień
 vanity_cardback_60105_tittle;Rewers: Jesień
-vanity_cardback_60106_title;World Masters Sezon 3
+vanity_cardback_60106_title;Rewers: Sezon 3
 vanity_cardback_60107_title;Uroczysty rewers
 vanity_cardback_60108_title;Rewers: Brokilon
 vanity_cardback_60109_title;Rewers: Doradczyni Foltesta
@@ -8301,12 +8327,16 @@ vanity_cardback_60128_title;Rewers: Regis i Geralt
 vanity_cardback_60129_title;Rewers: Emiel Regis
 vanity_cardback_60130_title;Rewers: Regis – Wampir
 vanity_cardback_60132_title;Rewers: Robótki Sklepa
-vanity_cardback_60133_title;Rewers: Robótki Sklepa
+vanity_cardback_60133_title;Rewers
+vanity_cardback_60134_title;NA
+vanity_cardback_60135_title;NA
+vanity_cardback_60136_title;NA
 vanity_cardback_60137_title;Rewers: Tygrys
 vanity_cardback_60138_title;Rewers: Jaskier i Dijkstra
 vanity_cardback_60139_title;Rewers: Jaskier i Geralt
 vanity_cardback_60140_title;Rewers: Impreza u sukkuba
 vanity_cardback_60141_title;Rewers: Kreatywna inspiracja
+vanity_cardback_60144_title;Rewers: Pory dnia
 vanity_cardback_61001_title;Rewers: Potwory
 vanity_cardback_61002_title;Rewers: Nilfgaard
 vanity_cardback_61003_title;Rewers: Królestwa Północy
@@ -8372,6 +8402,7 @@ vanity_coin_70054_title;Moneta: Lutnia
 vanity_coin_70055_title;Moneta: Poezja
 vanity_coin_70056_title;Moneta: Kapelusz barda
 vanity_coin_70057_title;Moneta: Buteleczka perfum
+vanity_coin_70058_title;Moneta: Dzień
 vanity_deck_mon;Talia Potworów
 vanity_deck_nil;Talia Nilfgaardu
 vanity_deck_nor;Talia Królestw Północy
@@ -8406,6 +8437,7 @@ vanity_gameboard_50033_title;Plansza: Zniekształcony Świat
 vanity_gameboard_50034_title;Plansza: Zapomniane miejsce
 vanity_gameboard_50035_title;Plansza: Duma Demawenda
 vanity_gameboard_50036_title;Plansza: Jaskrowa Łąka
+vanity_gameboard_50037_title;NA
 vanity_gameboard_50038_title;Alzura
 vanity_gameboard_50039_title;Plansza: Zima
 vanity_gameboard_50040_title;Plansza: Wiosna
@@ -8424,6 +8456,7 @@ vanity_gameboard_50052_title;Plansza Wielkiego Dębu
 vanity_gameboard_50053_title;Plansza: Saovine
 vanity_gameboard_50054_title;Plansza: Yule
 vanity_gameboard_50057_title;Plansza Festiwal Miłości
+vanity_gameboard_50058_title;Plansza: W świetle dnia
 vanity_gameboard_default_title;Domyślna plansza frakcji
 vanity_h01_border_description;Nagroda za ukończenie wyzwań Mahakamskiego Święta Trunków w trybie mistrzowskim.
 vanity_h01_border_title;Ramka: Znamienity Moczymorda
@@ -9387,7 +9420,7 @@ vanity_title_28148_title;Nestor
 vanity_title_28149_title;Alfa
 vanity_title_28150_title;Wszechstronny
 vanity_title_28151_title;Zakochany
-vanity_title_28152_title;o złamanym sercu
+vanity_title_28152_title;Zrozpaczony
 vanity_title_28153_title;Podróżujący poeta
 vanity_title_28154_title;z Vengerbergu
 vanity_title_28155_title;Sztorm
@@ -9484,6 +9517,9 @@ vanity_title_28244_title;Prawdziwy artysta
 vanity_title_28245_title;Najlepszy bard
 vanity_title_28246_title;Delikatny kwiat
 vanity_title_28247_title;Muzyk
+vanity_title_28248_title;NA
+vanity_title_28249_title;Ranny ptaszek
+vanity_title_28250_title;Sowa
 vanity_title_28251_title;Zbir
 vanity_title_30180;Mokasyn
 vanity_title_30180_description;Nagroda za zdobycie rangi 10 w rozgrywce rankingowej, sezonu Żmii (Maj).

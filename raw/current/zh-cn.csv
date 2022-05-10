@@ -1383,6 +1383,8 @@ achievement_80147_desc;获取卓越预购包
 achievement_80147_title;卓越的拥戴者
 achievement_80148_desc;获取“猎魔人之道”组合优惠
 achievement_80148_title;奠基人
+achievement_80149_desc;NA
+achievement_80149_title;NA
 achievement_90000_desc;完成以下委托：
 achievement_90000_title;神秘生物
 achievement_90001_desc;装备“吉祥物：萝卜”，完成 {0} 场对局
@@ -1927,6 +1929,10 @@ achievement_complete_x_aretuza_quests;完成 {0} 个“艾瑞图萨旅程”任�
 achievement_complete_x_regis_quests;完成 {0} 个“雷吉斯旅程”任务
 achievement_geralt_winter_event;装备杰洛特的皮肤，赢得 {0} 场对局
 achievement_help_x_crones;在往生节中帮助 {0} 个老巫妪给村民准备礼物
+achievement_play_dandelion_first_set_desc;装备丹德里恩的“时尚围巾”或“优雅服饰”，完成 {0} 场对局
+achievement_play_dandelion_fourth_set_desc;装备任何丹德里恩旅程的音乐，完成 {0} 场对局
+achievement_play_dandelion_second_set_desc;装备丹德里恩的“纽扣衬衫”或“旅行诗人大衣”，完成 {0} 场对局
+achievement_play_dandelion_third_set_desc;装备丹德里恩的“一束红玫瑰”或“光环：独唱会”，完成 {0} 场对局
 achievement_play_vampires_x_matches;在 {0} 场对局中打出“吸血鬼”牌
 achievement_play_x_games_with_aretuza_music;装备任何艾瑞图萨旅程的音乐，完成 {0} 场对局
 achievement_play_x_games_with_cave;使用战场：仙尼德岛洞穴，完成 {0} 场对局
@@ -3038,6 +3044,7 @@ filter_region_af;非洲
 filter_region_as;亚洲
 filter_region_eu;欧洲
 filter_region_global;全球
+filter_region_global_in_gaea;天梯排行榜
 filter_region_na;北美
 filter_region_oc;大洋洲
 filter_region_sa;南美
@@ -6099,6 +6106,7 @@ shop_data_category_avatars_title;头像
 shop_data_category_boards_title;战场皮肤
 shop_data_category_borders_title;头像框
 shop_data_category_bundles_title;捆绑包
+shop_data_category_campaigns_title;NA
 shop_data_category_card_backs_title;卡背
 shop_data_category_kegs_title;牌桶
 shop_data_category_leader_skins_title;领袖皮肤
@@ -6120,6 +6128,8 @@ shop_data_commanders_bundle_desc;<sprite="PopupIcons" name="Skin">皮肤：银�
 shop_data_commanders_bundle_title;天之领袖捆绑包
 shop_data_crimson_curse_pre_pack_desc;黑风骤起，血月高升！新扩展包的卡包将助您迎接新挑战，扩展包3月28日上线后即可开桶取牌（不含核心构筑卡牌）！内含：\n\n <sprite="PopupIcons" name="CCKeg">x40 “猩红诅咒”牌桶\n\n<sprite="PopupIcons" name="Skin"> 暗影长者的“融血铠甲”皮肤\n\n<sprite="PopupIcons" name="CardBack">“猩红诅咒”专属动画卡背
 shop_data_crimson_curse_pre_pack_title;“猩红诅咒”预购包
+shop_data_day_bundle_desc;<sprite="PopupIcons" name="Coin">硬币：白昼\n\n<sprite="PopupIcons" name="Board">战场：“日光之下”\n\n获取此产品来支持《巫师之昆特牌》电竞；此礼包收入的 50% 将直接纳入《巫师之昆特牌》公开赛#1的奖池中，2022 年 4 月开赛，敬请期待！
+shop_data_day_bundle_title;白昼捆绑包（公开赛#1）
 shop_data_discount_promo_desc;促销！
 shop_data_draconid_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：萨琪亚\n\n<sprite="PopupIcons" name="Border">边框：巨龙\n\n<sprite="PopupIcons" name="Title">称号：“屠龙者”\n\n该捆绑包内含曾在野猪年 - “龙兽”赛季首度推出的装饰品，另附上一份特殊奖励！
 shop_data_draconid_bundle_title;传奇龙兽捆绑包
@@ -6349,6 +6359,10 @@ shop_data_northern_keg_desc;开启牌桶，您将获得 5 张“北方领域”�
 shop_data_northern_keg_title;北方领域牌桶
 shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">x5 “北方领域”牌桶。\n\n<sprite="PopupIcons" name="Card">卡牌：“维拉克萨斯王子”。\n\n<sprite="PopupIcons" name="Border">边框：北方领域。\n\n新手的理想之选！让你最爱的阵营变得更强！该礼包内含 5 个“北方领域”阵营牌桶，1 张精选“北方领域”阵营金卡，以及 1 个独有的阵营边框。
 shop_data_now_available_ promo_desc;现已上架！
+shop_data_origins_desc;NA
+shop_data_origins_title;NA
+shop_data_originsdeluxe_desc;NA
+shop_data_originsdeluxe_title;NA
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin">皮肤：蝈蝈\n\n<sprite="PopupIcons" name="Board">战场：遗忘之地\n\n自然掌控一切！难道这不美吗？\n\n此捆绑包曾为“鼠人”年支持公开赛#2所推出。
 shop_data_overgrown_bundle_title;夏日炎炎礼包（巫师之昆特牌第二届公开赛礼包）
 shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border">边框：帕西佛罗拉\n\n<sprite="PopupIcons" name="Avatar">头像：安姆琳\n\n<sprite="PopupIcons" name="Avatar">头像：娜西萨\n\n<sprite="PopupIcons" name="Avatar">头像：薇瓦拉\n\n<sprite="PopupIcons" name="Title">称号：“帕西佛罗拉冠军”\n\n用帕西佛罗拉捆绑包来庆祝诺维格瑞最好的欢场吧！
@@ -6442,6 +6456,8 @@ shop_data_thronebreaker_desc;《王权的陨落》是《巫师之昆特牌》基
 shop_data_thronebreaker_title;王权的陨落
 shop_data_tiger_bundle_desc;<sprite="PopupIcons" name="Board">战场：虎年\n\n<sprite="PopupIcons" name="CardBack">卡背：虎年\n\n虎虎生威，百战百胜！
 shop_data_tiger_bundle_title;虎年捆绑包
+shop_data_time_of_day_bundle_desc;<sprite="PopupIcons" name="CardBack">卡背：每日时刻\n\n<sprite="PopupIcons" name="Title">称号：早鸟\n\n<sprite="PopupIcons" name="Title">称号：夜枭\n\n获取此产品来支持《巫师之昆特牌》电竞；此礼包收入的 50% 将直接纳入《巫师之昆特牌》大师赛的奖池中，2022 年 12 月开赛，敬请期待！
+shop_data_time_of_day_bundle_title;每日时刻捆绑包
 shop_data_ultimate_premium_keg_title;终极闪卡牌桶
 shop_data_ultimate_starter_pack_desc;<sprite="PopupIcons" name="Keg">x7 终极牌桶\n\n <sprite="PopupIcons" name="Keg">x7 “猩红诅咒”牌桶\n\n <sprite="PopupIcons" name="Keg">x7 “诺城之火”牌桶\n\n<sprite="PopupIcons" name="Keg">x7 “钢铁审判”牌桶\n\n<sprite="PopupIcons" name="Keg">x7 “异域游商”牌桶\n\n获取本礼包后可以让您快速丰富自己的卡牌收藏，构筑一套属于自己的强大牌组，踏入激烈的战场。\n
 shop_data_usurper_emperor_skin_desc;非常时期需要非常手段。将机要握于手中，用这款篡位者皮肤夺取皇位。
@@ -6450,6 +6466,8 @@ shop_data_viper_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：瑟瑞�
 shop_data_viper_bundle_title;毒蛇学派捆绑包
 shop_data_viper_cardback_2020_desc;<sprite="PopupIcons" name="CardBack">卡背：“毒蛇”赛季\n\n该卡背曾在鼠年 -“毒蛇”赛季作为可解锁装饰品首度推出。
 shop_data_viper_cardback_2020_title;卡背：“毒蛇”赛季（2020）
+shop_data_viziman_champion_bundle_desc;<sprite="PopupIcons" name="Avatar"> 头像：饮宴者\n\n<sprite="PopupIcons" name="Border"> 边框：麦酒\n\n<sprite="PopupIcons" name="Title"> 称号：维吉玛冠军\n\n获取这款*嗝*来自泰莫利亚中心的爽口捆绑包，加*嗝*入这场盛会吧！
+shop_data_viziman_champion_bundle_title;“维吉玛冠军”捆绑包
 shop_data_winter_board_desc;<sprite="PopupIcons" name="Board">战场：寒冬\n\n你想买…带头环的猪吗？！圣诞已经来了？\n本战场曾在野猪年的 2019 圣诞活动中作为可解锁装饰品首度推出。
 shop_data_winter_board_desc_sale;<sprite="PopupIcons" name="Board">战场：寒冬\n\n你想买…带头环的猪吗？！圣诞已经来了？\n本战场曾在野猪年的 2019 圣诞活动中作为可解锁装饰品首度推出，并将于冬日活动特卖时享受 7 折优惠。
 shop_data_winter_bundle_open1_desc;<sprite="PopupIcons" name="Board">战场：寒冬\n\n<sprite="PopupIcons" name="CardBack">卡背：寒冬\n\n获取此捆绑包来支持《巫师之昆特牌》电竞；此礼包收入的 30% 将直接纳入《巫师之昆特牌》大师赛的奖池中，2021 年 12 月开赛，敬请期待！
@@ -6590,7 +6608,7 @@ shop_schemes_and_order_pack_desc;战争就是欺诈的艺术！\n\n获取 2 张�
 shop_schemes_and_order_pack_title;阴谋与秩序礼包
 shop_school_of_wolf_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：维瑟米尔\n\n<sprite="PopupIcons" name="Border">边框：狼王\n\n<sprite="PopupIcons" name="Title">称号：“老前辈”\n\n该捆绑包内含曾在野猪年 - “巨狼”赛季首度推出的装饰品，另附上一份全新特殊奖励！
 shop_school_of_wolf_bundle_title;狼学派捆绑包
-shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：母熊\n\n<sprite="PopupIcons" name="Border">边框：巨熊\n\n<sprite="PopupIcons" name="Title">称号：“暴熊”\n\n该捆绑包内含曾在野猪年 - “咆哮之熊”赛季首度推出的可解锁装饰品，另附上一份全新特殊奖励！
+shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar">头像：母熊\n\n<sprite="PopupIcons" name="Border">边框：巨熊\n\n<sprite="PopupIcons" name="Title">称号：“暴熊”\n\n该捆绑包内含曾在野猪年 - “咆哮之熊”赛季首度推出的可解锁装饰品。
 shop_season_bear_bundle_title;暴熊捆绑包
 shop_shupe_antlers_bundle_desc;<sprite="PopupIcons" name="Skin">基础皮肤：店店（全阵营）\n\n<sprite="PopupIcons" name="Trinket">节庆鹿角\n\n<sprite="PopupIcons" name="Title">称号：“节庆巨魔”\n\n最好的礼物物，店店送你和你的好盆友\n圣诞诞快乐！新年年发财！
 shop_shupe_antlers_bundle_title;节庆鹿角捆绑包
@@ -6606,7 +6624,7 @@ shop_shupe_christmas_desc;<sprite="PopupIcons" name="Trinket">礼物袋（和皮
 shop_shupe_christmas_title;礼物袋
 shop_shupe_leafhat_bundle_desc;<sprite="PopupIcons" name="Skin">基础皮肤：店店（全阵营）\n\n<sprite="PopupIcons" name="Trinket">四叶帽\n\n幸运店店感觉，砸砸更走运！
 shop_shupe_leafhat_bundle_title;店店的四叶草捆绑包
-shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket">四叶帽\n\n让它给你好运。\n\n这是一款强调技术而非牌运的游戏。但来点好运总没错！\n提示：该物品也包含在店店的四叶草捆绑包中。
+shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket">四叶帽\n\n让它给你好运。\n\n这是一款强调技术而非牌运的游戏。但来点好运总没错！
 shop_shupe_leafhat_trinket_title;店店的四叶草幸运符
 shop_shupe_love_armour_desc;<sprite="PopupIcons" name="Trinket">店店的爱之护甲\n\n穿上它，定能让敌人胆寒！
 shop_shupe_love_armour_title;店店的爱之护甲
@@ -6728,6 +6746,10 @@ status_owned;已拥有
 switch_app_exec_failed_message;切换到《王权的陨落》失败
 switch_app_popup_desc;即将启动《王权的陨落》单人战役模式
 switch_app_popup_title;切换到《王权的陨落》
+switch_to_appstore_button_title;切换到 App Store
+switch_to_general_button_title;在浏览器中打开
+switch_to_googleplay_button_title;切换到 Google Play
+switch_to_steam_button_title;在 Steam 中打开
 syn_fluff_description;有人为荣誉而战，便有人为帝国而战；有人为国王而战，便有人为自由而战。但辛迪加的成员，却只有一个目的——财富。只要你出得起钱雇佣他们，他们便会不择手段，达成你的任何愿望。在这个背弃光明的地下世界，阴谋和诡计是你积累声望和财富最好的方式。“诺维格瑞克朗”虽然是这座城市的官方通货，但在街头之下，却流通着迥然不同的货币。如果你选择用它来购买地下组织的服务，那就相当于许下了一个违约必诛的誓言。胆敢毁约的蠢货们都会被追捕通缉，然后付出最惨痛的代价。
 syn_fluff_title;辛迪加
 syndicate_preset_deck_name;辛迪加新手牌组
@@ -6915,6 +6937,7 @@ tracked_event_damage_with_bleeding_x_times;利用“重伤”，造成 {0} 次�
 tracked_event_damage_with_detlaff_x_times;使用“狄拉夫”的能力累计造成 <strong>{0}</strong> 次伤害。
 tracked_event_damage_with_frost_x_times;利用“霜”，造成 {0} 次伤害
 tracked_event_destroy_footmen_with_lonely_champion;使用“孤独的勇士”摧毁 {0} 名“烈焰蔷薇步兵”
+tracked_event_destroy_x_units;摧毁 {0} 个单位
 tracked_event_diveristy_x_times;Ignore.
 tracked_event_draw_cards_with_calnthe_x_times;使用“卡兰瑟”的能力累计抽 <strong>{0}</strong> 张牌。
 tracked_event_exposed_x_times;触发“破甲” {0} 次
@@ -7232,7 +7255,7 @@ ui_cardback_group_11_title;春节活动
 ui_cardback_group_12_title;情人节活动
 ui_cardback_group_13_title;“鼠人”年
 ui_cardback_group_14_title;杰洛特的旅程
-ui_cardback_group_15_title;昆特牌大师赛
+ui_cardback_group_15_title;世界大师赛
 ui_cardback_group_16_title;“镜子大师”扩展包
 ui_cardback_group_17_title;希里的旅程
 ui_cardback_group_18_title;往生节活动
@@ -7248,6 +7271,7 @@ ui_cardback_group_27_title;仙尼德之变
 ui_cardback_group_28_title;艾瑞图萨旅程
 ui_cardback_group_3_title;“鼠人”赛季
 ui_cardback_group_30_title;丹德里恩的旅程
+ui_cardback_group_31_title;N/A
 ui_cardback_group_4_title;“猩红诅咒”扩展包
 ui_cardback_group_5_title;“诺城之火”扩展包
 ui_cardback_group_6_title;“钢铁审判”扩展包
@@ -7260,6 +7284,7 @@ ui_coin_group_12_title;扩展包
 ui_coin_group_13_title;特别活动
 ui_coin_group_14_title;艾瑞图萨旅程
 ui_coin_group_17_title;丹德里恩的旅程
+ui_coin_group_18_title;“巫师之昆特牌大师赛”第四赛季
 ui_coin_group_2_title;杰洛特的旅程
 ui_coin_group_3_title;希里的旅程
 ui_coin_group_4_title;赛博朋克 2077
@@ -7282,6 +7307,7 @@ ui_gameboard_group_1_title;基础
 ui_gameboard_group_10_title;“鼠人”年
 ui_gameboard_group_11_title;拉尔凡尼神庙
 ui_gameboard_group_12_title;桥
+ui_gameboard_group_13_title;NA
 ui_gameboard_group_14_title;实验室
 ui_gameboard_group_16_title;权力的代价
 ui_gameboard_group_17_title;艾瑞图萨旅程
@@ -8223,7 +8249,7 @@ vanity_cardback_60035_title;卡背：鹿首精
 vanity_cardback_60036_title;卡背：猎魔人法印
 vanity_cardback_60037_title;卡背：鼠王
 vanity_cardback_60040_title;卡背：“咆哮之熊”赛季
-vanity_cardback_60049_title;“全球大师赛”第一赛季
+vanity_cardback_60049_title;卡背：第一赛季
 vanity_cardback_60050_title;卡背：“林中精灵”赛季
 vanity_cardback_60051_title;卡背：“毒蛇”赛季
 vanity_cardback_60052_title;卡背：“奇幻魔法”赛季
@@ -8246,7 +8272,7 @@ vanity_cardback_60072_title;卡背：基因改造
 vanity_cardback_60073_title;卡背：狮身人面祭坛
 vanity_cardback_60074_title;卡背：炼金术
 vanity_cardback_60075_title;卡背：桥上之战
-vanity_cardback_60076_title;第二季世界大师赛卡背
+vanity_cardback_60076_title;卡背：第二赛季
 vanity_cardback_60077_title;卡背：负伤的吸血鬼
 vanity_cardback_60078_title;卡背：矮人鬼魂
 vanity_cardback_60079_title;卡背：日月
@@ -8276,7 +8302,7 @@ vanity_cardback_60103_title;卡背：春光
 vanity_cardback_60104_title;卡背：夏日
 vanity_cardback_60105_title;卡背：秋日
 vanity_cardback_60105_tittle;卡背：秋日
-vanity_cardback_60106_title;第三季世界大师赛
+vanity_cardback_60106_title;卡背：第三赛季
 vanity_cardback_60107_title;卡背：欢庆
 vanity_cardback_60108_title;卡背：“布洛克莱昂”
 vanity_cardback_60109_title;卡背：弗尔泰斯特的顾问
@@ -8301,12 +8327,16 @@ vanity_cardback_60128_title;卡背：雷吉斯与杰洛特
 vanity_cardback_60129_title;卡背：爱米尔·雷吉斯
 vanity_cardback_60130_title;卡背：雷吉斯（吸血鬼）
 vanity_cardback_60132_title;卡背：针织店店
-vanity_cardback_60133_title;卡背：针织店店
+vanity_cardback_60133_title;卡背
+vanity_cardback_60134_title;NA
+vanity_cardback_60135_title;NA
+vanity_cardback_60136_title;NA
 vanity_cardback_60137_title;卡背：虎年
 vanity_cardback_60138_title;卡背：丹德里恩与迪杰斯特拉
 vanity_cardback_60139_title;卡背：丹德里恩与杰洛特
 vanity_cardback_60140_title;卡背：女夜魔盛会
 vanity_cardback_60141_title;卡背：创意激扬
+vanity_cardback_60144_title;卡背：每日时刻
 vanity_cardback_61001_title;卡背：怪兽
 vanity_cardback_61002_title;卡背：尼弗迦德
 vanity_cardback_61003_title;卡背：北方领域
@@ -8372,6 +8402,7 @@ vanity_coin_70054_title;硬币：鲁特琴
 vanity_coin_70055_title;硬币：诗人
 vanity_coin_70056_title;硬币：诗人帽
 vanity_coin_70057_title;硬币：香水瓶
+vanity_coin_70058_title;硬币：白昼
 vanity_deck_mon;怪兽牌组
 vanity_deck_nil;尼弗迦德牌组
 vanity_deck_nor;北方领域牌组
@@ -8406,6 +8437,7 @@ vanity_gameboard_50033_title;战场：扭曲世界
 vanity_gameboard_50034_title;战场：遗忘之地
 vanity_gameboard_50035_title;战场：德马维之傲
 vanity_gameboard_50036_title;战场：丹德里恩的草甸
+vanity_gameboard_50037_title;NA
 vanity_gameboard_50038_title;阿尔祖的
 vanity_gameboard_50039_title;战场：寒冬
 vanity_gameboard_50040_title;战场：春光
@@ -8424,6 +8456,7 @@ vanity_gameboard_50052_title;战场：巨橡
 vanity_gameboard_50053_title;战场：往生节
 vanity_gameboard_50054_title;战场：约尔节
 vanity_gameboard_50057_title;战场：爱的时节
+vanity_gameboard_50058_title;战场：日光之下
 vanity_gameboard_default_title;阵营默认战场
 vanity_h01_border_description;在专家模式下完成“玛哈坎麦酒节”的奖励。
 vanity_h01_border_title;边框：雪山酒客
@@ -9484,6 +9517,9 @@ vanity_title_28244_title;真正的艺术家
 vanity_title_28245_title;最佳吟游诗人
 vanity_title_28246_title;娇花
 vanity_title_28247_title;音乐家
+vanity_title_28248_title;NA
+vanity_title_28249_title;早鸟
+vanity_title_28250_title;夜枭
 vanity_title_28251_title;暴徒
 vanity_title_30180;铜头蛇
 vanity_title_30180_description;在排位赛“毒蛇”赛季（五月）获得天梯 10 级（R10）的奖励。

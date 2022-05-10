@@ -1383,6 +1383,8 @@ achievement_80147_desc;Außerordentliches Vorbesteller-Pack kaufen
 achievement_80147_title;Außerordentlicher Unterstützer
 achievement_80148_desc;"Way of the Witcher"-Kombo-Angebot kaufen
 achievement_80148_title;Frühzeitiger Gründer
+achievement_80149_desc;NA
+achievement_80149_title;NA
 achievement_90000_desc;Schließe folgende Aufträge ab:
 achievement_90000_title;Sagenumwobene Geschöpfe
 achievement_90001_desc;Spiele {0} Partien mit ausgerüstetem Plötze-Maskottchen
@@ -1927,6 +1929,10 @@ achievement_complete_x_aretuza_quests;Schließe {0} Quests der Aretusa-Reise ab
 achievement_complete_x_regis_quests;Schließe {0} Quests von Regis' Reise ab
 achievement_geralt_winter_event;Gewinne {0} Partien mit ausgerüstetem Geralt-Skin
 achievement_help_x_crones;Hilf {0} Muhmen, ein Geschenk für die Dorfbewohner beim Saovine-Fest vorzubereiten
+achievement_play_dandelion_first_set_desc;Spiele {0} Partien mit Rittersporns Modischem Tuch oder Eleganter Kleidung
+achievement_play_dandelion_fourth_set_desc;Spiele {0} Partien mit einem Lied deiner Wahl aus Rittersporns Reise
+achievement_play_dandelion_second_set_desc;Spiele {0} Partien mit Rittersporns Zugeknöpftem Hemd oder Mantel des reisenden Barden
+achievement_play_dandelion_third_set_desc;Spiele {0} Partien mit Rittersporns Strauß mit roten Rosen oder der Aura "Konzert"
 achievement_play_vampires_x_matches;Spiele Vampire in {0} Partien aus
 achievement_play_x_games_with_aretuza_music;Spiele {0} Partien mit einem Lied der Aretusa-Reise deiner Wahl
 achievement_play_x_games_with_cave;Spiele {0} Partien mit dem Spielbrett "Höhle auf Insel Thanedd"
@@ -3038,6 +3044,7 @@ filter_region_af;Afrika
 filter_region_as;Asien
 filter_region_eu;Europa
 filter_region_global;Weltweit
+filter_region_global_in_gaea;N/A
 filter_region_na;Nordamerika
 filter_region_oc;Australien und Ozeanien
 filter_region_sa;Südamerika
@@ -6099,6 +6106,7 @@ shop_data_category_avatars_title;Avatare
 shop_data_category_boards_title;Spielbretter
 shop_data_category_borders_title;Rahmen
 shop_data_category_bundles_title;Bundles
+shop_data_category_campaigns_title;NA
 shop_data_category_card_backs_title;Kartenrücken
 shop_data_category_kegs_title;Kartenfässer
 shop_data_category_leader_skins_title;Anführer-Skins
@@ -6120,6 +6128,8 @@ shop_data_commanders_bundle_desc;<sprite="PopupIcons" name="Skin"> Die Silberäu
 shop_data_commanders_bundle_title;Kommandanten-Bundle
 shop_data_crimson_curse_pre_pack_desc;Der Blutmond steht am Himmel! Dieses Pack, das nicht Teil des Basissets ist, wird dich gut auf die Schlacht vorbereiten und kann geöffnet werden, sobald Crimson Curse am 28. März veröffentlicht wurde. Es enthält:\n\n    <sprite="PopupIcons" name="CCKeg"> 40x Crimson-Curse-Fässer\n\n    <sprite="PopupIcons" name="Skin"> Blutrüstung des Unsichtbaren\n\n    <sprite="PopupIcons" name="CardBack"> animierter Crimson-Curse-Kartenrückseite
 shop_data_crimson_curse_pre_pack_title;Crimson-Curse-Vorbesteller-Pack
+shop_data_day_bundle_desc;<sprite="PopupIcons" name="Coin"> Tag – Münze\n\n<sprite="PopupIcons" name="Board"> Im Tageslicht – Spielbrett\n\nMit dem Kauf dieses Produkts unterstützt du den GWENT-E-Sport. 50 % der Einnahmen, die mit dem Pack erzielt werden, fließen direkt in die Preisgelder der GWENT Open 1, die im April 2022 stattfinden werden!
+shop_data_day_bundle_title;Tages-Bundle (OPEN 1)
 shop_data_discount_promo_desc;Rabatt!
 shop_data_draconid_bundle_desc;<sprite="PopupIcons" name="Avatar"> Saskia – Avatar\n\n<sprite="PopupIcons" name="Border"> Riesenechse – Rahmen\n\n<sprite="PopupIcons" name="Title"> "Drachentöter" – Titel\n\nDieses Bundle enthält Verzierungen, die ursprünglich als freischaltbare Gegenstände in der Saison des Draconiden im Jahr des Wildschweins eingeführt wurden – und dazu gibt es einen besonderen Bonusgegenstand!
 shop_data_draconid_bundle_title;Draconiden-Bundle
@@ -6349,6 +6359,10 @@ shop_data_northern_keg_desc;Dieses Fass gewährt dir nach dem Öffnen fünf Nör
 shop_data_northern_keg_title;Nördliche-Königreiche-Fass
 shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg"> 5 Nördliche Königreiche-Fässer.\n\n<sprite="PopupIcons" name="Card"> Prinz Viraxas – Karte.\n\n<sprite="PopupIcons" name="Border"> Nördliche Königreiche – Rahmen.\n\nIdeal für neue Spieler! Stärke deine Lieblingsfraktion in GWENT! Dieses Pack enthält 5 Fässer, die ausschließlich Nördliche Königreiche-Karten enthalten, sowie eine ausgewählte Nördliche Königreiche-Goldkarte und einen einzigartigen Fraktionsrahmen.
 shop_data_now_available_ promo_desc;Jetzt verfügbar!
+shop_data_origins_desc;NA
+shop_data_origins_title;NA
+shop_data_originsdeluxe_desc;NA
+shop_data_originsdeluxe_title;NA
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin">Grüne Grille – Skin\n\n<sprite="PopupIcons" name="Board">Vergessen – Spielbrett\n\nDie Natur hält Einzug. Ist das nicht wunderschön? \n\nDieses Bundle wurde veröffentlicht, um die GWENT Open 2 im Jahr der Werratte zu unterstützen.
 shop_data_overgrown_bundle_title;Das Überwucherung-Bundle (GWENT Open 2)
 shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> Passiflora-Champion – Rahmen\n\n<sprite="PopupIcons" name="Avatar"> Amrynn – Avatar\n\n<sprite="PopupIcons" name="Avatar"> Narcissa – Avatar\n\n<sprite="PopupIcons" name="Avatar"> Viola – Avatar\n\n<sprite="PopupIcons" name="Title"> Passiflora-Champion – Titel\n\nFeiere mit dem Passiflora-Bundle alles Schöne, was die Passiflora in Novigrad zu bieten hat!
@@ -6442,6 +6456,8 @@ shop_data_thronebreaker_desc;Thronebreaker ist ein RPG-Kartenspiel für Einzelsp
 shop_data_thronebreaker_title;Thronebreaker
 shop_data_tiger_bundle_desc;<sprite="PopupIcons" name="Board"> Tiger – Spielbrett\n\n<sprite="PopupIcons" name="CardBack"> Tiger – Kartenrückseite\n\nRüste dich aus und kämpfe deine Schlachten mit beispielloser Wildheit und Erhabenheit!
 shop_data_tiger_bundle_title;Tiger-Bundle
+shop_data_time_of_day_bundle_desc;<sprite="PopupIcons" name="CardBack"> Tageszeiten – Kartenrückseite\n\n<sprite="PopupIcons" name="Title"> Früher Vogel – Titel\n\n<sprite="PopupIcons" name="Title"> Nachteule – Titel\n\nMit dem Kauf dieses Produkts unterstützt du den GWENT-E-Sport. 50 % der Einnahmen, die mit dem Pack erzielt werden, fließen direkt in die Preisgelder der GWENT Masters, die im Dezember 2022 stattfinden werden!
+shop_data_time_of_day_bundle_title;Tageszeiten-Bundle
 shop_data_ultimate_premium_keg_title;Ultimatives Premiumfass
 shop_data_ultimate_starter_pack_desc;<sprite="PopupIcons" name="Keg"> 7 Ultimative Fässer\n\n<sprite="PopupIcons" name="Keg"> 7 Crimson Curse-Fässer\n\n<sprite="PopupIcons" name="Keg"> 7 Novigrad-Fässer\n\n<sprite="PopupIcons" name="Keg"> 7 Iron Judgment-Fässer\n\n<sprite="PopupIcons" name="Keg"> 7 Merchants of Ofir-Fässer\n\nDieses Pack ermöglicht es dir, deine Sammlung schneller aufzubauen, damit du dich schon früh mit einem starken Deck in den Kampf stürzen kannst.
 shop_data_usurper_emperor_skin_desc;In verzweifelten Momenten sind drastische Maßnahmen erforderlich. Nimm dein Schicksal in die Hand und beanspruche den Thron für dich mit diesem kaiserlichen Skin für den Usurpator.
@@ -6450,6 +6466,8 @@ shop_data_viper_bundle_desc;<sprite="PopupIcons" name="Avatar"> Serrit – Avat
 shop_data_viper_bundle_title;Vipernschulen-Bundle
 shop_data_viper_cardback_2020_desc;<sprite="PopupIcons" name="CardBack">Saison der Viper – Kartenrückseite\n\nDiese Kartenrückseite wurde ursprünglich als freischaltbarer Gegenstand in der Saison der Viper im Jahr der Werratte eingeführt.
 shop_data_viper_cardback_2020_title;Viper – Kartenrückseite (2020)
+shop_data_viziman_champion_bundle_desc;<sprite="PopupIcons" name="Avatar"> Zecher – Avatar\n\n<sprite="PopupIcons" name="Border"> Ale – Rahmen\n\n<sprite="PopupIcons" name="Title"> Wyzimas Gold – Titel\n\nHol dir dieses erfrischende *hick* Bundle aus dem Herzen von Temerien und stürze dich ins *hick* Vergnügen!
+shop_data_viziman_champion_bundle_title;Wyzimas Gold-Bundle
 shop_data_winter_board_desc;<sprite="PopupIcons" name="Board">Winter – Spielbrett\n\nWillst du ... verkleidete Schweine kaufen?! Ist es etwa schon Zeit für Yule? \nDieses Spielbrett wurde ursprünglich als Teil des Yule-Events 2019 im Jahr des Wildschweins eingeführt.
 shop_data_winter_board_desc_sale;<sprite="PopupIcons" name="Board">Winter – Spielbrett\n\nDieses Spielbrett wurde ursprünglich als Teil des Yule-Events 2019 im Jahr des Wildschweins eingeführt. Es ist während des Winter-Events mit 30 % Rabatt im Angebot.
 shop_data_winter_bundle_open1_desc;<sprite="PopupIcons" name="Board"> Winter – Spielbrett\n\n<sprite="PopupIcons" name="CardBack"> Winter – Kartenrückseite\n\nMit dem Kauf dieses Produkts unterstützt du den GWENT-E-Sport. 30 % der Einnahmen, die mit dem Pack erzielt werden, fließen direkt in die Preisgelder der GWENT Masters, die im Dezember 2021 stattfinden werden!
@@ -6590,7 +6608,7 @@ shop_schemes_and_order_pack_desc;Alle Kriegsführung basiert auf Täuschung!\n\n
 shop_schemes_and_order_pack_title;Intrigen-und-Ordnung-Pack
 shop_school_of_wolf_bundle_desc;<sprite="PopupIcons" name="Avatar"> Vesemir – Avatar\n\n<sprite="PopupIcons" name="Border"> Großer Warg – Rahmen\n\n<sprite="PopupIcons" name="Title"> "Rangältester" – Titel\n\nDieses Bundle enthält Verzierungen, die ursprünglich als freischaltbare Gegenstände in der Saison des Wolfs im Jahr des Wildschweins eingeführt wurden – und dazu gibt es einen besonderen, neuen Bonusgegenstand!
 shop_school_of_wolf_bundle_title;Wolfsschule-Bundle
-shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar"> Bärin – Avatar\n\n<sprite="PopupIcons" name="Border"> Bär – Rahmen\n\n<sprite="PopupIcons" name="Title"> "Wild" – Titel\n\nDieses Bundle enthält Verzierungen, die ursprünglich als freischaltbare Gegenstände in der Saison des Bären im Jahr des Wildschweins eingeführt wurden – und dazu gibt es einen besonderen, neuen Bonusgegenstand!
+shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar"> Bärin – Avatar\n\n<sprite="PopupIcons" name="Border"> Bär – Rahmen\n\n<sprite="PopupIcons" name="Title"> Wild – Titel\n\nDieses Bundle enthält Verzierungen, die ursprünglich als freischaltbare Gegenstände in der Saison des Bären im Jahr des Wildschweins eingeführt wurden.
 shop_season_bear_bundle_title;Wildes Bundle
 shop_shupe_antlers_bundle_desc;<sprite="PopupIcons" name="Skin"> Shøp – Einfacher Skin (Alle Fraktionen)\n\n<sprite="PopupIcons" name="Trinket"> Festgeweih\n\n<sprite="PopupIcons" name="Title"> "Festlicher Troll"– Titel\n\nSHØP bringt dir und deiner Familie die BESTESTEN Nachrichten\nSHØP wünscht frohe Feiertage
 shop_shupe_antlers_bundle_title;Festgeweih-Bundle
@@ -6606,7 +6624,7 @@ shop_shupe_christmas_desc;<sprite="PopupIcons" name="Trinket">Sack mit Geschenke
 shop_shupe_christmas_title;Sack mit Geschenken
 shop_shupe_leafhat_bundle_desc;<sprite="PopupIcons" name="Skin">Shøp – Einfacher Skin (Alle Fraktionen)\n\n<sprite="PopupIcons" name="Trinket">Glücksklee-Hut\n\nHeute ist Shøps GLÜCKSTAG!
 shop_shupe_leafhat_bundle_title;Shøps Glücksklee-Bundle
-shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> Glücksklee-Hut\n\nMit diesem Angebot ist dir das Glück hold.\n\nAuch wenn das hier kein Glücksspiel ist, hat ein wenig Glück noch nie geschadet!\nHinweis: Dieser Gegenstand ist auch erhältlich als Teil des Angebots "Glücksklee-Bundle".
+shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> Glücksklee-Hut\n\nMit diesem Angebot ist dir das Glück hold.\n\nAuch wenn das hier kein Glücksspiel ist, hat ein wenig Glück noch nie geschadet!
 shop_shupe_leafhat_trinket_title;Shøps Glücksklee-Schatz
 shop_shupe_love_armour_desc;<sprite="PopupIcons" name="Trinket"> Shøps Liebesrüstung\n\nLege diese Liebesrüstung an, damit kein Gegner deinem Charme widerstehen kann!
 shop_shupe_love_armour_title;Shøps Liebesrüstung
@@ -6728,6 +6746,10 @@ status_owned;In Besitz
 switch_app_exec_failed_message;Wechsel zu Thronebreaker nicht möglich.
 switch_app_popup_desc;Schließt Gwent und startet Thronebreaker.
 switch_app_popup_title;Wechseln zu Thronebreaker
+switch_to_appstore_button_title;Zum App Store wechseln
+switch_to_general_button_title;Im Browser öffnen
+switch_to_googleplay_button_title;Zu Google Play wechseln
+switch_to_steam_button_title;In Steam öffnen
 syn_fluff_description;Manche kämpfen für Ehre, andere für ein Kaiserreich. Manche kämpfen für einen König, andere für die Freiheit. Mitglieder des Syndikats motiviert jedoch nur eines zum Kampf – Reichtum. Solltest du dir ihre Dienste leisten können, verrichten sie jede noch so abscheuliche Tat für dich. Nur durch Verbrechen gelangt man in der kriminellen Unterwelt zu Ansehen und einer vollen Geldbörse. Obwohl die Wirtschaft der Stadt auf Basis der Novigrader Krone floriert, dreht sich auf ihrer Schattenseite alles um Münzen einer anderen Art. Eine Bezahlung damit besiegelt einen unantastbaren Schwur. Und jene Narren, die diesen Pakt brechen, werden gnadenlos gejagt und müssen schließlich einen weitaus größeren Preise zahlen.
 syn_fluff_title;Syndikat
 syndicate_preset_deck_name;Starterdeck: Syndikat
@@ -6915,6 +6937,7 @@ tracked_event_damage_with_bleeding_x_times;Verursache {0}-mal Schaden durch Blut
 tracked_event_damage_with_detlaff_x_times;Füge <strong>{0}-mal</strong> mit Dettlaffs Fähigkeit Schaden zu.
 tracked_event_damage_with_frost_x_times;Verursache {0}-mal Schaden durch Frost
 tracked_event_destroy_footmen_with_lonely_champion;Zerstöre {0} Flammenrose-Fußsoldaten mit dem Einsamen Streiter
+tracked_event_destroy_x_units;Zerstöre {0} Einheiten
 tracked_event_diveristy_x_times;Ignore.
 tracked_event_draw_cards_with_calnthe_x_times;Ziehe <strong>{0}-mal</strong> mit Calanthes Fähigkeit eine Karte.
 tracked_event_exposed_x_times;Löse {0}-mal „Ungeschützt“ aus.
@@ -7232,7 +7255,7 @@ ui_cardback_group_11_title;Mondneujahrs-Events
 ui_cardback_group_12_title;Liebes-Events
 ui_cardback_group_13_title;Jahr der Werratte
 ui_cardback_group_14_title;Geralts Reise
-ui_cardback_group_15_title;GWENT Masters
+ui_cardback_group_15_title;World Masters
 ui_cardback_group_16_title;"Master Mirror"-Eweiterung
 ui_cardback_group_17_title;Ciris Reise
 ui_cardback_group_18_title;Saovine-Events
@@ -7248,6 +7271,7 @@ ui_cardback_group_27_title;Aufstand von Thanedd
 ui_cardback_group_28_title;Aretusa-Reise
 ui_cardback_group_3_title;Werratten-Saisons
 ui_cardback_group_30_title;Rittersporns Reise
+ui_cardback_group_31_title;N/A
 ui_cardback_group_4_title;„Crimson Curse“-Eweiterung
 ui_cardback_group_5_title;Novigrad-Eweiterung
 ui_cardback_group_6_title;„Iron Judgment“-Eweiterung
@@ -7260,6 +7284,7 @@ ui_coin_group_12_title;Erweiterung
 ui_coin_group_13_title;Besondere Anlässe
 ui_coin_group_14_title;Aretusa-Reise
 ui_coin_group_17_title;Rittersporns Reise
+ui_coin_group_18_title;GWENT Masters – Saison 4
 ui_coin_group_2_title;Geralts Reise
 ui_coin_group_3_title;Ciris Reise
 ui_coin_group_4_title;Cyberpunk 2077
@@ -7282,6 +7307,7 @@ ui_gameboard_group_1_title;Einfach
 ui_gameboard_group_10_title;Jahr der Werratte
 ui_gameboard_group_11_title;Lilvanis Tempel
 ui_gameboard_group_12_title;Brücke
+ui_gameboard_group_13_title;NA
 ui_gameboard_group_14_title;Laboratorium
 ui_gameboard_group_16_title;Price of Power
 ui_gameboard_group_17_title;Aretusa-Reise
@@ -8223,7 +8249,7 @@ vanity_cardback_60035_title;Waldschrat – Kartenrückseite
 vanity_cardback_60036_title;Hexerzeichen – Kartenrückseite
 vanity_cardback_60037_title;Rattenkönig – Kartenrückseite
 vanity_cardback_60040_title;Saison des Bären – Kartenrückseite
-vanity_cardback_60049_title;World Masters – Saison 1
+vanity_cardback_60049_title;Saison 1 – Kartenrückseite
 vanity_cardback_60050_title;Saison der Elfen – Kartenrückseite
 vanity_cardback_60051_title;Saison der Viper – Kartenrückseite
 vanity_cardback_60052_title;Saison der Magie – Kartenrückseite
@@ -8246,7 +8272,7 @@ vanity_cardback_60072_title;Genveränderung – Kartenrückseite
 vanity_cardback_60073_title;Sphinx-Altar – Kartenrückseite
 vanity_cardback_60074_title;Alchemie – Kartenrückseite
 vanity_cardback_60075_title;Belagerung an der Jaruga-Brücke – Kartenrückseite
-vanity_cardback_60076_title;"World Masters – Saison 2" – Kartenrückseite
+vanity_cardback_60076_title;Saison 2 – Kartenrückseite
 vanity_cardback_60077_title;Blutiger Vampir – Kartenrückseite
 vanity_cardback_60078_title;Zwergengeist – Kartenrückseite
 vanity_cardback_60079_title;Sonne und Mond – Kartenrückseite
@@ -8276,7 +8302,7 @@ vanity_cardback_60103_title;Frühling – Kartenrückseite
 vanity_cardback_60104_title;Sommer – Kartenrückseite
 vanity_cardback_60105_title;Herbst – Kartenrückseite
 vanity_cardback_60105_tittle;Herbst – Kartenrückseite
-vanity_cardback_60106_title;World Masters – Saison 3
+vanity_cardback_60106_title;Saison 3 – Kartenrückseite
 vanity_cardback_60107_title;Feierlichkeiten – Kartenrückseite
 vanity_cardback_60108_title;Brokilon – Kartenrückseite
 vanity_cardback_60109_title;Foltests Beraterin – Kartenrückseite
@@ -8301,12 +8327,16 @@ vanity_cardback_60128_title;Regis und Geralt – Kartenrückseite
 vanity_cardback_60129_title;Emiel Regis – Kartenrückseite
 vanity_cardback_60130_title;Regis der Vampir – Kartenrückseite
 vanity_cardback_60132_title;Strickender Shøp – Kartenrückseite
-vanity_cardback_60133_title;Strickender Shøp – Kartenrückseite
+vanity_cardback_60133_title;Kartenrückseite
+vanity_cardback_60134_title;NA
+vanity_cardback_60135_title;NA
+vanity_cardback_60136_title;NA
 vanity_cardback_60137_title;Tiger – Kartenrückseite
 vanity_cardback_60138_title;Rittersporn & Dijkstra – Kartenrückseite
 vanity_cardback_60139_title;Rittersporn & Geralt – Kartenrückseite
 vanity_cardback_60140_title;Sukkubus-Party – Kartenrückseite
 vanity_cardback_60141_title;Inspiration und Kreativität – Kartenrückseite
+vanity_cardback_60144_title;Tageszeiten – Kartenrückseite
 vanity_cardback_61001_title;Ungeheuer – Kartenrückseite
 vanity_cardback_61002_title;Nilfgaard – Kartenrückseite
 vanity_cardback_61003_title;Nördliche Königreiche – Kartenrückseite
@@ -8372,6 +8402,7 @@ vanity_coin_70054_title;Laute – Münze
 vanity_coin_70055_title;Lyrik – Münze
 vanity_coin_70056_title;Hut des Barden – Münze
 vanity_coin_70057_title;Parfümfläschchen – Münze
+vanity_coin_70058_title;Tag – Münze
 vanity_deck_mon;Monster – Deck
 vanity_deck_nil;Nilfgaard – Deck
 vanity_deck_nor;Nördliche Königreiche – Deck
@@ -8406,6 +8437,7 @@ vanity_gameboard_50033_title;Verdrehte Welt – Spielbrett
 vanity_gameboard_50034_title;Vergessen – Spielbrett
 vanity_gameboard_50035_title;Demawends Stolz – Spielbrett
 vanity_gameboard_50036_title;Löwenzahnwiese – Spielbrett
+vanity_gameboard_50037_title;NA
 vanity_gameboard_50038_title;von Alzur
 vanity_gameboard_50039_title;Winter – Spielbrett
 vanity_gameboard_50040_title;Frühling – Spielbrett
@@ -8424,6 +8456,7 @@ vanity_gameboard_50052_title;Die Große Eiche – Spielbrett
 vanity_gameboard_50053_title;Saovine – Spielbrett
 vanity_gameboard_50054_title;Spielbrett – Yule
 vanity_gameboard_50057_title;Tag der Liebe – Spielbrett
+vanity_gameboard_50058_title;Im Tageslicht – Spielbrett
 vanity_gameboard_default_title;Standard-Fraktionsspielbrett
 vanity_h01_border_description;Belohnung für das Abschließen der Mahakam Ale-Fest-Herausforderungen im Expertenmodus.
 vanity_h01_border_title;Superber Schluckspecht – Rahmen
@@ -9484,6 +9517,9 @@ vanity_title_28244_title;Wahrer Künstler
 vanity_title_28245_title;Der beste Barde
 vanity_title_28246_title;Zartes Blümchen
 vanity_title_28247_title;Musiker
+vanity_title_28248_title;NA
+vanity_title_28249_title;Früher Vogel
+vanity_title_28250_title;Nachteule
 vanity_title_28251_title;Schlägertyp
 vanity_title_30180;Kupferkopf
 vanity_title_30180_description;Belohnung für das Erreichen von Rang 10 im Ranglistenmodus der Saison der Viper (Mai).

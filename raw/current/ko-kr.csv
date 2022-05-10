@@ -1383,6 +1383,8 @@ achievement_80147_desc;비범한 사전 예약 팩 구매
 achievement_80147_title;비범한 지지자
 achievement_80148_desc;위쳐의 길 콤보 상품 구매
 achievement_80148_title;초기 설립자
+achievement_80149_desc;NA
+achievement_80149_title;NA
 achievement_90000_desc;다음 의뢰를 완료하십시오.
 achievement_90000_title;신화 속 생물
 achievement_90001_desc;로취 마스코트를 착용하고 게임을 {0}회 플레이하십시오
@@ -1927,6 +1929,10 @@ achievement_complete_x_aretuza_quests;아레투자 여정 퀘스트를 {0}회 �
 achievement_complete_x_regis_quests;레지스의 여정 퀘스트를 {0}회 완료하십시오
 achievement_geralt_winter_event;게롤트 스킨을 착용하고 경기에서 {0}회 승리하십시오
 achievement_help_x_crones;사오바인 휴일 동안 마을 사람들에게 줄 선물을 준비하는 크론을 {0}회 도우십시오
+achievement_play_dandelion_first_set_desc;단델라이온의 멋진 숄이나 우아한 의상을 착용하고 게임을 {0}회 플레이하십시오
+achievement_play_dandelion_fourth_set_desc;단델라이온의 여정 음악 트랙을 착용하고 게임을 {0}회 플레이하십시오
+achievement_play_dandelion_second_set_desc;단델라이온의 버튼 달린 셔츠나 여행 중인 바드의 코트를 착용하고 게임을 {0}회 플레이하십시오
+achievement_play_dandelion_third_set_desc;단델라이온의 붉은 장미 꽃다발이나 음악회 오라를 착용하고 게임을 {0}회 플레이하십시오
 achievement_play_vampires_x_matches;흡혈귀를 {0}경기에서 내기
 achievement_play_x_games_with_aretuza_music;아레투자 여정 음악 트랙을 착용하고 게임을 {0}회 플레이하십시오
 achievement_play_x_games_with_cave;타네드 섬 동굴 보드를 착용하고 게임을 {0}회 플레이하십시오
@@ -3038,6 +3044,7 @@ filter_region_af;아프리카
 filter_region_as;아시아
 filter_region_eu;유럽
 filter_region_global;글로벌
+filter_region_global_in_gaea;N/A
 filter_region_na;북아메리카
 filter_region_oc;오스트레일리아 및 오세아니아
 filter_region_sa;남아메리카
@@ -6099,6 +6106,7 @@ shop_data_category_avatars_title;아바타
 shop_data_category_boards_title;게임 보드
 shop_data_category_borders_title;테두리 장식
 shop_data_category_bundles_title;번들
+shop_data_category_campaigns_title;NA
 shop_data_category_card_backs_title;카드 뒷면
 shop_data_category_kegs_title;카드통
 shop_data_category_leader_skins_title;리더 스킨
@@ -6120,6 +6128,8 @@ shop_data_commanders_bundle_desc;<sprite="PopupIcons" name="Skin"> 은색 눈의
 shop_data_commanders_bundle_title;사령관 번들
 shop_data_crimson_curse_pre_pack_desc;핏빛 달이 떠오르고 있습니다! 기본 세트가 아닌 팩으로 전투를 준비해보세요. 2019년 3월 28일 핏빛 저주가 출시되면 개봉할 수 있습니다. 구성품은 다음과 같습니다..\n\n    <sprite="PopupIcons" name="CCKeg"> 핏빛 저주 카드통 40개\n\n    <sprite="PopupIcons" name="Skin"> 은자들의 장로의 피 갑옷\n\n    <sprite="PopupIcons" name="CardBack"> 애니메이션화된 핏빛 저주 카드 뒷면
 shop_data_crimson_curse_pre_pack_title;핏빛 저주 사전 예약 팩
+shop_data_day_bundle_desc;<sprite="PopupIcons" name="Coin"> 낮 동전\n\n<sprite="PopupIcons" name="Board"> "한낮의" 보드\n\n이 상품을 구매하여 esports를 후원해 보세요! 구매 비용 중 50%는 2022년 4월에 열리는 궨트 오픈 1의 상금으로 사용됩니다!
+shop_data_day_bundle_title;낮 번들(오픈 1)
 shop_data_discount_promo_desc;할인!
 shop_data_draconid_bundle_desc;<sprite="PopupIcons" name="Avatar"> 사스키아 아바타\n\n<sprite="PopupIcons" name="Border"> 그레이트 웜 테두리 장식\n\n<sprite="PopupIcons" name="Title"> "드래곤 슬레이어" 칭호\n\n이 번들에는 야생 멧돼지의 해의 드라코니드 시즌 동안 최초로 잠금 해제할 수 있었던 장식 아이템과, 특별한 보너스 아이템이 들어 있습니다!
 shop_data_draconid_bundle_title;드라코니드 번들
@@ -6349,6 +6359,10 @@ shop_data_northern_keg_desc;북부 왕국 카드통에는 총 5장의 북부 왕
 shop_data_northern_keg_title;북부 왕국 카드통
 shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg"> 북부 왕국 카드통 5개\n\n<sprite="PopupIcons" name="Card"> 비락사스: 왕자 카드\n\n<sprite="PopupIcons" name="Border"> 북부 왕국 테두리 장식\n\n신규 유저를 위한 최고의 선택입니다! 여러분이 가장 좋아하는 세력을 강화하세요! 이 팩에는 북부 왕국 세력 카드만 나오는 북부 왕국 카드통 5개, 엄선된 북부 왕국 골드 카드와 특별한 세력 테두리 장식이 들어 있습니다.
 shop_data_now_available_ promo_desc;지금 사용 가능!
+shop_data_origins_desc;NA
+shop_data_origins_title;NA
+shop_data_originsdeluxe_desc;NA
+shop_data_originsdeluxe_title;NA
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin"> 초록색 크리켓 스킨\n\n<sprite="PopupIcons" name="Board"> 잊혀진 보드\n\n자연이 세상을 점령했습니다! 아름답지 않나요?\n\n이 번들은 쥐인간의 해, 궨트 오픈 2 기간에 출시되었던 번들입니다.
 shop_data_overgrown_bundle_title;과성장 번들(궨트 오픈 2)
 shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> 파시플로라 챔피언 테두리 장식\n\n<sprite="PopupIcons" name="Avatar"> 아므린 아바타\n\n<sprite="PopupIcons" name="Avatar"> 나르시사 아바타\n\n<sprite="PopupIcons" name="Avatar"> 비올라 아바타\n\n<sprite="PopupIcons" name="Title"> '파시플로라 챔피언' 칭호\n\n파시플로라 번들과 함께 노비그라드의 파시플로라가 선사하는 최고의 상품을 만나 보세요.
@@ -6442,6 +6456,8 @@ shop_data_thronebreaker_desc;'쓰론브레이커'는 위쳐 세계관을 바탕�
 shop_data_thronebreaker_title;쓰론브레이커
 shop_data_tiger_bundle_desc;<sprite="PopupIcons" name="Board"> 호랑이 보드\n\n<sprite="PopupIcons" name="CardBack"> 호랑이 카드 뒷면\n\n그 어느 때보다 치열하고 웅장하게 전투를 치러야 할 때입니다!
 shop_data_tiger_bundle_title;호랑이 번들
+shop_data_time_of_day_bundle_desc;<sprite="PopupIcons" name="CardBack"> "하루의 시간" 카드 뒷면\n\n<sprite="PopupIcons" name="Title"> "아침형 인간" 칭호\n\n<sprite="PopupIcons" name="Title"> "야행성 인간" 칭호\n\n이 상품을 구매하여 e스포츠를 후원해 보세요! 구매 비용 중 50%는 2022년 12월에 열리는 궨트 마스터즈의 상금으로 사용됩니다!
+shop_data_time_of_day_bundle_title;하루의 시간 번들
 shop_data_ultimate_premium_keg_title;얼티밋 프리미엄 카드통
 shop_data_ultimate_starter_pack_desc;<sprite="PopupIcons" name="Keg"> 얼티밋 카드통 7개\n\n<sprite="PopupIcons" name="Keg"> 핏빛 저주 카드통 7개\n\n <sprite="PopupIcons" name="Keg"> 노비그라드 카드통 7개\n\n<sprite="PopupIcons" name="Keg"> 철의 심판 카드통 7개\n\n<sprite="PopupIcons" name="Keg"> 오피에르의 상인들 카드통 7개\n\n이 팩에는 지금까지 출시된 모든 궨트 확장팩 카드가 포함되어 있습니다. 팩을 구매하여 컬렉션을 보강하고 강력한 덱을 만들어 전장에 합류하세요.\n
 shop_data_usurper_emperor_skin_desc;절박한 상황에서는 특단의 조치를 취할 수밖에 없는 법입니다. 찬탈자를 위한 이 황제 스킨과 함께, 직접 왕좌를 탈환하세요!
@@ -6450,6 +6466,8 @@ shop_data_viper_bundle_desc;<sprite="PopupIcons" name="Avatar"> 세리트 아바
 shop_data_viper_bundle_title;바이퍼 교단 번들
 shop_data_viper_cardback_2020_desc;<sprite="PopupIcons" name="CardBack">독사 시즌 카드 뒷면\n\n이 카드 뒷면은 쥐인간의 해의 독사 시즌 동안 최초로 잠금 해제할 수 있었던 아이템입니다.
 shop_data_viper_cardback_2020_title;독사 카드 뒷면(2020)
+shop_data_viziman_champion_bundle_desc;<sprite="PopupIcons" name="Avatar"> 주정뱅이 아바타\n\n<sprite="PopupIcons" name="Border"> 에일 테두리 장식\n\n<sprite="PopupIcons" name="Title"> "비지마 챔피언" 칭호\n\n테메리아의 중심에서 *딸꾹* 이 산뜻한 번들과 함께 *딸꾹* 같이 한잔 즐겨 보세요!
+shop_data_viziman_champion_bundle_title;비지마 챔피언 번들
 shop_data_winter_board_desc;<sprite="PopupIcons" name="Board">겨울 보드\n\n뭘 사시겠다고요...? 귀여운 옷 입은 돼지요?! 벌써 크리스마스인가요?\n이 게임 보드는 야생 멧돼지의 해의 2019 크리스마스 이벤트의 일환으로 처음 소개된 아이템입니다.
 shop_data_winter_board_desc_sale;<sprite="PopupIcons" name="Board">겨울 보드\n\n이 게임 보드는 야생 멧돼지의 해의 2019 크리스마스 이벤트의 일환으로 처음 소개된 아이템입니다. 이 아이템은 겨울 이벤트 할인 기간 동안 30% 할인된 가격으로 판매됩니다.
 shop_data_winter_bundle_open1_desc;<sprite="PopupIcons" name="Board"> 겨울 보드\n\n<sprite="PopupIcons" name="CardBack"> 겨울 카드 뒷면\n\n이 상품을 구매하여 e스포츠를 후원해 보세요! 구매 비용 중 30%는 2021년 12월에 열리는 궨트 마스터즈의 상금으로 사용됩니다!
@@ -6590,7 +6608,7 @@ shop_schemes_and_order_pack_desc;전쟁이란 상대를 속이는 것이죠!\n\n
 shop_schemes_and_order_pack_title;계획과 질서 팩
 shop_school_of_wolf_bundle_desc;<sprite="PopupIcons" name="Avatar">베스미어 아바타\n\n<sprite="PopupIcons" name="Border">거대 와르그 테두리 장식\n\n<sprite="PopupIcons" name="Title">'원로' 칭호\n\n이 번들에는 야생 멧돼지의 해의 늑대 시즌 동안 최초로 잠금 해제할 수 있었던 장식 아이템과, 특별한 신규 보너스 아이템이 들어 있습니다!
 shop_school_of_wolf_bundle_title;늑대 교단 번들
-shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar"> 암컷 곰 아바타\n\n<sprite="PopupIcons" name="Border"> 곰 테두리 장식\n\n<sprite="PopupIcons" name="Title"> '흉포한' 칭호\n\n이 번들에는 야생 멧돼지의 해의 곰 시즌 동안 최초로 잠금 해제할 수 있었던 장식 아이템과 특별한 신규 보너스 아이템이 들어 있습니다!
+shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar"> 암컷 곰 아바타\n\n<sprite="PopupIcons" name="Border"> 곰 테두리 장식\n\n<sprite="PopupIcons" name="Title"> "흉포한" 칭호\n\n이 번들에는 야생 멧돼지의 해의 곰 시즌 동안 최초로 잠금 해제할 수 있었던 장식 아이템이 들어 있습니다!
 shop_season_bear_bundle_title;흉포한 번들
 shop_shupe_antlers_bundle_desc;<sprite="PopupIcons" name="Skin">슙 기본 스킨(모든 세력)\n\n<sprite="PopupIcons" name="Trinket">축제 사슴뿔\n\n<sprite="PopupIcons" name="Title"> '축제 트롤' 칭호\n\n슙이 여러분과 친구들을 위해 아주 좋은 소식을 준비했습니다\n슙이 여러분의 행복한 연휴를 기원합니다
 shop_shupe_antlers_bundle_title;축제 사슴뿔 번들
@@ -6606,7 +6624,7 @@ shop_shupe_christmas_desc;<sprite="PopupIcons" name="Trinket">선물 주머니(�
 shop_shupe_christmas_title;선물 주머니
 shop_shupe_leafhat_bundle_desc;<sprite="PopupIcons" name="Skin">슙 기본 스킨(모든 세력)\n\n<sprite="PopupIcons" name="Trinket">네 잎 모자\n\n슙은 운 좋다. 진짜 진짜 좋다.
 shop_shupe_leafhat_bundle_title;슙의 네 잎 번들
-shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> 네 잎 모자 \n\n이 상품으로 행운의 주인공이 되어 보세요.\n\n궨트는 운보다는 기술이 중요한 게임입니다. 하지만 운이 좋다고 해서 나쁠 건 없죠!\n알림: 이 아이템은 네 잎 번들 상품을 구매해도 이용 가능합니다.
+shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> 네 잎 모자 \n\n이 상품으로 행운의 주인공이 되어 보세요.\n\n궨트는 운보다는 기술이 중요한 게임입니다. 하지만 운이 좋다고 해서 나쁠 건 없죠!
 shop_shupe_leafhat_trinket_title;슙의 네 잎 장신구
 shop_shupe_love_armour_desc;<sprite="PopupIcons" name="Trinket"> 슙의 사랑의 갑옷\n\n이 사랑의 갑옷을 입고 여러분에게 맞설 자가 없다는 걸 보여 주세요!
 shop_shupe_love_armour_title;슙의 사랑의 갑옷
@@ -6728,6 +6746,10 @@ status_owned;보유
 switch_app_exec_failed_message;쓰론브레이커로 전환하는 데 실패했습니다.
 switch_app_popup_desc;궨트를 종료하고 쓰론브레이커를 시작합니다.
 switch_app_popup_title;쓰론브레이커로 전환
+switch_to_appstore_button_title;App Store로 변경
+switch_to_general_button_title;브라우저에서 열기
+switch_to_googleplay_button_title;Google Play로 변경
+switch_to_steam_button_title;Steam에서 열기
 syn_fluff_description;명예를 위해 싸우는 사람도 있고, 제국을 위해 싸우는 사람도 있습니다. 왕이나 자유를 위해 싸우는 사람도 있지요. 하지만 신디케이트는 오로지 돈을 위해 싸웁니다. 신디케이트에게 충분한 대가를 지불할 수만 있다면, 이들은 무엇이든지 처리해 줄 것입니다. 아무리 악랄한 일이라도 말이지요. 범죄가 만연한 지하 세계에서 부와 명성을 쌓기 위해서는 손을 더럽힐 수밖에 없습니다. 노비그라드의 경제는 노비그라드 크라운과 함께 번창했지만, 이곳의 지하 세계는 다른 코인을 중심으로 돌아가고 있습니다. 코인을 주고받는다는 건 깰 수 없는 약속을 하는 것이나 마찬가지입니다. 약속을 어기는 어리석은 자는 평생을 쫓기며 살다가 훨씬 큰 대가를 치르게 됩니다.
 syn_fluff_title;신디케이트
 syndicate_preset_deck_name;신디케이트 스타터 덱
@@ -6915,6 +6937,7 @@ tracked_event_damage_with_bleeding_x_times;출혈 능력으로 피해를 {0}회 
 tracked_event_damage_with_detlaff_x_times;디틀라프의 능력을 사용하여 피해를 <strong>{0}</strong>회 주십시오.
 tracked_event_damage_with_frost_x_times;서리 능력으로 피해를 {0}회 주십시오
 tracked_event_destroy_footmen_with_lonely_champion;외로운 투사로 플레이밍 로즈 풋맨을 {0}회 파괴하십시오
+tracked_event_destroy_x_units;유닛을 {0}회 파괴하십시오
 tracked_event_diveristy_x_times;Ignore.
 tracked_event_draw_cards_with_calnthe_x_times;칼란테의 능력을 사용하여 카드를 <strong>{0}</strong>회 뽑으십시오.
 tracked_event_exposed_x_times;노출을 {0}회 발동하십시오
@@ -7248,6 +7271,7 @@ ui_cardback_group_27_title;타네드 섬 습격
 ui_cardback_group_28_title;아레투자 여정
 ui_cardback_group_3_title;쥐인간 시즌
 ui_cardback_group_30_title;단델라이온의 여정
+ui_cardback_group_31_title;N/A
 ui_cardback_group_4_title;핏빛 저주 확장팩
 ui_cardback_group_5_title;노비그라드 확장팩
 ui_cardback_group_6_title;철의 심판 확장팩
@@ -7260,6 +7284,7 @@ ui_coin_group_12_title;확장팩
 ui_coin_group_13_title;특별한 날
 ui_coin_group_14_title;아레투자 여정
 ui_coin_group_17_title;단델라이온의 여정
+ui_coin_group_18_title;궨트 마스터즈 - 시즌 4
 ui_coin_group_2_title;게롤트의 여정
 ui_coin_group_3_title;시리의 여정
 ui_coin_group_4_title;사이버펑크 2077
@@ -7282,6 +7307,7 @@ ui_gameboard_group_1_title;기본
 ui_gameboard_group_10_title;쥐인간의 해
 ui_gameboard_group_11_title;릴바니 사원
 ui_gameboard_group_12_title;다리
+ui_gameboard_group_13_title;NA
 ui_gameboard_group_14_title;연구실
 ui_gameboard_group_16_title;힘의 대가
 ui_gameboard_group_17_title;아레투자 여정
@@ -8223,7 +8249,7 @@ vanity_cardback_60035_title;레셴 카드 뒷면
 vanity_cardback_60036_title;위쳐 표식 카드 뒷면
 vanity_cardback_60037_title;대왕 쥐 카드 뒷면
 vanity_cardback_60040_title;곰 시즌 카드 뒷면
-vanity_cardback_60049_title;월드 마스터즈 시즌 1
+vanity_cardback_60049_title;시즌 1 카드 뒷면
 vanity_cardback_60050_title;엘프 시즌 카드 뒷면
 vanity_cardback_60051_title;독사 시즌 카드 뒷면
 vanity_cardback_60052_title;마법 시즌 카드 뒷면
@@ -8246,7 +8272,7 @@ vanity_cardback_60072_title;유전자 개조 카드 뒷면
 vanity_cardback_60073_title;스핑크스 제단 카드 뒷면
 vanity_cardback_60074_title;연금술 카드 뒷면
 vanity_cardback_60075_title;야루가 다리 포위전 카드 뒷면
-vanity_cardback_60076_title;월드 마스터즈 시즌 2 카드 뒷면
+vanity_cardback_60076_title;시즌 2 카드 뒷면
 vanity_cardback_60077_title;부상당한 흡혈귀 카드 뒷면
 vanity_cardback_60078_title;유령 드워프 카드 뒷면
 vanity_cardback_60079_title;태양과 달 카드 뒷면
@@ -8276,7 +8302,7 @@ vanity_cardback_60103_title;봄 카드 뒷면
 vanity_cardback_60104_title;여름 카드 뒷면
 vanity_cardback_60105_title;가을 카드 뒷면
 vanity_cardback_60105_tittle;가을 카드 뒷면
-vanity_cardback_60106_title;월드 마스터즈 시즌 3
+vanity_cardback_60106_title;시즌 3 카드 뒷면
 vanity_cardback_60107_title;축하 카드 뒷면
 vanity_cardback_60108_title;브로킬론 카드 뒷면
 vanity_cardback_60109_title;폴테스트의 조언자 카드 뒷면
@@ -8301,12 +8327,16 @@ vanity_cardback_60128_title;레지스와 게롤트 카드 뒷면
 vanity_cardback_60129_title;에미엘 레지스 카드 뒷면
 vanity_cardback_60130_title;흡혈귀 레지스 카드 뒷면
 vanity_cardback_60132_title;뜨개질 슙 카드 뒷면
-vanity_cardback_60133_title;뜨개질 슙 카드 뒷면
+vanity_cardback_60133_title;카드 뒷면
+vanity_cardback_60134_title;NA
+vanity_cardback_60135_title;NA
+vanity_cardback_60136_title;NA
 vanity_cardback_60137_title;호랑이 카드 뒷면
 vanity_cardback_60138_title;단델라이온과 딕스트라 카드 뒷면
 vanity_cardback_60139_title;단델라이온과 게롤트 카드 뒷면
 vanity_cardback_60140_title;서큐버스의 연회 카드 뒷면
 vanity_cardback_60141_title;창의적인 영감 카드 뒷면
+vanity_cardback_60144_title;하루의 시간 카드 뒷면
 vanity_cardback_61001_title;괴물 카드 뒷면
 vanity_cardback_61002_title;닐프가드 카드 뒷면
 vanity_cardback_61003_title;북부 왕국 카드 뒷면
@@ -8372,6 +8402,7 @@ vanity_coin_70054_title;류트 동전
 vanity_coin_70055_title;시 동전
 vanity_coin_70056_title;바드의 모자 동전
 vanity_coin_70057_title;향수병 동전
+vanity_coin_70058_title;낮 동전
 vanity_deck_mon;괴물 덱
 vanity_deck_nil;닐프가드 덱
 vanity_deck_nor;북부 왕국 덱
@@ -8406,6 +8437,7 @@ vanity_gameboard_50033_title;뒤틀린 세계 보드
 vanity_gameboard_50034_title;잊혀진 보드
 vanity_gameboard_50035_title;데머번드의 자부심 보드
 vanity_gameboard_50036_title;민들레 목초지 보드
+vanity_gameboard_50037_title;NA
 vanity_gameboard_50038_title;알주르의
 vanity_gameboard_50039_title;겨울 보드
 vanity_gameboard_50040_title;봄 게임보드
@@ -8424,6 +8456,7 @@ vanity_gameboard_50052_title;위대한 오크 나무 보드
 vanity_gameboard_50053_title;사오바인 보드
 vanity_gameboard_50054_title;크리스마스 보드
 vanity_gameboard_50057_title;사랑의 축제 게임보드
+vanity_gameboard_50058_title;한낮의 보드
 vanity_gameboard_default_title;기본 세력 보드
 vanity_h01_border_description;전문가 모드에서 마하캄 에일 축제 도전을 완료하면 받는 보상입니다.
 vanity_h01_border_title;자타공인 주당 테두리 장식
@@ -9484,6 +9517,9 @@ vanity_title_28244_title;진정한 예술가
 vanity_title_28245_title;최고의 바드
 vanity_title_28246_title;연약한 꽃
 vanity_title_28247_title;음악가
+vanity_title_28248_title;NA
+vanity_title_28249_title;아침형 인간
+vanity_title_28250_title;야행성 인간
 vanity_title_28251_title;나쁜 사람
 vanity_title_30180;살무사
 vanity_title_30180_description;독사 시즌(5월) 경쟁전에서 10등급을 달성하면 받는 보상입니다.

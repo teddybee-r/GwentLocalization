@@ -1383,6 +1383,8 @@ achievement_80147_desc;Purchase Extraordinary Pre-order Pack
 achievement_80147_title;Extraordinary supporter
 achievement_80148_desc;Purchase Way of The Witcher Combo offer 
 achievement_80148_title;Early Founder
+achievement_80149_desc;NA
+achievement_80149_title;NA
 achievement_90000_desc;Complete the following contracts:
 achievement_90000_title;Mythical Creatures
 achievement_90001_desc;Play {0} games with the Roach Mascot equipped
@@ -1921,12 +1923,16 @@ achievement_category_levels;Levels
 achievement_category_mastery;Mastery
 achievement_category_ranked;Ranked
 achievement_category_seasonal;Seasonal
-achievement_category_singleplayer;The Witcher Tales
+achievement_category_singleplayer;Witcher Tales
 achievement_complete_love_event;Help all characters of the Love Event
 achievement_complete_x_aretuza_quests;Complete {0} Aretuza Journey quests
 achievement_complete_x_regis_quests;Complete {0} Regis' Journey quests
 achievement_geralt_winter_event;Win {0} matches with Geralt skin equipped
 achievement_help_x_crones;Help {0} Crones prepare the gift to the villagers during the Saovine Holiday
+achievement_play_dandelion_first_set_desc;Play {0} game(s) in Dandelion's Stylish Shawl or Elegant Outfit
+achievement_play_dandelion_fourth_set_desc;Play {0} game(s) with any Dandelion's Journey music tracks equipped
+achievement_play_dandelion_second_set_desc;Play {0} games in Dandelion's Buttoned Shirt or Travelling Bard Coat
+achievement_play_dandelion_third_set_desc;Play {0} games with Dandelion's Red Roses Bouquet or Concert Aura equipped
 achievement_play_vampires_x_matches;Play Vampires in {0} matches
 achievement_play_x_games_with_aretuza_music;Play {0} games with any Aretuza Journey music tracks equipped
 achievement_play_x_games_with_cave;Play {0} games with Thanedd Island Cave Board
@@ -3038,6 +3044,7 @@ filter_region_af;Africa
 filter_region_as;Asia
 filter_region_eu;Europe
 filter_region_global;Global
+filter_region_global_in_gaea;N/A
 filter_region_na;North America
 filter_region_oc;Australia and Oceania
 filter_region_sa;South America
@@ -6099,6 +6106,7 @@ shop_data_category_avatars_title;Avatars
 shop_data_category_boards_title;Game Boards
 shop_data_category_borders_title;Borders
 shop_data_category_bundles_title;Bundles
+shop_data_category_campaigns_title;NA
 shop_data_category_card_backs_title;Card Backs
 shop_data_category_kegs_title;Card Kegs
 shop_data_category_leader_skins_title;Leader Skins
@@ -6120,6 +6128,8 @@ shop_data_commanders_bundle_desc;<sprite="PopupIcons" name="Skin"> The Silver-Ey
 shop_data_commanders_bundle_title;Commander's Bundle
 shop_data_crimson_curse_pre_pack_desc;The blood moon is rising! This non-Base Set pack will help you prepare for battle and can be opened once Crimson Curse has launched on March 28, 2019. It contains:\n\n    <sprite="PopupIcons" name="CCKeg"> 40 Crimson Curse Kegs\n\n    <sprite="PopupIcons" name="Skin"> Unseen Elder's Blood Armor\n\n    <sprite="PopupIcons" name="CardBack"> Crimson Curse Animated Cardback.
 shop_data_crimson_curse_pre_pack_title;Crimson Curse Pre-Order Pack
+shop_data_day_bundle_desc;<sprite="PopupIcons" name="Coin"> Day Coin\n\n<sprite="PopupIcons" name="Board"> "In The Daylight" Board\n\nPurchasing this product helps to support GWENT esports; 50% of proceeds from the pack will directly boost the prize pool for the GWENT Open 1, which takes place in April 2022!
+shop_data_day_bundle_title;Day Bundle (OPEN 1)
 shop_data_discount_promo_desc;Discount!
 shop_data_draconid_bundle_desc;<sprite="PopupIcons" name="Avatar"> Saskia Avatar\n\n<sprite="PopupIcons" name="Border"> Great Wyrm Border\n\n<sprite="PopupIcons" name="Title"> "Dragonslayer" Title\n\nThis bundle contains ornaments first introduced as unlockable items during the Season of the Draconid in the Year of the Wild Boar - along with a special bonus item!
 shop_data_draconid_bundle_title;Draconid Bundle
@@ -6349,6 +6359,10 @@ shop_data_northern_keg_desc;Once opened, this keg will grant you 5 Northern Real
 shop_data_northern_keg_title;Northern Realms Keg(s)
 shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Northern Realms Kegs.\n\n<sprite="PopupIcons" name="Card">Viraxas Prince card.\n\n<sprite="PopupIcons" name="Border">Northern Realms Border.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Northern Realms cards, as well as a select Northern Realms gold card and a unique faction border.
 shop_data_now_available_ promo_desc;Now Available!
+shop_data_origins_desc;NA
+shop_data_origins_title;NA
+shop_data_originsdeluxe_desc;NA
+shop_data_originsdeluxe_title;NA
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin"> Green Cricket skin (Monsters)\n\n<sprite="PopupIcons" name="Board"> Forgotten board\n\nNature has taken over! Ain't it pretty?\n\nThis Bundle was introduced to support GWENT Open 2 during the Year of the Wererat.
 shop_data_overgrown_bundle_title;Overgrown Bundle (GWENT Open 2)
 shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> Passiflora Champion Border\n\n<sprite="PopupIcons" name="Avatar"> Amrynn Avatar\n\n<sprite="PopupIcons" name="Avatar"> Narcissa Avatar\n\n<sprite="PopupIcons" name="Avatar"> Viola Avatar\n\n<sprite="PopupIcons" name="Title"> “Passiflora Champion” title\n\nCelebrate the best Novigrad’s Passiflora has to offer with the Passiflora Bundle!
@@ -6442,6 +6456,8 @@ shop_data_thronebreaker_desc;Thronebreaker is a single player role playing card 
 shop_data_thronebreaker_title;Thronebreaker
 shop_data_tiger_bundle_desc;<sprite="PopupIcons" name="Board"> Tiger Board\n\n<sprite="PopupIcons" name="CardBack"> Tiger Cardback\n\nIt's time to gear up and fight all your battles with unparalleled fierceness and magnificence!
 shop_data_tiger_bundle_title;Tiger Bundle
+shop_data_time_of_day_bundle_desc;<sprite="PopupIcons" name="CardBack"> "Times of the Day" Cardback\n\n<sprite="PopupIcons" name="Title"> "Early Bird" Title\n\n<sprite="PopupIcons" name="Title"> "Night Owl" Title\n\nPurchasing this product helps to support GWENT esports; 50% of proceeds from the pack will directly boost the prize pool for the GWENT Masters, which takes place in December 2022!
+shop_data_time_of_day_bundle_title;Times of the Day Bundle
 shop_data_ultimate_premium_keg_title;Ultimate premium keg
 shop_data_ultimate_starter_pack_desc;<sprite="PopupIcons" name="Keg"> 7 Ultimate Kegs\n\n <sprite="PopupIcons" name="Keg"> 7 Crimson Curse Kegs\n\n <sprite="PopupIcons" name="Keg"> 7 Novigrad Kegs\n\n<sprite="PopupIcons" name="Keg"> 7 Iron Judgment Kegs\n\n<sprite="PopupIcons" name="Keg"> 7 Merchants of Ofir Kegs\n\nThis pack allows you to quickly grow your collection and build a mighty deck of your own to charge into battle with.\n
 shop_data_usurper_emperor_skin_desc;Desperate times call for desperate measures. Take matters into your own hands and claim your place on the throne with this imperial skin for Usurper.
@@ -6450,6 +6466,8 @@ shop_data_viper_bundle_desc;<sprite="PopupIcons" name="Avatar"> Serrit Avatar\n\
 shop_data_viper_bundle_title;Viper School Bundle
 shop_data_viper_cardback_2020_desc;<sprite="PopupIcons" name="CardBack">Season of the Viper Cardback\n\nThis cardback was first introduced as an unlockable item during the Season of the Viper in the Year of the Wererat.
 shop_data_viper_cardback_2020_title;Viper Cardback (2020)
+shop_data_viziman_champion_bundle_desc;<sprite="PopupIcons" name="Avatar"> Reveler Avatar\n\n<sprite="PopupIcons" name="Border"> Ale Border\n\n<sprite="PopupIcons" name="Title"> "Viziman Champion" Title\n\nGet this refreshing *hic* bundle from the heart of Temeria and join the *hic* merriment!
+shop_data_viziman_champion_bundle_title;Viziman Champion Bundle
 shop_data_winter_board_desc;<sprite="PopupIcons" name="Board">Winter Board\n\nDo you wanna bu... dressed up pigs!? Is it Yule already? \nThis gameboard was first introduced as part of 2019 Yule Event in the Year of the Wild Boar.
 shop_data_winter_board_desc_sale;<sprite="PopupIcons" name="Board">Winter Board\n\nThis gameboard was first introduced as part of 2019 Yule Event in the Year of the Wild Boar. It'll be available for -30% off during the Winter Event sale.
 shop_data_winter_bundle_open1_desc;<sprite="PopupIcons" name="Board"> Winter Board\n\n<sprite="PopupIcons" name="CardBack"> Winter Cardback\n\nPurchasing this product helps to support GWENT esports; 30% of proceeds from the pack will directly boost the prize pool for the GWENT Masters, which takes place in December 2021!
@@ -6590,7 +6608,7 @@ shop_schemes_and_order_pack_desc;All warfare is based on deception!\n\nGet 2 new
 shop_schemes_and_order_pack_title;Schemes and Order Pack
 shop_school_of_wolf_bundle_desc;<sprite="PopupIcons" name="Avatar"> Vesemir Avatar\n\n<sprite="PopupIcons" name="Border"> Grand Warg Border\n\n<sprite="PopupIcons" name="Title"> "Doyen" Title\n\nThis bundle contains ornaments first introduced as unlockable items during the Season of the Wolf in the Year of the Wild Boar - along with a new special bonus item!
 shop_school_of_wolf_bundle_title;School of the Wolf Bundle
-shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar"> She-bear Avatar\n\n<sprite="PopupIcons" name="Border"> Bear Border\n\n<sprite="PopupIcons" name="Title"> "Ferocious" Title\n\nThis bundle contains ornaments first introduced as unlockable items during the Season of Bear in the Year of the Wild Boar - along with a new special bonus item!
+shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar"> She-Bear Avatar\n\n<sprite="PopupIcons" name="Border"> Bear Border\n\n<sprite="PopupIcons" name="Title"> "Ferocious" Title\n\nThis bundle contains ornaments first introduced as unlockable items during the Season of Bear in the Year of the Wild Boar.
 shop_season_bear_bundle_title;Ferocious Bundle
 shop_shupe_antlers_bundle_desc;<sprite="PopupIcons" name="Skin">Shupe Base Skin (All factions)\n\n<sprite="PopupIcons" name="Trinket">Festive Antlers\n\n<sprite="PopupIcons" name="Title"> "Festive Troll" title\n\nBESTEST tidings SHUPE bring's to you and your kin\nSHUPE wish you a happy holidays
 shop_shupe_antlers_bundle_title;Festive Antlers Bundle
@@ -6606,7 +6624,7 @@ shop_shupe_christmas_desc;<sprite="PopupIcons" name="Trinket">Bag with Presents 
 shop_shupe_christmas_title;Bag with Presents
 shop_shupe_leafhat_bundle_desc;<sprite="PopupIcons" name="Skin">Shupe Base Skin (All factions)\n\n<sprite="PopupIcons" name="Trinket">Four-Leaf Hat \n\nSHUPE feels lucky, SMASHING LUCKY.
 shop_shupe_leafhat_bundle_title;Shupe's Four-leaf Bundle
-shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> Four-Leaf Hat \n\nGet lucky with this offer.\n\nThis is a game of skill, not luck. But a little luck won't hurt!\nNote: This item is also available as part of the Four-leaf's Bundle offer.
+shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> Four-Leaf Hat \n\nGet lucky with this offer.\n\nThis is a game of skill, not luck. But a little luck won't hurt!
 shop_shupe_leafhat_trinket_title;Shupe's Four-leaf Trinket
 shop_shupe_love_armour_desc;<sprite="PopupIcons" name="Trinket"> Shupe's Armour of Love\n\nDon this Armour of Love and see that no foe withstands your presence!
 shop_shupe_love_armour_title;Shupe's Armour of Love
@@ -6728,6 +6746,10 @@ status_owned;Owned
 switch_app_exec_failed_message;Failed to switch to Thronebreaker.
 switch_app_popup_desc;This will close Gwent and launch Thronebreaker.
 switch_app_popup_title;Switch to Thronebreaker
+switch_to_appstore_button_title;Switch to App Store
+switch_to_general_button_title;Open in Browser
+switch_to_googleplay_button_title;Switch to Google Play
+switch_to_steam_button_title;Open in Steam
 syn_fluff_description;Some fight for honor, others for empire. Some fight for king, others for freedom. The members of the Syndicate fight for but one purpose – wealth. If you've the means to afford their services, they will perform whatever deed you require... No matter how heinous. In the criminal underworld, it is through crime you build your reputation and fill your purse. While the city's economy thrives on the Novigradian Crown, its underbelly revolves around coin of a different sort. When exchanged as payment, an inviolable pact has been sealed. And those foolish enough to break it shall be hunted down and forced to pay a far greater price.
 syn_fluff_title;Syndicate
 syndicate_preset_deck_name;Syndicate Starter Deck
@@ -6915,6 +6937,7 @@ tracked_event_damage_with_bleeding_x_times;Damage with Bleeding {0} times
 tracked_event_damage_with_detlaff_x_times;Deal damage using Dettlaff's ability <strong>{0}</strong> times.
 tracked_event_damage_with_frost_x_times;Damage with Frost {0} times
 tracked_event_destroy_footmen_with_lonely_champion;Destroy {0} Flaming Rose Footmen with Lonely Champion
+tracked_event_destroy_x_units;Destroy {0} units
 tracked_event_diveristy_x_times;Ignore.
 tracked_event_draw_cards_with_calnthe_x_times;Draw a card using Calanthe's ability <strong>{0}</strong> times.
 tracked_event_exposed_x_times;Trigger Expose {0} times
@@ -7232,7 +7255,7 @@ ui_cardback_group_11_title;Lunar Year Events
 ui_cardback_group_12_title;Love Events
 ui_cardback_group_13_title;Year of Wererat
 ui_cardback_group_14_title;Geralt's Journey
-ui_cardback_group_15_title;GWENT Masters
+ui_cardback_group_15_title;World Masters
 ui_cardback_group_16_title;Master Mirror Expansion
 ui_cardback_group_17_title;Ciri's Journey
 ui_cardback_group_18_title;Saovine Events
@@ -7248,6 +7271,7 @@ ui_cardback_group_27_title;Thanedd Coup
 ui_cardback_group_28_title;Aretuza Journey
 ui_cardback_group_3_title;Wererat Seasons
 ui_cardback_group_30_title;Dandelion's Journey
+ui_cardback_group_31_title;N/A
 ui_cardback_group_4_title;Crimson Curse Expansion
 ui_cardback_group_5_title;Novigrad Expansion
 ui_cardback_group_6_title;Iron Judgment Expansion
@@ -7260,6 +7284,7 @@ ui_coin_group_12_title;Expansion
 ui_coin_group_13_title;Special occasions
 ui_coin_group_14_title;Aretuza Journey
 ui_coin_group_17_title;Dandelion's Journey
+ui_coin_group_18_title;Gwent Masters - Season 4
 ui_coin_group_2_title;Geralt's Journey
 ui_coin_group_3_title;Ciri's Journey
 ui_coin_group_4_title;Cyberpunk 2077
@@ -7282,6 +7307,7 @@ ui_gameboard_group_1_title;Basic
 ui_gameboard_group_10_title;Year of Wererat
 ui_gameboard_group_11_title;Temple of Lilvani
 ui_gameboard_group_12_title;Bridge
+ui_gameboard_group_13_title;NA
 ui_gameboard_group_14_title;Laboratory
 ui_gameboard_group_16_title;Price of Power
 ui_gameboard_group_17_title;Aretuza Journey
@@ -7637,7 +7663,7 @@ vanity_avatar_48130_title;Percival Avatar
 vanity_avatar_48131_title;Winter Queen Avatar
 vanity_avatar_48132_title;Young Vesemir Avatar
 vanity_avatar_48133_title;Vespula Avatar
-vanity_avatar_48136_title;Reveler avatar
+vanity_avatar_48136_title;Reveler Avatar
 vanity_avatar_48137_title;Animated Igni Avatar
 vanity_avatar_48138_title;Animated Yrden Avatar
 vanity_avatar_48139_title;Animated Quen Avatar
@@ -8031,7 +8057,7 @@ vanity_border_38060_title;Percival Border
 vanity_border_38061_title;Frozen Throne Border
 vanity_border_38062_title;School Grounds Border
 vanity_border_38063_title;Vespula Border
-vanity_border_38064_title;Ale border
+vanity_border_38064_title;Ale Border
 vanity_border_38065_title;Place of Power Igni Border
 vanity_border_38066_title;Place of Power Yrden Border
 vanity_border_38067_title;Place of Power Quen Border
@@ -8223,7 +8249,7 @@ vanity_cardback_60035_title;Leshen Cardback
 vanity_cardback_60036_title;Witcher Signs Cardback
 vanity_cardback_60037_title;Rat King Cardback
 vanity_cardback_60040_title;Season of the Bear Cardback
-vanity_cardback_60049_title;World Masters Season 1
+vanity_cardback_60049_title;Season 1 Cardback
 vanity_cardback_60050_title;Season of the Elves Cardback
 vanity_cardback_60051_title;Season of the Viper Cardback
 vanity_cardback_60052_title;Season of Magic Cardback
@@ -8246,7 +8272,7 @@ vanity_cardback_60072_title;Gene Modification Cardback
 vanity_cardback_60073_title;Sphinx Altar Cardback
 vanity_cardback_60074_title;Alchemy Cardback
 vanity_cardback_60075_title;Yaruga Bridge Siege Cardback
-vanity_cardback_60076_title;World Masters Season 2 Cardback
+vanity_cardback_60076_title;Season 2 Cardback
 vanity_cardback_60077_title;Bruised Vampire Cardback
 vanity_cardback_60078_title;Ghost Dwarf Cardback
 vanity_cardback_60079_title;Sun and Moon Cardback
@@ -8276,7 +8302,7 @@ vanity_cardback_60103_title;Spring Cardback
 vanity_cardback_60104_title;Summer Cardback
 vanity_cardback_60105_title;Autumn Cardback
 vanity_cardback_60105_tittle;Autumn Cardback
-vanity_cardback_60106_title;World Masters Season 3
+vanity_cardback_60106_title;Season 3 Cardback
 vanity_cardback_60107_title;Celebratory Cardback
 vanity_cardback_60108_title;Brokilon Cardback
 vanity_cardback_60109_title;Foltest's Advisor Cardback
@@ -8301,12 +8327,16 @@ vanity_cardback_60128_title;Regis and Geralt Cardback
 vanity_cardback_60129_title;Emiel Regis Cardback
 vanity_cardback_60130_title;Regis the Vampire Cardback
 vanity_cardback_60132_title;Knitting Shupe Cardback
-vanity_cardback_60133_title;Knitting Shupe Cardback
+vanity_cardback_60133_title;Cardback
+vanity_cardback_60134_title;NA
+vanity_cardback_60135_title;NA
+vanity_cardback_60136_title;NA
 vanity_cardback_60137_title;Tiger Cardback
 vanity_cardback_60138_title;Dandelion & Dijkstra Cardback
 vanity_cardback_60139_title;Dandelion & Geralt Cardback
 vanity_cardback_60140_title;Succubus Party Cardback
 vanity_cardback_60141_title;Creative inspiration Cardback
+vanity_cardback_60144_title;Times of the Day Cardback
 vanity_cardback_61001_title;Monsters Cardback
 vanity_cardback_61002_title;Nilfgaard Cardback
 vanity_cardback_61003_title;Northern Realms Cardback
@@ -8372,6 +8402,7 @@ vanity_coin_70054_title;Lute Coin
 vanity_coin_70055_title;Poetry Coin
 vanity_coin_70056_title;Bard's Hat Coin
 vanity_coin_70057_title;Perfume Flask Coin
+vanity_coin_70058_title;Day Coin
 vanity_deck_mon;Monsters Deck
 vanity_deck_nil;Nilfgaard Deck
 vanity_deck_nor;Northern Realms Deck
@@ -8406,6 +8437,7 @@ vanity_gameboard_50033_title;Twisted World Board
 vanity_gameboard_50034_title;Forgotten Board
 vanity_gameboard_50035_title;Demavend's Pride Board
 vanity_gameboard_50036_title;Dandelion Meadow Board
+vanity_gameboard_50037_title;NA
 vanity_gameboard_50038_title;of Alzur
 vanity_gameboard_50039_title;Winter Board
 vanity_gameboard_50040_title;Spring Board
@@ -8423,7 +8455,8 @@ vanity_gameboard_50051_title;Perfect Necromancy Classroom Board
 vanity_gameboard_50052_title;Great Oak Board
 vanity_gameboard_50053_title;Saovine Board
 vanity_gameboard_50054_title;Yule Board
-vanity_gameboard_50057_title;Festival of Love Gameboard
+vanity_gameboard_50057_title;Festival of Love Board
+vanity_gameboard_50058_title;In The Daylight Board
 vanity_gameboard_default_title;Default Faction Board
 vanity_h01_border_description;Reward for completing Mahakam Ale Festival Challenges in Expert Mode.
 vanity_h01_border_title;Accomplished Drinker Border
@@ -9484,6 +9517,9 @@ vanity_title_28244_title;True Artist
 vanity_title_28245_title;The Best Bard
 vanity_title_28246_title;Delicate Flower
 vanity_title_28247_title;Musician
+vanity_title_28248_title;NA
+vanity_title_28249_title;Early Bird
+vanity_title_28250_title;Night Owl
 vanity_title_28251_title;Goon
 vanity_title_30180;Copperhead
 vanity_title_30180_description;Reward for attaining Rank 10 in Ranked Play, Season of the Viper (May).

@@ -1383,6 +1383,8 @@ achievement_80147_desc;「エクストラオーディナリー」予約パック
 achievement_80147_title;類まれなる支援者
 achievement_80148_desc;「ウィッチャーの流儀」セットオファーを購入する。
 achievement_80148_title;早期設立者
+achievement_80149_desc;NA
+achievement_80149_title;NA
 achievement_90000_desc;次の依頼を完了する：
 achievement_90000_title;謎の生物
 achievement_90001_desc;「ローチのマスコット」を装備して{0}試合プレイする。
@@ -1927,6 +1929,10 @@ achievement_complete_x_aretuza_quests;アレトゥーザのジャーニークエ
 achievement_complete_x_regis_quests;レジスのジャーニークエストを{0}回完了する。
 achievement_geralt_winter_event;スキン「ゲラルト」を装備して{0}試合勝利する
 achievement_help_x_crones;サオヴィンの休日中に{0}人の妖婆に協力して村人への贈り物を準備する。
+achievement_play_dandelion_first_set_desc;ダンディリオンの「おしゃれなショール」か「エレガントな衣服」を装備して{0}試合プレイする。
+achievement_play_dandelion_fourth_set_desc;「ダンディリオンの旅」の音楽を装備して{0}試合プレイする。
+achievement_play_dandelion_second_set_desc;ダンディリオンの「ボタン付きのシャツ」か「旅する吟遊詩人のコート」を装備して{0}試合プレイする。
+achievement_play_dandelion_third_set_desc;ダンディリオンの「赤いバラのブーケ」か「コンサートのオーラ」を装備して{0}試合プレイする。
 achievement_play_vampires_x_matches;{0}試合で吸血鬼をプレイする
 achievement_play_x_games_with_aretuza_music;「アレトゥーザの旅」の音楽を装備して{0}試合プレイする。
 achievement_play_x_games_with_cave;「ボード：サネッド島の洞窟」で{0}試合プレイする。
@@ -3038,6 +3044,7 @@ filter_region_af;アフリカ
 filter_region_as;アジア
 filter_region_eu;欧州
 filter_region_global;全世界
+filter_region_global_in_gaea;N/A
 filter_region_na;北米
 filter_region_oc;豪州・オセアニア
 filter_region_sa;南米
@@ -6099,6 +6106,7 @@ shop_data_category_avatars_title;アバター
 shop_data_category_boards_title;ゲームボード
 shop_data_category_borders_title;フレーム
 shop_data_category_bundles_title;バンドル
+shop_data_category_campaigns_title;NA
 shop_data_category_card_backs_title;カード裏面
 shop_data_category_kegs_title;カードタル
 shop_data_category_leader_skins_title;リーダースキン
@@ -6120,6 +6128,8 @@ shop_data_commanders_bundle_desc;<sprite="PopupIcons" name="Skin"> スキン：�
 shop_data_commanders_bundle_title;指揮官バンドル
 shop_data_crimson_curse_pre_pack_desc;紅き月の夜、来たれり！ このパックは2019年3月28日に拡張セット「紅き血の呪縛」がリリースされると開封可能になります。以下のアイテムが含まれます。\n\n    <sprite="PopupIcons" name="CCKeg"> タル・紅き血の呪縛x40\n\n    <sprite="PopupIcons" name="Skin"> 見えざる者用「ブラッドアーマー」\n\n    <sprite="PopupIcons" name="CardBack"> カードバック：紅き血の呪縛（アニメーション付き）
 shop_data_crimson_curse_pre_pack_title;「紅き血の呪縛」予約パック
+shop_data_day_bundle_desc;<sprite="PopupIcons" name="Coin"> コイン：昼\n\n<sprite="PopupIcons" name="Board"> ボード：日差しの中\n\nこのパックを購入することでグウェントのeスポーツを支援できます。購入金額の50%がそのまま、2022年4月に開催予定のGWENT Open 1の賞金に充てられます！
+shop_data_day_bundle_title;昼バンドル（GWENT OPEN 1）
 shop_data_discount_promo_desc;値引き中！
 shop_data_draconid_bundle_desc;<sprite="PopupIcons" name="Avatar"> アバター：サスキア\n\n<sprite="PopupIcons" name="Border"> フレーム：グレート・ワーム\n\n<sprite="PopupIcons" name="Title"> 称号：ドラゴンスレイヤー\n\nこのバンドルには、元々イノシシ年のシーズン・ドラコニド中に解除可能だったアイテムと、ボーナスアイテム1つが含まれています！
 shop_data_draconid_bundle_title;ドラコニドバンドル
@@ -6349,6 +6359,10 @@ shop_data_northern_keg_desc;このタルには5枚の全セット「北方諸国
 shop_data_northern_keg_title;タル・北方諸国
 shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">タル・北方諸国x5\n\n<sprite="PopupIcons" name="Card">カード：ヴィラサス：王子\n\n<sprite="PopupIcons" name="Border">フレーム：北方諸国\n\n新規プレイヤーにおススメ！ 北方諸国勢力のカードのみを排出するタルx5と、北方諸国勢力のゴールドカード、専用フレームのセットで、お気に入り勢力のコレクションを拡充しよう。
 shop_data_now_available_ promo_desc;販売中！
+shop_data_origins_desc;NA
+shop_data_origins_title;NA
+shop_data_originsdeluxe_desc;NA
+shop_data_originsdeluxe_title;NA
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin"> スキン：バッタ\n\n<sprite="PopupIcons" name="Board"> ボード：忘れられしもの\n\n自然が猛威を振るう姿は、なぜこうも美しいのか？\n\nワーラット年の期間中にGWENT Open 2をサポートするために導入されたバンドル。
 shop_data_overgrown_bundle_title;オーバーグローンバンドル（GWENT Open 2）
 shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> フレーム：パシフローラの王者\n\n<sprite="PopupIcons" name="Avatar"> アバター：アムリン\n\n<sprite="PopupIcons" name="Avatar"> アバター：ナルシッサ\n\n<sprite="PopupIcons" name="Avatar"> アバター：ヴィオラ\n\n<sprite="PopupIcons" name="Title"> 称号：パシフローラの王者\n\n「パシフローラ」バンドルでノヴィグラドのパシフローラが提供する最高のサービスを味わおう！
@@ -6442,6 +6456,8 @@ shop_data_thronebreaker_desc;『奪われし玉座』は「ウィッチャー」
 shop_data_thronebreaker_title;奪われし玉座
 shop_data_tiger_bundle_desc;<sprite="PopupIcons" name="Board"> ボード：虎\n\n<sprite="PopupIcons" name="CardBack"> カードバック：虎\n\n並ぶことなき凶暴性と気高さで戦場を席巻しましょう！
 shop_data_tiger_bundle_title;虎バンドル
+shop_data_time_of_day_bundle_desc;<sprite="PopupIcons" name="CardBack"> カードバック：時の移ろい\n\n<sprite="PopupIcons" name="Title"> 称号：早起き\n\n<sprite="PopupIcons" name="Title"> 称号：夜更かし\n\nこのバンドルを購入することでグウェントのeスポーツを支援できます。購入金額の50%がそのまま、2022年12月に開催予定のGWENT Mastersの賞金に充てられます！
+shop_data_time_of_day_bundle_title;時の移ろいバンドル
 shop_data_ultimate_premium_keg_title;極・プレミアムタル
 shop_data_ultimate_starter_pack_desc;<sprite="PopupIcons" name="Keg">極・タルx7\n\n<sprite="PopupIcons" name="Keg">タル・紅き血の呪縛x7\n\n<sprite="PopupIcons" name="Keg">タル・ノヴィグラドx7\n\n<sprite="PopupIcons" name="Keg">タル・鉄の裁定x7\n\n<sprite="PopupIcons" name="Keg">タル・オフィルの商人x7\n\nこのパックを使えば、あっという間にコレクションを増やすことができます。あなたならではの強力なデッキを構築し、戦場へと飛び込みましょう。\n
 shop_data_usurper_emperor_skin_desc;絶望的な状況では、絶望的な手段を講じるほかありません。帝国の〈簒奪者〉のスキンと共に、自らの手で玉座へと昇りつめましょう。
@@ -6450,6 +6466,8 @@ shop_data_viper_bundle_desc;<sprite="PopupIcons" name="Avatar"> アバター：�
 shop_data_viper_bundle_title;蛇流派バンドル
 shop_data_viper_cardback_2020_desc;<sprite="PopupIcons" name="CardBack">カードバック：シーズン・ヴァイパー\n\nこのカードバックは元々、ワーラット年のシーズン・ヴァイパー中に解除可能なアイテムとして登場しました。
 shop_data_viper_cardback_2020_title;カードバック：ヴァイパー（2020）
+shop_data_viziman_champion_bundle_desc;<sprite="PopupIcons" name="Avatar"> アバター：大酒飲み\n\n<sprite="PopupIcons" name="Border"> フレーム：エール\n\n<sprite="PopupIcons" name="Title"> 称号：ヴィジマ・チャンピオン\n\nテメリアから直送するこの新鮮なバンドルで、陽気な輩たちの仲間に加わろう！
+shop_data_viziman_champion_bundle_title;ヴィジマ・チャンピオンバンドル
 shop_data_winter_board_desc;<sprite="PopupIcons" name="Board"> ボード：冬\n\n着飾った… ブタに興味はありますか！？\nこのボードは元々、イノシシ年の2019年のユールイベントの一環として登場しました。
 shop_data_winter_board_desc_sale;<sprite="PopupIcons" name="Board"> ボード：冬\n\nこのボードは元々、イノシシ年の2019年のユールイベントの一環として登場しました。ウィンターイベントの期間中、30%オフでお求めいただけます。
 shop_data_winter_bundle_open1_desc;<sprite="PopupIcons" name="Board"> ボード：冬\n\n<sprite="PopupIcons" name="CardBack"> カードバック：冬\n\nこのバンドルを購入することでグウェントのeスポーツを支援できます。購入金額の30%がそのまま、2021年12月に開催予定のGWENT Mastersの賞金に充てられます！
@@ -6590,7 +6608,7 @@ shop_schemes_and_order_pack_desc;全ての戦争は騙し合いだ！\n\nニル�
 shop_schemes_and_order_pack_title;「策謀と秩序」パック
 shop_school_of_wolf_bundle_desc;<sprite="PopupIcons" name="Avatar"> アバター：ヴェセミル\n\n<sprite="PopupIcons" name="Border"> フレーム：グランド・ワーグ\n\n<sprite="PopupIcons" name="Title"> 称号：古参者\n\nこのバンドルには、元々イノシシ年のシーズン・ウルフ中に解除可能だったアイテムと、新登場のボーナスアイテム1つが含まれています！
 shop_school_of_wolf_bundle_title;狼流派バンドル
-shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar"> アバター：雌熊\n\n<sprite="PopupIcons" name="Border"> フレーム：熊\n\n<sprite="PopupIcons" name="Title"> 称号「猛獣」\n\nこのバンドルには、元々イノシシ年のシーズン・ベア中に解除可能だったアイテムと、新登場のボーナスアイテム1つが含まれています！
+shop_season_bear_bundle_desc;<sprite="PopupIcons" name="Avatar"> アバター：雌熊\n\n<sprite="PopupIcons" name="Border"> フレーム：熊\n\n<sprite="PopupIcons" name="Title"> 称号：猛獣\n\nこのバンドルには、元々イノシシ年のシーズン・ベア中に解除可能だったアイテムが含まれています！
 shop_season_bear_bundle_title;猛獣バンドル
 shop_shupe_antlers_bundle_desc;<sprite="PopupIcons" name="Skin"> スキン：ショープ（全勢力）\n\n<sprite="PopupIcons" name="Trinket"> 祭日の枝角\n\n<sprite="PopupIcons" name="Title"> 称号：祭日のトロール\n\nショープが用意したとっておきのプレゼント\nショープからホリデーシーズンのお祝いをお届けします
 shop_shupe_antlers_bundle_title;祭日の枝角バンドル
@@ -6606,7 +6624,7 @@ shop_shupe_christmas_desc;<sprite="PopupIcons" name="Trinket"> プレゼント�
 shop_shupe_christmas_title;プレゼントの袋
 shop_shupe_leafhat_bundle_desc;<sprite="PopupIcons" name="Skin">スキン：ショープ（基本）（全勢力）\n\n<sprite="PopupIcons" name="Trinket">四つ葉の帽子\n\nショープが幸運にウキウキしています。
 shop_shupe_leafhat_bundle_title;ショープの四つ葉バンドル
-shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> 四つ葉の帽子\n\nこのオファーで幸運を掴みましょう。\n\nグウェントは運ではなく技術で勝負するゲーム。とはいえ、少しばかりの幸運も役に立つでしょう！\n注：このアイテムは四つ葉バンドルのオファーからも入手可能です。
+shop_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> 四つ葉の帽子\n\nこのオファーで幸運を掴みましょう。\n\nグウェントは運ではなく技術で勝負するゲーム。とはいえ、少しばかりの幸運も役に立つでしょう！
 shop_shupe_leafhat_trinket_title;アクセサリ：ショープの四つ葉
 shop_shupe_love_armour_desc;<sprite="PopupIcons" name="Trinket"> ショープの愛の鎧\n\nこの愛の鎧を身に着け、誰も自分に敵わないことを示そう！
 shop_shupe_love_armour_title;ショープの愛の鎧
@@ -6728,6 +6746,10 @@ status_owned;所持
 switch_app_exec_failed_message;『奪われし玉座』への切替に失敗しました。
 switch_app_popup_desc;グウェントを終了し『奪われし玉座』を起動します。
 switch_app_popup_title;『奪われし玉座』に切替
+switch_to_appstore_button_title;App Storeに変更
+switch_to_general_button_title;ブラウザで開く
+switch_to_googleplay_button_title;Google Playに変更
+switch_to_steam_button_title;Steamで開く
 syn_fluff_description;名誉、忠義、自由… 人々が戦う理由はさまざまだ。だがシンジケートの構成員が血を流す目的はただ一つ… “富”である。彼らはカネが手に入る限り、どんな汚い仕事だってやってのける。裏社会で富や名声を手に入れるには、犯罪に手を染めるしかない。シンジケートでは、ノヴィグラド表社会の通貨であるクラウンとは異なるコインが用いられる。代価として支払われると、それは決して破ることのできない誓約を交わしたことを意味する。もし破ろうものなら、究極の形で代償を支払うことになるぞ。
 syn_fluff_title;シンジケート
 syndicate_preset_deck_name;“シンジケート”スターターデッキ
@@ -6915,6 +6937,7 @@ tracked_event_damage_with_bleeding_x_times;出血で{0}回ダメージを与え�
 tracked_event_damage_with_detlaff_x_times;「デトラフ」のアビリティで<strong>{0}</strong>回ダメージを与える。
 tracked_event_damage_with_frost_x_times;霜で{0}回ダメージを与える
 tracked_event_destroy_footmen_with_lonely_champion;《孤独な王者》で《炎の薔薇の歩兵》を{0}体破壊する
+tracked_event_destroy_x_units;ユニットを{0}回破壊する
 tracked_event_diveristy_x_times;Ignore.
 tracked_event_draw_cards_with_calnthe_x_times;「キャランセ」のアビリティでカード1枚を<strong>{0}</strong>回引く。
 tracked_event_exposed_x_times;無防備アビリティを{0}回実行する。
@@ -7232,7 +7255,7 @@ ui_cardback_group_11_title;旧正月イベント
 ui_cardback_group_12_title;愛のイベント
 ui_cardback_group_13_title;ワーラット年
 ui_cardback_group_14_title;ゲラルトの旅
-ui_cardback_group_15_title;GWENT Masters
+ui_cardback_group_15_title;World Masters
 ui_cardback_group_16_title;拡張セット「鏡の達人」
 ui_cardback_group_17_title;シリの旅
 ui_cardback_group_18_title;サオヴィンイベント
@@ -7248,6 +7271,7 @@ ui_cardback_group_27_title;サネッド島の叛乱
 ui_cardback_group_28_title;アレトゥーザの旅
 ui_cardback_group_3_title;ワーラットシーズン
 ui_cardback_group_30_title;ダンディリオンの旅
+ui_cardback_group_31_title;N/A
 ui_cardback_group_4_title;拡張セット「紅き血の呪縛」
 ui_cardback_group_5_title;拡張セット「ノヴィグラド」
 ui_cardback_group_6_title;拡張セット「鉄の裁定」
@@ -7260,6 +7284,7 @@ ui_coin_group_12_title;拡張セット
 ui_coin_group_13_title;特別な日
 ui_coin_group_14_title;アレトゥーザの旅
 ui_coin_group_17_title;ダンディリオンの旅
+ui_coin_group_18_title;GWENT Masters - シーズン4
 ui_coin_group_2_title;ゲラルトの旅
 ui_coin_group_3_title;シリの旅
 ui_coin_group_4_title;サイバーパンク2077
@@ -7282,6 +7307,7 @@ ui_gameboard_group_1_title;基本
 ui_gameboard_group_10_title;ワーラット年
 ui_gameboard_group_11_title;リルヴァニ神殿
 ui_gameboard_group_12_title;橋
+ui_gameboard_group_13_title;NA
 ui_gameboard_group_14_title;研究室
 ui_gameboard_group_16_title;力の代償
 ui_gameboard_group_17_title;アレトゥーザの旅
@@ -8223,7 +8249,7 @@ vanity_cardback_60035_title;カードバック：レーシェン
 vanity_cardback_60036_title;カードバック：ウィッチャーの印
 vanity_cardback_60037_title;カードバック：鼠の王
 vanity_cardback_60040_title;カードバック：シーズン・ベア
-vanity_cardback_60049_title;World Mastersシーズン1
+vanity_cardback_60049_title;カードバック：シーズン1
 vanity_cardback_60050_title;カードバック：シーズン・エルフ
 vanity_cardback_60051_title;カードバック：シーズン・ヴァイパー
 vanity_cardback_60052_title;カードバック：シーズン・マジック
@@ -8246,7 +8272,7 @@ vanity_cardback_60072_title;カードバック：遺伝子組換
 vanity_cardback_60073_title;カードバック：スフィンクスの祭壇
 vanity_cardback_60074_title;カードバック：錬金術
 vanity_cardback_60075_title;カードバック：ヤルーガ橋の包囲戦
-vanity_cardback_60076_title;カードバック：World Mastersシーズン2
+vanity_cardback_60076_title;カードバック：シーズン2
 vanity_cardback_60077_title;カードバック：傷ついた吸血鬼
 vanity_cardback_60078_title;カードバック：亡霊のドワーフ
 vanity_cardback_60079_title;カードバック：太陽と月
@@ -8276,7 +8302,7 @@ vanity_cardback_60103_title;カードバック：春
 vanity_cardback_60104_title;カードバック：夏
 vanity_cardback_60105_title;カードバック：秋
 vanity_cardback_60105_tittle;カードバック：秋
-vanity_cardback_60106_title;World Mastersシーズン3
+vanity_cardback_60106_title;カードバック：シーズン3
 vanity_cardback_60107_title;カードバック：祝賀
 vanity_cardback_60108_title;カードバック：ブロキロン
 vanity_cardback_60109_title;カードバック：フォルテストの相談役
@@ -8301,12 +8327,16 @@ vanity_cardback_60128_title;カードバック：レジスとゲラルト
 vanity_cardback_60129_title;カードバック：エミエル・レジス
 vanity_cardback_60130_title;カードバック：吸血鬼レジス
 vanity_cardback_60132_title;カードバック：編み物ショープ
-vanity_cardback_60133_title;カードバック：編み物ショープ
+vanity_cardback_60133_title;カードバック
+vanity_cardback_60134_title;NA
+vanity_cardback_60135_title;NA
+vanity_cardback_60136_title;NA
 vanity_cardback_60137_title;カードバック：虎
 vanity_cardback_60138_title;カードバック：ダンディリオンとディクストラ
 vanity_cardback_60139_title;カードバック：ダンディリオンとゲラルト
 vanity_cardback_60140_title;カードバック：サキュバスパーティー
 vanity_cardback_60141_title;カードバック：創造力の源泉
+vanity_cardback_60144_title;カードバック：時の移ろい
 vanity_cardback_61001_title;カードバック：モンスター
 vanity_cardback_61002_title;カードバック：ニルフガード
 vanity_cardback_61003_title;カードバック：北方諸国
@@ -8372,6 +8402,7 @@ vanity_coin_70054_title;コイン：リュート
 vanity_coin_70055_title;コイン：詩
 vanity_coin_70056_title;コイン：吟遊詩人の帽子
 vanity_coin_70057_title;コイン：香水のフラスコ
+vanity_coin_70058_title;コイン：昼
 vanity_deck_mon;デッキ：モンスター
 vanity_deck_nil;デッキ：ニルフガード
 vanity_deck_nor;デッキ：北方諸国
@@ -8406,6 +8437,7 @@ vanity_gameboard_50033_title;ボード：捻じれた世界
 vanity_gameboard_50034_title;ボード：忘れられしもの
 vanity_gameboard_50035_title;ボード：デマヴェンドの誇り
 vanity_gameboard_50036_title;ボード：タンポポの平原
+vanity_gameboard_50037_title;NA
 vanity_gameboard_50038_title;アルズール
 vanity_gameboard_50039_title;ボード：冬
 vanity_gameboard_50040_title;ボード：春
@@ -8424,6 +8456,7 @@ vanity_gameboard_50052_title;ボード：巨大オーク樹
 vanity_gameboard_50053_title;ボード：サオヴィン
 vanity_gameboard_50054_title;ボード：ユール
 vanity_gameboard_50057_title;ボード：愛の祭典
+vanity_gameboard_50058_title;ボード：日差しの中
 vanity_gameboard_default_title;デフォルト勢力ボード
 vanity_h01_border_description;マハカム エール祭りのチャレンジを熟練者モードでクリアした
 vanity_h01_border_title;フレーム：大酒呑み
@@ -9484,6 +9517,9 @@ vanity_title_28244_title;真の芸術家
 vanity_title_28245_title;至高の吟遊詩人
 vanity_title_28246_title;繊細な花
 vanity_title_28247_title;音楽家
+vanity_title_28248_title;NA
+vanity_title_28249_title;早起き
+vanity_title_28250_title;夜更かし
 vanity_title_28251_title;ならず者
 vanity_title_30180;マムシ
 vanity_title_30180_description;ランクモードでランク10に到達した（シーズン・ヴァイパー：5月）
